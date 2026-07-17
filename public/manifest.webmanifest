@@ -1,0 +1,26 @@
+{
+  "name": "Curation Jリーグ - 広告ゼロのJ1ニュースまとめ",
+  "short_name": "Curation Jリーグ",
+  "description": "広告ゼロで読める、Jリーグ(J1)全20クラブの最新ニュース・まとめキュレーションサイト",
+  "start_url": "/Curation_Jleague/",
+  "scope": "/Curation_Jleague/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#101012",
+  "theme_color": "#111114",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/Curation_Jleague/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Curation_Jleague/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+---
+import Base from "../../layouts/Base.astro";
+import feeds from "../../data/feeds.json";
+import { withBase } from "../../lib/url";
+---
+
+<Base title="このサイトについて" description="Curation Jリーグの運営方針・データの取得元について説明しています。">
+  <section class="container-page" style="max-width:720px; padding:56px 24px 80px;">
+    <h1 class="font-display font-black m-0" style="font-size:28px; color:var(--text); margin-bottom:20px;">このサイトについて</h1>
+
+    <div class="space-y-8" style="font-size:15px; line-height:1.9; color:var(--text-muted);">
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">コンセプト</h2>
+        <p class="m-0">
+          Curation Jリーグは、Jリーグ(J1)全20クラブの最新ニュースを一箇所にまとめて読める、広告のないキュレーションサイトです。
+          バナー広告や追跡スクリプトを一切使用せず、ニュースを読むことだけに集中できる体験を目指しています。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">ニュースの取得について</h2>
+        <p class="m-0">
+          掲載しているニュースは、以下のサッカー専門メディア・ニュースサイトが配信するRSSフィードから見出しと要約のみを取得し、
+          クラブ名などのキーワードをもとに自動的にクラブ別へ分類しています。記事本文は一切複製しておらず、
+          各項目をクリックすると配信元サイトの元記事に移動します。
+        </p>
+        <ul style="margin-top:12px; padding-left:20px; list-style:disc;">
+          {feeds.map((feed) => (
+            <li>{feed.name}</li>
+          ))}
+        </ul>
+        <p style="margin-top:12px;">
+          ニュースはGitHub Actionsによる定期実行で自動更新されています。分類は自動処理のため、まれに実際の内容と異なるクラブに分類される場合があります。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">著作権について</h2>
+        <p class="m-0">
+          各ニュースの著作権は、それぞれの配信元メディアに帰属します。当サイトは見出し・要約・リンクのみを掲載する
+          キュレーション(リンク集)であり、記事本文を転載するものではありません。掲載内容に関するお問い合わせは、
+          お手数ですが各配信元サイトまでお願いいたします。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">運営方針</h2>
+        <p class="m-0">
+          当サイトは非営利の個人運営プロジェクトであり、広告掲載・アフィリエイト・アクセス解析トラッキングは行っておりません。
+        </p>
+      </div>
+
+      <div>
+        <h2 class="font-bold m-0" style="font-size:16px; color:var(--text); margin-bottom:8px;">便利機能について</h2>
+        <ul style="padding-left:20px; list-style:disc;">
+          <li><strong>サイト内検索</strong> — タイトル・要約・クラブ名からニュースを検索できます(<a class="link-underline" style="color:var(--accent);" href={withBase("/search/")}>検索ページへ</a>)。</li>
+          <li><strong>マイクラブ</strong> — ヘッダーの「★ マイクラブ」で応援クラブを選ぶと、トップページにそのクラブのニュースだけを表示します(端末内保存のみで、サーバーには送信されません)。</li>
+          <li><strong>話題から探す</strong> — 移籍・負傷・契約更改などの話題ごとに、クラブの枠を超えてニュースを横断できます(<a class="link-underline" style="color:var(--accent);" href={withBase("/topic/")}>話題一覧へ</a>)。</li>
+          <li><strong>同一ニュースの統合表示</strong> — 複数メディアが同じ出来事を報じている場合、1件にまとめて出典を併記します。</li>
+          <li><strong>ホーム画面への追加</strong> — スマートフォンのブラウザから「ホーム画面に追加」するとアプリのように起動でき、直近の閲覧内容はオフラインでも表示されます。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</Base>
