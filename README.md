@@ -142,8 +142,6 @@ public/
   「広島」、「横浜F・マリノス」の「横浜」等)がNPB球団の略称と衝突しやすいことが分かっているため、「野球」
   「プロ野球」に加えて「投手」「安打」「本塁打」のような野球特有の統計用語や、NPB球団の本拠地球場名
   (マツダスタジアム等)も個別に追加しています
-- `scripts/fetch-news.mjs` の `AD_MARKERS` で、PR・タイアップ記事を除外するための見出しマーカー(`【PR】`等)を
-  追加・調整できます(広告ゼロ方針のため、該当記事は取得時点で除外しています)
 - `scripts/fetch-news.mjs` の `ENTERTAINMENT_NOISE_KEYWORDS` で、クラブ名にヒットしてもサッカーそのものとは
   無関係な芸能・エンタメ系の記事を除外できます
 - `scripts/fetch-news.mjs` の `isRetiredPlayerBusinessProfile`(`FORMER_PLAYER_SIGNALS` × `EXECUTIVE_CAREER_SIGNALS`)で、
