@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-07-18T05:56:43.432Z",
-  "count": 26,
+  "generatedAt": "2026-07-18T07:38:57.616Z",
+  "count": 28,
   "items": [
+    {
+      "title": "18歳日本人が「ベリンガムと一緒に写ってる」 今夏移籍…強豪クラブの「トップでやってる！」(FOOTBALL ZONE)",
+      "summary": "ドイツ1部ドルトムントMF山本天翔は7月7日にガンバ大阪から同クラブへ期限付き移籍が決定した。U-23のセカンドチームで主にプレーを予定しているとドルトムント側は発表していたなか、現在トップチームに",
+      "link": "https://news.yahoo.co.jp/articles/6ab39dc5e52a6596736f7773cbd91b578260e591?source=rss",
+      "pubDate": "2026-07-18T07:36:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6ab39dc5e52a6596736f7773cbd91b578260e591?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「これ待ってた!」「フロンターレ2024ユニに見える」山形がファンクラブデー限定ユニフォームを着用へ(ゲキサカ)",
+      "summary": "モンテディオ山形は18日、2026-27シーズンのファンクラブデー限定の着用ユニフォームが決定したと発表した。 このファンクラブユニフォームは、先日の決起集会でサプライズ発表。ライトブルーをメイ",
+      "link": "https://news.yahoo.co.jp/articles/3b4d2c86d1e0fec776b295b9979e1333bf2636f1?source=rss",
+      "pubDate": "2026-07-18T07:25:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3b4d2c86d1e0fec776b295b9979e1333bf2636f1?source=rss"
+        }
+      ]
+    },
     {
       "title": "広島で引退した茶島雄介氏のセカンドキャリアが決定「本当に嬉しく思います」(ゲキサカ)",
       "summary": "サンフレッチェ広島は18日、茶島雄介氏(34)が普及部スクールコーディネーターに就任することを発表した。 茶島氏は広島ユースから東京学芸大を経由し、2014年に広島でプロキャリアをスタート。20",
@@ -511,23 +551,21 @@
       ]
     },
     {
-      "title": "川崎F、DFセサル・アイダルがコロンビアクラブに完全移籍「心からの敬意と感謝をお伝えします」",
-      "summary": "川崎フロンターレは10日、アトレティコ・ナシオナル(コロンビア)に期限付き移籍しているDFセサル・アイダルが同クラブに完全移籍することを発表した。 24年途中に川崎Fに加入したアイダルは、J1リーグ通算5試合1得点を記録。25年途中に母国コ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455201-455201-fl",
-      "pubDate": "2026-07-10T04:37:47.000Z",
+      "title": "FC東京、20年以上スタジアムナレーターを務めた英語担当者と日本語担当者が揃って勇退「歴史の一部です」",
+      "summary": "FC東京は10日、ホームゲームでスタジアムナレーターを務めた英語担当者と日本語担当者が揃って百年構想リーグをもって勇退したことを発表した。 英語担当者はは2001年から、日本語担当者は2003年から務めていた。クラブは「これまでクラブとして…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455212-455212-fl",
+      "pubDate": "2026-07-10T06:13:21.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "frontale"
+        "fc-tokyo"
       ],
-      "topics": [
-        "trade"
-      ],
+      "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455201-455201-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455212-455212-fl"
         }
       ]
     }
