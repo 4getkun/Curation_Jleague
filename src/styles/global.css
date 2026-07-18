@@ -22,6 +22,11 @@
  * 罫線は太さごとに3段階(strong 3px実線・mid・weak)を分けている。
  */
 :root {
+  /* select要素のドロップダウンやスクロールバーなど、ブラウザ側が描画する
+     ネイティブUIの配色をテーマに追従させる。これが無いと、.darkでページの
+     配色を変えていても<select>のポップアップ(候補一覧)だけOS標準の白背景の
+     ままになり、ダークモード時に文字が見えなくなる。 */
+  color-scheme: light;
   --page-bg: #f5f3ea;
   --header-bg: rgb(245 243 234 / 92%);
   --card-bg: #ffffff;
@@ -38,6 +43,7 @@
 }
 
 .dark {
+  color-scheme: dark;
   --page-bg: #0e1310;
   --header-bg: rgb(14 19 16 / 90%);
   --card-bg: #161d18;
