@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-07-18T00:51:57.132Z",
-  "count": 18,
+  "generatedAt": "2026-07-18T03:40:08.348Z",
+  "count": 21,
   "items": [
+    {
+      "title": "ダービー馬クロワデュノールの全弟で町田特別快勝のチャリングクロスは日本海Ｓへ／有力馬情報(日刊スポーツ)",
+      "summary": "ダービー馬クロワデュノールの全弟で、6月東京の町田特別を快勝したチャリングクロス（牡3、奥村武）は日本海S（3勝クラス、芝2200メートル、8月30日＝新潟）へ向かう。 同馬は父キタサンブラック",
+      "link": "https://news.yahoo.co.jp/articles/e2661d18c85c35ebe0e2b4637366d327be8945bf?source=rss",
+      "pubDate": "2026-07-18T03:30:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e2661d18c85c35ebe0e2b4637366d327be8945bf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "長友家に贈られた松山産の魚は？ 夫人で女優の平愛梨がインスタで明かす(日刊スポーツ)",
+      "summary": "W杯北中米大会の日本代表DF長友佑都（39＝FC東京）の夫人で女優の平愛梨（41）が、18日までに自身の公式インスタグラムのストーリーズを更新。 「愛媛県松山市ハート（夫の地元）朝とれたての“し",
+      "link": "https://news.yahoo.co.jp/articles/9415e8b3604d8b2020c814f60769c079a17337f9?source=rss",
+      "pubDate": "2026-07-18T03:09:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9415e8b3604d8b2020c814f60769c079a17337f9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1クラブが欧州1部MF獲得に”5.6億円オファー” 要求額は3倍以上で拒否か「期限付き移籍も検討」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/663801",
+      "pubDate": "2026-07-18T02:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/663801"
+        }
+      ]
+    },
     {
       "title": "FC東京が外国人選手を獲得！ セレッソ大阪やサンフレッチェ広島は選手の退団を発表【17日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
       "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月17日に発表された最新の新加入、退団情報などは以下の通り。 【FC東京】 MFニコライ・ヴ",
@@ -347,21 +406,23 @@
       ]
     },
     {
-      "title": "秋田内定MF田中純&栃木C内定FW西村朋倭が特別指定選手に認定",
-      "summary": "日本サッカー協会(JFA)は10日、IPU・環太平洋大MF田中純とAIE国際高FW西村朋倭を「26-27シーズンJFA・Jリーグ特別指定選手」として認定したことを発表した。 田中は6月29日にブラウブリッツ秋田への27年1月からの加入内定、…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455192-455192-fl",
-      "pubDate": "2026-07-10T01:44:08.000Z",
+      "title": "鹿島MF荒木遼太郎がチーム離脱…海外クラブへの移籍を前提とした手続きと準備のため",
+      "summary": "鹿島アントラーズは10日、MF荒木遼太郎が海外クラブへの移籍を前提とした手続きと準備のため、チームを離脱することを発表した。今後は現地でのメディカルチェックなどを経て正式契約を結ぶ予定となり、契約締結後に改めて発表されるという。 2002年…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455197-455197-fl",
+      "pubDate": "2026-07-10T04:16:58.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "antlers"
+      ],
       "topics": [
-        "signing"
+        "trade"
       ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455192-455192-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455197-455197-fl"
         }
       ]
     }
