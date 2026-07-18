@@ -20,7 +20,7 @@ const items = newsForTopic(topic.id);
   title={`#${topic.label}のニュース`}
   description={`J1全20クラブの「${topic.label}」に関する最新ニュースまとめ。広告なしで読めるJリーグキュレーションサイト。`}
 >
-  <section class="container-page" style="padding:32px 0 20px; border-bottom:1px solid var(--rule-mid);">
+  <section class="container-page" style="padding-top:32px; padding-bottom:20px; border-bottom:1px solid var(--rule-mid);">
     <div class="font-kicker" style="font-size:13px; font-weight:500; letter-spacing:3px; color:var(--accent);">
       話題タグ
     </div>
@@ -34,7 +34,7 @@ const items = newsForTopic(topic.id);
     </div>
   </section>
 
-  <section class="container-page" style="padding:20px 0 64px;">
+  <section class="container-page" style="padding-top:20px; padding-bottom:64px;">
     {items.length > 0 ? (
       items.map((item, i) => <NewsRow item={item} variant="full" index={i + 1} />)
     ) : (

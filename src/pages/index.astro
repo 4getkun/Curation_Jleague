@@ -25,7 +25,7 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
       <Hero item={featured} />
     </section>
   ) : (
-    <section class="container-page" style="padding:56px 0;">
+    <section class="container-page" style="padding-top:56px; padding-bottom:56px;">
       <p style="font-size:14px; color:var(--text-muted);">
         まだニュースが取得されていません。GitHub Actions の自動収集ワークフローが実行されると、ここに最新記事が並びます。
       </p>
@@ -35,7 +35,7 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
   <!-- マイクラブ(お気に入りクラブ)の最新ニュース。localStorageに保存された
        クラブがあればクライアントサイドでこの下に描画し、無ければヒントだけ
        表示する。 -->
-  <section id="my-team-section" class="container-page" style="padding:20px 0;">
+  <section id="my-team-section" class="container-page" style="padding-top:20px; padding-bottom:20px;">
     <p id="my-team-hint" style="font-size:13px; color:var(--text-faint); margin:0;">
       ヘッダーの「★ マイクラブ」から応援クラブを選ぶと、ここにそのクラブの最新ニュースだけを表示できます。
       <a href="#clubs" class="link-underline" style="color:var(--accent); font-weight:bold;">クラブを選ぶ →</a>
@@ -52,7 +52,7 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
     </div>
   </section>
 
-  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding:16px 0 56px;">
+  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding-top:16px; padding-bottom:56px;">
     <div>
       <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent);">
         LATEST NEWS / 最新ニュース

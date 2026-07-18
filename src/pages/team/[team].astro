@@ -15,7 +15,6 @@ export function getStaticPaths() {
 
 const { team } = Astro.props;
 const items = newsForTeam(team.id);
-const otherTeams = teams.filter((t) => t.id !== team.id);
 const latestPubDate = items[0]?.pubDate ?? null;
 const PAGE_SIZE = 10;
 ---
@@ -23,7 +22,7 @@ const PAGE_SIZE = 10;
 <Base title={`${team.name}のニュース`} description={`${team.name}(${team.short})の最新ニュースまとめ。広告なしで読めるJリーグキュレーションサイト。`}>
   <div style={`height:10px; background-color:${team.color};`}></div>
 
-  <section class="container-page" style="padding:32px 0 20px; border-bottom:1px solid var(--rule-mid);">
+  <section class="container-page" style="padding-top:32px; padding-bottom:20px; border-bottom:1px solid var(--rule-mid);">
     <div class="flex items-end justify-between flex-wrap" style="gap:16px;">
       <div>
         <div class="font-kicker" style={`font-size:13px; font-weight:500; letter-spacing:3px; color:${team.color};`}>{team.en}</div>
@@ -46,7 +45,7 @@ const PAGE_SIZE = 10;
     </div>
   </section>
 
-  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding:32px 0 64px;">
+  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding-top:32px; padding-bottom:64px;">
     <div>
       <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent);">
         CLUB NEWS / このクラブのニュース
@@ -71,11 +70,11 @@ const PAGE_SIZE = 10;
 
     <aside>
       <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin-bottom:14px;">
-        OTHER CLUBS / 他のクラブ
+        CLUBS / クラブ別
       </h2>
       <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:8px;">
-        {otherTeams.map((t) => (
-          <TeamLinkRow team={t} />
+        {teams.map((t) => (
+          <TeamLinkRow team={t} active={t.id === team.id} />
         ))}
       </div>
       <a

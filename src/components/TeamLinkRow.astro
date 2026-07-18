@@ -1,19 +1,35 @@
 ---
 import type { Team } from "../lib/teams";
+import { textOnTeamColor } from "../lib/teams";
 import { withBase } from "../lib/url";
 
 interface Props {
   team: Team;
+  active?: boolean;
 }
 
-const { team } = Astro.props;
+const { team, active = false } = Astro.props;
+const style = active
+  ? `background-color:${team.color}; border:1px solid ${team.color}; border-top:3px solid ${team.color}; color:${textOnTeamColor(team.color)};`
+  : `background-color:var(--card-bg); border:1px solid var(--border); border-top:3px solid ${team.color}; color:var(--text);`;
 ---
 
-<a
-  href={withBase(`/team/${team.id}/`)}
-  class="flex items-center no-underline"
-  style={`gap:9px; background-color:var(--card-bg); border:1px solid var(--border); border-top:3px solid ${team.color}; padding:12px 14px; color:var(--text);`}
->
-  <span class="flex-1 font-medium" style="font-size:14px;">{team.name}</span>
-  <span style="color:var(--text-faint);">→</span>
-</a>
+{active ? (
+  <div
+    class="flex items-center"
+    style={`gap:9px; padding:12px 14px; ${style}`}
+    aria-current="page"
+  >
+    <span class="flex-1 font-bold" style="font-size:14px;">{team.name}</span>
+    <span style={`color:${textOnTeamColor(team.color)}; font-size:12px;`}>閲覧中</span>
+  </div>
+) : (
+  <a
+    href={withBase(`/team/${team.id}/`)}
+    class="flex items-center no-underline"
+    style={`gap:9px; padding:12px 14px; ${style}`}
+  >
+    <span class="flex-1 font-medium" style="font-size:14px;">{team.name}</span>
+    <span style="color:var(--text-faint);">→</span>
+  </a>
+)}

@@ -61,22 +61,18 @@ const navLinks = [
         </select>
       </nav>
 
-      <div class="flex items-center rounded-full overflow-hidden text-[12px]" style="border:1px solid var(--text);">
-        <button
-          type="button"
-          id="theme-toggle-light"
-          aria-label="ライトテーマにする"
-          class="theme-pill-btn"
-          style="padding:4px 11px; border:none; cursor:pointer; background:none; color:var(--text); font-size:13px; line-height:1;"
-        >☀</button>
-        <button
-          type="button"
-          id="theme-toggle-dark"
-          aria-label="ダークテーマにする"
-          class="theme-pill-btn"
-          style="padding:4px 11px; border:none; cursor:pointer; background:none; color:var(--text); font-size:13px; line-height:1;"
-        >☾</button>
-      </div>
+      <button
+        type="button"
+        id="theme-toggle"
+        role="switch"
+        aria-checked="false"
+        aria-label="ダークテーマに切り替え"
+        class="theme-toggle-track"
+      >
+        <span class="theme-toggle-icon theme-toggle-icon-sun" aria-hidden="true">☀</span>
+        <span class="theme-toggle-icon theme-toggle-icon-moon" aria-hidden="true">☾</span>
+        <span class="theme-toggle-thumb" aria-hidden="true"></span>
+      </button>
 
       <button
         id="menu-toggle"
@@ -138,19 +134,46 @@ const navLinks = [
 </header>
 
 <style>
-  /* テーマ切替ピル: アクティブ側だけ塗りつぶす(ライト=☀左側、ダーク=☾右側)。
-     .dark クラスの有無で自動的に見た目が入れ替わる。 */
-  #theme-toggle-light {
-    background-color: var(--text);
-    color: var(--page-bg);
+  /* テーマ切替スイッチ: トラック内にsun/moonアイコンを常時表示し、丸いつまみが
+     ライト時は左(☀側)・ダーク時は右(☾側)にスライドして現在のモードを示す。
+     .dark クラスの有無だけでCSS側が自動的に見た目を切り替える。 */
+  .theme-toggle-track {
+    position: relative;
+    width: 52px;
+    height: 27px;
+    flex-shrink: 0;
+    border-radius: 999px;
+    border: 1px solid var(--text);
+    background: none;
+    cursor: pointer;
+    padding: 0;
   }
-  :global(.dark) #theme-toggle-light {
-    background-color: transparent;
-    color: var(--text);
+  .theme-toggle-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    line-height: 1;
+    color: var(--text-faint);
   }
-  :global(.dark) #theme-toggle-dark {
+  .theme-toggle-icon-sun {
+    left: 6px;
+  }
+  .theme-toggle-icon-moon {
+    right: 6px;
+  }
+  .theme-toggle-thumb {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 21px;
+    height: 21px;
+    border-radius: 999px;
     background-color: var(--text);
-    color: var(--page-bg);
+    transition: transform 0.2s ease;
+  }
+  :global(.dark) .theme-toggle-thumb {
+    transform: translateX(25px);
   }
 </style>
 
@@ -159,9 +182,14 @@ const navLinks = [
     const root = document.documentElement;
     root.classList.toggle("dark", dark);
     localStorage.setItem("jleague-curation-theme", dark ? "dark" : "light");
+    var toggle = document.getElementById("theme-toggle");
+    if (toggle) toggle.setAttribute("aria-checked", dark ? "true" : "false");
   }
-  document.getElementById("theme-toggle-light")?.addEventListener("click", () => setTheme(false));
-  document.getElementById("theme-toggle-dark")?.addEventListener("click", () => setTheme(true));
+  var themeToggle = document.getElementById("theme-toggle");
+  if (themeToggle) {
+    themeToggle.setAttribute("aria-checked", document.documentElement.classList.contains("dark") ? "true" : "false");
+    themeToggle.addEventListener("click", () => setTheme(!document.documentElement.classList.contains("dark")));
+  }
   document.getElementById("menu-toggle")?.addEventListener("click", () => {
     document.getElementById("mobile-menu")?.classList.toggle("hidden");
   });
