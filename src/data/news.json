@@ -1,7 +1,142 @@
 {
-  "generatedAt": "2026-07-18T00:14:25.532Z",
-  "count": 12,
+  "generatedAt": "2026-07-18T00:33:29.298Z",
+  "count": 18,
   "items": [
+    {
+      "title": "FC東京が外国人選手を獲得！ セレッソ大阪やサンフレッチェ広島は選手の退団を発表【17日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月17日に発表された最新の新加入、退団情報などは以下の通り。 【FC東京】 MFニコライ・ヴ",
+      "link": "https://news.yahoo.co.jp/articles/0fd652fb9ed92d0fc1cd978833b76c3a2543bb92?source=rss",
+      "pubDate": "2026-07-18T00:28:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo",
+        "cerezo",
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0fd652fb9ed92d0fc1cd978833b76c3a2543bb92?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/18/post949899/"
+        }
+      ]
+    },
+    {
+      "title": "ジュビロ磐田 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるジュビロ磐田の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/18/post815448/",
+      "pubDate": "2026-07-18T00:25:46.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/18/post815448/"
+        }
+      ]
+    },
+    {
+      "title": "徳島ヴォルティス 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける徳島ヴォルティスの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/18/post815490/",
+      "pubDate": "2026-07-18T00:24:14.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/18/post815490/"
+        }
+      ]
+    },
+    {
+      "title": "サンフレッチェ広島 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるサンフレッチェ広島の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/18/post814803/",
+      "pubDate": "2026-07-18T00:22:35.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/18/post814803/"
+        }
+      ]
+    },
+    {
+      "title": "セレッソ大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるセレッソ大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/18/post814773/",
+      "pubDate": "2026-07-18T00:18:32.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/18/post814773/"
+        }
+      ]
+    },
+    {
+      "title": "FC東京 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるFC東京の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/18/post814071/",
+      "pubDate": "2026-07-18T00:17:43.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/18/post814071/"
+        }
+      ]
+    },
     {
       "title": "番記者が解説～深層 〝シン・Jリーグ〟の監督事情に異変 C大阪＆G大阪の指揮官が電撃退団(サンケイスポーツ)",
       "summary": "各競技で話題のトピックや疑問点に担当記者が切り込む企画「番記者が解説～深層」。今回は8月7日に開幕を迎えるJリーグの監督事情に焦点を当てる。J1のC大阪とG大阪は新シーズンの準備に入る7月に監督が電撃",
@@ -195,6 +330,23 @@
       ]
     },
     {
+      "title": "2024ミス日本の美女がサッカー観戦で人生初の…ファン「そんなことあるんだ」「おいくらまんえん?」",
+      "summary": "タレントの安井南さんが12日に自身のX(@yasaiminami)を更新し、サッカー観戦での珍しい体験を明かした。 安井さんが訪れたのは、同日に川越陸上競技場で開催された関東サッカーリーグ2部第10節・COEDO KAWAGOE F.C対エ…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?455311-455311-fl",
+      "pubDate": "2026-07-12T13:14:43.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?455311-455311-fl"
+        }
+      ]
+    },
+    {
       "title": "秋田内定MF田中純&栃木C内定FW西村朋倭が特別指定選手に認定",
       "summary": "日本サッカー協会(JFA)は10日、IPU・環太平洋大MF田中純とAIE国際高FW西村朋倭を「26-27シーズンJFA・Jリーグ特別指定選手」として認定したことを発表した。 田中は6月29日にブラウブリッツ秋田への27年1月からの加入内定、…",
       "link": "https://web.gekisaka.jp/news/jleague/detail/?455192-455192-fl",
@@ -210,25 +362,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?455192-455192-fl"
-        }
-      ]
-    },
-    {
-      "title": "中田英寿氏が翼くんユニ着用で登場!「困難」「挑戦」など自身の経験を重ねて熱弁",
-      "summary": "元サッカー日本代表の中田英寿氏が2日、都内で行われた「SOMPOグループ新ビジョン&『キャプテン翼』パートナーシップ締結」記者会見に出席し、SOMPOホールディングスの奥村幹夫グループCEO取締役代表執行役社長とキャプテン翼の作者である高橋…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?454795-454795-fl",
-      "pubDate": "2026-07-10T00:16:15.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?454795-454795-fl"
         }
       ]
     }
