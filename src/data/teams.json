@@ -4,45 +4,77 @@
     "row": 1,
     "name": "鹿島アントラーズ",
     "short": "鹿島",
-    "shortKeywords": ["鹿島"],
-    "strongKeywords": ["鹿島アントラーズ", "アントラーズ"],
-    "color": "#8A0021"
+    "shortKeywords": [
+      "鹿島"
+    ],
+    "strongKeywords": [
+      "鹿島アントラーズ",
+      "アントラーズ"
+    ],
+    "color": "#A21F35",
+    "en": "KASHIMA ANTLERS"
   },
   {
     "id": "hollyhock",
     "row": 1,
     "name": "水戸ホーリーホック",
     "short": "水戸",
-    "shortKeywords": ["水戸"],
-    "strongKeywords": ["水戸ホーリーホック", "ホーリーホック"],
-    "color": "#00479D"
+    "shortKeywords": [
+      "水戸"
+    ],
+    "strongKeywords": [
+      "水戸ホーリーホック",
+      "ホーリーホック"
+    ],
+    "color": "#005BAC",
+    "en": "MITO HOLLYHOCK"
   },
   {
     "id": "reds",
     "row": 1,
     "name": "浦和レッズ",
     "short": "浦和",
-    "shortKeywords": ["浦和"],
-    "strongKeywords": ["浦和レッズ", "レッズ"],
-    "color": "#E2001A"
+    "shortKeywords": [
+      "浦和"
+    ],
+    "strongKeywords": [
+      "浦和レッズ",
+      "レッズ"
+    ],
+    "color": "#E60012",
+    "en": "URAWA RED DIAMONDS"
   },
   {
     "id": "reysol",
     "row": 1,
     "name": "柏レイソル",
     "short": "柏",
-    "shortKeywords": ["柏"],
-    "strongKeywords": ["柏レイソル", "レイソル"],
-    "color": "#F7E017"
+    "shortKeywords": [
+      "柏"
+    ],
+    "strongKeywords": [
+      "柏レイソル",
+      "レイソル"
+    ],
+    "color": "#F2C900",
+    "en": "KASHIWA REYSOL"
   },
   {
     "id": "jef-chiba",
     "row": 1,
     "name": "ジェフユナイテッド千葉",
     "short": "ジェフ千葉",
-    "shortKeywords": ["千葉"],
-    "strongKeywords": ["ジェフユナイテッド千葉", "ジェフユナイテッド", "ジェフ千葉", "ジェフ"],
-    "color": "#FFD700"
+    "shortKeywords": [
+      "千葉"
+    ],
+    "strongKeywords": [
+      "ジェフユナイテッド千葉",
+      "ジェフユナイテッド",
+      "ジェフ千葉",
+      "ジェフ"
+    ],
+    "color": "#EDD000",
+    "en": "JEF UNITED CHIBA"
   },
   {
     "id": "fc-tokyo",
@@ -50,8 +82,12 @@
     "name": "ＦＣ東京",
     "short": "FC東京",
     "shortKeywords": [],
-    "strongKeywords": ["FC東京", "ＦＣ東京"],
-    "color": "#1B3082"
+    "strongKeywords": [
+      "FC東京",
+      "ＦＣ東京"
+    ],
+    "color": "#233A6E",
+    "en": "FC TOKYO"
   },
   {
     "id": "verdy",
@@ -59,26 +95,46 @@
     "name": "東京ヴェルディ",
     "short": "東京V",
     "shortKeywords": [],
-    "strongKeywords": ["東京ヴェルディ", "ヴェルディ", "東京V", "東京Ｖ"],
-    "color": "#00A650"
+    "strongKeywords": [
+      "東京ヴェルディ",
+      "ヴェルディ",
+      "東京V",
+      "東京Ｖ"
+    ],
+    "color": "#006931",
+    "en": "TOKYO VERDY"
   },
   {
     "id": "zelvia",
     "row": 2,
     "name": "ＦＣ町田ゼルビア",
     "short": "町田",
-    "shortKeywords": ["町田"],
-    "strongKeywords": ["FC町田ゼルビア", "ＦＣ町田ゼルビア", "町田ゼルビア", "ゼルビア"],
-    "color": "#1D2088"
+    "shortKeywords": [
+      "町田"
+    ],
+    "strongKeywords": [
+      "FC町田ゼルビア",
+      "ＦＣ町田ゼルビア",
+      "町田ゼルビア",
+      "ゼルビア"
+    ],
+    "color": "#173F73",
+    "en": "FC MACHIDA ZELVIA"
   },
   {
     "id": "frontale",
     "row": 2,
     "name": "川崎フロンターレ",
     "short": "川崎F",
-    "shortKeywords": ["川崎"],
-    "strongKeywords": ["川崎フロンターレ", "フロンターレ"],
-    "color": "#0F9ED5"
+    "shortKeywords": [
+      "川崎"
+    ],
+    "strongKeywords": [
+      "川崎フロンターレ",
+      "フロンターレ"
+    ],
+    "color": "#33B4E4",
+    "en": "KAWASAKI FRONTALE"
   },
   {
     "id": "marinos",
@@ -86,35 +142,60 @@
     "name": "横浜Ｆ・マリノス",
     "short": "横浜FM",
     "shortKeywords": [],
-    "strongKeywords": ["横浜F・マリノス", "横浜Ｆ・マリノス", "マリノス", "横浜FM", "横浜ＦＭ"],
-    "color": "#0E3A8C"
+    "strongKeywords": [
+      "横浜F・マリノス",
+      "横浜Ｆ・マリノス",
+      "マリノス",
+      "横浜FM",
+      "横浜ＦＭ"
+    ],
+    "color": "#1A3D8F",
+    "en": "YOKOHAMA F. MARINOS"
   },
   {
     "id": "s-pulse",
     "row": 3,
     "name": "清水エスパルス",
     "short": "清水",
-    "shortKeywords": ["清水"],
-    "strongKeywords": ["清水エスパルス", "エスパルス"],
-    "color": "#F97A00"
+    "shortKeywords": [
+      "清水"
+    ],
+    "strongKeywords": [
+      "清水エスパルス",
+      "エスパルス"
+    ],
+    "color": "#F08300",
+    "en": "SHIMIZU S-PULSE"
   },
   {
     "id": "grampus",
     "row": 3,
     "name": "名古屋グランパス",
     "short": "名古屋",
-    "shortKeywords": ["名古屋"],
-    "strongKeywords": ["名古屋グランパス", "グランパス"],
-    "color": "#E4002B"
+    "shortKeywords": [
+      "名古屋"
+    ],
+    "strongKeywords": [
+      "名古屋グランパス",
+      "グランパス"
+    ],
+    "color": "#D3001F",
+    "en": "NAGOYA GRAMPUS"
   },
   {
     "id": "sanga",
     "row": 3,
     "name": "京都サンガＦ.Ｃ.",
     "short": "京都",
-    "shortKeywords": ["京都"],
-    "strongKeywords": ["京都サンガ", "サンガ"],
-    "color": "#8B1A2E"
+    "shortKeywords": [
+      "京都"
+    ],
+    "strongKeywords": [
+      "京都サンガ",
+      "サンガ"
+    ],
+    "color": "#7A1E7E",
+    "en": "KYOTO SANGA F.C."
   },
   {
     "id": "gamba",
@@ -122,8 +203,14 @@
     "name": "ガンバ大阪",
     "short": "G大阪",
     "shortKeywords": [],
-    "strongKeywords": ["ガンバ大阪", "ガンバ", "G大阪", "Ｇ大阪"],
-    "color": "#0033A0"
+    "strongKeywords": [
+      "ガンバ大阪",
+      "ガンバ",
+      "G大阪",
+      "Ｇ大阪"
+    ],
+    "color": "#002569",
+    "en": "GAMBA OSAKA"
   },
   {
     "id": "cerezo",
@@ -131,52 +218,90 @@
     "name": "セレッソ大阪",
     "short": "C大阪",
     "shortKeywords": [],
-    "strongKeywords": ["セレッソ大阪", "セレッソ", "C大阪", "Ｃ大阪"],
-    "color": "#EE859D"
+    "strongKeywords": [
+      "セレッソ大阪",
+      "セレッソ",
+      "C大阪",
+      "Ｃ大阪"
+    ],
+    "color": "#E5006D",
+    "en": "CEREZO OSAKA"
   },
   {
     "id": "vissel",
     "row": 4,
     "name": "ヴィッセル神戸",
     "short": "神戸",
-    "shortKeywords": ["神戸"],
-    "strongKeywords": ["ヴィッセル神戸", "ヴィッセル"],
-    "color": "#8B0025"
+    "shortKeywords": [
+      "神戸"
+    ],
+    "strongKeywords": [
+      "ヴィッセル神戸",
+      "ヴィッセル"
+    ],
+    "color": "#A01D33",
+    "en": "VISSEL KOBE"
   },
   {
     "id": "fagiano",
     "row": 4,
     "name": "ファジアーノ岡山",
     "short": "岡山",
-    "shortKeywords": ["岡山"],
-    "strongKeywords": ["ファジアーノ岡山", "ファジアーノ"],
-    "color": "#5B2D8E"
+    "shortKeywords": [
+      "岡山"
+    ],
+    "strongKeywords": [
+      "ファジアーノ岡山",
+      "ファジアーノ"
+    ],
+    "color": "#AA0115",
+    "en": "FAGIANO OKAYAMA"
   },
   {
     "id": "sanfrecce",
     "row": 4,
     "name": "サンフレッチェ広島",
     "short": "広島",
-    "shortKeywords": ["広島"],
-    "strongKeywords": ["サンフレッチェ広島", "サンフレッチェ"],
-    "color": "#5C2E8F"
+    "shortKeywords": [
+      "広島"
+    ],
+    "strongKeywords": [
+      "サンフレッチェ広島",
+      "サンフレッチェ"
+    ],
+    "color": "#5F259F",
+    "en": "SANFRECCE HIROSHIMA"
   },
   {
     "id": "avispa",
     "row": 4,
     "name": "アビスパ福岡",
     "short": "福岡",
-    "shortKeywords": ["福岡"],
-    "strongKeywords": ["アビスパ福岡", "アビスパ"],
-    "color": "#002B5C"
+    "shortKeywords": [
+      "福岡"
+    ],
+    "strongKeywords": [
+      "アビスパ福岡",
+      "アビスパ"
+    ],
+    "color": "#002E62",
+    "en": "AVISPA FUKUOKA"
   },
   {
     "id": "v-varen",
     "row": 4,
     "name": "Ｖ・ファーレン長崎",
     "short": "長崎",
-    "shortKeywords": ["長崎"],
-    "strongKeywords": ["Vファーレン長崎", "Ｖ・ファーレン長崎", "ファーレン長崎", "ファーレン"],
-    "color": "#1B3A6B"
+    "shortKeywords": [
+      "長崎"
+    ],
+    "strongKeywords": [
+      "Vファーレン長崎",
+      "Ｖ・ファーレン長崎",
+      "ファーレン長崎",
+      "ファーレン"
+    ],
+    "color": "#F39800",
+    "en": "V-VAREN NAGASAKI"
   }
 ]

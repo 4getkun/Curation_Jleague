@@ -25,8 +25,8 @@ const topicsForClient = topics.map((t) => ({ id: t.id, label: t.label }));
         type="search"
         placeholder="例: 移籍 / 契約更改 / 選手名 など"
         autocomplete="off"
-        class="flex-1"
-        style="font-size:14px; padding:12px 18px; border:1px solid var(--rule-mid); background-color:var(--card-bg); color:var(--text);"
+        class="flex-1 rounded-full border"
+        style="font-size:14px; padding:12px 18px; border-color:var(--border); background-color:var(--card-bg); color:var(--text);"
       />
     </div>
     <p id="search-status" style="font-size:12px; color:var(--text-faint); margin-bottom:24px;">
@@ -86,7 +86,7 @@ const topicsForClient = topics.map((t) => ({ id: t.id, label: t.label }));
 
     function renderItem(item) {
       var team = item.teams && item.teams[0] ? teamsById[item.teams[0]] : null;
-      var teamColor = team ? team.color : "var(--num)";
+      var dotColor = team ? team.color : "var(--text-faint)";
       var teamShort = team ? team.short : "総合";
       var topicTags = (item.topics || [])
         .map(function (id) {
@@ -97,40 +97,40 @@ const topicsForClient = topics.map((t) => ({ id: t.id, label: t.label }));
             base +
             "topic/" +
             t.id +
-            '/" class="no-underline" style="font-size:11px; padding:2px 10px; border:1px solid var(--rule-mid); border-radius:999px; color:var(--text);">#' +
+            '/" class="no-underline rounded-full" style="font-size:10px; padding:2px 9px; background-color:var(--card-bg); border:1px solid var(--border); color:var(--text-muted);">#' +
             escapeHtml(t.label) +
             "</a>"
           );
         })
         .join("");
-      var sourceNote = item.sourceCount > 1 ? "・ほか" + (item.sourceCount - 1) + "社" : "";
+      var sourceNote = item.sourceCount > 1 ? " ・" + item.sourceCount + "媒体が報道" : "";
 
       return (
-        '<article style="padding:20px 0; border-bottom:1px solid var(--rule-weak);">' +
+        '<div class="flex items-start" style="gap:18px; padding:20px 0; border-bottom:1px solid var(--border);">' +
+        '<span class="inline-block shrink-0 rounded-full" style="width:9px; height:9px; background-color:' +
+        dotColor +
+        '; margin-top:8px;"></span>' +
+        '<div class="flex-1 min-w-0">' +
         '<a href="' +
         escapeHtml(item.link) +
         '" target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">' +
-        '<h3 style="font-family:var(--font-display); font-weight:600; line-height:1.7; margin:0; font-size:16px; color:var(--text);">' +
+        '<h3 class="font-bold leading-snug m-0 mb-2" style="font-size:16px; color:var(--text);">' +
         escapeHtml(item.title) +
         "</h3>" +
         (item.summary
-          ? '<p class="m-0 mt-1.5" style="font-size:13px; line-height:1.7; color:var(--text-muted);">' + escapeHtml(item.summary) + "</p>"
+          ? '<p class="m-0 mb-1.5" style="font-size:13px; color:var(--text-muted);">' + escapeHtml(item.summary) + "</p>"
           : "") +
         "</a>" +
-        '<div class="flex flex-wrap items-center" style="gap:8px; font-size:12px; color:var(--text-faint); margin-top:10px;">' +
-        '<span style="display:inline-block; padding-bottom:2px; border-bottom:2px solid ' +
-        teamColor +
-        '; font-weight:700; color:var(--text);">' +
+        '<p class="m-0" style="font-size:12px; color:var(--text-faint);">' +
         escapeHtml(teamShort) +
-        "</span>" +
-        "<span>" +
+        " · " +
         escapeHtml(item.source) +
         " · " +
         formatRelative(item.pubDate) +
         escapeHtml(sourceNote) +
-        "</span></div>" +
-        (topicTags ? '<div class="flex flex-wrap" style="gap:6px; margin-top:10px;">' + topicTags + "</div>" : "") +
-        "</article>"
+        "</p>" +
+        (topicTags ? '<div class="flex flex-wrap" style="gap:6px; margin-top:8px;">' + topicTags + "</div>" : "") +
+        "</div></div>"
       );
     }
 

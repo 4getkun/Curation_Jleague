@@ -5,8 +5,6 @@ export interface Team {
   row: 1 | 2 | 3 | 4;
   name: string;
   short: string;
-  /** 英語表記(欧文キッカー・ヒーロー見出し等のデザイン要素で使用) */
-  en: string;
   shortKeywords: string[];
   strongKeywords: string[];
   color: string;
@@ -30,11 +28,9 @@ export function getTeam(id: string): Team | undefined {
   return teamsById[id];
 }
 
-// 明るいクラブカラー(黄色系など)の上に白文字を乗せると読めなくなるため、
-// バッジ・チップの文字色をカラーごとに出し分ける。デザインハンドオフ
-// (design_handoff_jleague_redesign)で指定されたクラブカラーのうち、
-// 相対輝度が0.55を超えるもの(柏・ジェフ千葉・川崎F・清水・長崎)を対象にしている。
-const LIGHT_TEAM_COLORS = new Set(["#F2C900", "#EDD000", "#33B4E4", "#F08300", "#F39800"]);
+// 明るい球団カラー(黄色系など)の上に白文字を乗せると読めなくなるため、
+// バッジ・チップの文字色をカラーごとに出し分ける。
+const LIGHT_TEAM_COLORS = new Set(["#F7E017", "#FFD700", "#EE859D"]);
 
 export function textOnTeamColor(color: string): string {
   return LIGHT_TEAM_COLORS.has(color) ? "#1b263b" : "#ffffff";

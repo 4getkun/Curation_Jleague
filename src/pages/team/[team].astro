@@ -1,9 +1,9 @@
 ---
 import Base from "../../layouts/Base.astro";
 import NewsRow from "../../components/NewsRow.astro";
-import TeamChipLink from "../../components/TeamChipLink.astro";
-import { teams, needsContrastRing } from "../../lib/teams";
-import { newsForTeam } from "../../lib/news";
+import TeamLinkRow from "../../components/TeamLinkRow.astro";
+import { teams } from "../../lib/teams";
+import { newsForTeam, formatRelativeShort } from "../../lib/news";
 import { withBase } from "../../lib/url";
 
 export function getStaticPaths() {
@@ -15,41 +15,148 @@ export function getStaticPaths() {
 
 const { team } = Astro.props;
 const items = newsForTeam(team.id);
-const ring = needsContrastRing(team.color);
+const otherTeams = teams.filter((t) => t.id !== team.id);
+const latestPubDate = items[0]?.pubDate ?? null;
+const PAGE_SIZE = 10;
 ---
 
 <Base title={`${team.name}のニュース`} description={`${team.name}(${team.short})の最新ニュースまとめ。広告なしで読めるJリーグキュレーションサイト。`}>
-  <section style={`border-top:4px solid ${team.color};${ring ? " box-shadow:0 1px 0 var(--text-faint);" : ""}`}>
-    <div class="container-page" style="padding:40px 24px 20px;">
-      <p class="font-bold m-0" style="font-size:12px; color:var(--text-faint); letter-spacing:0.1em; margin-bottom:8px;">
-        J1リーグ
-      </p>
-      <h1 class="font-display font-black m-0 flex items-center gap-3.5" style="font-size:32px; color:var(--text); margin-bottom:20px;">
-        <span class="inline-block rounded-[4px]" style={`width:16px; height:16px; background-color:${team.color};${ring ? " box-shadow:0 0 0 1px var(--text-faint);" : ""}`}></span>
-        {team.name}
-      </h1>
-      <div class="flex flex-wrap gap-2" style="margin-bottom:8px;">
-        {teams.map((t) => (
-          <TeamChipLink team={t} active={t.id === team.id} />
-        ))}
-        <a
-          href={withBase("/team/general/")}
-          class="no-underline rounded-full border font-bold"
-          style="font-size:12px; padding:7px 14px; background:none; color:var(--text-muted); border-color:var(--border);"
-        >
-          総合
-        </a>
+  <div style={`height:10px; background-color:${team.color};`}></div>
+
+  <section class="container-page" style="padding:32px 0 20px; border-bottom:1px solid var(--rule-mid);">
+    <div class="flex items-end justify-between flex-wrap" style="gap:16px;">
+      <div>
+        <div class="font-kicker" style={`font-size:13px; font-weight:500; letter-spacing:3px; color:${team.color};`}>{team.en}</div>
+        <h1 class="font-display font-black m-0" style="font-size:clamp(28px, 5vw, 46px); margin-top:8px; color:var(--text);">
+          {team.name}
+        </h1>
+        <div style="font-size:13px; color:var(--text-faint); margin-top:10px;">
+          取得記事 {items.length}件
+          {latestPubDate && ` · 最終更新 ${formatRelativeShort(latestPubDate)}`}
+        </div>
       </div>
+      <button
+        type="button"
+        id="register-my-team"
+        data-team-id={team.id}
+        style={`background-color:${team.color}; color:#fff; font-size:14px; font-weight:700; padding:12px 26px; border:none; cursor:pointer;`}
+      >
+        ★ マイクラブに登録
+      </button>
     </div>
   </section>
 
-  <section class="container-page" style="padding:20px 24px 64px;">
-    {items.length > 0 ? (
-      items.map((item) => <NewsRow item={item} variant="full" showTeamLabel={false} forceTeamId={team.id} />)
-    ) : (
-      <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
-        現在、{team.short}に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。
-      </p>
-    )}
+  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding:32px 0 64px;">
+    <div>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent);">
+        CLUB NEWS / このクラブのニュース
+      </h2>
+      {items.length > 0 ? (
+        <>
+          <div id="club-news-list">
+            {items.map((item, i) => (
+              <div class="news-page-item">
+                <NewsRow item={item} variant="full" showTeamLabel={false} forceTeamId={team.id} index={i + 1} />
+              </div>
+            ))}
+          </div>
+          <div id="pagination" class="hidden flex justify-center items-center" style="gap:20px; margin-top:32px; font-size:14px;"></div>
+        </>
+      ) : (
+        <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+          現在、{team.short}に関するニュースがまだ取得されていません。次回の自動更新をお待ちください。
+        </p>
+      )}
+    </div>
+
+    <aside>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin-bottom:14px;">
+        OTHER CLUBS / 他のクラブ
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:8px;">
+        {otherTeams.map((t) => (
+          <TeamLinkRow team={t} />
+        ))}
+      </div>
+      <a
+        href={withBase("/team/general/")}
+        class="flex items-center no-underline"
+        style="gap:9px; background-color:var(--card-bg); border:1px solid var(--border); border-top:3px solid var(--accent); padding:12px 14px; margin-top:8px; color:var(--text);"
+      >
+        <span class="flex-1 font-medium" style="font-size:14px;">総合(クラブ横断)</span>
+        <span style="color:var(--text-faint);">→</span>
+      </a>
+    </aside>
   </section>
 </Base>
+
+<script is:inline>
+  document.getElementById("register-my-team")?.addEventListener("click", function () {
+    try {
+      localStorage.setItem("jleague-curation-my-team", this.getAttribute("data-team-id"));
+    } catch (e) {}
+    // トップページのマイクラブセクションに反映させるため、トップへ遷移する
+    window.location.href = window.location.pathname.replace(/team\/[^/]+\/?$/, "");
+  });
+</script>
+
+<script define:vars={{ pageSize: PAGE_SIZE }}>
+  (function () {
+    var items = Array.from(document.querySelectorAll("#club-news-list .news-page-item"));
+    var pager = document.getElementById("pagination");
+    if (!pager) return;
+    var pageCount = Math.ceil(items.length / pageSize);
+    var currentPage = 1;
+
+    if (pageCount <= 1) return;
+
+    function render() {
+      items.forEach(function (el, i) {
+        var page = Math.floor(i / pageSize) + 1;
+        el.style.display = page === currentPage ? "" : "none";
+      });
+
+      var parts = [];
+      parts.push(
+        currentPage > 1
+          ? '<a href="#" data-page="' + (currentPage - 1) + '" style="color:var(--text); font-weight:700;">← 前へ</a>'
+          : '<span style="color:var(--num);">← 前へ</span>',
+      );
+      for (var p = 1; p <= pageCount; p++) {
+        if (p === currentPage) {
+          parts.push(
+            '<span style="width:32px; height:32px; display:grid; place-items:center; background-color:var(--text); color:var(--page-bg);">' +
+              p +
+              "</span>",
+          );
+        } else {
+          parts.push(
+            '<a href="#" data-page="' +
+              p +
+              '" style="width:32px; height:32px; display:grid; place-items:center; border:1px solid var(--rule-mid); color:var(--text); text-decoration:none;">' +
+              p +
+              "</a>",
+          );
+        }
+      }
+      parts.push(
+        currentPage < pageCount
+          ? '<a href="#" data-page="' + (currentPage + 1) + '" style="color:var(--text); font-weight:700;">次へ →</a>'
+          : '<span style="color:var(--num);">次へ →</span>',
+      );
+      pager.innerHTML = parts.join("");
+      pager.classList.remove("hidden");
+
+      pager.querySelectorAll("a[data-page]").forEach(function (a) {
+        a.addEventListener("click", function (e) {
+          e.preventDefault();
+          currentPage = parseInt(a.getAttribute("data-page"), 10);
+          render();
+          pager.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        });
+      });
+    }
+
+    render();
+  })();
+</script>

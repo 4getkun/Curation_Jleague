@@ -1,0 +1,65 @@
+---
+import { Image } from "astro:assets";
+import type { NewsItem } from "../lib/news";
+import { formatRelativeShort } from "../lib/news";
+import { getTeam } from "../lib/teams";
+import heroDay from "../assets/hero/hero-day.jpg";
+import heroNight from "../assets/hero/hero-night.jpg";
+
+interface Props {
+  item: NewsItem;
+}
+
+const { item } = Astro.props;
+const primary = item.teams[0] ? getTeam(item.teams[0]) : undefined;
+const clubEn = primary?.en ?? "J.LEAGUE";
+const clubJa = primary?.short ?? "総合";
+const clubColor = primary?.color ?? "var(--accent)";
+const extraSourceCount = (item.sources?.length ?? 1) - 1;
+---
+
+<a href={item.link} target="_blank" rel="noopener noreferrer nofollow" class="block no-underline" style="color:inherit;">
+  <div class="relative w-full hero-image-wrap" style="height:250px;">
+    <style>
+      @media (min-width: 640px) {
+        .hero-image-wrap { height: 540px !important; }
+      }
+    </style>
+    <Image
+      src={heroDay}
+      alt=""
+      width={1440}
+      height={540}
+      class="dark:hidden absolute inset-0 w-full h-full"
+      style="object-fit:cover;"
+      loading="eager"
+    />
+    <Image
+      src={heroNight}
+      alt=""
+      width={1440}
+      height={540}
+      class="hidden dark:block absolute inset-0 w-full h-full"
+      style="object-fit:cover;"
+      loading="eager"
+    />
+  </div>
+  <div class="grid grid-cols-1 sm:grid-cols-[1fr_320px] gap-6 sm:gap-12" style="padding:24px 0 12px; border-bottom:1px solid var(--rule-mid);">
+    <div>
+      <div class="inline-flex items-center font-kicker" style={`gap:8px; font-size:13px; font-weight:500; letter-spacing:2px; color:${clubColor};`}>
+        {clubEn} / {clubJa}
+      </div>
+      <h1 class="font-display font-bold m-0" style="font-size:clamp(22px, 4vw, 42px); line-height:1.5; margin-top:10px; color:var(--text);">
+        {item.title}
+      </h1>
+    </div>
+    <div class="sm:self-end">
+      {item.summary && (
+        <p class="m-0" style="font-size:14px; line-height:1.9; color:var(--text-muted);">{item.summary}</p>
+      )}
+      <div style="font-size:12px; color:var(--text-faint); margin-top:12px;">
+        {item.source}{extraSourceCount > 0 && `・ほか${extraSourceCount}社`} · {formatRelativeShort(item.pubDate)}
+      </div>
+    </div>
+  </div>
+</a>

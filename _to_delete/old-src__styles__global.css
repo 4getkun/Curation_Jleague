@@ -4,53 +4,53 @@
 
 @theme {
   --font-sans: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
-  --font-display: "Noto Serif JP", "Hiragino Mincho ProN", serif;
-  --font-kicker: "Oswald", "Noto Sans JP", sans-serif;
+  --font-display: "Zen Kaku Gothic New", "Noto Sans JP", system-ui, sans-serif;
 }
 
 /*
- * デザイン刷新(design_handoff_jleague_redesign、2026年7月受領のデザイン
- * ハンドオフ「欧州フットボール誌風の編集デザイン」)に合わせたテーマ
- * トークン。ライト/ダークの値をCSS変数として持ち、.dark クラスの有無だけで
+ * デザイン刷新(Claude Designの手直し案)に合わせたテーマトークン。
+ * ライト/ダークの値をCSS変数として持ち、.dark クラスの有無だけで
  * 全ページの配色が切り替わるようにしている(コンポーネント側で
  * dark: バリアントを重複して書かなくて済むようにするため)。
- *
- * ハンドオフ側の命名(「本文グレー」「淡文字」)と、既存コードベースの変数名
- * (--text-muted / --text-faint)の対応:
- *   --text-muted = 本文グレー(リード文・要約等、濃いめ) #41504a / #b7c0b4
- *   --text-faint = 淡文字(メタ情報・キャプション等、薄め) #5c6a5e / #9aa89e
- * 罫線は太さごとに3段階(strong 3px実線・mid・weak)を分けている。
  */
 :root {
-  --page-bg: #f5f3ea;
-  --header-bg: rgb(245 243 234 / 92%);
+  --page-bg: #f7f5f1;
+  --header-bg: rgb(247 245 241 / 92%);
   --card-bg: #ffffff;
-  --border: rgba(0, 0, 0, 0.12);
-  --rule-strong: #16201a;
-  --rule-mid: rgba(0, 0, 0, 0.35);
-  --rule-weak: rgba(0, 0, 0, 0.18);
-  --text: #16201a;
-  --text-muted: #41504a;
-  --text-faint: #5c6a5e;
-  --num: #b9bdaf;
-  --accent: #15803d;
+  --border: #e3e0d8;
+  --rule: #dedad2;
+  --text: #17171b;
+  --text-muted: #6b6a66;
+  --text-faint: #9b9a95;
+  --hero-bg: #111114;
+  --hero-text: #f7f5f1;
+  --hero-muted: #c7c5bf;
+  --accent: #d9481f;
   --accent-text: #ffffff;
+  --green: #2f7d4f;
+  --green-bg: rgb(47 125 79 / 10%);
+  --stripe-a: #efece6;
+  --stripe-b: #e7e3da;
 }
 
 .dark {
-  --page-bg: #0e1310;
-  --header-bg: rgb(14 19 16 / 90%);
-  --card-bg: #161d18;
-  --border: rgba(255, 255, 255, 0.12);
-  --rule-strong: #f0efe8;
-  --rule-mid: rgba(255, 255, 255, 0.35);
-  --rule-weak: rgba(255, 255, 255, 0.15);
-  --text: #f0efe8;
-  --text-muted: #b7c0b4;
-  --text-faint: #9aa89e;
-  --num: #4a5548;
-  --accent: #3ddc7a;
-  --accent-text: #0e1310;
+  --page-bg: #101012;
+  --header-bg: rgb(16 16 18 / 90%);
+  --card-bg: #1a1a1d;
+  --border: #2b2b2f;
+  --rule: #2a2a2d;
+  --text: #f3f1ec;
+  --text-muted: #a5a3a0;
+  --text-faint: #75736f;
+  --hero-bg: #000000;
+  --hero-text: #f3f1ec;
+  --hero-muted: #9c9a96;
+  --accent: #e8623a;
+  --accent-text: #ffffff;
+  --green: #4a9c6d;
+  --green-bg: rgb(74 156 109 / 15%);
+  --stripe-a: #1c1c1f;
+  --stripe-b: #232326;
 }
 
 @layer base {
@@ -67,11 +67,7 @@
 
   ::selection {
     background-color: var(--accent);
-    color: var(--accent-text);
-  }
-
-  h1, h2, h3 {
-    font-family: var(--font-display);
+    color: white;
   }
 }
 
@@ -80,8 +76,25 @@
     @apply mx-auto w-full max-w-[1180px] px-6;
   }
 
+  .hairline-cell {
+    background-color: var(--page-bg);
+    padding: 28px;
+  }
+
   .link-underline {
     @apply relative inline-block after:absolute after:left-0 after:-bottom-0.5 after:h-[2px] after:w-0 after:bg-current after:transition-all after:duration-200 hover:after:w-full;
+  }
+
+  /* 画像プレースホルダー(斜めストライプ)。記事に写真を後で差し込むための目印 */
+  .photo-placeholder {
+    background-image: repeating-linear-gradient(
+      135deg,
+      var(--stripe-a),
+      var(--stripe-a) 10px,
+      var(--stripe-b) 10px,
+      var(--stripe-b) 20px
+    );
+    border: 1px solid var(--border);
   }
 }
 

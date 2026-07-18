@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gekisaka-domestic",
+    "name": "ゲキサカ（国内サッカー）",
+    "url": "https://web.gekisaka.jp/feed?category=domestic",
+    "scoped": true
+  },
+  {
+    "id": "footballchannel",
+    "name": "フットボールチャンネル",
+    "url": "https://www.footballchannel.jp/feed/",
+    "scoped": false
+  },
+  {
+    "id": "football-zone",
+    "name": "FOOTBALL ZONE",
+    "url": "https://www.football-zone.net/feed",
+    "scoped": false
+  },
+  {
+    "id": "yahoo-nikkansports",
+    "name": "日刊スポーツ（Yahoo!ニュース経由）",
+    "url": "https://news.yahoo.co.jp/rss/media/nksports/all.xml",
+    "scoped": false
+  },
+  {
+    "id": "yahoo-sports",
+    "name": "Yahoo!ニュース スポーツ",
+    "url": "https://news.yahoo.co.jp/rss/categories/sports.xml",
+    "scoped": false
+  }
+]

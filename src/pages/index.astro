@@ -1,158 +1,96 @@
 ---
 import Base from "../layouts/Base.astro";
-import FeaturedNews from "../components/FeaturedNews.astro";
+import Hero from "../components/Hero.astro";
 import NewsRow from "../components/NewsRow.astro";
 import TeamLinkRow from "../components/TeamLinkRow.astro";
 import TopicChipLink from "../components/TopicChipLink.astro";
-import { allNews, newsGeneratedAt, formatGeneratedAt } from "../lib/news";
+import { allNews } from "../lib/news";
 import { teams } from "../lib/teams";
 import { topics } from "../lib/topics";
 import { withBase } from "../lib/url";
 
 const [featured, ...rest] = allNews;
-const latest = rest.slice(0, 5);
+const latest = rest.slice(0, 6);
 const dataUrl = withBase("/data/news-index.json");
 const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.color }));
 ---
 
-<Base title="Curation Jリーグ" description="広告ゼロで読める、Jリーグ(J1)全20クラブの最新ニュース・まとめキュレーションサイト。">
-  <!-- Hero -->
-  <section style="background-color:var(--hero-bg); color:var(--hero-text); position:relative; overflow:hidden;">
-    <div class="container-page relative" style="padding:76px 24px 56px;">
-      <div style={`width:44px; height:3px; background-color:var(--accent); margin-bottom:22px;`}></div>
-      <p
-        class="font-bold uppercase m-0"
-        style="font-size:12px; letter-spacing:0.14em; color:var(--hero-muted); margin-bottom:18px;"
-      >
-        広告ゼロ・トラッキングなしのJリーグキュレーション
-      </p>
-      <h1
-        class="font-display font-black text-balance m-0"
-        style="font-size:clamp(32px,5vw,58px); line-height:1.12; letter-spacing:-0.01em; margin-bottom:20px; max-width:720px;"
-      >
-        J1全20クラブのニュースを、<br class="hidden sm:block" />ノイズなく一箇所で。
-      </h1>
-      <p class="m-0" style="font-size:16px; line-height:1.8; color:var(--hero-muted); max-width:520px; margin-bottom:34px;">
-        J1全20クラブの最新ニュースと話題を自動収集。バナー広告も追跡もない、読むことだけに集中できるキュレーションサイトです。
-      </p>
-      <div class="flex flex-wrap gap-3" style="margin-bottom:28px;">
-        <a
-          href={withBase("/news/")}
-          class="no-underline font-bold"
-          style="background-color:var(--accent); color:#fff; padding:14px 28px; border-radius:2px; font-size:14px;"
-        >
-          最新ニュース一覧を見る
-        </a>
-        <a
-          href={withBase("/team/")}
-          class="no-underline font-bold"
-          style="background:none; color:var(--hero-text); border:1px solid rgb(255 255 255 / 28%); padding:14px 28px; border-radius:2px; font-size:14px;"
-        >
-          クラブから探す
-        </a>
-      </div>
-      {newsGeneratedAt && (
-        <p class="m-0" style="font-size:12px; color:var(--hero-muted);">
-          最終更新: {formatGeneratedAt(newsGeneratedAt)}（自動更新）
-        </p>
-      )}
-    </div>
-  </section>
-
-  <!-- マイクラブ(お気に入りクラブ)の最新ニュース。localStorageに保存されたクラブが
-       あればクライアントサイドでこの下に描画し、無ければヒントだけ表示する。 -->
-  <section id="my-team-section" style="border-bottom:1px solid var(--border);">
-    <div class="container-page" style="padding:24px;">
-      <p id="my-team-hint" style="font-size:13px; color:var(--text-muted); margin:0;">
-        ヘッダーの「★ マイクラブ」から応援クラブを選ぶと、ここにそのクラブの最新ニュースだけを表示できます。
-        <a href="#team-access" class="link-underline" style="color:var(--accent); font-weight:bold;">クラブを選ぶ →</a>
-      </p>
-      <div id="my-team-result" class="hidden">
-        <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
-          <h2 id="my-team-heading" class="font-display font-black m-0" style="font-size:20px; color:var(--text);"></h2>
-          <a id="my-team-link" href="#" class="no-underline font-bold" style="font-size:13px; color:var(--accent);">すべて見る →</a>
-        </div>
-        <div id="my-team-list"></div>
-        <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-muted);">
-          まだこのクラブのニュースが取得されていません。次回の自動更新をお待ちください。
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- Featured + Latest -->
-  <section class="container-page" style="padding:56px 24px;">
-    <div
-      class="flex items-baseline justify-between"
-      style="border-bottom:2px solid var(--text); padding-bottom:12px; margin-bottom:28px;"
-    >
-      <h2 class="font-display font-black m-0" style="font-size:22px; color:var(--text);">最新ニュース</h2>
-      <a href={withBase("/news/")} class="no-underline font-bold" style="font-size:13px; color:var(--accent);">すべて見る →</a>
-    </div>
-
-    {featured ? (
-      <div class="grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-10">
-        <FeaturedNews item={featured} />
-        <div>
-          {latest.map((item) => (
-            <NewsRow item={item} variant="compact" />
-          ))}
-        </div>
-      </div>
-    ) : (
+<Base
+  title="Curation Jleague"
+  description="広告ゼロで読める、Jリーグ(J1)全20クラブの最新ニュース・まとめキュレーションサイト。"
+  headerLarge
+>
+  {featured ? (
+    <section class="container-page" style="padding-top:24px;">
+      <Hero item={featured} />
+    </section>
+  ) : (
+    <section class="container-page" style="padding:56px 0;">
       <p style="font-size:14px; color:var(--text-muted);">
         まだニュースが取得されていません。GitHub Actions の自動収集ワークフローが実行されると、ここに最新記事が並びます。
       </p>
-    )}
+    </section>
+  )}
+
+  <!-- マイクラブ(お気に入りクラブ)の最新ニュース。localStorageに保存された
+       クラブがあればクライアントサイドでこの下に描画し、無ければヒントだけ
+       表示する。 -->
+  <section id="my-team-section" class="container-page" style="padding:20px 0;">
+    <p id="my-team-hint" style="font-size:13px; color:var(--text-faint); margin:0;">
+      ヘッダーの「★ マイクラブ」から応援クラブを選ぶと、ここにそのクラブの最新ニュースだけを表示できます。
+      <a href="#clubs" class="link-underline" style="color:var(--accent); font-weight:bold;">クラブを選ぶ →</a>
+    </p>
+    <div id="my-team-result" class="hidden">
+      <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
+        <h2 id="my-team-heading" class="font-display font-bold m-0" style="font-size:20px; color:var(--text);"></h2>
+        <a id="my-team-link" href="#" class="no-underline font-bold" style="font-size:13px; color:var(--accent);">すべて見る →</a>
+      </div>
+      <div id="my-team-list"></div>
+      <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-faint);">
+        まだこのクラブのニュースが取得されていません。次回の自動更新をお待ちください。
+      </p>
+    </div>
   </section>
 
-  <!-- Team access -->
-  <section id="team-access" style="background-color:var(--card-bg); border-top:1px solid var(--border); border-bottom:1px solid var(--border); padding:56px 0;">
-    <div class="container-page">
-      <h2 class="font-display font-black m-0" style="font-size:22px; color:var(--text); margin-bottom:6px;">クラブから探す</h2>
-      <p style="font-size:14px; color:var(--text-muted); margin-bottom:28px;">
-        J1全20クラブのニュースをクラブごとに確認できます。
-        気になるクラブがあれば、ヘッダーの「★ マイクラブ」から登録するとトップページに専用セクションが表示されます。
-      </p>
+  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding:16px 0 56px;">
+    <div>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent);">
+        LATEST NEWS / 最新ニュース
+      </h2>
+      <div>
+        {latest.map((item, i) => <NewsRow item={item} index={i + 1} />)}
+      </div>
+      <a href={withBase("/news/")} class="inline-block no-underline font-bold" style="margin-top:20px; font-size:14px; color:var(--accent);">
+        すべてのニュースを見る →
+      </a>
+    </div>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+    <aside id="clubs">
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin-bottom:14px;">
+        CLUBS / クラブ別
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:8px;">
         {teams.map((team) => (
           <TeamLinkRow team={team} />
         ))}
       </div>
-    </div>
-  </section>
 
-  <!-- Topic access -->
-  <section class="container-page" style="padding:44px 24px;">
-    <h2 class="font-display font-black m-0" style="font-size:22px; color:var(--text); margin-bottom:6px;">話題から探す</h2>
-    <p style="font-size:14px; color:var(--text-muted); margin-bottom:20px;">クラブの枠を超えて、移籍・負傷・契約更改などの話題ごとにニュースを横断できます。</p>
-    <div class="flex flex-wrap gap-2">
-      {topics.map((topic) => (
-        <TopicChipLink topic={topic} />
-      ))}
-    </div>
-  </section>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin:28px 0 12px;">
+        TOPICS / 話題から
+      </h2>
+      <div class="flex flex-wrap" style="gap:8px;">
+        {topics.map((topic) => (
+          <TopicChipLink topic={topic} />
+        ))}
+      </div>
 
-  <!-- Value props (hairline grid) -->
-  <section class="container-page" style="padding:56px 24px;">
-    <div class="grid grid-cols-1 sm:grid-cols-3" style="gap:1px; background-color:var(--border); border:1px solid var(--border);">
-      <div class="hairline-cell">
-        <span class="inline-block rounded-[2px]" style="width:10px; height:10px; background-color:var(--accent);"></span>
-        <p class="font-bold m-0" style="font-size:15px; color:var(--text); margin:14px 0 6px;">広告・トラッキング一切なし</p>
-        <p class="m-0" style="font-size:13px; color:var(--text-muted); line-height:1.7;">バナー広告や追跡スクリプトを使わず、記事を読むことに集中できます。</p>
+      <div style="margin-top:28px; border:1px solid var(--rule-weak); background-color:var(--card-bg); padding:18px;">
+        <div class="font-kicker" style="font-size:12px; font-weight:500; letter-spacing:3px; color:var(--accent);">ABOUT</div>
+        <p class="m-0" style="font-size:13px; line-height:1.9; color:var(--text-muted); margin-top:10px;">
+          バナー広告も追跡スクリプトもありません。複数のサッカー専門メディアのRSSを定期集約し、クラブ別に自動振り分けしています。
+        </p>
       </div>
-      <div class="hairline-cell">
-        <span class="inline-block rounded-[2px]" style="width:10px; height:10px; background-color:var(--accent);"></span>
-        <p class="font-bold m-0" style="font-size:15px; color:var(--text); margin:14px 0 6px;">自動更新のキュレーション</p>
-        <p class="m-0" style="font-size:13px; color:var(--text-muted); line-height:1.7;">複数のサッカー専門メディアのRSSを定期的に集約し、クラブ別に自動振り分けしています。</p>
-      </div>
-      <div class="hairline-cell">
-        <span class="inline-block rounded-[2px]" style="width:10px; height:10px; background-color:var(--accent);"></span>
-        <p class="font-bold m-0" style="font-size:15px; color:var(--text); margin:14px 0 6px;">高速な静的サイト</p>
-        <p class="m-0" style="font-size:13px; color:var(--text-muted); line-height:1.7;">GitHub Pages上の静的サイトとして配信しているため表示が軽快です。</p>
-      </div>
-    </div>
+    </aside>
   </section>
 </Base>
 
@@ -175,9 +113,6 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
 
     hint.classList.add("hidden");
     resultBox.classList.remove("hidden");
-    // スマホ幅では見出しが2行に折り返してレイアウトが崩れるため、
-    // 「の最新ニュース」の部分はsm以上でのみ表示する(スマホでは
-    // 「マイクラブ: ◯◯」だけで十分意味が伝わるため省略する)。
     document.getElementById("my-team-heading").innerHTML =
       "マイクラブ: " + escapeHtml(team.short) + '<span class="hidden sm:inline"> の最新ニュース</span>';
     document.getElementById("my-team-link").href = base + "team/" + team.id + "/";
@@ -220,19 +155,19 @@ const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.co
         }
         list.innerHTML = teamNews
           .slice(0, 5)
-          .map(function (item) {
+          .map(function (item, i) {
             return (
               '<a href="' +
               escapeHtml(item.link) +
-              '" target="_blank" rel="noopener noreferrer nofollow" class="flex items-start no-underline" style="gap:14px; padding:14px 0; border-bottom:1px solid var(--border); color:inherit;">' +
-              '<span class="inline-block shrink-0 rounded-full" style="width:8px; height:8px; background-color:' +
-              team.color +
-              '; margin-top:7px;"></span>' +
-              '<div class="flex-1 min-w-0">' +
-              '<h4 class="font-bold leading-snug m-0 mb-1.5" style="font-size:15px; color:var(--text);">' +
+              '" target="_blank" rel="noopener noreferrer nofollow" class="grid no-underline" style="grid-template-columns:40px 1fr; gap:16px; padding:16px 0; border-bottom:1px solid var(--rule-weak); color:inherit;">' +
+              '<span style="font-family:var(--font-kicker); font-size:22px; font-weight:500; color:var(--num); line-height:1;">' +
+              String(i + 1).padStart(2, "0") +
+              "</span>" +
+              '<div class="min-w-0">' +
+              '<h4 style="font-family:var(--font-display); font-weight:600; line-height:1.7; margin:0; font-size:15px; color:var(--text);">' +
               escapeHtml(item.title) +
               "</h4>" +
-              '<p class="m-0" style="font-size:12px; color:var(--text-faint);">' +
+              '<p class="m-0" style="font-size:12px; color:var(--text-faint); margin-top:8px;">' +
               escapeHtml(item.source) +
               " · " +
               formatRelative(item.pubDate) +
