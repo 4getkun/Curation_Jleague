@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-07-18T12:50:03.994Z",
-  "count": 32,
+  "generatedAt": "2026-07-18T14:15:05.056Z",
+  "count": 36,
   "items": [
+    {
+      "title": "【相撲編集部が選ぶ名古屋場所７日目の一番】カド番大関琴櫻、熱海富士の圧力さばけず３連敗。苦しい黒星先行(BBM Sports)",
+      "summary": "熱海富士(寄り切り）琴櫻 完全に圧力負けだ。 カド番の大関琴櫻が、熱海富士に力なく寄り切られて３連敗、ついに黒星が先行する苦しい星勘定となった。 この日の相手の熱海富士には、琴櫻は過去８勝３",
+      "link": "https://news.yahoo.co.jp/articles/f7b52fee4a749a94b5a08f305edc3c6aff554a64?source=rss",
+      "pubDate": "2026-07-18T14:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f7b52fee4a749a94b5a08f305edc3c6aff554a64?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京に新加入した元デンマーク代表MFニコライ・ヴァリスが練習に初合流 多彩なフィニッシュも披露(スポニチアネックス)",
+      "summary": "FC東京にデンマーク1部のブレンビーから新加入した元デンマーク代表MFニコライ・ヴァリス（29）が北海道・白老キャンプ5日目の18日、白老桜ケ丘公園陸上競技場でチームの練習に初参加した。 この日",
+      "link": "https://news.yahoo.co.jp/articles/2538abd474c357049c1314757d44cd37288229a2?source=rss",
+      "pubDate": "2026-07-18T13:55:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2538abd474c357049c1314757d44cd37288229a2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ボートレース】中村日向はV逸のリベンジへ闘志「何としても優勝したい」／福岡G3(日刊スポーツ)",
+      "summary": "＜福岡ボート：ウエスタンヤング＞◇G3◇前検日◇18日 中村日向（27＝香川）はやらなければならない宿題がある。 「あんな人気を背負った優勝戦1枠で負けて、本当に申し訳なかった」 5月の当",
+      "link": "https://news.yahoo.co.jp/articles/0665fb23b5b8725f6dea3b61b6633dc498f6a5ff?source=rss",
+      "pubDate": "2026-07-18T13:55:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0665fb23b5b8725f6dea3b61b6633dc498f6a5ff?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】坂倉将吾 決勝10号もファンへ〝異例のお願い〟「エラーしても、ため息だけは勘弁」(東スポWEB)",
+      "summary": "広島・坂倉将吾捕手（28）が18日の阪神戦（マツダ）で決勝の10号ソロを放ち、チームの逆転勝利に貢献した。ヒーローインタビューではファンへ異例のお願いを口にし、本拠地のスタンドを沸かせた。 1―",
+      "link": "https://news.yahoo.co.jp/articles/c87839e891fd6fcadd0888256ff3a97a0178f03c?source=rss",
+      "pubDate": "2026-07-18T13:45:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c87839e891fd6fcadd0888256ff3a97a0178f03c?source=rss"
+        }
+      ]
+    },
     {
       "title": "【コンサドーレ】新加入・唐山がゴールで存在感！昨季王者相手に確かな手ごたえ！唐山「決めるところを決めないと、とり続けることが大事」(STVニュース北海道)",
       "summary": "来月８日J２開幕戦を迎える北海道コンサドーレ札幌は18日、札幌・白旗山競技場でJ1・ヴィッセル神戸と30分×４本のトレーニングマッチを行った。 1本目は自陣のパスミスから失点を許し０対１で終えるも、",
