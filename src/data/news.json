@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-07-18T14:15:05.056Z",
-  "count": 36,
+  "generatedAt": "2026-07-18T15:27:18.935Z",
+  "count": 38,
   "items": [
+    {
+      "title": "鹿島、神戸DF広瀬陸斗の獲得決定的 濃野公人は米MLS移籍間近 元横浜Mのヤン・マテウスも獲得へ(スポニチアネックス)",
+      "summary": "鹿島が神戸からDF広瀬陸斗（30）を完全移籍で獲得することが18日、決定的となった。キック精度の高い右サイドバック（SB）で、左もこなす万能型。近年は神戸で攻撃的なポジションも務め、24年のリーグ連",
+      "link": "https://news.yahoo.co.jp/articles/8c201249a1def614a9461caca6f4b752ed5fa1d2?source=rss",
+      "pubDate": "2026-07-18T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "vissel"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8c201249a1def614a9461caca6f4b752ed5fa1d2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【福岡ボート・ＧⅢウエスタンヤング】定松勇樹 メンバー中唯一のＳＧ覇者が好発進を決める「気負わずに頑張ります」(東スポWEB)",
+      "summary": "ボートレース福岡では19日、G3「第13回ウエスタンヤング」が開幕する。 定松勇樹（25＝佐賀）が前検日、注目のエンジン抽選で引き当てたのはÅ評価の11号機。「班でも山崎祥選手や常住蓮選手が良さ",
+      "link": "https://news.yahoo.co.jp/articles/8a6288ee0929b8e72e2ec9279c24b5e56944456e?source=rss",
+      "pubDate": "2026-07-18T14:35:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8a6288ee0929b8e72e2ec9279c24b5e56944456e?source=rss"
+        }
+      ]
+    },
     {
       "title": "【相撲編集部が選ぶ名古屋場所７日目の一番】カド番大関琴櫻、熱海富士の圧力さばけず３連敗。苦しい黒星先行(BBM Sports)",
       "summary": "熱海富士(寄り切り）琴櫻 完全に圧力負けだ。 カド番の大関琴櫻が、熱海富士に力なく寄り切られて３連敗、ついに黒星が先行する苦しい星勘定となった。 この日の相手の熱海富士には、琴櫻は過去８勝３",
@@ -47,16 +88,16 @@
       "summary": "＜福岡ボート：ウエスタンヤング＞◇G3◇前検日◇18日 中村日向（27＝香川）はやらなければならない宿題がある。 「あんな人気を背負った優勝戦1枠で負けて、本当に申し訳なかった」 5月の当",
       "link": "https://news.yahoo.co.jp/articles/0665fb23b5b8725f6dea3b61b6633dc498f6a5ff?source=rss",
       "pubDate": "2026-07-18T13:55:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "avispa"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0665fb23b5b8725f6dea3b61b6633dc498f6a5ff?source=rss"
         }
       ]
