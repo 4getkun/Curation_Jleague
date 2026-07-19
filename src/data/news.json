@@ -1,14 +1,71 @@
 {
-  "generatedAt": "2026-07-19T13:58:29.722Z",
-  "count": 53,
+  "generatedAt": "2026-07-19T14:53:52.363Z",
+  "count": 56,
   "items": [
+    {
+      "title": "【福岡ボート・ＧⅢウエスタンヤング】井上遥妃１、５着発進 難水面で実績アリ「乗り心地次第ですね」(東スポWEB)",
+      "summary": "ボートレース福岡では19日、G3「13回ウエスタンヤング」が開幕した。 井上遥妃（23＝徳島）は、初日4Rを逃げ切って白星発進。後半9Rでは3コースで5着と星を分けたが「後半は行き足がヤバかった",
+      "link": "https://news.yahoo.co.jp/articles/7877e63bcd73d89616576d8dd0287c771db8adea?source=rss",
+      "pubDate": "2026-07-19T14:30:35.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7877e63bcd73d89616576d8dd0287c771db8adea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ボートレース】土井歩夢がヤングD出場へ闘志「優勝して出場権を取りたい」／福岡G3(日刊スポーツ)",
+      "summary": "＜福岡ボート：ウエスタンヤング＞◇G3◇初日◇19日 土井歩夢（23＝福岡）はA2級に初昇格。今期は前検日時点で勝率6・32とA1級ペースで、132期の養成所時代に勝率6・84をマークした逸材が、",
+      "link": "https://news.yahoo.co.jp/articles/a85a295d4dbbbb4c6de079823cf1eddeca9b340a?source=rss",
+      "pubDate": "2026-07-19T14:18:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a85a295d4dbbbb4c6de079823cf1eddeca9b340a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【相撲編集部が選ぶ名古屋場所８日目の一番】安青錦、１敗守ってトップ並走キープも、足の親指を痛め不安を残す(BBM Sports)",
+      "summary": "安青錦（押し出し）隆の勝 左から頭を突かれて横倒しに土俵下まで転がり落ち、一瞬負けたのかと思わされたが、白星はしっかりと手にしていた。 １敗で優勝争いのトップに並んでいる安青錦だ。この日は、先々",
+      "link": "https://news.yahoo.co.jp/articles/c3bb20c838a133b5c01e4834e91c47b1c477e088?source=rss",
+      "pubDate": "2026-07-19T14:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c3bb20c838a133b5c01e4834e91c47b1c477e088?source=rss"
+        }
+      ]
+    },
     {
       "title": "【清水】神村学園DF大空星那の加入内定発表「攻撃参加を存分に発揮し勝利に貢献できる選手に」(日刊スポーツ)",
       "summary": "J1清水エスパルスは19日、神村学園DF大空星那（18）の加入（27年1月）内定を発表した。大空は、クラブを通じて「これまで支えてくださった皆さんへの感謝の気持ちを忘れず、自分の持ち味である攻撃参加",
       "link": "https://news.yahoo.co.jp/articles/3ef8dc695e4a7ff7b84b3df17a1637313bc77505?source=rss",
       "pubDate": "2026-07-19T13:37:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "s-pulse"
       ],
@@ -17,8 +74,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3ef8dc695e4a7ff7b84b3df17a1637313bc77505?source=rss"
         }
       ]
