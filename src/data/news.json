@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-07-19T05:01:38.597Z",
-  "count": 47,
+  "generatedAt": "2026-07-19T07:37:43.187Z",
+  "count": 48,
   "items": [
+    {
+      "title": "Jリーグ「絶対スタジアム爆破される」 人気キャラ来場で…ファン心配「事件起きちゃう」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664122",
+      "pubDate": "2026-07-19T06:48:29.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664122"
+        }
+      ]
+    },
     {
       "title": "ACLE2連覇中のアルアハリ・サウジ、ポルトガル代表FWフランシスコ・トリンコンを獲得(ゲキサカ)",
       "summary": "アルアハリ・サウジは18日、スポルティングからFWフランシスコ・トリンコン(26)が4年契約で完全移籍加入すると発表した。 トリンコンは2025-26シーズンのポルトガルリーグで34試合7得点を",
@@ -934,21 +951,23 @@
       ]
     },
     {
-      "title": "金沢DF村田航一が入籍「笑顔の絶えない温かい家庭を」",
-      "summary": "ツエ-ゲン金沢は10日、DF村田航一(29)の入籍を発表した。 村田は2019年に明治大から水戸ホーリーホックへ加入し、百年構想リーグから金沢でプレーしている。クラブを通じて以下のようにコメントした。「いつも温かいご声援をいただきありがとう…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455221-455221-fl",
-      "pubDate": "2026-07-10T08:58:28.000Z",
+      "title": "全日本大学選抜歴持つ浦和FW松永颯汰、大卒半年でポルトガル3部へ完全移籍「目標は、2部昇格と得点王」",
+      "summary": "浦和レッズは10日、FW松永颯汰(22)がオリベイレンセ(ポルトガル3部)へ完全移籍することを発表した。 松永は流通経済大出身で、大学時代は全日本大学選抜にも入っていた。大卒で浦和に加入し、プロ1シーズン目のJ1百年構想リーグは1試合の出場…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455227-455227-fl",
+      "pubDate": "2026-07-10T10:21:59.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "hollyhock"
+        "reds"
       ],
-      "topics": [],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455221-455221-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455227-455227-fl"
         }
       ]
     }
