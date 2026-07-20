@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-07-20T04:36:43.683Z",
-  "count": 69,
+  "generatedAt": "2026-07-20T07:51:27.717Z",
+  "count": 71,
   "items": [
+    {
+      "title": "｢苦しい時間も多かったですが…｣荒木遼太郎、移籍先はシント＝トロイデンVVに決定！ 鹿島アントラーズから加入",
+      "summary": "鹿島アントラーズは20日、24歳のMF荒木遼太郎の移籍先がジュピラー・プロ・リーグ（ベルギー1部）のシント＝トロイデンVVに決定したことを発表した。両クラブの公式サイトで伝えられている。海外移籍のため、チームを離脱していたが、新天地はベルギ…",
+      "link": "https://www.footballchannel.jp/2026/07/20/post951606/",
+      "pubDate": "2026-07-20T07:17:33.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/20/post951606/"
+        }
+      ]
+    },
+    {
+      "title": "マルチスポーツキッズキャンプSCOPE開催 ゲストにセレッソ大阪OB丸橋祐介氏、高橋侑子氏(日刊スポーツ)",
+      "summary": "＜マルチスポーツキッズキャンプSCOPE＞◇20日◇大阪・ヤンマーハナサカスタジアム◇参加17人 小学生を対象にしたサッカーとトライアスロンを融合した体験会、マルチスポーツキッズキャンプSCOPE",
+      "link": "https://news.yahoo.co.jp/articles/26a835c5ab83b644ff50c12bb1ee3f949008203c?source=rss",
+      "pubDate": "2026-07-20T06:45:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/26a835c5ab83b644ff50c12bb1ee3f949008203c?source=rss"
+        }
+      ]
+    },
     {
       "title": "【移籍情報】鹿島、神戸から広瀬陸斗を完全移籍で獲得「ひとつでも多くの勝利とタイトルをつかむため、ともに戦いましょう」｜Jリーグ(DAZN News)",
       "summary": "【国内サッカーニュース】鹿島アントラーズは20日、ヴィッセル神戸から広瀬陸斗が完全移籍で加入すると発表した。",
@@ -1385,19 +1425,21 @@
       ]
     },
     {
-      "title": "「驚き」「今までにないデザイン」「パルマっぽい」大分の新ユニフォームに反響",
-      "summary": "大分トリニータは2日、2026-27シーズンのユニフォームデザインを公式サイトで発表した。 フィールドプレーヤー1stはチームカラーのトリニータブルーを基調とし、「新たなフェーズを迎える新シーズンへ挑む姿勢を表現」したというクロスを大胆にレ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?454864-454864-fl",
-      "pubDate": "2026-07-11T02:48:04.000Z",
+      "title": "「かっこよすぎる」「ちょっと阪神っぽい」神戸が新ユニフォームを発表",
+      "summary": "ヴィッセル神戸は10日、2026-27シーズンのユニフォームデザインが決まったことを発表した。同日からJリーグオンラインストアで先行販売が開始している。 フィールドプレーヤー1stモデルはクリムゾンレッドを基調に、ピンストライプが施されたデ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455250-455250-fl",
+      "pubDate": "2026-07-11T02:56:10.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "vissel"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?454864-454864-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455250-455250-fl"
         }
       ]
     }
