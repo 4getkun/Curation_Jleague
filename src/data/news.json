@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-07-20T07:51:27.717Z",
-  "count": 71,
+  "generatedAt": "2026-07-20T10:39:58.569Z",
+  "count": 73,
   "items": [
+    {
+      "title": "J2クラブ歴代ベスト11発表「J1優勝してもおかしくない」 ブラジル代表も選外…47歳が「かなり異質」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664443",
+      "pubDate": "2026-07-20T08:42:01.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664443"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ、元マリノスのヤン・マテウスを完全移籍で獲得！「アントラーズの一員として全力を尽くす」",
+      "summary": "鹿島アントラーズは20日、カタールSC（カタール）に所属するFWヤン・マテウス（27）の完全移籍加入について、クラブ間合意に達したと発表した。今後、日本でのメディカルチェックなどを経て、正式契約が結ばれる予定だという。",
+      "link": "https://www.footballchannel.jp/2026/07/20/post951642/",
+      "pubDate": "2026-07-20T08:11:40.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers",
+        "marinos"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/20/post951642/"
+        }
+      ]
+    },
     {
       "title": "｢苦しい時間も多かったですが…｣荒木遼太郎、移籍先はシント＝トロイデンVVに決定！ 鹿島アントラーズから加入",
       "summary": "鹿島アントラーズは20日、24歳のMF荒木遼太郎の移籍先がジュピラー・プロ・リーグ（ベルギー1部）のシント＝トロイデンVVに決定したことを発表した。両クラブの公式サイトで伝えられている。海外移籍のため、チームを離脱していたが、新天地はベルギ…",
@@ -1425,21 +1464,21 @@
       ]
     },
     {
-      "title": "「かっこよすぎる」「ちょっと阪神っぽい」神戸が新ユニフォームを発表",
-      "summary": "ヴィッセル神戸は10日、2026-27シーズンのユニフォームデザインが決まったことを発表した。同日からJリーグオンラインストアで先行販売が開始している。 フィールドプレーヤー1stモデルはクリムゾンレッドを基調に、ピンストライプが施されたデ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455250-455250-fl",
-      "pubDate": "2026-07-11T02:56:10.000Z",
+      "title": "京都の23歳DF永田倖大が一般女性と結婚",
+      "summary": "京都サンガF.C.は11日、DF永田倖大(23)が6月15日に入籍したことを発表した。相手は一般人のため、氏名や年齢などの個人情報に関しては公表を差し控えるとしている。 永田は明治大から2025年に加入し、2026シーズンはJ1百年構想リー…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455252-455252-fl",
+      "pubDate": "2026-07-11T03:42:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "vissel"
+        "sanga"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455250-455250-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455252-455252-fl"
         }
       ]
     }
