@@ -1,7 +1,160 @@
 {
-  "generatedAt": "2026-07-20T23:46:27.447Z",
-  "count": 80,
+  "generatedAt": "2026-07-21T01:30:20.278Z",
+  "count": 87,
   "items": [
+    {
+      "title": "ABSチャレンジ 成功率トップは64.4％のレッズ、ドジャースは56.0％成功 最多挑戦はツインズ (スポニチアネックス)",
+      "summary": "スポーツ専門サイト「ジ・アスレチック」は、今季から導入された自動判定システム（ABS）のチャレンジ制度について、前半戦の傾向を特集した。 7月12日までに全30球団が少なくとも150回実施。成功",
+      "link": "https://news.yahoo.co.jp/articles/4ab2bc011d7491cb8a51d70075b5064b6dc1228f?source=rss",
+      "pubDate": "2026-07-21T00:55:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4ab2bc011d7491cb8a51d70075b5064b6dc1228f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズが選手の獲得と退団を発表！ ジェフユナイテッド千葉は選手の獲得を発表【20日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月20日に発表された最新の新加入、退団情報などは以下の通り。 【鹿島アントラーズ】 DF広瀬",
+      "link": "https://news.yahoo.co.jp/articles/bd20cf27bbe87d315182c8fa3426ffc853fe281a?source=rss",
+      "pubDate": "2026-07-21T00:52:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "jef-chiba"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bd20cf27bbe87d315182c8fa3426ffc853fe281a?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/21/post951933/"
+        }
+      ]
+    },
+    {
+      "title": "サガン鳥栖 移籍情報2026 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるサガン鳥栖の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/21/post815571/",
+      "pubDate": "2026-07-21T00:25:33.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/21/post815571/"
+        }
+      ]
+    },
+    {
+      "title": "ジェフユナイテッド千葉 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるジェフユナイテッド千葉の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/21/post814980/",
+      "pubDate": "2026-07-21T00:16:11.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/21/post814980/"
+        }
+      ]
+    },
+    {
+      "title": "藤枝MYFC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける藤枝MYFCの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/21/post815460/",
+      "pubDate": "2026-07-21T00:16:00.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/21/post815460/"
+        }
+      ]
+    },
+    {
+      "title": "ヴィッセル神戸 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるヴィッセル神戸の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/21/post814785/",
+      "pubDate": "2026-07-21T00:14:06.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/21/post814785/"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける鹿島アントラーズの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/21/post812949/",
+      "pubDate": "2026-07-21T00:13:17.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/21/post812949/"
+        }
+      ]
+    },
     {
       "title": "北中米W杯から帰国→スタジアム直行で12ゴール目 鹿島の逸材18歳…監督が語る可能性",
       "summary": "",
@@ -1602,21 +1755,23 @@
       ]
     },
     {
-      "title": "G大阪電撃退任のヴィッシング監督がコメント「ともに作った思い出、特にACL2優勝は永遠に心に残り続ける」",
-      "summary": "ガンバ大阪からアルイテハド(サウジアラビア)の監督に就任したイェンス・ヴィッシング氏が10日、自身のインスタグラム(@jens.wissing30)を更新してG大阪への感謝を伝えた。 ヴィッシング監督は2026年のJ1百年構想リーグからG大…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455266-455266-fl",
-      "pubDate": "2026-07-11T08:08:44.000Z",
+      "title": "浦和に激震…在籍10シーズン目のMF柴戸海と双方合意で契約解除「契約違反に該当すると思われる行為が確認」",
+      "summary": "浦和レッズは11日、MF柴戸海(30)との契約を双方合意で解除することになったと発表した。 クラブは「契約違反に該当すると思われる行為が確認されたため、本人と協議の上、本人およびクラブ双方合意の上で、契約を解除することとなりました」と説明し…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455274-455274-fl",
+      "pubDate": "2026-07-11T13:09:50.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "gamba"
+        "reds"
       ],
-      "topics": [],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455266-455266-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455274-455274-fl"
         }
       ]
     }
