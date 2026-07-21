@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-21T04:58:27.318Z",
-  "count": 91,
+  "generatedAt": "2026-07-21T07:31:56.895Z",
+  "count": 93,
   "items": [
+    {
+      "title": "コンサドーレ新キャプテン！西野奨太選手が就任「J1昇格へ引っ張っていきたい」今季の新ユニホームも(STVニュース北海道)",
+      "summary": "８月８日にシーズン開幕戦を迎えるサッカー・コンサドーレは週末、札幌市内でファン１７５０人が参加し「キックオフイベント」を開催しました。",
+      "link": "https://news.yahoo.co.jp/articles/e929f883b86f9a1c17d250f7278c78ba3e93dbf1?source=rss",
+      "pubDate": "2026-07-21T07:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e929f883b86f9a1c17d250f7278c78ba3e93dbf1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ダイブも人違いVAR対象? 負傷者の1分待機基準は? ロングスローは? JFA審判委が新ルール説明、W杯と異なる運用方針も(ゲキサカ)",
+      "summary": "日本サッカー協会(JFA)審判委員会は21日にレフェリーブリーフィングを開催し、2026-27シーズンのJリーグで採用される競技規則について説明した。新ルールは各クラブにもプレシーズンキャンプの場な",
+      "link": "https://news.yahoo.co.jp/articles/4b79f7499ede55f4e0b00e3b57062367565ca7e8?source=rss",
+      "pubDate": "2026-07-21T07:18:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4b79f7499ede55f4e0b00e3b57062367565ca7e8?source=rss"
+        }
+      ]
+    },
     {
       "title": "鹿島に痛手！樋口雄太と安西幸輝の負傷を発表。互いに長期離脱か｜Jリーグ(DAZN News)",
       "summary": "【国内サッカーニュース】鹿島アントラーズは21日、樋口雄太と安西幸輝が18日のトレーニングキャンプで負傷したと発表した。",
@@ -62,11 +98,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/21/post952068/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ad2c34ec614360fc0f9a8a4f8c53a77ffd4864fb?source=rss"
         }
       ]
     },
@@ -1840,21 +1871,24 @@
       ]
     },
     {
-      "title": "大分GK川島康暉がトレーニング中に負傷",
-      "summary": "[故障者情報] 大分トリニータは12日、GK川島康暉(26)の負傷を発表した。 クラブ公式サイトによると、川島は11日のトレーニングで負傷。大分市内の病院で診断した結果、右肩関節亜脱臼と判明したという。●2026-27シーズンJリーグ特集▶…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455298-455298-fl",
-      "pubDate": "2026-07-12T05:27:52.000Z",
+      "title": "名古屋DF河面旺成が水戸にレンタル移籍「約4年半、ありがとうございました」",
+      "summary": "水戸ホーリーホックは12日、名古屋グランパスのDF河面旺成(32)を期限付き移籍で獲得したことを発表した。移籍期間は2027年6月30日まで。期間中は名古屋と対戦するすべての公式戦に出場できない。 河面は2022シーズンに大宮アルディージャ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455299-455299-fl",
+      "pubDate": "2026-07-12T05:32:44.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "grampus",
+        "hollyhock"
+      ],
       "topics": [
-        "injury"
+        "trade"
       ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455298-455298-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455299-455299-fl"
         }
       ]
     }
