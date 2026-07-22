@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-07-22T11:48:42.508Z",
-  "count": 130,
+  "generatedAt": "2026-07-22T13:20:25.397Z",
+  "count": 132,
   "items": [
+    {
+      "title": "鳥栖MF田中雄大が結婚「どんな時も明るく支えてくれている妻に、いつもパワーをもらっています」(ゲキサカ)",
+      "summary": "サガン鳥栖は22日、MF田中雄大(26)が入籍したことを発表した。 田中は2026シーズンにファジアーノ岡山から完全移籍。J2・J3百年構想リーグでは14試合に出場し、1ゴールを記録している。",
+      "link": "https://news.yahoo.co.jp/articles/de45771199736d7036ce3dc96f0ae215f20bd667?source=rss",
+      "pubDate": "2026-07-22T13:14:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/de45771199736d7036ce3dc96f0ae215f20bd667?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島・鬼木監督 リーグ連覇＆アジア制覇へ「歴史を一緒につくりましょう」都内で決起集会(スポニチアネックス)",
+      "summary": "鹿島は22日、都内のホテルでキックオフパーティーを開催し、スポンサー関係者ら約1200人と決起集会を行った。 鬼木達監督は「王者としてW杯後のJリーグを盛り上げていきたい。皆さんに魅力あるサッカ",
+      "link": "https://news.yahoo.co.jp/articles/3399e24076b6a37a679bb01c604c04c7505aa910?source=rss",
+      "pubDate": "2026-07-22T13:03:44.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3399e24076b6a37a679bb01c604c04c7505aa910?source=rss"
+        }
+      ]
+    },
     {
       "title": "所属選手が交通事故に遭う…千葉が報告「速やかに警察へ連絡し、必要な手続きを行っております」(ゲキサカ)",
       "summary": "ジェフユナイテッド千葉は22日、MF椿直起が運転する車両が交通事故に遭ったことを発表した。 公式サイトによると、交通事故が発生したのは21日で、場所は千葉市内。クラブは「椿および相手方に怪我はな",
@@ -2580,21 +2620,22 @@
       ]
     },
     {
-      "title": "チェルシーやバルセロナなどでプレーしたMFロメウがJリーグ参戦!! 福岡に加入「たくさんの勝利をともに祝いましょう!」",
-      "summary": "アビスパ福岡は13日、MFオリオル・ロメウ(34)が加入することを発表した。 ロメウはバルセロナの育成組織出身。チェルシー、バレンシア、シュツットガルト、サウサンプトン、ジローナでプレーすると2023年7月にバルセロナに復帰した。その後はジ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455345-455345-fl",
-      "pubDate": "2026-07-13T10:09:51.000Z",
+      "title": "Jリーグで異例のダブルヘッダー!! 2.27国立でJ1・川崎F対町田&J3・福島対金沢を開催へ",
+      "summary": "Jリーグは14日、26-27シーズンにおける国立競技場での開催試合「MUFG THE国立DAY」について、J3リーグ第24節福島ユナイテッドFC対ツエーゲン金沢を追加することを発表した。 同試合は、J1リーグ第23節川崎フロンターレ対FC町…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455380-455380-fl",
+      "pubDate": "2026-07-14T04:16:35.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "avispa"
+        "frontale",
+        "zelvia"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455345-455345-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455380-455380-fl"
         }
       ]
     },
