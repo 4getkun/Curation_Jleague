@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-07-22T20:54:42.907Z",
-  "count": 140,
+  "generatedAt": "2026-07-22T21:56:34.336Z",
+  "count": 142,
   "items": [
+    {
+      "title": "日本代表から「六本木の寿司屋で」 J1新助っ人が感激…異国でのお返し「何かあれば」(FOOTBALL ZONE)",
+      "summary": "FC東京はシーズン移行に伴い、北海道・白老町でキャンプを行っている。7月18日には、前日に完全移籍での加入が発表されたばかりの元デンマーク代表MFニコライ・ヴァリスが合流。東京に到着した後には日本代",
+      "link": "https://news.yahoo.co.jp/articles/4f5101dc9fa76974ad611645b9af32e40f0fd80f?source=rss",
+      "pubDate": "2026-07-22T21:50:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4f5101dc9fa76974ad611645b9af32e40f0fd80f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表から「六本木の寿司屋で」 J1新助っ人が感激…異国でのお返し「何かあれば」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664778",
+      "pubDate": "2026-07-22T21:50:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664778"
+        }
+      ]
+    },
     {
       "title": "【26-27 J2開幕直前展望】百年構想リーグ優勝の仙台は攻撃力がアップ、RB大宮には昇格請負人が加入（1）(サッカー批評Web)",
       "summary": "26—27シーズンのJ2リーグが、8月8日に開幕する。25年シーズンのJ2から水戸ホーリーホック、V・ファーレン長崎、ジェフユナイテッド千葉の3チームがJ1へ昇格し、新たにJ3から栃木シティ、ヴァン",
@@ -28,8 +69,8 @@
       "summary": "J2のFC今治は22日、スペインのレガネスからMF中井卓大（22）が完全移籍で加入すると発表した。 元日本代表監督の岡田武史氏（69）が会長を務めるクラブに電撃入団して国内復帰。Jリーグ初挑戦と",
       "link": "https://news.yahoo.co.jp/articles/6930f5763af3ff583ac016594504514ecfccf52a?source=rss",
       "pubDate": "2026-07-22T20:30:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [
         "trade",
@@ -37,8 +78,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6930f5763af3ff583ac016594504514ecfccf52a?source=rss"
         }
       ]
