@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-07-22T19:51:03.082Z",
-  "count": 138,
+  "generatedAt": "2026-07-22T20:54:42.907Z",
+  "count": 140,
   "items": [
+    {
+      "title": "【26-27 J2開幕直前展望】百年構想リーグ優勝の仙台は攻撃力がアップ、RB大宮には昇格請負人が加入（1）(サッカー批評Web)",
+      "summary": "26—27シーズンのJ2リーグが、8月8日に開幕する。25年シーズンのJ2から水戸ホーリーホック、V・ファーレン長崎、ジェフユナイテッド千葉の3チームがJ1へ昇格し、新たにJ3から栃木シティ、ヴァン",
+      "link": "https://news.yahoo.co.jp/articles/ead64fbaeadd7f0a21fa17b2219712ecfb51bb34?source=rss",
+      "pubDate": "2026-07-22T20:45:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "v-varen",
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ead64fbaeadd7f0a21fa17b2219712ecfb51bb34?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今治】元バルサ安部裕葵と夢の共演！元レアル中井卓大が完全移籍加入「昇格に向かって全力」(日刊スポーツ)",
+      "summary": "J2のFC今治は22日、スペインのレガネスからMF中井卓大（22）が完全移籍で加入すると発表した。 元日本代表監督の岡田武史氏（69）が会長を務めるクラブに電撃入団して国内復帰。Jリーグ初挑戦と",
+      "link": "https://news.yahoo.co.jp/articles/6930f5763af3ff583ac016594504514ecfccf52a?source=rss",
+      "pubDate": "2026-07-22T20:30:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6930f5763af3ff583ac016594504514ecfccf52a?source=rss"
+        }
+      ]
+    },
     {
       "title": "【福岡ボート G3ウエスタンヤング】井上遥妃 狙うは混合戦初優出(スポニチアネックス)",
       "summary": "9月22～27日に若松で開催されるプレミアムG1ヤングダービーの出場権を懸けたG3「ウエスタンヤング」が5日目を迎える。ピックアップレーサーは井上遥妃（23＝徳島）だ。 井上遥は2期前にB級から",
