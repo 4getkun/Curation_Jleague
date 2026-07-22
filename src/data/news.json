@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-07-22T07:29:17.389Z",
-  "count": 124,
+  "generatedAt": "2026-07-22T09:59:43.382Z",
+  "count": 127,
   "items": [
+    {
+      "title": "昌子源が新シーズンもFC町田ゼルビアのキャプテンに就任！ 下田北斗＆谷晃生が副キャプテンとして支える(フットボールチャンネル)",
+      "summary": "FC町田ゼルビアは22日、2026/27シーズンのキャプテン・副キャプテンが決定したことを発表した。 キャプテンには、昨季に続いてDF昌子源が就任。副キャプテンにはMF下田北斗とGK谷晃生が選",
+      "link": "https://news.yahoo.co.jp/articles/cacfc46c6beb27183b31d49aa1619022502e0829?source=rss",
+      "pubDate": "2026-07-22T09:50:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cacfc46c6beb27183b31d49aa1619022502e0829?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/22/post952623/"
+        }
+      ]
+    },
+    {
+      "title": "【Ｇ大阪】母国での愛称は「アイスマン」！新加入イーライ・アダムス「魅了するプレーが強み」(日刊スポーツ)",
+      "summary": "ガンバ大阪に今季加入したMFイーライ・アダムス（24）が、新天地での活躍を誓った。 22日は大阪・吹田市内の練習場で公開練習。この日別メニューでの調整となったアダムスは「コンディションとしてはい",
+      "link": "https://news.yahoo.co.jp/articles/938bd0a8bbc0b186d54518a01324fb658ebe2a36?source=rss",
+      "pubDate": "2026-07-22T08:57:32.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/938bd0a8bbc0b186d54518a01324fb658ebe2a36?source=rss"
+        }
+      ]
+    },
     {
       "title": "G大阪 GK荒木琉偉はオフ期間で筋力増量「マックス5キロほど増えた」9月のA代表入り視野(スポニチアネックス)",
       "summary": "G大阪は22日、吹田市内の練習場で公開トレーニングを行った。炎天下の中、ミニゲームなどでみっちり1時間。ゴールマウスで、ひと際たくましい姿を見せたのがGK荒木琉偉（18）だ。 百年構想リーグ中盤",
@@ -54,6 +99,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/bf7c28fd2743ffd79797ea31dd79bd48b5f4fe43?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "G大阪がACLEプレリミナリーステージ出場決定&敵地で江原FCと対戦へ",
+      "summary": "ガンバ大阪は22日、AFCチャンピオンズリーグエリート(ACLE)2026-27について、インダイレクト枠で出場することが決定したと報告した。 インダイレクト枠はプレリミナリーステージ(PS)からの出場となり、PSで勝利した場合はACLEリ…",
+      "link": "https://web.gekisaka.jp/news/acl/detail/?455725-455725-fl",
+      "pubDate": "2026-07-22T06:49:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/acl/detail/?455725-455725-fl"
         }
       ]
     },
@@ -2461,21 +2525,22 @@
       ]
     },
     {
-      "title": "法政大DF田中恵大が相模原内定「誰よりも粘り強く闘います」",
-      "summary": "SC相模原は13日、法政大DF田中恵大(4年)の2027年1月加入内定を発表した。JFA・Jリーグ特別指定選手として申請予定だといい、背番号は25に決まった。 田中は系列の法政二高出身の左サイドバック。内定に際して「幼い頃からの目標の一つで…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455338-455338-fl",
-      "pubDate": "2026-07-13T08:30:00.000Z",
+      "title": "DF馬渡和彰の新天地が決定!! 2025年で松本との契約満了「自分を必要としてくれたクラブに感謝」",
+      "summary": "Y.S.C.C.横浜(JFL)は13日、DF馬渡和彰(35)の加入を発表した。 馬渡はこれまで川崎フロンターレや浦和レッズなどでプレーし、2024年に松本山雅FCへ加入。2025シーズンをもって契約満了で松本を退団し、シーズン移行期間は無所…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455343-455343-fl",
+      "pubDate": "2026-07-13T09:12:54.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "signing"
+      "teams": [
+        "frontale",
+        "reds"
       ],
+      "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455338-455338-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455343-455343-fl"
         }
       ]
     },
