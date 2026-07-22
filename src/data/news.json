@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-07-21T23:47:34.526Z",
-  "count": 108,
+  "generatedAt": "2026-07-22T01:30:12.902Z",
+  "count": 112,
   "items": [
+    {
+      "title": "ファン驚きの公式発表「ついに日本で見れる」 ピピのJリーグ電撃加入が「楽しみすぎる！！！」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664683",
+      "pubDate": "2026-07-22T01:15:31.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664683"
+        }
+      ]
+    },
+    {
+      "title": "ファン驚きの公式発表「ついに日本で見れる」 ピピのJリーグ電撃加入が「楽しみすぎる！！！」(FOOTBALL ZONE)",
+      "summary": "J2のFC今治は7月22日、スペインのCDレガネスからMF中井卓大が完全移籍で加入することを発表した。かつてレアル・マドリードでもプレーした22歳の電撃加入には「ついに日本で見れる」「ついにJリーグ",
+      "link": "https://news.yahoo.co.jp/articles/11de94b1b802bb3aa7cc93acbc9dc84d8201704f?source=rss",
+      "pubDate": "2026-07-22T01:15:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/11de94b1b802bb3aa7cc93acbc9dc84d8201704f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "V・ファーレン長崎の2選手が海外クラブへの移籍を発表【21日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月21日に発表された最新の新加入、退団情報などは以下の通り。 【V・ファーレン長崎】 MF齋",
+      "link": "https://news.yahoo.co.jp/articles/6593d165a46bc268076d65134a1476efa4ef6924?source=rss",
+      "pubDate": "2026-07-22T00:49:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6593d165a46bc268076d65134a1476efa4ef6924?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/22/post952314/"
+        }
+      ]
+    },
+    {
+      "title": "V・ファーレン長崎 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるV・ファーレン長崎の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/22/post815586/",
+      "pubDate": "2026-07-22T00:24:35.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/22/post815586/"
+        }
+      ]
+    },
     {
       "title": "神戸トップ昇格ならず→J注目の逸材へ変貌 在学中のプロ入り視野…エレガントに隠された“真の武器”",
       "summary": "",
