@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-07-22T09:59:43.382Z",
-  "count": 127,
+  "generatedAt": "2026-07-22T11:48:42.508Z",
+  "count": 130,
   "items": [
+    {
+      "title": "所属選手が交通事故に遭う…千葉が報告「速やかに警察へ連絡し、必要な手続きを行っております」(ゲキサカ)",
+      "summary": "ジェフユナイテッド千葉は22日、MF椿直起が運転する車両が交通事故に遭ったことを発表した。 公式サイトによると、交通事故が発生したのは21日で、場所は千葉市内。クラブは「椿および相手方に怪我はな",
+      "link": "https://news.yahoo.co.jp/articles/03c8e7084910877120025fcd94cc9f3653b34079?source=rss",
+      "pubDate": "2026-07-22T11:27:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/03c8e7084910877120025fcd94cc9f3653b34079?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】持丸泰輝「自分のスイングができるように心がけて…」３戦ぶりスタメンで５号ソロ(日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇22日◇東京ドーム 3戦ぶりにスタメンマスクを被った広島持丸泰輝捕手（24）が、6月6日オリックス戦以来となる5号ソロを放った。1点を先制された直後の2回。2死から同点ソロを放った",
+      "link": "https://news.yahoo.co.jp/articles/8291be31fd0c590117531f654afe64b40a898331?source=rss",
+      "pubDate": "2026-07-22T11:07:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8291be31fd0c590117531f654afe64b40a898331?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグが公開した2分50秒「これはズルい」 ファン訴え「一度見にきませんか？」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664774",
+      "pubDate": "2026-07-22T10:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664774"
+        }
+      ]
+    },
     {
       "title": "昌子源が新シーズンもFC町田ゼルビアのキャプテンに就任！ 下田北斗＆谷晃生が副キャプテンとして支える(フットボールチャンネル)",
       "summary": "FC町田ゼルビアは22日、2026/27シーズンのキャプテン・副キャプテンが決定したことを発表した。 キャプテンには、昨季に続いてDF昌子源が就任。副キャプテンにはMF下田北斗とGK谷晃生が選",
@@ -2525,22 +2580,21 @@
       ]
     },
     {
-      "title": "DF馬渡和彰の新天地が決定!! 2025年で松本との契約満了「自分を必要としてくれたクラブに感謝」",
-      "summary": "Y.S.C.C.横浜(JFL)は13日、DF馬渡和彰(35)の加入を発表した。 馬渡はこれまで川崎フロンターレや浦和レッズなどでプレーし、2024年に松本山雅FCへ加入。2025シーズンをもって契約満了で松本を退団し、シーズン移行期間は無所…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455343-455343-fl",
-      "pubDate": "2026-07-13T09:12:54.000Z",
+      "title": "チェルシーやバルセロナなどでプレーしたMFロメウがJリーグ参戦!! 福岡に加入「たくさんの勝利をともに祝いましょう!」",
+      "summary": "アビスパ福岡は13日、MFオリオル・ロメウ(34)が加入することを発表した。 ロメウはバルセロナの育成組織出身。チェルシー、バレンシア、シュツットガルト、サウサンプトン、ジローナでプレーすると2023年7月にバルセロナに復帰した。その後はジ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455345-455345-fl",
+      "pubDate": "2026-07-13T10:09:51.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "frontale",
-        "reds"
+        "avispa"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455343-455343-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455345-455345-fl"
         }
       ]
     },
