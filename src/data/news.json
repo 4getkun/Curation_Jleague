@@ -1,7 +1,380 @@
 {
-  "generatedAt": "2026-07-22T23:55:21.520Z",
-  "count": 150,
+  "generatedAt": "2026-07-23T01:49:47.430Z",
+  "count": 168,
   "items": [
+    {
+      "title": "【移籍情報】岡山、プレミアクラブ所属経験あり27歳独GKを獲得か？ 独紙「直接キャンプに呼び寄せた」 ｜ Jリーグ(DAZN News)",
+      "summary": "【国内サッカー 最新ニュース＆移籍情報】ドイツ紙『ビルト』は日本時間7月23日、ファジアーノ岡山がドイツ人GKスティーブン・ベンダの獲得に動く可能性を報じた。 2026/27 明治安田J1リーグを戦",
+      "link": "https://news.yahoo.co.jp/articles/e09b27c4ff5843292957796bb6982cd2e2a9f341?source=rss",
+      "pubDate": "2026-07-23T01:48:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e09b27c4ff5843292957796bb6982cd2e2a9f341?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京V 浦和との契約解除した柴戸海を獲得「偉大なクラブでプレーすることを楽しみにしています」(スポニチアネックス)",
+      "summary": "東京Vが23日、浦和との契約を解除したMF柴戸海（30）を獲得したことを発表、この日から練習に合流した。 柴戸は明大から浦和入りし、主にボランチやMFとして活躍していた。東京Vは中堅のDF深沢大",
+      "link": "https://news.yahoo.co.jp/articles/611094620fb34d765328a90db5736497a0907d3b?source=rss",
+      "pubDate": "2026-07-23T01:45:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/611094620fb34d765328a90db5736497a0907d3b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「真の才能の持ち主」「皆を魅了した」デビュー戦で衝撃ゴラッソの19歳日本人をスペイン大手紙が大絶賛！「スピード、華麗さ、規律…」(SOCCER DIGEST Web)",
+      "summary": "今夏にFC東京からラ・リーガのバレンシアに移籍した佐藤龍之介が、移籍後初ゴールを記録した。 現地７月22日に行なわれたプレシーズンマッチでバレンシアはスペイン２部のエルデンセと対戦。３－０の勝利",
+      "link": "https://news.yahoo.co.jp/articles/69ff8f0f9920f480971f3e80d38db8cd829b4f6a?source=rss",
+      "pubDate": "2026-07-23T01:33:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/69ff8f0f9920f480971f3e80d38db8cd829b4f6a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和と契約解除のMF柴戸海が東京Vに加入「このような機会をいただいたクラブ関係者の皆様に心から感謝」(サッカーキング)",
+      "summary": "東京ヴェルディは23日、MF柴戸海が加入することを発表した。 柴戸は今月11日、「契約違反に該当すると思われる行為が確認されたため」という理由で、浦和レッズとの契約が解除されてフリーとなっていた",
+      "link": "https://news.yahoo.co.jp/articles/906b46e293536e91c588461bb8fa9a64688a108b?source=rss",
+      "pubDate": "2026-07-23T01:32:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/906b46e293536e91c588461bb8fa9a64688a108b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "19歳日本人が「革命を起こした」 J1→移籍で即活躍…スペイン称賛「大きな美徳を示した」(FOOTBALL ZONE)",
+      "summary": "今夏の移籍市場でJ1のFC東京からラ・リーガのバレンシアに移籍したMF佐藤龍之介は、現地時間7月22日に行われたCDエルデンセとのプレシーズンマッチに先発出場し、新天地でのデビュー戦でゴールを挙げる",
+      "link": "https://news.yahoo.co.jp/articles/5a2d66816acf8b13c63d3382de7b7d7970874d8a?source=rss",
+      "pubDate": "2026-07-23T01:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5a2d66816acf8b13c63d3382de7b7d7970874d8a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "19歳日本人が「革命を起こした」 J1→移籍で即活躍…スペイン称賛「大きな美徳を示した」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664850",
+      "pubDate": "2026-07-23T01:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664850"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１東京Ｖ、柴戸海の加入を発表「心から感謝しています」７月に契約違反に該当する行為が判明して浦和と契約を解除(スポーツ報知)",
+      "summary": "Ｊ１東京Ｖが２３日、７月に浦和と契約を解除していたＭＦ柴戸海の加入を発表した。クラブを通して、「まずは、このような機会をいただいたクラブ関係者の皆様に心から感謝しています。 素晴らしい歴史と伝統の",
+      "link": "https://news.yahoo.co.jp/articles/e8234c2fe11a7c347836bcfd113d217003b6361a?source=rss",
+      "pubDate": "2026-07-23T01:27:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e8234c2fe11a7c347836bcfd113d217003b6361a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和“電撃退団”のMF柴戸海が東京Vに加入「クラブ関係者の皆様に心から感謝」(ゲキサカ)",
+      "summary": "東京ヴェルディは23日、浦和レッズを退団したMF柴戸海(30)が加入することを発表した。 柴戸は市立船橋高から明治大を経て、2018年に浦和へ加入。2024年にはFC町田ゼルビアへ期限付き移籍し",
+      "link": "https://news.yahoo.co.jp/articles/52c964299e16bf9b7570451d514cfd6b1eead71b?source=rss",
+      "pubDate": "2026-07-23T01:27:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/52c964299e16bf9b7570451d514cfd6b1eead71b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本ファン歓喜「いつみても最高の二人」 ”夏の海”で一脱ぎ…肉体美披露で「バキバキすぎる」(FOOTBALL ZONE)",
+      "summary": "セレッソ大阪のMF香川真司が7月22日、自身の公式インスタグラムを更新。北中米ワールドカップ（W杯）に出場した選手との2ショット写真を投稿すると、「嬉しい2ショット」「バキバキすぎる」など注目を集め",
+      "link": "https://news.yahoo.co.jp/articles/a196386bef2d0f81d9add7de0bd437aaa93cb2da?source=rss",
+      "pubDate": "2026-07-23T01:22:35.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a196386bef2d0f81d9add7de0bd437aaa93cb2da?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京ヴェルディ、MF柴戸海の加入を発表！ 浦和レッズを｢契約違反に該当すると思われる行為｣により退団",
+      "summary": "J1リーグの東京ヴェルディは23日、浦和レッズを双方合意の上で契約解除していた30歳のMF柴戸海が加入することを発表した。浦和を突然の電撃退団となった30歳MFは、新天地にヴェルディを選択し、再びJ1の舞台で戦うことになる。",
+      "link": "https://www.footballchannel.jp/2026/07/23/post952806/",
+      "pubDate": "2026-07-23T01:21:13.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy",
+        "reds"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post952806/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3f75141962b8c1d34f0383b24089f3660747661d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「彼には光るものがある」 バレンシア加入の佐藤龍之介、実戦デビューで“ゴラッソ”！ 現地メディアは拍手喝采(サッカーキング)",
+      "summary": "バレンシアに所属するMF佐藤龍之介が、22日のエルデンセ戦で実戦デビューを飾るとともに、初ゴールまでマークした。 佐藤は今夏、FC東京からトップチーム史上初の日本人選手としてバレンシアに加入。移",
+      "link": "https://news.yahoo.co.jp/articles/38c9091cb2102c6000dd2cc84bcf2ac97113704b?source=rss",
+      "pubDate": "2026-07-23T01:11:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/38c9091cb2102c6000dd2cc84bcf2ac97113704b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「結果を残さないと何も始まらない」明本考浩がFC町田ゼルビアで目指すもの。欧州で進化を遂げた男がもたらす経験「実際に海外へ行って…」(フットボールチャンネル)",
+      "summary": "ベルギーで約2年半にわたってプレーし、2023年には浦和レッズの一員としてAFCチャンピオンズリーグ（ACL）制覇も経験した明本考浩が、FC町田ゼルビアに加入した。欧州で培った経験を武器に、アジア王",
+      "link": "https://news.yahoo.co.jp/articles/9105812c92e41b050c4186708ebdf041f909b5a2?source=rss",
+      "pubDate": "2026-07-23T01:02:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9105812c92e41b050c4186708ebdf041f909b5a2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和と契約解除の柴戸海、東京Vへの電撃加入が決定「関係者の皆様に心から感謝しています」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664898",
+      "pubDate": "2026-07-23T01:02:18.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664898"
+        }
+      ]
+    },
+    {
+      "title": "FC今治が海外日本人選手の獲得を発表！ 横浜FCなどは選手の海外クラブへの移籍を発表【22日のJリーグ移籍情報まとめ】",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月22日に発表された最新の新加入、退団情報などは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/07/23/post952788/",
+      "pubDate": "2026-07-23T00:47:44.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post952788/"
+        }
+      ]
+    },
+    {
+      "title": "FC今治 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるFC今治の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/23/post815523/",
+      "pubDate": "2026-07-23T00:38:59.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post815523/"
+        }
+      ]
+    },
+    {
+      "title": "横浜FC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける横浜FCの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/23/post814497/",
+      "pubDate": "2026-07-23T00:36:05.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post814497/"
+        }
+      ]
+    },
+    {
+      "title": "水戸ホーリーホック 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける水戸ホーリーホックの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/23/post814944/",
+      "pubDate": "2026-07-23T00:33:32.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post814944/"
+        }
+      ]
+    },
+    {
+      "title": "佐藤龍之介、バレンシア移籍後初ゴール「First game．First goal！！」(日刊スポーツ)",
+      "summary": "FC東京からスペイン1部バレンシアに移籍したMF佐藤龍之介（19）が22日、CDエルデンセとのプレシーズンマッチで移籍後初ゴールを奪った。 佐藤がいきなり結果を残した。プレシーズマッチ初戦に先発",
+      "link": "https://news.yahoo.co.jp/articles/520937c7554287c0c22ce8a2d693f0ccf2cb7a1c?source=rss",
+      "pubDate": "2026-07-23T00:00:48.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/520937c7554287c0c22ce8a2d693f0ccf2cb7a1c?source=rss"
+        }
+      ]
+    },
     {
       "title": "バレンシア移籍の佐藤龍之介が挨拶代わりのスーパーゴール! クラブ公式も「ゴラッソ」と絶賛(ゲキサカ)",
       "summary": "バレンシア(スペイン1部)の日本代表MF佐藤龍之介が新天地デビュー戦で初ゴールを挙げた。 今夏にFC東京から加入した佐藤は、22日に行われたプレシーズンマッチ初戦のエルデンセ(スペイン2部)にス",
@@ -2980,21 +3353,21 @@
       ]
     },
     {
-      "title": "山口27年加入内定の甲南大FW諏訪晃大、特別指定選手に承認",
-      "summary": "レノファ山口FCは14日、2027年1月の加入が内定している甲南大FW諏訪晃大(21)が、「2026-27シーズンJFA・Jリーグ特別指定選手」として日本サッカー協会(JFA)に承認されたことを発表した。 クラブ公式サイトを通じ、諏訪は「こ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455385-455385-fl",
-      "pubDate": "2026-07-14T06:48:09.000Z",
+      "title": "水戸に新スタッフ加入…アナリストに細谷龍生氏、通訳に松本倖太朗氏が就任",
+      "summary": "水戸ホーリーホックは14日、トップチームスタッフにアナリストの細谷龍生氏(25)と通訳の松本倖太朗氏(24)が就任したことを発表した。 日本サッカー協会公認B級コーチライセンスを所持する細谷氏は、柏レイソルA.A.TOR'82での指導経験や…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455386-455386-fl",
+      "pubDate": "2026-07-14T07:08:23.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "signing"
+      "teams": [
+        "hollyhock"
       ],
+      "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455385-455385-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455386-455386-fl"
         }
       ]
     },
