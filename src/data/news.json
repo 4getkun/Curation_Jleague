@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-07-23T05:15:36.253Z",
-  "count": 176,
+  "generatedAt": "2026-07-23T07:54:29.123Z",
+  "count": 178,
   "items": [
+    {
+      "title": "J、8月は原則飲水タイム導入 26～27年シーズン開幕から(共同通信)",
+      "summary": "Jリーグは23日、2026～27年シーズンで8月7日の開幕から同30日までの試合において、気温や湿度などから算出する暑さ指数（WBGT）の値にかかわらず、前後半に原則的に約1分間の飲水タイムを設ける",
+      "link": "https://news.yahoo.co.jp/articles/65be6e5679a514f9f6205c9bc523773dce74b99a?source=rss",
+      "pubDate": "2026-07-23T07:28:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/65be6e5679a514f9f6205c9bc523773dce74b99a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊリーグ新シーズンの飲水タイムとクーリングブレーク実施ルール決定 ハイドレーションは導入なし(日刊スポーツ)",
+      "summary": "Jリーグは23日、新シーズン（8月7日開幕）にて飲水タイムとクーリングブレークの実施ルールを決定したと発表した。FIFAワールドカップ（W杯）北中米大会で導入されたハイドレーションブレークは実施しな",
+      "link": "https://news.yahoo.co.jp/articles/9958ff226deb431969cf6f43096d9bb3e607f855?source=rss",
+      "pubDate": "2026-07-23T06:36:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9958ff226deb431969cf6f43096d9bb3e607f855?source=rss"
+        }
+      ]
+    },
     {
       "title": "口を覆う行為などが退場の対象に…Jリーグが競技規則改正の適用を発表(ゲキサカ)",
       "summary": "Jリーグは23日、日本サッカー協会(JFA)理事会で承認された「2026/27サッカー競技規則改正」を2026-27シーズンの公式戦から適用すると発表した。 適用が決定したのは3項目。「競技者が",
@@ -24,8 +58,8 @@
       "summary": "東京ヴェルディは23日、浦和レッズで6月までプレーしていたMF柴戸海（30）の加入を発表した。 経験豊富なボランチでJ1通算147試合6得点、6月まで行われた明治安田J1百年構想リーグ14試合0",
       "link": "https://news.yahoo.co.jp/articles/382062466e6341f9323835458817e6dfd9d7f170?source=rss",
       "pubDate": "2026-07-23T04:46:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "verdy"
       ],
@@ -34,8 +68,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/382062466e6341f9323835458817e6dfd9d7f170?source=rss"
         }
       ]
@@ -3497,24 +3531,19 @@
       ]
     },
     {
-      "title": "清水、FWアフメドフと契約合意解約「感謝の気持ちで胸いっぱいのままここを去ります」",
-      "summary": "清水エスパルスは15日、FWアフメド・アフメドフと双方合意の上、契約を合意解約することを発表した。 25年に清水に加入したアフメドフは百年構想リーグで3試合に出場。6月26日には移籍に向けた契約交渉中のため、同28日から始動するチームの活動…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455407-455407-fl",
-      "pubDate": "2026-07-15T01:20:58.000Z",
+      "title": "滋賀、新シーズンのキャプテンにDF鍋田純志が就任「先頭に立って全力で頑張りたい」",
+      "summary": "レイラック滋賀FCは15日、26-27シーズンのキャプテンがDF鍋田純志に決定したことを発表した。鍋田はクラブを通じ、「今シーズンキャプテンを務めさせていただくことになりました。たくさんの人の思いで掴み取ったJリーグの舞台。レイラックらしく…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455419-455419-fl",
+      "pubDate": "2026-07-15T05:22:35.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [
-        "trade",
-        "contract"
-      ],
+      "teams": [],
+      "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455407-455407-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455419-455419-fl"
         }
       ]
     },
