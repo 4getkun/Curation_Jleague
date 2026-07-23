@@ -1,7 +1,151 @@
 {
-  "generatedAt": "2026-07-23T01:49:47.430Z",
-  "count": 168,
+  "generatedAt": "2026-07-23T05:15:36.253Z",
+  "count": 176,
   "items": [
+    {
+      "title": "口を覆う行為などが退場の対象に…Jリーグが競技規則改正の適用を発表(ゲキサカ)",
+      "summary": "Jリーグは23日、日本サッカー協会(JFA)理事会で承認された「2026/27サッカー競技規則改正」を2026-27シーズンの公式戦から適用すると発表した。 適用が決定したのは3項目。「競技者が",
+      "link": "https://news.yahoo.co.jp/articles/0a82700608f633ac6226563252853e42ee37ff4e?source=rss",
+      "pubDate": "2026-07-23T05:08:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0a82700608f633ac6226563252853e42ee37ff4e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】浦和から契約解除の柴戸が加入「このような機会をいただいた関係者の皆様に心から感謝」(日刊スポーツ)",
+      "summary": "東京ヴェルディは23日、浦和レッズで6月までプレーしていたMF柴戸海（30）の加入を発表した。 経験豊富なボランチでJ1通算147試合6得点、6月まで行われた明治安田J1百年構想リーグ14試合0",
+      "link": "https://news.yahoo.co.jp/articles/382062466e6341f9323835458817e6dfd9d7f170?source=rss",
+      "pubDate": "2026-07-23T04:46:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/382062466e6341f9323835458817e6dfd9d7f170?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "契約違反で浦和退団の柴戸海が東京Ｖ加入「このような機会をいただいき心から感謝」(東スポWEB)",
+      "summary": "J1東京Vは23日、J1浦和からMF柴戸海（30）が加入すると発表した。 柴戸は東京Vを通じて「このような機会をいただいたクラブ関係者の皆様に心から感謝しています。素晴らしい歴史と伝統のある、偉",
+      "link": "https://news.yahoo.co.jp/articles/5f601fac95a618d10223b023fe36c6ebef207911?source=rss",
+      "pubDate": "2026-07-23T04:45:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5f601fac95a618d10223b023fe36c6ebef207911?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "口を覆う行為は退場処分に！ Jリーグ、北中米W杯でも採用された新たな競技規則を導入へ。VARレビューの対象も追加",
+      "summary": "Jリーグは23日、日本サッカー協会理事会にて承認された「2026/27 サッカー競技規則改正」について発表した。FIFAワールドカップ2026（北中米W杯）でも採用された新たな競技規則を導入する。今季のJリーグにおいては、3項目の適用が決定…",
+      "link": "https://www.footballchannel.jp/2026/07/23/post952908/",
+      "pubDate": "2026-07-23T04:07:15.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post952908/"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ、「2026/27 競技規則改正」の適用を発表 口を覆う行為や抗議によるフィールド離脱は退場処分に",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664947",
+      "pubDate": "2026-07-23T03:34:04.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664947"
+        }
+      ]
+    },
+    {
+      "title": "ハイドレーションブレークは行わず！ Jリーグ、飲水タイムなどの実施ルールを発表。百年構想リーグからの変更点は？",
+      "summary": "Jリーグは23日、2026/27シーズンにおける飲水タイム、クーリングブレークの実施ルールについての発表を行った。FIFAワールドカップ2026（北中米W杯）で導入されたハイドレーションブレークは、今季のJリーグにおいては実施されないという…",
+      "link": "https://www.footballchannel.jp/2026/07/23/post952896/",
+      "pubDate": "2026-07-23T03:31:15.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post952896/"
+        }
+      ]
+    },
+    {
+      "title": "JFAが最新の「移籍リスト」を公開 2選手が抹消…Jリーグ開幕まで2週間、駆け込み補強は？",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664932",
+      "pubDate": "2026-07-23T03:20:38.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664932"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグが飲水タイム実施ルールを発表 7月から暑さ厳しく…W杯のハイドレーションブレークは行わず",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/664933",
+      "pubDate": "2026-07-23T03:03:37.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/664933"
+        }
+      ]
+    },
     {
       "title": "【移籍情報】岡山、プレミアクラブ所属経験あり27歳独GKを獲得か？ 独紙「直接キャンプに呼び寄せた」 ｜ Jリーグ(DAZN News)",
       "summary": "【国内サッカー 最新ニュース＆移籍情報】ドイツ紙『ビルト』は日本時間7月23日、ファジアーノ岡山がドイツ人GKスティーブン・ベンダの獲得に動く可能性を報じた。 2026/27 明治安田J1リーグを戦",
@@ -3353,21 +3497,24 @@
       ]
     },
     {
-      "title": "水戸に新スタッフ加入…アナリストに細谷龍生氏、通訳に松本倖太朗氏が就任",
-      "summary": "水戸ホーリーホックは14日、トップチームスタッフにアナリストの細谷龍生氏(25)と通訳の松本倖太朗氏(24)が就任したことを発表した。 日本サッカー協会公認B級コーチライセンスを所持する細谷氏は、柏レイソルA.A.TOR'82での指導経験や…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455386-455386-fl",
-      "pubDate": "2026-07-14T07:08:23.000Z",
+      "title": "清水、FWアフメドフと契約合意解約「感謝の気持ちで胸いっぱいのままここを去ります」",
+      "summary": "清水エスパルスは15日、FWアフメド・アフメドフと双方合意の上、契約を合意解約することを発表した。 25年に清水に加入したアフメドフは百年構想リーグで3試合に出場。6月26日には移籍に向けた契約交渉中のため、同28日から始動するチームの活動…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455407-455407-fl",
+      "pubDate": "2026-07-15T01:20:58.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "hollyhock"
+        "s-pulse"
       ],
-      "topics": [],
+      "topics": [
+        "trade",
+        "contract"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455386-455386-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455407-455407-fl"
         }
       ]
     },
