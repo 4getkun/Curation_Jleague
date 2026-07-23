@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-07-23T07:54:29.123Z",
-  "count": 178,
+  "generatedAt": "2026-07-23T10:10:59.312Z",
+  "count": 184,
   "items": [
+    {
+      "title": "３月から日本代表監督に就任する大岩剛氏とは 清水商、筑波大で１学年先輩の藤田俊哉氏「冷静」 ロス五輪世代の川合徳孟は「熱い監督」(スポーツ報知)",
+      "summary": "日本サッカー協会（ＪＦＡ）は２３日、日本代表の森保一監督が来年のアジアカップまで指揮を執り、その後はＵ―２３日本代表を率いてきた大岩剛監督が後任に就くことを正式発表した。大岩氏と同じ静岡市出身で、中",
+      "link": "https://news.yahoo.co.jp/articles/70ca6ab1cbf9b6e73302f8f31ed0ae67ba5b5549?source=rss",
+      "pubDate": "2026-07-23T09:59:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/70ca6ab1cbf9b6e73302f8f31ed0ae67ba5b5549?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】森田晃樹が開幕戦アウト…左鎖骨骨折全治６～10週間、田辺秀斗は左膝内側側副靱帯損傷(日刊スポーツ)",
+      "summary": "東京ヴェルディは23日、主将のMF森田晃樹（25）が左鎖骨骨折で全治6～10週間、DF田辺秀斗（24）が左膝内側側副靱帯損傷で全治6～10週間と診断されたと発表された。 シーズン移行により8月7",
+      "link": "https://news.yahoo.co.jp/articles/d222a29a215c6d2fde7a05c4b6b5425688fb7fe4?source=rss",
+      "pubDate": "2026-07-23T09:50:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d222a29a215c6d2fde7a05c4b6b5425688fb7fe4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ、ウェンブリー・スタジアム周辺で屋外広告を展開！「世界に選ばれる舞台」へ8月開幕を海外発信",
+      "summary": "Jリーグは23日、2026/27シーズンの開幕に合わせ、イングランド・ロンドンのウェンブリー・スタジアム周辺で屋外広告を掲示すると発表した。",
+      "link": "https://www.footballchannel.jp/2026/07/23/post953085/",
+      "pubDate": "2026-07-23T09:31:24.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post953085/"
+        }
+      ]
+    },
+    {
+      "title": "「悲しいだろうなと」V・ファーレン長崎、笠柳翼が「プロにならなければと強く思った」理由。世界へ羽ばたく原点【コラム】",
+      "summary": "V・ファーレン長崎は7月10日、笠柳翼がベルギー2部のパトロ・アイスデン・マースメヘレンへ期限付き移籍することを発表した。2025シーズンの最終節ではJ1昇格を決める同点弾をアシストし、明治安田J1百年構想リーグでも14試合に出場したドリブ…",
+      "link": "https://www.footballchannel.jp/2026/07/23/post952899/",
+      "pubDate": "2026-07-23T09:00:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/23/post952899/"
+        }
+      ]
+    },
+    {
+      "title": "「生まれつきの心臓病手術をしました」女性初Ｊリーグ実況27歳アナ「公表してもしなくても…」(日刊スポーツ)",
+      "summary": "元SBC信越放送で、現在はフリーアナの平山未夢（27）が23日、自身のXを更新。心臓の手術を行ったと明かした。 「生まれつきの心臓病手術をしました」と告白し、ベッドに座る写真を公開。「ずくだせテ",
+      "link": "https://news.yahoo.co.jp/articles/9a7526385cf0d3f198a214294c8c4f8154dcf6c7?source=rss",
+      "pubDate": "2026-07-23T08:34:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9a7526385cf0d3f198a214294c8c4f8154dcf6c7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京Vに痛手 森田晃樹が鎖骨骨折で全治6〜10週間 開幕まで17日…田邉秀斗も靭帯損傷で離脱へ",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/665024",
+      "pubDate": "2026-07-23T08:33:43.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665024"
+        }
+      ]
+    },
     {
       "title": "J、8月は原則飲水タイム導入 26～27年シーズン開幕から(共同通信)",
       "summary": "Jリーグは23日、2026～27年シーズンで8月7日の開幕から同30日までの試合において、気温や湿度などから算出する暑さ指数（WBGT）の値にかかわらず、前後半に原則的に約1分間の飲水タイムを設ける",
@@ -3531,19 +3651,23 @@
       ]
     },
     {
-      "title": "滋賀、新シーズンのキャプテンにDF鍋田純志が就任「先頭に立って全力で頑張りたい」",
-      "summary": "レイラック滋賀FCは15日、26-27シーズンのキャプテンがDF鍋田純志に決定したことを発表した。鍋田はクラブを通じ、「今シーズンキャプテンを務めさせていただくことになりました。たくさんの人の思いで掴み取ったJリーグの舞台。レイラックらしく…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455419-455419-fl",
-      "pubDate": "2026-07-15T05:22:35.000Z",
+      "title": "「新たなステージに挑戦」C大阪の31歳MF吉野恭平がインドネシアへ",
+      "summary": "セレッソ大阪は15日、MF吉野恭平(31)がペルシジャ・ジャカルタ(インドネシア)へ完全移籍することを発表した。 吉野はこれまで東京ヴェルディやサンフレッチェ広島など国内の複数クラブでプレーし、2024年に大邱FC(韓国)へ。昨年6月にC大…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455431-455431-fl",
+      "pubDate": "2026-07-15T11:35:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455419-455419-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455431-455431-fl"
         }
       ]
     },
