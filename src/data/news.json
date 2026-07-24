@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-07-24T01:44:32.616Z",
-  "count": 203,
+  "generatedAt": "2026-07-24T05:00:31.158Z",
+  "count": 209,
   "items": [
+    {
+      "title": "ルヴァン杯がフジテレビ＆スカパー！で放送・配信決定…Jリーグ「2回戦以降は決定次第お知らせ」(サッカーキング)",
+      "summary": "Jリーグは24日、2026/27 Jリーグ ヤマザキビスケット ルヴァンカップのフジテレビおよびスカパー！での放送・配信が決定したことを発表した。 Jリーグは「この度、9月2日（水）より開幕する",
+      "link": "https://news.yahoo.co.jp/articles/a3ddb527a11beb8ea4e6e4f2510c9b31ecf25ee7?source=rss",
+      "pubDate": "2026-07-24T04:51:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a3ddb527a11beb8ea4e6e4f2510c9b31ecf25ee7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ルヴァンカップの放送・配信が決定",
+      "summary": "Jリーグは24日、2026-27シーズンのルヴァンカップがフジテレビとスカパー!で放送・配信されることを発表した。 スカパー!は準決勝までの全試合を生中継。フジテレビは1回戦のヴァンラーレ八戸対栃木シティ、SC相模原対ジュビロ磐田、栃木SC…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?455778-455778-fl",
+      "pubDate": "2026-07-24T04:10:26.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?455778-455778-fl"
+        }
+      ]
+    },
+    {
+      "title": "東京ヴェルディが選手の獲得を発表！ ヴァンラーレ八戸は選手の移籍を発表【23日のJリーグ移籍情報まとめ】",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月23日に発表された最新の新加入、退団情報などは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/07/24/post953316/",
+      "pubDate": "2026-07-24T02:19:31.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/24/post953316/"
+        }
+      ]
+    },
+    {
+      "title": "東京ヴェルディ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける東京ヴェルディの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/24/post814095/",
+      "pubDate": "2026-07-24T02:13:45.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/24/post814095/"
+        }
+      ]
+    },
+    {
+      "title": "浦和レッズ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける浦和レッズの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/24/post813000/",
+      "pubDate": "2026-07-24T02:13:23.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/24/post813000/"
+        }
+      ]
+    },
+    {
+      "title": "ヴァンラーレ八戸 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるヴァンラーレ八戸の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/24/post815625/",
+      "pubDate": "2026-07-24T02:09:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/24/post815625/"
+        }
+      ]
+    },
     {
       "title": "「マジかよ…」「やばすぎる」元Jリーガーで世界的レジェンドの”激変ボディ”にネット騒然！「何を食べればその身体になるんだ」(SOCCER DIGEST Web)",
       "summary": "元スペイン代表FWのレジェンドの近影が、大きな反響を呼んでいる。 現役時代にリバプールやチェルシー、そしてJリーグのサガン鳥栖でもプレーした現在42歳のフェルナンド・トーレスが７月23日、自身の",
@@ -4017,21 +4137,23 @@
       ]
     },
     {
-      "title": "清水がサポーターの不正入場を確認、処分を発表「大変遺憾な行為」",
-      "summary": "清水エスパルスは16日、サポーターによる不正入場が確認されたとして、2名を処分したことを発表した。 問題行為があったのは6月6日に日産スタジアムで開催された明治安田J1百年構想リーグプレーオフ第2戦の横浜FM戦で、正当なチケットまたは通行証…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455494-455494-fl",
-      "pubDate": "2026-07-16T09:43:52.000Z",
+      "title": "浦和DF荻原拓也が買取オプション付きでルーベンにレンタル加入「大きくなった姿をお見せできるよう精一杯頑張りたい」",
+      "summary": "ルーベン(ベルギー1部)は16日、浦和レッズからDF荻原拓也(26)が期限付き移籍加入することを発表した。期間は2027年6月30日までとしている。 荻原は浦和の下部組織出身で、トップチーム昇格後はアルビレックス新潟や京都サンガF.C.への…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455527-455527-fl",
+      "pubDate": "2026-07-17T02:05:21.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "s-pulse"
+        "reds"
       ],
-      "topics": [],
+      "topics": [
+        "trade"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455494-455494-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455527-455527-fl"
         }
       ]
     },
