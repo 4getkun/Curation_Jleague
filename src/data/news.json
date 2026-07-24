@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-23T23:51:18.268Z",
-  "count": 201,
+  "generatedAt": "2026-07-24T01:44:32.616Z",
+  "count": 203,
   "items": [
+    {
+      "title": "「マジかよ…」「やばすぎる」元Jリーガーで世界的レジェンドの”激変ボディ”にネット騒然！「何を食べればその身体になるんだ」(SOCCER DIGEST Web)",
+      "summary": "元スペイン代表FWのレジェンドの近影が、大きな反響を呼んでいる。 現役時代にリバプールやチェルシー、そしてJリーグのサガン鳥栖でもプレーした現在42歳のフェルナンド・トーレスが７月23日、自身の",
+      "link": "https://news.yahoo.co.jp/articles/27fa854e2cb29a6b22369b24d6c6d07458b12f98?source=rss",
+      "pubDate": "2026-07-24T01:38:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/27fa854e2cb29a6b22369b24d6c6d07458b12f98?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サッカー界の大谷翔平は！？ Jリーグ、190cm超えの若き日本人選手（5）やや伸び悩み？ 17歳でデビューした守備職人(フットボールチャンネル)",
+      "summary": "日本代表のFIFAワールドカップ2026（北中米W杯）は、ベスト32に終わった。長いスパンで今後の戦いを考える上では、大谷翔平級の逸材がサッカーを選ぶことも重要だが、すでにJリーグにはフィジカルに優",
+      "link": "https://news.yahoo.co.jp/articles/f003f4caff1946cbe96203846f3ca3b38d4b18a1?source=rss",
+      "pubDate": "2026-07-24T01:01:36.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f003f4caff1946cbe96203846f3ca3b38d4b18a1?source=rss"
+        }
+      ]
+    },
     {
       "title": "Jリーグ初挑戦の中井卓大、登録名は「中井卓大ピピ」(ゲキサカ)",
       "summary": "FC今治は23日、新加入のMF中井卓大について、登録名が中井卓大ピピとなることを公表した。ユニフォームネームは「PIPI」としている。 中井は幼少期に思い通りのプレーができず“ピーピー”泣いてし",
@@ -3981,19 +4017,21 @@
       ]
     },
     {
-      "title": "磐田U-21監督に元監督の安間氏、U-18監督と兼務…ユース所属3選手の2種登録も発表",
-      "summary": "ジュビロ磐田は16日、U-21チームの監督に元監督でU-18チームの監督を務める安間貴義氏が就任すると発表した。U-18監督も引き続き兼務する。 クラブを通じ「今シーズンから始まるU-21 Jリーグは、クラブにとっても大きな挑戦です。私自身…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455489-455489-fl",
-      "pubDate": "2026-07-16T08:23:56.000Z",
+      "title": "清水がサポーターの不正入場を確認、処分を発表「大変遺憾な行為」",
+      "summary": "清水エスパルスは16日、サポーターによる不正入場が確認されたとして、2名を処分したことを発表した。 問題行為があったのは6月6日に日産スタジアムで開催された明治安田J1百年構想リーグプレーオフ第2戦の横浜FM戦で、正当なチケットまたは通行証…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455494-455494-fl",
+      "pubDate": "2026-07-16T09:43:52.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "s-pulse"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455489-455489-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455494-455494-fl"
         }
       ]
     },
