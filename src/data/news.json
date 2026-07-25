@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-07-25T09:16:41.665Z",
-  "count": 243,
+  "generatedAt": "2026-07-25T10:51:18.048Z",
+  "count": 244,
   "items": [
+    {
+      "title": "「予想外すぎる」「ビッグサプライズ」24年に日本代表デビューした26歳MFの“電撃復帰”にファン驚嘆！「怪我がもったいなかった」(SOCCER DIGEST Web)",
+      "summary": "７月25日、サンフレッチェ広島がオーストリア１部のレッドブル・ザルツブルクから川村拓夢が完全移籍で加入することを発表した。 現在26歳のMFは、日本代表デビューを果たした2024年の夏に広島から",
+      "link": "https://news.yahoo.co.jp/articles/b52c14c03ffc68c060c76eccf867837cd042ea49?source=rss",
+      "pubDate": "2026-07-25T10:32:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b52c14c03ffc68c060c76eccf867837cd042ea49?source=rss"
+        }
+      ]
+    },
     {
       "title": "「悲しいだろうなと」長崎、笠柳翼が「プロにならなければと強く思った」理由。世界へ羽ばたく原点(フットボールチャンネル)",
       "summary": "V・ファーレン長崎は7月10日、笠柳翼がベルギー2部のパトロ・アイスデン・マースメヘレンへ期限付き移籍することを発表した。2025シーズンの最終節ではJ1昇格を決める同点弾をアシストし、明治安田J1",
@@ -4749,21 +4771,19 @@
       ]
     },
     {
-      "title": "Jリーグのリーグ戦24年ぶりゴールデン地上波全国生中継が決定!! 横浜FM対鹿島は“日本スポーツ興行史上最大規模の演出”を予定",
-      "summary": "Jリーグは17日、8月7日に行われるJ1第1節の横浜F・マリノス対鹿島アントラーズがフジテレビ系列で全国生中継されることを発表した。Jリーグによるとリーグ戦のゴールデンタイムでの地上波全国生中継は、2002年の8月31日に行われたベガルタ仙…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455538-455538-fl",
-      "pubDate": "2026-07-17T05:18:29.000Z",
+      "title": "J2秋田、新スタジアム整備の基本方針で県&市と合意!! 供用開始は2031年8月が目標",
+      "summary": "ブラウブリッツ秋田は17日、秋田市八橋運動公園(第2球技場、健康広場)を整備地とする新スタジアムの整備に関する基本方針で秋田県と秋田市との間で合意に達したことを報告した。 公開された基本方針では、事務分担を「整備に伴う契約や交付金申請等の事…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455541-455541-fl",
+      "pubDate": "2026-07-17T05:52:25.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "antlers"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455538-455538-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455541-455541-fl"
         }
       ]
     },
