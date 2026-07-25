@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-07-25T04:56:12.039Z",
-  "count": 236,
+  "generatedAt": "2026-07-25T07:10:39.337Z",
+  "count": 240,
   "items": [
+    {
+      "title": "【J1広島】MF川村拓夢がザルツブルグから完全移籍で2年ぶり復帰(RCC中国放送)",
+      "summary": "サンフレッチェ広島は25日、FCレッドブル・ザルツブルグ（オーストリア1部）の川村拓夢選手（26歳）が2026-2027シーズンから完全移籍で加入することを発表しました。2024年6月に移籍してから2",
+      "link": "https://news.yahoo.co.jp/articles/8f4afe11efb55d8ffb37ade26a1e1704aee1d985?source=rss",
+      "pubDate": "2026-07-25T07:02:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8f4afe11efb55d8ffb37ade26a1e1704aee1d985?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島、MF川村拓夢の2年ぶり復帰を発表 ザルツブルクから完全移籍「自分のキャリアを懸ける覚悟で」(FOOTBALL ZONE)",
+      "summary": "J1のサンフレッチェ広島は7月25日、オーストリア1部FCレッドブル・ザルツブルクからMF川村拓夢が完全移籍で加入することが決定したと発表した。背番号は8に決定している。 川村は原サッカークラブ",
+      "link": "https://news.yahoo.co.jp/articles/2933753aac6e95e552077f96948a8cbcd3d16ad0?source=rss",
+      "pubDate": "2026-07-25T07:02:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2933753aac6e95e552077f96948a8cbcd3d16ad0?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665377"
+        }
+      ]
+    },
+    {
+      "title": "たくろう、ガンバ大阪開幕前イベントでごますり「ガンバ色に染めていただくには良い素材」(日刊スポーツ)",
+      "summary": "お笑いコンビ、たくろう（赤木裕＝34、きむらバンド＝36）が25日、大阪市のグラングリーン大阪うめきた公園で「GAMBA OSAKA KICKOFF FES」に出演した。 Jリーグは今季から秋春",
+      "link": "https://news.yahoo.co.jp/articles/8641d81ab037c71014ecec471e471ae6f54a08a4?source=rss",
+      "pubDate": "2026-07-25T06:37:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8641d81ab037c71014ecec471e471ae6f54a08a4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "G大阪、新マスコットの名前を発表 13855件の応募から…「ハーチモ」に決定",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/665352",
+      "pubDate": "2026-07-25T05:23:17.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665352"
+        }
+      ]
+    },
     {
       "title": "【G大阪】「クラブの歴史と責任の重さは理解しているが、自信がなければここに座っていない」。クラブのレジェンド、明神智和・新監督が目指すのはどんなチームなのか？(サッカーマガジンWeb)",
       "summary": "ガンバ大阪はオーストリアキャンプを目前に控えた7月6日、イェンス・ヴィッシング監督のチーム離脱を発表。4日後の10日には正式に退任が決まった。そして18日、後任として、明神智和コーチの新監督就任が決定",
