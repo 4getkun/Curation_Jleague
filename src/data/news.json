@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T16:46:11.654Z",
+  "generatedAt": "2026-07-25T17:49:53.427Z",
   "count": 265,
   "items": [
     {
@@ -41,14 +41,14 @@
       "summary": "＜サッカー天皇杯福島県代表決定戦：福島7－0いわき古河＞◇25日◇決勝◇とうほう・みんなのスタジアム 決めたのは、流れの中から右足！ J3福島ユナイテッドFCのFWカズ（三浦知良）が59歳194日",
       "link": "https://news.yahoo.co.jp/articles/f8d3befbd647d681aa036bc01c4510e636191754?source=rss",
       "pubDate": "2026-07-25T14:54:56.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f8d3befbd647d681aa036bc01c4510e636191754?source=rss"
         }
       ]
