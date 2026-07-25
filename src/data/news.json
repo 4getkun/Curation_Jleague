@@ -1,7 +1,98 @@
 {
-  "generatedAt": "2026-07-25T10:51:18.048Z",
-  "count": 244,
+  "generatedAt": "2026-07-25T11:57:45.272Z",
+  "count": 249,
   "items": [
+    {
+      "title": "J3福島FWカズが公式戦1351日ぶり初ゴール！ 天皇杯福島県代表決定戦(スポニチアネックス)",
+      "summary": "天皇杯福島県代表決定戦が25日、福島市のとうスタで行われ、J3福島のFW三浦知良（59）が東北2部いわき古河FC戦の後半7分に加入後初ゴールを決め、7―0の快勝に導いた。カズの公式戦での得点はJFL",
+      "link": "https://news.yahoo.co.jp/articles/e9404cc7e1e0f164727f24f9c59931867cf62187?source=rss",
+      "pubDate": "2026-07-25T11:54:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e9404cc7e1e0f164727f24f9c59931867cf62187?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】小園海斗13試合ぶりベンチスタート 今季初めて二俣翔一が遊撃で先発出場(日刊スポーツ)",
+      "summary": "＜ヤクルト－広島＞◇25日◇神宮 広島小園海斗内野手（26）が7月9日ヤクルト戦以来13試合ぶりにスタメンから外れ、今季初めて二俣が遊撃で先発出場した。 小園は前日24日ヤクルト戦まで3戦連続",
+      "link": "https://news.yahoo.co.jp/articles/dbffdbf9b5fd6a1443bd0a282cbe142610d2c2ab?source=rss",
+      "pubDate": "2026-07-25T11:50:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dbffdbf9b5fd6a1443bd0a282cbe142610d2c2ab?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "昨年度選手権準V・鹿島学園、初戦4発勝利で得た収穫と課題…畝傍は50大会ぶり出場で1ゴールを記録(ゲキサカ)",
+      "summary": "[7.25 インハイ1回戦 鹿島学園高 4-1 畝傍高 JヴィレッジP2] 25日、令和8年度全国高校総体(インターハイ)男子サッカー競技(福島)が開幕。鹿島学園高(茨城)と畝傍高(奈良)の1回戦",
+      "link": "https://news.yahoo.co.jp/articles/50471d46e63baaef6a36b4b18e2d56e28ec1e5e1?source=rss",
+      "pubDate": "2026-07-25T11:41:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/50471d46e63baaef6a36b4b18e2d56e28ec1e5e1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "カズ、Ｊ３福島加入後初ゴール！ 天皇杯福島予選決勝で５９歳１４９日弾 キングが新たな金字塔で７発大勝導く(スポーツ報知)",
+      "summary": "◆天皇杯福島代表決定戦決勝 福島７―０いわき古河ＦＣ（２５日、とうスタ） Ｊ３福島のカズこと元日本代表ＦＷ三浦知良（５９）が、天皇杯福島代表決定戦のいわき古河ＦＣ戦で加入後初のゴールを決めた。先発",
+      "link": "https://news.yahoo.co.jp/articles/11ae93eca0cf1dce682fde403d4d9bfcc24f37e0?source=rss",
+      "pubDate": "2026-07-25T11:36:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/11ae93eca0cf1dce682fde403d4d9bfcc24f37e0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "キングカズが4年ぶりに公式戦でゴール!! 59歳4か月29日で先発、後半7分に福島加入後初弾",
+      "summary": "福島ユナイテッドFC(J3)のFW三浦知良が25日、天皇杯福島県予選決勝のいわき古河FC(東北2部)戦に先発出場してゴールを奪った。公式戦での得点は2022年のJFL以来となった。 キングカズこと三浦は59歳4か月29日で迎えたこの日、先発…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?455886-455886-fl",
+      "pubDate": "2026-07-25T10:54:34.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?455886-455886-fl"
+        }
+      ]
+    },
     {
       "title": "「予想外すぎる」「ビッグサプライズ」24年に日本代表デビューした26歳MFの“電撃復帰”にファン驚嘆！「怪我がもったいなかった」(SOCCER DIGEST Web)",
       "summary": "７月25日、サンフレッチェ広島がオーストリア１部のレッドブル・ザルツブルクから川村拓夢が完全移籍で加入することを発表した。 現在26歳のMFは、日本代表デビューを果たした2024年の夏に広島から",
@@ -4733,6 +4824,25 @@
       ]
     },
     {
+      "title": "岡山内定MF小倉幸成やDF小川遼也ら7選手の特別指定選手申請を承認",
+      "summary": "日本サッカー協会(JFA)は17日、JFA・Jリーグ特別指定選手として7選手を承認したと発表した。 ファジアーノ岡山に内定するMF小倉幸成(法政大)とDF小川遼也(筑波大)、アビスパ福岡に内定するDF坂井悠飛(福岡大)、FC町田ゼルビアに内…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455548-455548-fl",
+      "pubDate": "2026-07-17T08:11:41.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455548-455548-fl"
+        }
+      ]
+    },
+    {
       "title": "C大阪MF石渡ネルソン、シント＝トロイデンへ完全移籍 海外挑戦へ「今だと思い決断しました」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/663691",
@@ -4767,23 +4877,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/663675"
-        }
-      ]
-    },
-    {
-      "title": "J2秋田、新スタジアム整備の基本方針で県&市と合意!! 供用開始は2031年8月が目標",
-      "summary": "ブラウブリッツ秋田は17日、秋田市八橋運動公園(第2球技場、健康広場)を整備地とする新スタジアムの整備に関する基本方針で秋田県と秋田市との間で合意に達したことを報告した。 公開された基本方針では、事務分担を「整備に伴う契約や交付金申請等の事…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455541-455541-fl",
-      "pubDate": "2026-07-17T05:52:25.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455541-455541-fl"
         }
       ]
     },
