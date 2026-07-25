@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-07-25T07:10:39.337Z",
-  "count": 240,
+  "generatedAt": "2026-07-25T09:16:41.665Z",
+  "count": 243,
   "items": [
+    {
+      "title": "「悲しいだろうなと」長崎、笠柳翼が「プロにならなければと強く思った」理由。世界へ羽ばたく原点(フットボールチャンネル)",
+      "summary": "V・ファーレン長崎は7月10日、笠柳翼がベルギー2部のパトロ・アイスデン・マースメヘレンへ期限付き移籍することを発表した。2025シーズンの最終節ではJ1昇格を決める同点弾をアシストし、明治安田J1",
+      "link": "https://news.yahoo.co.jp/articles/35690f54c5e8b850a8543c3f3596d215ed91460d?source=rss",
+      "pubDate": "2026-07-25T09:10:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/35690f54c5e8b850a8543c3f3596d215ed91460d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪、新マスコットの名前が「ハーチモ」に決定！13,855件の応募から選出",
+      "summary": "ガンバ大阪は25日、新マスコットの名前が「ハーチモ」に決定したことを発表した。",
+      "link": "https://www.footballchannel.jp/2026/07/25/post953631/",
+      "pubDate": "2026-07-25T07:50:18.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/25/post953631/"
+        }
+      ]
+    },
+    {
+      "title": "川村拓夢、サンフレッチェ広島に2年ぶり復帰！ザルツブルクから完全移籍「思い描いた時間ではなかった」",
+      "summary": "サンフレッチェ広島は25日、FCレッドブル・ザルツブルク（オーストリア1部）に所属していたMF川村拓夢が完全移籍で加入することを発表した。",
+      "link": "https://www.footballchannel.jp/2026/07/25/post953619/",
+      "pubDate": "2026-07-25T07:36:32.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/25/post953619/"
+        }
+      ]
+    },
     {
       "title": "【J1広島】MF川村拓夢がザルツブルグから完全移籍で2年ぶり復帰(RCC中国放送)",
       "summary": "サンフレッチェ広島は25日、FCレッドブル・ザルツブルグ（オーストリア1部）の川村拓夢選手（26歳）が2026-2027シーズンから完全移籍で加入することを発表しました。2024年6月に移籍してから2",
@@ -4688,6 +4749,25 @@
       ]
     },
     {
+      "title": "Jリーグのリーグ戦24年ぶりゴールデン地上波全国生中継が決定!! 横浜FM対鹿島は“日本スポーツ興行史上最大規模の演出”を予定",
+      "summary": "Jリーグは17日、8月7日に行われるJ1第1節の横浜F・マリノス対鹿島アントラーズがフジテレビ系列で全国生中継されることを発表した。Jリーグによるとリーグ戦のゴールデンタイムでの地上波全国生中継は、2002年の8月31日に行われたベガルタ仙…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455538-455538-fl",
+      "pubDate": "2026-07-17T05:18:29.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455538-455538-fl"
+        }
+      ]
+    },
+    {
       "title": "J1開幕戦、地上波での全国生中継が決定 横浜FMと鹿島の”オリ10”対決…ゴールデンタイム放送は24年ぶり",
       "summary": "",
       "link": "https://www.football-zone.net/archives/663646",
@@ -4704,23 +4784,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/663646"
-        }
-      ]
-    },
-    {
-      "title": "U-21 Jリーグの公式試合球が決定",
-      "summary": "Jリーグは17日、2026-27シーズンのU-21 Jリーグにおける公式試合球がイミオ社提供の「TSUBASA J PRO」に決まったことを発表した。 このボールは百年構想リーグで採用されたものと同じ製品。「最高品質のマイクロファイバーPU…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455534-455534-fl",
-      "pubDate": "2026-07-17T04:09:54.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455534-455534-fl"
         }
       ]
     },
