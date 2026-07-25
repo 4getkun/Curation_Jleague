@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-07-25T18:51:51.689Z",
-  "count": 265,
+  "generatedAt": "2026-07-25T20:05:18.860Z",
+  "count": 266,
   "items": [
+    {
+      "title": "【広島】新井貴浩監督、悔しさにじます「勝ち切りたかった」９回２死から同点に追いつくも延長１０回に力尽く 球団史上初のシーズン３度目の２戦連続サヨナラ負けで７月負け越し決定(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ ヤクルト２ｘ―１広島＝延長１０回＝（２５日・神宮） 球団史上初のシーズン３度目の２戦連続サヨナラ負け。１―１の延長１０回１死満塁から遠藤が犠飛を許した。前夜の２４日・ヤクルト",
+      "link": "https://news.yahoo.co.jp/articles/12faac8f49c3050955a499ae6c29b4650072efef?source=rss",
+      "pubDate": "2026-07-25T20:00:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/12faac8f49c3050955a499ae6c29b4650072efef?source=rss"
+        }
+      ]
+    },
     {
       "title": "「永長選手にアシストをして欲しいと言い…」36歳差コンビで待望ゴール奪ったキングカズ「期待に応えたかった」(ゲキサカ)",
       "summary": "[7.25 天皇杯福島県予選 福島 7-0 いわき古河FC] 福島ユナイテッドFCのFW三浦知良が25日の天皇杯福島県予選決勝のいわき古河FC(東北2部)戦後、クラブ公式サイトを通じてアシストした",
@@ -24,14 +43,14 @@
       "summary": "＜サッカー天皇杯福島県代表決定戦：福島7－0いわき古河＞◇25日◇決勝◇とうほう・みんなのスタジアム J3福島ユナイテッドFCのFWカズ（三浦知良）が59歳4カ月29日（194日）で約3年8カ月ぶ",
       "link": "https://news.yahoo.co.jp/articles/3db481c1a6683ef9960be13afed4766bddecccfc?source=rss",
       "pubDate": "2026-07-25T15:12:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3db481c1a6683ef9960be13afed4766bddecccfc?source=rss"
         }
       ]
