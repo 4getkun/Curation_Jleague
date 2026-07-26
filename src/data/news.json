@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-07-26T09:50:11.249Z",
-  "count": 285,
+  "generatedAt": "2026-07-26T11:13:10.742Z",
+  "count": 287,
   "items": [
+    {
+      "title": "難役を楽しむ新戦力。清水、須貝英大が枯渇していた右SBを自分色に染める。欧州キャンプで示した成長(フットボールチャンネル)",
+      "summary": "今夏、清水エスパルスは積極補強を敢行したが、最終ラインの新戦力は1名のみ。その1人となった須貝英大は、8日間にわたってトレーニングに打ち込んだオーストリアキャンプにて、新天地への確かな適応力を示して",
+      "link": "https://news.yahoo.co.jp/articles/4da5c42d2cb2dcacbba897944a473443eac6ee89?source=rss",
+      "pubDate": "2026-07-26T11:03:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4da5c42d2cb2dcacbba897944a473443eac6ee89?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「60代に突入しても…」J3福島の59歳カズ、公式戦4年ぶりゴールにフランス紙が驚きの報道「屈指の長期にわたるキャリアに新たな一章を刻む」(中日スポーツ)",
+      "summary": "サッカーのＪ３福島に所属する元日本代表ＦＷ三浦知良（５９）が２５日の天皇杯・福島県代表決定戦のいわき古河ＦＣ戦でゴールを挙げたことについて、フランスのスポーツ紙レキップ電子版が「５９歳の日本のレジェ",
+      "link": "https://news.yahoo.co.jp/articles/0c4cc58bdaee3a72b3be68e994760592ff9839b3?source=rss",
+      "pubDate": "2026-07-26T11:01:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0c4cc58bdaee3a72b3be68e994760592ff9839b3?source=rss"
+        }
+      ]
+    },
     {
       "title": "「Ｗ杯全然行けたよなあ」36歳元日本代表DFがトッテナム相手に躍動！「プレミアでやれたのでは？」「まだもっと上でやれるやろ笑」(SOCCER DIGEST Web)",
       "summary": "ＡリーグのオークランドFC（ニュージーランド）に所属する酒井宏樹が、高井幸大を擁するプレミアリーグの名門トッテナムを相手に躍動した。 Ｊリーグや欧州などで活躍してきた36歳の元日本代表DFは、現",
@@ -5136,6 +5174,27 @@
       ]
     },
     {
+      "title": "G大阪が明神智和コーチの監督就任を発表「責任の重さも十分理解しています」",
+      "summary": "ガンバ大阪は18日、明神智和コーチ(48)が監督に就任することが決まったと発表した。 G大阪では2026シーズンからイェンス・ヴィッシング氏(38)が指揮を執り、J1百年構想リーグを9位でフィニッシュ。今月10日に同氏の電撃退任およびアルイ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455579-455579-fl",
+      "pubDate": "2026-07-18T04:54:51.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455579-455579-fl"
+        }
+      ]
+    },
+    {
       "title": "早川友基がグランドキャニオンでも守護神務める？ 再渡米してオフ写真をインスタで公開(日刊スポーツ)",
       "summary": "W杯北中米大会の日本代表GK早川友基（27＝鹿島アントラーズ）が、18日までに自身のインスタグラムを更新。 W杯敗退後のオフを利用し、再渡米。ラスベガスやアリゾナ州のグランドキャニオンなどを旅行",
       "link": "https://news.yahoo.co.jp/articles/950fdf13f63c7bb34392eb2eebf7bb9382dc8bcd?source=rss",
@@ -5235,25 +5294,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9415e8b3604d8b2020c814f60769c079a17337f9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "千葉MF杉山直宏が「素直で思いやりのある彼女」と結婚",
-      "summary": "ジェフユナイテッド千葉は18日、MF杉山直宏(27)が入籍したことを発表した。 杉山は2024シーズン途中から千葉でプレー。2026シーズンのJ1百年構想リーグでは8試合に出場した。 クラブ公式サイトを通じて「私事ではありますが、この度、結…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455570-455570-fl",
-      "pubDate": "2026-07-18T02:21:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455570-455570-fl"
         }
       ]
     },
