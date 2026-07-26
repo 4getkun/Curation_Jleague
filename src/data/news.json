@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-07-26T11:13:10.742Z",
+  "generatedAt": "2026-07-26T12:36:10.393Z",
   "count": 287,
   "items": [
+    {
+      "title": "【天皇杯】各地で都道府県予選が進行中！ 鳥取県はガイナーレ鳥取がYonago Genki SCを下して出場決定(サッカーマガジンWeb)",
+      "summary": "天皇杯 JFA 第106回全 日本サッカー選手権大会の予選となる都道府県選手権大会が各地で開催されている。7月26日には鳥取県選手権大会の決勝が鳥取市のAxisバードスタジアムで行なわれ、J3のガイナ",
+      "link": "https://news.yahoo.co.jp/articles/b1b78f9312c3b0c8e733dc75e12f92b3dc983419?source=rss",
+      "pubDate": "2026-07-26T12:13:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b1b78f9312c3b0c8e733dc75e12f92b3dc983419?source=rss"
+        }
+      ]
+    },
     {
       "title": "難役を楽しむ新戦力。清水、須貝英大が枯渇していた右SBを自分色に染める。欧州キャンプで示した成長(フットボールチャンネル)",
       "summary": "今夏、清水エスパルスは積極補強を敢行したが、最終ラインの新戦力は1名のみ。その1人となった須貝英大は、8日間にわたってトレーニングに打ち込んだオーストリアキャンプにて、新天地への確かな適応力を示して",
@@ -5132,12 +5149,12 @@
       ]
     },
     {
-      "title": "広島で引退した茶島雄介氏のセカンドキャリアが決定「本当に嬉しく思います」(ゲキサカ)",
-      "summary": "サンフレッチェ広島は18日、茶島雄介氏(34)が普及部スクールコーディネーターに就任することを発表した。 茶島氏は広島ユースから東京学芸大を経由し、2014年に広島でプロキャリアをスタート。20",
-      "link": "https://news.yahoo.co.jp/articles/49cf73d57f82b621f323f44cbe017a31809971f4?source=rss",
+      "title": "広島で引退した茶島雄介氏のセカンドキャリアが決定「本当に嬉しく思います」",
+      "summary": "サンフレッチェ広島は18日、茶島雄介氏(34)が普及部スクールコーディネーターに就任することを発表した。 茶島氏は地元の広島ユースから東京学芸大を経由し、2014年に広島でプロキャリアをスタート。2018年から2019年までジェフユナイテッ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455580-455580-fl",
       "pubDate": "2026-07-18T05:49:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "sanfrecce"
       ],
@@ -5145,6 +5162,11 @@
         "retirement"
       ],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455580-455580-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -5170,27 +5192,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7a38e9dfb6c92d8b60fd91adf7c3d97bc0d05440?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪が明神智和コーチの監督就任を発表「責任の重さも十分理解しています」",
-      "summary": "ガンバ大阪は18日、明神智和コーチ(48)が監督に就任することが決まったと発表した。 G大阪では2026シーズンからイェンス・ヴィッシング氏(38)が指揮を執り、J1百年構想リーグを9位でフィニッシュ。今月10日に同氏の電撃退任およびアルイ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455579-455579-fl",
-      "pubDate": "2026-07-18T04:54:51.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455579-455579-fl"
         }
       ]
     },
