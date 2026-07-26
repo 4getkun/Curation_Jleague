@@ -1,7 +1,122 @@
 {
-  "generatedAt": "2026-07-26T12:36:10.393Z",
-  "count": 287,
+  "generatedAt": "2026-07-26T14:23:57.760Z",
+  "count": 293,
   "items": [
+    {
+      "title": "【相撲編集部が選ぶ名古屋場所千秋楽の一番】「やり切った」安青錦が巴戦を制し、３場所ぶり３回目の優勝(BBM Sports)",
+      "summary": "安青錦（寄り切り）霧島 「安青錦には、熱海富士の突進を止める力は、もう残っていないのではないか……」 安青錦には失礼ながら、そんな気がした。熱海富士が初優勝するのではないか、そんな予感は、かなり",
+      "link": "https://news.yahoo.co.jp/articles/29797c4b19ad6f58e3fe2d434a914714aabfc4a7?source=rss",
+      "pubDate": "2026-07-26T14:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/29797c4b19ad6f58e3fe2d434a914714aabfc4a7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドルトムント、今夏の来日メンバー最終28名を発表！ 山本天翔やW杯出場組も一部帯同…C大阪＆FC東京と対戦(サッカーキング)",
+      "summary": "ドルトムントは26日、今夏に日本で開催されるプレシーズンツアーに参加する最終メンバー28名を発表した。 ブンデスリーガの強豪クラブであるドルトムントは、今夏に2024年以来2年ぶりとなる来日ツア",
+      "link": "https://news.yahoo.co.jp/articles/183c30d5e901890e63b07a3bac70c0e2346abca5?source=rss",
+      "pubDate": "2026-07-26T13:44:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/183c30d5e901890e63b07a3bac70c0e2346abca5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】新井監督、７回無死満塁から投入し３失点の鈴木健矢に「内容的には良かった」／一問一答(日刊スポーツ)",
+      "summary": "＜ヤクルト3－4広島＞◇26日◇神宮 一時は3点リードを追いつかれながらも、9回にヤクルト抑えのキハダを攻略し、連敗を止めて最下位転落を回避した。9回に先頭坂倉の二塁打から1死三塁とし、佐々木一塁",
+      "link": "https://news.yahoo.co.jp/articles/09bf7fbbfcd0e8b4069b34019edbc77fe51e3098?source=rss",
+      "pubDate": "2026-07-26T13:32:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/09bf7fbbfcd0e8b4069b34019edbc77fe51e3098?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】９回に佐々木泰が決勝打「絶対勝ちたいという気持ちだけ」連敗ストップで最下位転落回避(日刊スポーツ)",
+      "summary": "＜ヤクルト3－4広島＞◇26日◇神宮 一時は3点リードを追いつかれながらも、9回にヤクルト抑えキハダを攻略し、連敗を止めて最下位転落を回避した。同点の9回。先頭坂倉将吾捕手（28）が二塁打を放つと",
+      "link": "https://news.yahoo.co.jp/articles/9f4e19d53fb0383de6807d37d452af3d6191bbdf?source=rss",
+      "pubDate": "2026-07-26T13:22:50.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9f4e19d53fb0383de6807d37d452af3d6191bbdf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】佐々木泰「何とか絶対勝ちたいという気持ちだけ」最下位転落の危機救う決勝適時二塁打(日刊スポーツ)",
+      "summary": "＜ヤクルト3－4広島＞◇26日◇神宮 広島佐々木泰内野手（23）が、ヤクルトの抑えキハダから決勝打を放った。3点リードを追いつかれて迎えた9回。1死三塁の好機でバットを短く握り、直球を振り抜いた。",
+      "link": "https://news.yahoo.co.jp/articles/e231dd5fef22699c30663d47f2de990fa2157e45?source=rss",
+      "pubDate": "2026-07-26T13:18:29.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e231dd5fef22699c30663d47f2de990fa2157e45?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】３点差追いつかれるも９回に佐々木泰がキハダから決勝打、連敗ストップで最下位転落回避(日刊スポーツ)",
+      "summary": "＜ヤクルト3－4広島＞◇26日◇神宮 一時は3点リードを追いつかれながらも、9回にヤクルトの抑えキハダを攻略し、連敗を止めて最下位転落を回避した。同点の9回。先頭坂倉将吾捕手（28）が二塁打を放つ",
+      "link": "https://news.yahoo.co.jp/articles/c466a8a1cbaf8afa944512c82e49c8b4cf2b7a4f?source=rss",
+      "pubDate": "2026-07-26T12:36:59.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c466a8a1cbaf8afa944512c82e49c8b4cf2b7a4f?source=rss"
+        }
+      ]
+    },
     {
       "title": "【天皇杯】各地で都道府県予選が進行中！ 鳥取県はガイナーレ鳥取がYonago Genki SCを下して出場決定(サッカーマガジンWeb)",
       "summary": "天皇杯 JFA 第106回全 日本サッカー選手権大会の予選となる都道府県選手権大会が各地で開催されている。7月26日には鳥取県選手権大会の決勝が鳥取市のAxisバードスタジアムで行なわれ、J3のガイナ",
@@ -5152,7 +5267,7 @@
       "title": "広島で引退した茶島雄介氏のセカンドキャリアが決定「本当に嬉しく思います」",
       "summary": "サンフレッチェ広島は18日、茶島雄介氏(34)が普及部スクールコーディネーターに就任することを発表した。 茶島氏は地元の広島ユースから東京学芸大を経由し、2014年に広島でプロキャリアをスタート。2018年から2019年までジェフユナイテッ…",
       "link": "https://web.gekisaka.jp/news/jleague/detail/?455580-455580-fl",
-      "pubDate": "2026-07-18T05:49:01.000Z",
+      "pubDate": "2026-07-18T05:57:38.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
@@ -5166,11 +5281,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?455580-455580-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/49cf73d57f82b621f323f44cbe017a31809971f4?source=rss"
         }
       ]
     },
