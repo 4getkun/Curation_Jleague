@@ -1,7 +1,219 @@
 {
-  "generatedAt": "2026-07-27T01:06:44.115Z",
-  "count": 301,
+  "generatedAt": "2026-07-27T05:02:33.342Z",
+  "count": 312,
   "items": [
+    {
+      "title": "広島・元日本代表ＦＷ浅野拓磨が負傷 左ヒラメ筋肉離れ ８・８Ｊ１開幕節出場へ暗雲(スポーツ報知)",
+      "summary": "Ｊ１の広島は２７日、所属する元日本代表ＦＷ浅野拓磨が２５日のトレーニングマッチ（非公開）で負傷し、２６日に広島県内の病院で検査を受けた結果、左ヒラメ筋肉離れと診断されたことを発表した。全治は発表され",
+      "link": "https://news.yahoo.co.jp/articles/fdfbd7b0c8a2eee0619044ee4855214ce553122a?source=rss",
+      "pubDate": "2026-07-27T04:47:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fdfbd7b0c8a2eee0619044ee4855214ce553122a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【陸上】女子200mジェファーソン・ウッデン21秒69でV、男子800mは17歳ルッケンハウスが初制覇 ライルズは200m9位／全米選手権(月刊陸上競技)",
+      "summary": "全米選手権の4日目が7月26日（現地時間）に米国・ニューヨークで行われ、女子200mは東京世界選手権金メダルのM.ジェファーソン・ウッデンが今季ベストの21秒69（＋1.0）で優勝した。 ジェファー",
+      "link": "https://news.yahoo.co.jp/articles/f8bbc22757258fb1f2c5e578ebc521bd6ec04dac?source=rss",
+      "pubDate": "2026-07-27T04:45:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f8bbc22757258fb1f2c5e578ebc521bd6ec04dac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ベリンガム弟来日決定「ジョーブ来てくれるのまじうれしい！」「これは熱い」ドルトムントツアー(日刊スポーツ)",
+      "summary": "ドイツ1部の強豪ドルトムントは26日、ジャパンツアーの来日メンバー28人を発表した。 24年以来の来日ツアーで、29日に大阪・ヤンマーハナサカスタジアムでセレッソ大阪と、8月1日に東京・MUFG",
+      "link": "https://news.yahoo.co.jp/articles/398f4eab8e4763302747368fb185f398eb7b1a05?source=rss",
+      "pubDate": "2026-07-27T04:30:51.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/398f4eab8e4763302747368fb185f398eb7b1a05?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「止めても決められてもつねに平常心で」GK根岸佑成(川崎F U-15生田)がリバプールU15とのPK戦で圧巻2ストップ!!(ゲキサカ)",
+      "summary": "[7.26 アカデミーマッチ第2戦 U-15 J選抜 1-1(PK3-1) リバプールU15 味フィ西] GK根岸佑成(川崎F U-15生田/3年)がアカデミーマッチ最終決戦のPK戦で2ストップの",
+      "link": "https://news.yahoo.co.jp/articles/2b9cf6f050353bf9a4e87486fb1f5a49178b7808?source=rss",
+      "pubDate": "2026-07-27T04:29:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2b9cf6f050353bf9a4e87486fb1f5a49178b7808?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サンフレッチェ広島に痛手。10年ぶり復帰の浅野拓磨が負傷離脱。左ヒラメ筋肉離れと診断",
+      "summary": "J1リーグのサンフレッチェ広島は27日、31歳のFW浅野拓磨がトレーニングマッチ中に負傷し、離脱したことを発表した。クラブ公式サイトで伝えられている。2015年以来のJ1制覇を目指す広島にとって、10年ぶりに復帰した浅野の負傷は大きな痛手と…",
+      "link": "https://www.footballchannel.jp/2026/07/27/post954213/",
+      "pubDate": "2026-07-27T03:58:40.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/27/post954213/"
+        }
+      ]
+    },
+    {
+      "title": "ドルトムント来日メンバー28人発表 ドイツ代表MFバイアー、ヌメチャ、ベリンガム弟ら(日刊スポーツ)",
+      "summary": "ドイツ1部の強豪ドルトムントは26日、ジャパンツアーの来日メンバー28人を発表した。 24年以来の来日ツアーで、29日に大阪・ヤンマーハナサカスタジアムでセレッソ大阪と、8月1日に東京・MUFG",
+      "link": "https://news.yahoo.co.jp/articles/a5cc8b8d5d31d39d7df44b782d2d7bac01ce5986?source=rss",
+      "pubDate": "2026-07-27T03:52:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a5cc8b8d5d31d39d7df44b782d2d7bac01ce5986?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「もっとシュート打て」百戦錬磨の名将の言葉に金子翔太は心を動かされた。30代で挑む松本山雅FCでの再ブレイク「自分の価値を高めたい」【コラム】",
+      "summary": "かつてJ1の舞台で存在感を放った松本山雅FCは、現在5シーズンにわたってJ3での戦いを強いられている。再浮上を目指すクラブに今夏加わったのが、清水エスパルスやジュビロ磐田などでプレーした金子翔太だ。百戦錬磨の石崎信弘監督とともに、経験豊富な…",
+      "link": "https://www.footballchannel.jp/2026/07/27/post954168/",
+      "pubDate": "2026-07-27T03:30:10.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/27/post954168/"
+        }
+      ]
+    },
+    {
+      "title": "18歳MF山本天翔も帯同！ ドルトムントがジャパンツアーのメンバーを発表！ ベリンガム弟などが順当にリスト入り",
+      "summary": "ドイツ・ブンデスリーガのボルシア・ドルトムントは26日、ジャパンツアーに帯同するメンバーリストを発表した。クラブの公式Xで伝えられている。ガンバ大阪からのレンタル移籍でドルトムントに加入している18歳のMF山本天翔も帯同メンバー入りを果たし…",
+      "link": "https://www.footballchannel.jp/2026/07/27/post954204/",
+      "pubDate": "2026-07-27T03:13:33.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/27/post954204/"
+        }
+      ]
+    },
+    {
+      "title": "元日決勝が復活の天皇杯、都道府県代表が新たに3県で決定 高知は11年連続…残るは14席",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/665644",
+      "pubDate": "2026-07-27T02:27:54.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665644"
+        }
+      ]
+    },
+    {
+      "title": "J1岡山が独自スマホ決済「ファジアーノペイ」を提供開始 タイパ向上…買い物がクラブ支援に直結",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/665630",
+      "pubDate": "2026-07-27T02:06:34.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665630"
+        }
+      ]
+    },
+    {
+      "title": "欧州名門の日本語ユニ「リアルタイム翻訳みたい」 特別仕様が「Jリーグでもないんちゃう？」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/665592",
+      "pubDate": "2026-07-27T01:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665592"
+        }
+      ]
+    },
     {
       "title": "“59歳”カズに対し「何も知らずに批判しているんだな」。元同僚が目の当たりにしてきた「ゴールを決めるまでの変わらぬ準備や努力」(SOCCER DIGEST Web)",
       "summary": "「カズさん、ゴールを決めましたね！」 元Ｊリーガーの瀬沼優司氏が自身のＸで発信。「最高に嬉しいですね！」と喜ぶ。 J３の福島ユナイテッドFCに所属する三浦知良は７月25日、天皇杯の福島県代表決",
@@ -5324,6 +5536,25 @@
       ]
     },
     {
+      "title": "「覚悟を持って受けました」清水の新たなキャプテン&副キャプテンが決定",
+      "summary": "清水エスパルスは18日、2026-27シーズンのキャプテンにDF住吉ジェラニレショーン(28)、副キャプテンにDF本多勇喜(35)、FW北川航也(29)、FWオ・セフン(27)が就任することを発表した。 清水では前キャプテンのMF宇野禅斗(…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455588-455588-fl",
+      "pubDate": "2026-07-18T09:28:07.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455588-455588-fl"
+        }
+      ]
+    },
+    {
       "title": "伊東純也が「やっぱりここにいた」 テーブル囲む3人＋1人…ファン注目「顔小さすぎ」(FOOTBALL ZONE)",
       "summary": "元日本代表FWの大津祐樹氏は自身のXを更新し、柏レイソル時代の元チームメイトである伊東純也、今井智基、武富孝介らとの「お疲れ様会」の様子を投稿した。柏の系譜を感じさせる豪華な顔合わせに、ファンからは",
       "link": "https://news.yahoo.co.jp/articles/d67b9215e76b8a5c3daf782440450d331dc46beb?source=rss",
@@ -5403,30 +5634,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/6ab39dc5e52a6596736f7773cbd91b578260e591?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「これ待ってた!」「フロンターレ2024ユニに見える」山形がファンクラブデー限定ユニフォームを着用へ",
-      "summary": "モンテディオ山形は18日、2026-27シーズンのファンクラブデー限定の着用ユニフォームが決定したと発表した。 このファンクラブユニフォームは、先日の決起集会でサプライズ発表。ライトブルーをメインカラーとし、1stユニフォームから引き継いだ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455585-455585-fl",
-      "pubDate": "2026-07-18T07:25:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455585-455585-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3b4d2c86d1e0fec776b295b9979e1333bf2636f1?source=rss"
         }
       ]
     },
