@@ -1,7 +1,107 @@
 {
-  "generatedAt": "2026-07-27T05:02:33.342Z",
-  "count": 312,
+  "generatedAt": "2026-07-27T08:51:34.859Z",
+  "count": 317,
   "items": [
+    {
+      "title": "Jリーグとブルアカがコラボ企画実施!J1全20クラブの限定描き下ろしイラストグッズを展開(ゲキサカ)",
+      "summary": "Jリーグとスマートフォン向けアプリゲーム「ブルーアーカイブ -Blue Archive-」のコラボレーション企画が27日に発表になった。 ブルーアーカイブは2021年2月にサービスを開始したスマ",
+      "link": "https://news.yahoo.co.jp/articles/1a5f21024a5d3670dba79bce23e9f972ecea4631?source=rss",
+      "pubDate": "2026-07-27T08:44:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1a5f21024a5d3670dba79bce23e9f972ecea4631?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サンフレッチェ広島レジーナ、サッカー女子日本代表に５選手が選出！柳瀬、神谷が初招集(アスリートマガジンWEB)",
+      "summary": "サンフレッチェ広島レジーナは27日、『第20回アジア競技大会』サッカー女子日本代表メンバーに、市瀬千里、上野真実、中嶋淑乃、神谷千菜、柳瀬楓菜が選出されたと発表した。 『第20回アジア競技大会』は",
+      "link": "https://news.yahoo.co.jp/articles/7f6c49767b5e8c8d10f6a765a8f77234fe4857ea?source=rss",
+      "pubDate": "2026-07-27T08:30:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7f6c49767b5e8c8d10f6a765a8f77234fe4857ea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドルトムントが来日して“神対応” 即席サイン会に加えてＴシャツ、ステッカー、水まで配布(日刊スポーツ)",
+      "summary": "今夏日本で親善試合を行うブンデスリーガのドルトムントが来日し、ファンに“神対応”した。29日にC大阪（ハナサカ）、8月1日にFC東京（MUFG国立）と対戦するドイツの強豪は、27日午後に大阪入り。大",
+      "link": "https://news.yahoo.co.jp/articles/f3e611135e4c9b57362b51431a3ead62c2379467?source=rss",
+      "pubDate": "2026-07-27T07:43:23.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "cerezo",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f3e611135e4c9b57362b51431a3ead62c2379467?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "10年ぶり復帰も離脱の浅野拓磨にSNS悲鳴「いざ！という時にこれはツライ」「痛すぎる」(日刊スポーツ)",
+      "summary": "J1サンフレッチェ広島は今季から10年ぶりに復帰した元日本代表FW浅野拓磨（31）が負傷離脱したことを27日、発表した。 25日の非公開のトレーニングマッチで左ふくらはぎを負傷。26日に広島県内",
+      "link": "https://news.yahoo.co.jp/articles/d80ef55b7a952e180a649382196edcba9cd0c3a8?source=rss",
+      "pubDate": "2026-07-27T06:30:15.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/d80ef55b7a952e180a649382196edcba9cd0c3a8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドイツの強豪ドルトムントが来日 W杯日本戦で出場した選手も帯同…C大阪、FC東京と対戦へ",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/665683",
+      "pubDate": "2026-07-27T05:48:36.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "cerezo",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/665683"
+        }
+      ]
+    },
     {
       "title": "広島・元日本代表ＦＷ浅野拓磨が負傷 左ヒラメ筋肉離れ ８・８Ｊ１開幕節出場へ暗雲(スポーツ報知)",
       "summary": "Ｊ１の広島は２７日、所属する元日本代表ＦＷ浅野拓磨が２５日のトレーニングマッチ（非公開）で負傷し、２６日に広島県内の病院で検査を受けた結果、左ヒラメ筋肉離れと診断されたことを発表した。全治は発表され",
@@ -5198,6 +5298,27 @@
       ]
     },
     {
+      "title": "浦和退団のMF安部裕葵、新天地は今治「全力で頑張ります」",
+      "summary": "FC今治は19日、浦和レッズからMF安部裕葵(27)が完全移籍加入すると発表した。背番号は22番となる。 安部はバルセロナ・アトレティックでのプレーを経て、2023年7月に浦和に加入した。スペイン時代からの怪我を乗り越えて昨年10月に加入後…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455615-455615-fl",
+      "pubDate": "2026-07-19T07:11:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455615-455615-fl"
+        }
+      ]
+    },
+    {
       "title": "Jリーグ「絶対スタジアム爆破される」 人気キャラ来場で…ファン心配「事件起きちゃう」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/664122",
@@ -5532,25 +5653,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0a4b2f5ff7e89bab1d1b1252419cfb5d892fde1c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「覚悟を持って受けました」清水の新たなキャプテン&副キャプテンが決定",
-      "summary": "清水エスパルスは18日、2026-27シーズンのキャプテンにDF住吉ジェラニレショーン(28)、副キャプテンにDF本多勇喜(35)、FW北川航也(29)、FWオ・セフン(27)が就任することを発表した。 清水では前キャプテンのMF宇野禅斗(…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455588-455588-fl",
-      "pubDate": "2026-07-18T09:28:07.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455588-455588-fl"
         }
       ]
     },
