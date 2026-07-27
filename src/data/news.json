@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-07-27T12:10:41.046Z",
-  "count": 319,
+  "generatedAt": "2026-07-27T15:20:40.327Z",
+  "count": 320,
   "items": [
+    {
+      "title": "阪南大が新入部員を発表。1年生10番のC大阪U-18MF平山、大分U-18MF山内、新潟U-18FW井本、静岡学園MF北田、作陽学園MF岡らが活躍中(ゲキサカ)",
+      "summary": "関西の強豪・阪南大が、2026年の入部予定選手を発表した(協力=関西学生サッカー連盟、阪南大、College Soccer Central)。 MF平山大河(セレッソ大阪U-18)は1年生ながら",
+      "link": "https://news.yahoo.co.jp/articles/bd673f792a8abb6fffb0efb332bee678f5938429?source=rss",
+      "pubDate": "2026-07-27T14:27:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bd673f792a8abb6fffb0efb332bee678f5938429?source=rss"
+        }
+      ]
+    },
     {
       "title": "FC大阪、元韓国代表MFのアジア戦略アンバサダー就任を発表「アジア、世界へと新たな価値を創造するクラブでありたい」",
       "summary": "FC大阪は27日、元韓国代表のノ・ジュンユン（盧廷潤）氏が、アジア戦略アンバサダーに就任したことを発表した。",
