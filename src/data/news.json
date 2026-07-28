@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-28T10:23:43.321Z",
-  "count": 350,
+  "generatedAt": "2026-07-28T12:19:04.029Z",
+  "count": 352,
   "items": [
+    {
+      "title": "新たなJリーグ開幕へ「準備はできた」…欧州クラブとの交流も実施、野々村芳和チェアマン「世界のトップ水準が当たり前に」(サッカーキング)",
+      "summary": "28日、2026年第7回理事会が行われ、メディアブリーフィングが行われた。 8月7日に新シーズンの開幕を迎えるJリーグ。欧州の主要リーグなど、世界基準に合わせ、8月開幕、5月閉幕へとシーズン移行",
+      "link": "https://news.yahoo.co.jp/articles/00fe547e452c0d747cd83fb5190712a8ca74c257?source=rss",
+      "pubDate": "2026-07-28T11:50:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/00fe547e452c0d747cd83fb5190712a8ca74c257?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "橋本愛、１カ月ぶりSNS更新「熊本での地震の知らせに胸が痛みます」(日刊スポーツ)",
+      "summary": "橋本愛（30）が28日、スレッズを更新し「熊本での地震の知らせに胸が痛みます。皆さんの安全を心から祈っています」と故郷・熊本で発生した震度7の地震に心を痛めた。 橋本のSNSへの投稿は、インスタ",
+      "link": "https://news.yahoo.co.jp/articles/ca2afecc0660a015bb4b2e8e8625c7c2379e2cf4?source=rss",
+      "pubDate": "2026-07-28T11:33:54.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ca2afecc0660a015bb4b2e8e8625c7c2379e2cf4?source=rss"
+        }
+      ]
+    },
     {
       "title": "【移籍情報】神戸、千葉から高橋壱晟を獲得「強い覚悟を持って日々の努力を積み重ねていきます」｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー 最新ニュース】ヴィッセル神戸は28日、ジェフユナイテッド千葉から高橋壱晟を獲得することが決まったと発表した。",
@@ -4524,15 +4560,13 @@
       ]
     },
     {
-      "title": "25年限りで水戸退団、FW安藤瑞季の移籍先が決定",
-      "summary": "水戸ホーリーホックは22日、25年限りで退団したFW安藤瑞季の移籍先がFCジュロン(シンガポール)に決定したことを発表した。 1999年7月19日生まれの27歳は21年に水戸に加入。初年度から3年連続でリーグ戦30試合以上の出場を果たし、2…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455719-455719-fl",
-      "pubDate": "2026-07-22T04:37:07.000Z",
+      "title": "横浜FCの19歳MF高橋友矢、新シーズンもポルトガルでプレー「活躍した姿を横浜に届けられるよう」",
+      "summary": "横浜FCは21日、MF高橋友矢がCDセロリセンス(ポルトガル4部)に期限付き移籍することを発表した。 2006年8月21日生まれの19歳は、横浜FCの下部組織から24年8月にトップチームに昇格。18歳の誕生日を迎える同年8月21日よりオリベ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455722-455722-fl",
+      "pubDate": "2026-07-22T05:34:08.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "hollyhock"
-      ],
+      "teams": [],
       "topics": [
         "trade"
       ],
@@ -4540,12 +4574,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455719-455719-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6ae10a6f29d7628030a315dae7169f8baedb1f2e?source=rss"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455722-455722-fl"
         }
       ]
     },
