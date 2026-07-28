@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:54:25.994Z",
+  "generatedAt": "2026-07-28T19:05:59.994Z",
   "count": 356,
   "items": [
     {
@@ -19,6 +19,23 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/96d48fed8b391536cdccfd324337d85cd8cc2497?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【第34節 後半】出てないです【ボケサカ】",
+      "summary": "北中米ワールドカップ関連のニュースにお怒りのヤーレンズ。リスナーからのメールもワールドカップにまつわる内容で……。『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレンズがパーソナリティ…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?456092-456092-fl",
+      "pubDate": "2026-07-28T14:31:57.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?456092-456092-fl"
         }
       ]
     },
@@ -175,23 +192,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a5039fadfb8fb145cb5af9ab6be451784060ae4a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「スゲー!」「ホンモノだ」本田圭佑の表参道・渋谷ゲリラランに騒然!本人は自身立ち上げブランドのBEAMSコラボに興奮「いい意味でありえない」",
-      "summary": "本田圭佑が28日、都内を疾走する“ゲリララン”を行った。自身がプロデュースするスポーツブランド『mgh』のプロモーションの一環で、昨年度のブランド立ち上げ発表の際に行ったのに続いて、2年連続の開催になった。 今年も原宿駅を出発して竹下通りか…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?456051-456051-fl",
-      "pubDate": "2026-07-28T09:02:03.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?456051-456051-fl"
         }
       ]
     },
