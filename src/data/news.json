@@ -1,7 +1,86 @@
 {
-  "generatedAt": "2026-07-27T23:54:40.111Z",
-  "count": 328,
+  "generatedAt": "2026-07-28T01:29:00.738Z",
+  "count": 332,
   "items": [
+    {
+      "title": "【日本代表】９・28広島でベネズエラ代表と対戦 森保一監督「日本の皆さんに恩返しをしたい」(日刊スポーツ)",
+      "summary": "日本サッカー協会(JFA)は28日、日本代表(FIFAランキング17位)が9月28日に、エディオンピースウイング広島で、ベネズエラ代表(同47位)と国際親善試合を行うと発表した。 ワールドカップ",
+      "link": "https://news.yahoo.co.jp/articles/1c22724905249e07accaab3da979b7858951123f?source=rss",
+      "pubDate": "2026-07-28T01:05:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1c22724905249e07accaab3da979b7858951123f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "バレンシアMF佐藤龍之介がイングランド遠征メンバー入り 東京から加入しデビュー戦で得点(日刊スポーツ)",
+      "summary": "バレンシアは27日にイングランド遠征を開始し、FC東京から今夏加入したばかりのMF佐藤龍之介（19）がメンバー入りした。 バレンシアはシーズン開幕に向けて準備を続ける中、27日よりテストマッチ2",
+      "link": "https://news.yahoo.co.jp/articles/b4c2634efe5316c564139f1f3fa5bee663496a7b?source=rss",
+      "pubDate": "2026-07-28T00:47:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b4c2634efe5316c564139f1f3fa5bee663496a7b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】喜田拓也「１人で勝てないなら全員で食らいついていきたい」キックオフパーティーで誓い(日刊スポーツ)",
+      "summary": "J1横浜F・マリノスが27日夜、横浜市内のホテルで新シーズン開幕に向けてキックオフパーティーを実施した。 ホームタウン、クラブパートナー企業など関係者約300人を招き、新たに就任したスティーブ・",
+      "link": "https://news.yahoo.co.jp/articles/f53df52e3f6b4cac25ad60db447179c2ecf60141?source=rss",
+      "pubDate": "2026-07-28T00:18:36.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f53df52e3f6b4cac25ad60db447179c2ecf60141?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC岐阜 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるFC岐阜の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/28/post818862/",
+      "pubDate": "2026-07-28T00:14:25.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/28/post818862/"
+        }
+      ]
+    },
     {
       "title": "Jリーグ×人気RPGが実現「スタジアムいくか」 コラボで新規サポ獲得？「今日からファンになります」",
       "summary": "",
@@ -5001,6 +5080,27 @@
       ]
     },
     {
+      "title": "鹿島MF荒木遼太郎がシントトロイデンに完全移籍「成長した姿を見せられるようがんばってきます」",
+      "summary": "鹿島アントラーズは20日、MF荒木遼太郎がシントトロイデンに完全移籍することを発表した。 2002年1月29日生まれの24歳は、20年に東福岡高から鹿島に加入。初年度から出場機会をつかむと、2年目には36試合10得点とブレイクを果たし、翌年…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455654-455654-fl",
+      "pubDate": "2026-07-20T08:30:26.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455654-455654-fl"
+        }
+      ]
+    },
+    {
       "title": "鹿島アントラーズ、元マリノスのヤン・マテウスを完全移籍で獲得！「アントラーズの一員として全力を尽くす」",
       "summary": "鹿島アントラーズは20日、カタールSC（カタール）に所属するFWヤン・マテウス（27）の完全移籍加入について、クラブ間合意に達したと発表した。今後、日本でのメディカルチェックなどを経て、正式契約が結ばれる予定だという。",
       "link": "https://www.footballchannel.jp/2026/07/20/post951642/",
@@ -5040,27 +5140,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/20/post951606/"
-        }
-      ]
-    },
-    {
-      "title": "千葉が藤枝FW矢村健を完全移籍で獲得「新たな挑戦ができることに感謝します」",
-      "summary": "ジェフユナイテッド千葉は20日、藤枝MYFCのFW矢村健の完全移籍加入を発表した。 矢村はクラブを通じ、「この度、藤枝MYFCから加入することになりました。矢村健です。この素晴らしいクラブで、新たな挑戦ができることに感謝します。たくさんの思…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455652-455652-fl",
-      "pubDate": "2026-07-20T06:45:47.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455652-455652-fl"
         }
       ]
     },
