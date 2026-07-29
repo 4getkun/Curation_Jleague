@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T17:45:28.639Z",
+  "generatedAt": "2026-07-29T18:55:39.217Z",
   "count": 395,
   "items": [
     {
@@ -87,16 +87,16 @@
       "summary": "＜国際親善試合：C大阪1－0ドルトムント＞◇29日◇ハナサカ セレッソ大阪が親善試合でドルトムントを下した。 過去に2度ドルトムントに所属したMF香川真司（37）は3－4－2－1システムの右シ",
       "link": "https://news.yahoo.co.jp/articles/f7f2c19902f6247a8a3e348b1491616195d2b73c?source=rss",
       "pubDate": "2026-07-29T14:15:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f7f2c19902f6247a8a3e348b1491616195d2b73c?source=rss"
         }
       ]
