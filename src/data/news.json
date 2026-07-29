@@ -1,7 +1,182 @@
 {
-  "generatedAt": "2026-07-28T23:50:48.320Z",
-  "count": 360,
+  "generatedAt": "2026-07-29T01:29:16.343Z",
+  "count": 368,
   "items": [
+    {
+      "title": "ヴィッセル神戸がJ1クラブから選手を獲得！ ジェフ千葉や川崎フロンターレは外国人選手を獲得【28日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月28日に発表された最新の新加入、退団情報などは以下の通り。 【ジェフユナイテッド千葉】 M",
+      "link": "https://news.yahoo.co.jp/articles/fc1c443bbed28d9a4cac70e50f0d7cdc9107767c?source=rss",
+      "pubDate": "2026-07-29T01:22:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "jef-chiba",
+        "frontale"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fc1c443bbed28d9a4cac70e50f0d7cdc9107767c?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post968406/"
+        }
+      ]
+    },
+    {
+      "title": "愛媛FC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける愛媛FCの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/29/post815502/",
+      "pubDate": "2026-07-29T01:14:37.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post815502/"
+        }
+      ]
+    },
+    {
+      "title": "湘南ベルマーレ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける湘南ベルマーレの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/29/post814599/",
+      "pubDate": "2026-07-29T01:14:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post814599/"
+        }
+      ]
+    },
+    {
+      "title": "ヴィッセル神戸 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるヴィッセル神戸の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/29/post814785/",
+      "pubDate": "2026-07-29T01:12:06.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post814785/"
+        }
+      ]
+    },
+    {
+      "title": "川崎フロンターレ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける川崎フロンターレの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/29/post814458/",
+      "pubDate": "2026-07-29T01:10:20.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post814458/"
+        }
+      ]
+    },
+    {
+      "title": "ジェフユナイテッド千葉 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるジェフユナイテッド千葉の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/07/29/post814980/",
+      "pubDate": "2026-07-29T01:08:11.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post814980/"
+        }
+      ]
+    },
+    {
+      "title": "神戸FW相澤デイビッド、大分への育成型期限付き移籍が決定「神戸での半年間は毎日が挑戦の連続」(サッカーキング)",
+      "summary": "ヴィッセル神戸に所属するFW相澤デイビッドが、大分トリニータへ育成型期限付き移籍することが決定した。29日、両クラブが発表している。 なお、期限付き移籍期間は2027年6月30日までで、同選手は",
+      "link": "https://news.yahoo.co.jp/articles/c9f7ea2b1f073f677426ccd9527f5d97e55e789d?source=rss",
+      "pubDate": "2026-07-29T00:55:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c9f7ea2b1f073f677426ccd9527f5d97e55e789d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「気づけば涙が流れていた」ガンバ大阪、福岡将太が明かした本音。30代で初めて味わった挫折を乗り越えた意味【コラム】",
+      "summary": "ガンバ大阪がタイトルを獲得した瞬間、福岡将太の頬を涙が伝った。チームの優勝は誰よりもうれしい。それでも、ピッチの外から見届けるしかなかった自分を、素直には受け入れられなかった。「うれしさなのか、悔しさなのかわからなかった」。30代で初めて経…",
+      "link": "https://www.footballchannel.jp/2026/07/29/post957996/",
+      "pubDate": "2026-07-29T00:07:21.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/07/29/post957996/"
+        }
+      ]
+    },
     {
       "title": "「過去に目をつぶることはできない」 浦和の異例監督人事…社長がサポに直接説明「わずかな兆候も見逃さない」(FOOTBALL ZONE)",
       "summary": "J1浦和レッズは7月28日、ファン・サポーターとクラブについて意見を交換する「Talk on Together 2026/27」をさいたま市内で開催した。様々な質問も出た会を終え、清水稔代表取締役社",
