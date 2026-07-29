@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T16:15:40.261Z",
+  "generatedAt": "2026-07-29T17:45:28.639Z",
   "count": 395,
   "items": [
     {
@@ -148,8 +148,8 @@
       "summary": "＜国際親善試合：C大阪1－0ドルトムント＞◇29日◇ハナサカ セレッソ大阪がドルトムントを破った親善試合で、日本代表MF久保建英（25＝Rソシエダード）の弟瑛史（18）が“デビュー”を果たした。",
       "link": "https://news.yahoo.co.jp/articles/cc11e3d8bce81c602afa3ed1e69efc6fcf91e10f?source=rss",
       "pubDate": "2026-07-29T14:04:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo"
       ],
@@ -158,8 +158,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/cc11e3d8bce81c602afa3ed1e69efc6fcf91e10f?source=rss"
         }
       ]
