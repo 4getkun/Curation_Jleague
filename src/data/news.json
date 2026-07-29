@@ -1,14 +1,53 @@
 {
-  "generatedAt": "2026-07-29T21:24:46.137Z",
-  "count": 403,
+  "generatedAt": "2026-07-29T22:26:55.663Z",
+  "count": 405,
   "items": [
     {
-      "title": "ドルトムントの山本天翔が大阪凱旋 新天地での活躍に向け「良い意味でブレずにやっていきたい」(日刊スポーツ)",
-      "summary": "＜国際親善試合：C大阪1－0ドルトムント＞◇29日◇ハナサカ ジャパンツアーで来日したドルトムントMF山本天翔（18）が、セレッソ大阪との親善試合で大阪凱旋（がいせん）を果たした。 今夏ガンバ大阪",
-      "link": "https://news.yahoo.co.jp/articles/48a9d60f1d592770a3dd563a4f2d402240ce2160?source=rss",
-      "pubDate": "2026-07-29T21:24:10.000Z",
+      "title": "親善試合で異例のブーイング「気付かなかった」 ドルトムント日本人が持つ\"ブレない心\"「僕は僕らしく」(FOOTBALL ZONE)",
+      "summary": "ドイツ・ブンデスリーガのドルトムントは7月29日、ヤンマーハナサカスタジアムでJ1のセレッソ大阪と対戦し、0-1で敗れた。スタメン出場したドルトムントMF山本天翔は加入後トップチームでのプレーの手応",
+      "link": "https://news.yahoo.co.jp/articles/c52bbdc1a8854bed4a64580d040797a7e78ef2f5?source=rss",
+      "pubDate": "2026-07-29T22:01:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c52bbdc1a8854bed4a64580d040797a7e78ef2f5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【福田正博 我が道29】チームのため身を引いてくれ 悩んだ末に井原正巳と一緒に引退(スポニチアネックス)",
+      "summary": "J2での戦いはケガもあって思うようにいかなかった。他チームへの移籍を考える選手もいたが、私はJ2降格の責任を感じ、「J1に上げなければ」という思いだった。この年は11チームが4回戦総当たりで戦った。",
+      "link": "https://news.yahoo.co.jp/articles/2a10c909606e40b66453250c4678414e937c334a?source=rss",
+      "pubDate": "2026-07-29T22:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2a10c909606e40b66453250c4678414e937c334a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドルトムントの山本天翔が大阪凱旋 新天地での活躍に向け「良い意味でブレずにやっていきたい」(日刊スポーツ)",
+      "summary": "＜国際親善試合：C大阪1－0ドルトムント＞◇29日◇ハナサカ ジャパンツアーで来日したドルトムントMF山本天翔（18）が、セレッソ大阪との親善試合で大阪凱旋（がいせん）を果たした。 今夏ガンバ",
+      "link": "https://news.yahoo.co.jp/articles/48a9d60f1d592770a3dd563a4f2d402240ce2160?source=rss",
+      "pubDate": "2026-07-29T21:24:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo",
         "gamba"
@@ -16,8 +55,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/48a9d60f1d592770a3dd563a4f2d402240ce2160?source=rss"
         }
       ]
