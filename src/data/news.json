@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-07-30T13:03:47.350Z",
-  "count": 438,
+  "generatedAt": "2026-07-30T15:29:24.688Z",
+  "count": 441,
   "items": [
+    {
+      "title": "ニューカッスルのエディ・ハウが辞任か 後任はACLE連覇アル・アハリの青年監督？(theWORLD（ザ・ワールドWeb）)",
+      "summary": "プレミアリーグのニューカッスルの監督が変わるようだ。『The Athletic』によると、現指揮官であるエディ・ハウ監督がクラブに辞任したい旨を伝えたという。 ニューカッスルは昨季12位と苦戦のシー",
+      "link": "https://news.yahoo.co.jp/articles/e105be9a14f2edd06cc15ed8ab8243be71475b7b?source=rss",
+      "pubDate": "2026-07-30T15:18:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e105be9a14f2edd06cc15ed8ab8243be71475b7b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "元川崎Fのファンウェルメスケルケン際、新天地が決定！ 移籍先はタイの強豪ラチャブリ…新シーズンはACLEに参戦(サッカーキング)",
+      "summary": "ラチャブリ（タイ1部）は30日、DFファンウェルメスケルケン際を獲得したことを発表した。 1994年6月28日生まれのファンウェルメスケルケン際は現在32歳。オランダ人の父と日本人の母との間に生",
+      "link": "https://news.yahoo.co.jp/articles/52c1c4b64528fb343592c5dfee5fe739b0b3e749?source=rss",
+      "pubDate": "2026-07-30T15:02:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/52c1c4b64528fb343592c5dfee5fe739b0b3e749?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】新加入の高橋壱晟が決断の思い語る「僕が成長するために必要な選択をしたということ」(日刊スポーツ)",
+      "summary": "ヴィッセル神戸に加入したMF高橋壱晟（28）が、新天地での活躍を誓った。 28日にジェフユナイテッド市原・千葉からの完全移籍が発表され、30日は神戸市内の和田神社での必勝祈願に参加。「僕にとって",
+      "link": "https://news.yahoo.co.jp/articles/cd9e5787f193c911fbf31e43cfab3cd8362fbd7b?source=rss",
+      "pubDate": "2026-07-30T13:23:18.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/cd9e5787f193c911fbf31e43cfab3cd8362fbd7b?source=rss"
+        }
+      ]
+    },
     {
       "title": "「なんや今の…」20歳セレッソMFの“妙技”にSNS騒然！「令和のエムボマいたわ」「海外にバレる」ドルトムント翻弄(ABEMA TIMES)",
       "summary": "【国際親善試合】セレッソ大阪 1－0 ドルトムント（7月29日/YANMAR HANASAKA STADIUM） セレッソ大阪のMF横山夢樹が、アクロバティックなプレーを披露。回転しながらボールを",
@@ -68,8 +128,8 @@
       "summary": "ガンバ大阪は30日、大阪市内のホテルでオフィシャルパーティーを開催し、自治体やスポンサーの前で新シーズンのタイトル獲得を誓った。 明治安田J1百年構想リーグ後には前任のイェンス・ビッシング監督が",
       "link": "https://news.yahoo.co.jp/articles/8d40e931dddaebd1cff228bcb6d7b8febe785d41?source=rss",
       "pubDate": "2026-07-30T12:10:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
@@ -78,8 +138,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8d40e931dddaebd1cff228bcb6d7b8febe785d41?source=rss"
         }
       ]
