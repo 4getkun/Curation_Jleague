@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-07-31T01:49:12.093Z",
-  "count": 457,
+  "generatedAt": "2026-07-31T05:24:32.042Z",
+  "count": 458,
   "items": [
+    {
+      "title": "堂安律が「U-21 Jリーグ」アンバサダーに就任 過去に同大会で飛躍「あれがあったから今の僕がある」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/666315",
+      "pubDate": "2026-07-31T04:03:20.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/666315"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ、熊本地震の被災地支援へ 野々村チェアマン「サッカーには人を元気にする力がある」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/666304",
+      "pubDate": "2026-07-31T02:44:19.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/666304"
+        }
+      ]
+    },
     {
       "title": "FC岐阜が海外日本人選手を獲得！ FC琉球も選手の獲得を発表【30日のJリーグ移籍情報まとめ】",
       "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月30日に発表された最新の新加入、退団情報などは以下の通り。",
@@ -5353,12 +5387,12 @@
       ]
     },
     {
-      "title": "G大阪がキャプテン&リーダーシップグループ、スタッフリストを公開…遠藤保仁氏がヘッドコーチ就任(ゲキサカ)",
-      "summary": "ガンバ大阪は23日、2026-27シーズンのトップチームスタッフを発表した。また、キャプテンとリーダーシップグループも発表しており、キャプテンは昨シーズンに続いてDF中谷進之介、リーダーシップグルー",
-      "link": "https://news.yahoo.co.jp/articles/bf13dcb81ff9bb20e8b45de12d3f61b0691ee4db?source=rss",
-      "pubDate": "2026-07-23T11:51:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "G大阪がキャプテン&リーダーシップグループ、スタッフリストを公開…遠藤保仁氏がヘッドコーチ就任",
+      "summary": "ガンバ大阪は23日、2026-27シーズンのトップチームスタッフを発表した。また、キャプテンとリーダーシップグループも発表しており、キャプテンは昨シーズンに続いてDF中谷進之介、リーダーシップグループにはMF倉田秋、GK一森純、FWイッサム…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455763-455763-fl",
+      "pubDate": "2026-07-23T11:50:39.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "gamba"
       ],
@@ -5366,6 +5400,11 @@
         "personnel"
       ],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455763-455763-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -5389,25 +5428,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/9f30e6d508984746d232357f26226cc39342e50c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "北九州GK杉本光希が全治約8週間の負傷",
-      "summary": "[故障者情報] ギラヴァンツ北九州は23日、GK杉本光希(24)の負傷を発表した。 クラブ公式サイトによると、杉本は13日のトレーニングで負傷。診断の結果、右膝内側側副靱帯損傷と判明し、全治まで約8週間になるという。●2026-27シーズン…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455758-455758-fl",
-      "pubDate": "2026-07-23T10:43:27.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455758-455758-fl"
         }
       ]
     },
