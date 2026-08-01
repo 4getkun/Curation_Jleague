@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T05:17:31.868Z",
+  "generatedAt": "2026-08-01T07:40:15.050Z",
   "count": 488,
   "items": [
     {
@@ -3834,6 +3834,23 @@
       ]
     },
     {
+      "title": "新たに5チームの天皇杯出場が決定!! カズゴールの福島ら",
+      "summary": "天皇杯都道府県予選決勝が25日と26日に行われ、新たに5チームの出場が決まった。 先週末からJ3勢が都道府県予選に登場。25日の福島県予選では、FW三浦知良もゴールを決めた福島ユナイテッドFCがいわき古河FCを7-0で破って5年連続14回目…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?455977-455977-fl",
+      "pubDate": "2026-07-27T00:10:07.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?455977-455977-fl"
+        }
+      ]
+    },
+    {
       "title": "「やってやるぞという気持ちしかない」広島に復帰した川村拓夢の衝動。欧州で怪我に苦しんだ２年間「もう膝は大丈夫です」(SOCCER DIGEST Web)",
       "summary": "J１の広島は７月26日に宮崎で２次キャンプをスタート。チームが出迎えたのは、25日にザルツブルクから広島復帰が発表された川村拓夢だった。 26日朝に羽田空港に着いた川村は、そのまま宮崎便に乗り換",
       "link": "https://news.yahoo.co.jp/articles/dfdb14e00c5117c2841eb77a68970ba2b1961472?source=rss",
@@ -4203,11 +4220,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?455925-455925-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8f28c58ce32a2efeb3542fdce480b028ba20409e?source=rss"
         }
       ]
     },
@@ -4534,23 +4546,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f8d3befbd647d681aa036bc01c4510e636191754?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "キングカズが4年ぶりに公式戦でゴール!! 59歳4か月29日で先発、後半7分に福島加入後初弾",
-      "summary": "福島ユナイテッドFC(J3)のFW三浦知良が25日、天皇杯福島県予選決勝のいわき古河FC(東北2部)戦に先発出場してゴールを奪った。公式戦での得点は2022年のJFL以来となった。 キングカズこと三浦は59歳4か月29日で迎えたこの日、先発…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?455886-455886-fl",
-      "pubDate": "2026-07-25T14:12:04.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?455886-455886-fl"
         }
       ]
     },
