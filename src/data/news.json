@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-08-01T22:24:10.843Z",
-  "count": 538,
+  "generatedAt": "2026-08-01T23:25:42.889Z",
+  "count": 543,
   "items": [
+    {
+      "title": "【Ｊ１清水】住吉ジェラニレショーンが新主将に 当初は迷いもあったが「自分にプレッシャーをかけたいし、成長にもつながる」(スポーツ報知)",
+      "summary": "Ｊ１清水エスパルスの新主将に、ＤＦ住吉ジェラニレショーン（２８）が就任した。７月１０～２０日のオーストリア遠征中に吉田孝行監督（４９）から打診を受けた。 当初は「責任もあるので迷いはあった」と戸",
+      "link": "https://news.yahoo.co.jp/articles/49cde0ffe0bcf5f7fdcb661dbee1e98e30b1250a?source=rss",
+      "pubDate": "2026-08-01T23:15:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/49cde0ffe0bcf5f7fdcb661dbee1e98e30b1250a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「昨年覇者」ＴＡＫＥＳＨＩＴＡ、後藤洋央紀を倒し「Ｇ１」５連勝で首位独走…「優勝して２連覇、必ず新しい景色見せます！」…８・１広島全成績(スポーツ報知)",
+      "summary": "◆新日本プロレス「Ｇ１ ＣＬＩＭＡＸ ３６」（１日、広島サンプラザホール）観衆２２５５ 新日本プロレスは１日、広島サンプラザホールで「Ｇ１ ＣＬＩＭＡＸ ３６」を開催した。 メインイベントのＡ",
+      "link": "https://news.yahoo.co.jp/articles/0735bcda22ec46a0d6690519f0ff34230dc2677d?source=rss",
+      "pubDate": "2026-08-01T23:05:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0735bcda22ec46a0d6690519f0ff34230dc2677d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドイツ代表FWが伝えた”アニメ愛”「一番お気に入り」 自らスマホ開き「ちょっと待ってね…」(FOOTBALL ZONE)",
+      "summary": "ドイツ・ブンデスリーガのボルシア・ドルトムントは8月1日、国際親善試合でFC東京と対戦し、1-0で勝利した。試合後にドイツ代表として北中米ワールドカップ（W杯）にも出場したFWマクシミリアン・バイア",
+      "link": "https://news.yahoo.co.jp/articles/dfc9422b6da6d52f06b2bc10276851792a551195?source=rss",
+      "pubDate": "2026-08-01T23:01:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dfc9422b6da6d52f06b2bc10276851792a551195?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "急造3バックも「やることは明確」 千葉の最終ライン支える河野貴志、柏との“ミラーゲーム”を回顧「楽しかったですし、もっとやれる」(サッカーキング)",
+      "summary": "ジェフユナイテッド千葉と柏レイソルによる第31回ちばぎんカップが行われた。シーズン移行に伴い、今年2回目の開催となった伝統の“千葉ダービー”は、スコアレスで90分が終了。2019年の第24回大会以来",
+      "link": "https://news.yahoo.co.jp/articles/e84b0d562d51b1603b443114bd1a22b9b61fc989?source=rss",
+      "pubDate": "2026-08-01T23:00:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba",
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e84b0d562d51b1603b443114bd1a22b9b61fc989?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグの”43分間”が「神すぎる」 開幕目前、投稿された映像が「もっと長くてもいい！」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/666498",
+      "pubDate": "2026-08-01T22:50:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/666498"
+        }
+      ]
+    },
     {
       "title": "「そんなに好きなのか…」日本人として思わず嬉しくなった、ドイツ代表MFが試合後のミックスゾーンで次々に見せてくれたものは？(SOCCER DIGEST Web)",
       "summary": "ドイツ代表の23歳MFが、日本愛あふれる無邪気な素顔をのぞかせた。 ブンデスリーガのドルトムントは８月１日、国際親善試合でFC東京と国立競技場で対戦。１－０で勝利を収めた。 この一戦に先発し",
