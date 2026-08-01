@@ -1,7 +1,106 @@
 {
-  "generatedAt": "2026-08-01T01:49:48.563Z",
-  "count": 484,
+  "generatedAt": "2026-08-01T05:17:31.868Z",
+  "count": 488,
   "items": [
+    {
+      "title": "C大阪が今季キャプテン&副キャプテン決定を報告「ピッチ内外で良い影響を与えられるよう全力で」(ゲキサカ)",
+      "summary": "セレッソ大阪は1日、2026-27シーズンのキャプテンと副キャプテンが決定したことを発表した。 キャプテンは引き続きMF田中駿汰(29)が務める。副キャプテンはMF香川真司(37)、DF畠中槙之",
+      "link": "https://news.yahoo.co.jp/articles/c56df2297c7d538a40d03ffcb48b85e74ba6609f?source=rss",
+      "pubDate": "2026-08-01T05:12:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c56df2297c7d538a40d03ffcb48b85e74ba6609f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "目立ちまくり！ ベリンガム弟らドルトムントの選手が渋谷を散策！ 新シーズのサードユニフォームで写真撮影",
+      "summary": "ボルシア・ドルトムントは1日、MUFGスタジアム（国立競技場）にて国際親善試合でFC東京と対戦する。ジュード・ベリンガムの弟であるジョーブ・ベリンガムらドルトムントの選手たちが、渋谷散策する様子がクラブの日本語版公式Xに投稿されている。",
+      "link": "https://www.footballchannel.jp/2026/08/01/post969978/",
+      "pubDate": "2026-08-01T04:24:48.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/01/post969978/"
+        }
+      ]
+    },
+    {
+      "title": "RB大宮アルディージャが選手の海外移籍を発表！ ジェフ千葉はJ1クラブから選手を獲得【31日のJリーグ移籍情報まとめ】",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年7月31日に発表された最新の新加入、退団情報などは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/08/01/post969948/",
+      "pubDate": "2026-08-01T02:33:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/01/post969948/"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪、ACL専用ユニフォームを発表 12本の斜めストライプで“吹田からアジア制覇”への進路を表現",
+      "summary": "J1のガンバ大阪は7月31日、AFCチャンピオンズリーグ（ACL）2026/27で選手が着用する専用ユニフォームのデザインを発表した。",
+      "link": "https://www.footballchannel.jp/2026/08/01/post969876/",
+      "pubDate": "2026-08-01T02:30:15.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/01/post969876/"
+        }
+      ]
+    },
+    {
+      "title": "アルビレックス新潟 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるアルビレックス新潟の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/01/post814656/",
+      "pubDate": "2026-08-01T02:21:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/01/post814656/"
+        }
+      ]
+    },
     {
       "title": "J開幕前に驚きの企画「そんな使い方あったのか！」 東京の名所が60色に「写真撮りに行こうかな」(FOOTBALL ZONE)",
       "summary": "Jリーグの2026-27シーズンがいよいよ8月7日に開幕を迎える。それを記念して、東京スカイツリーでは60クラブカラーをイメージした特別なライティングを点灯することが決定した。60種類に及ぶライティ",
@@ -4089,17 +4188,22 @@
       ]
     },
     {
-      "title": "名前案の応募は1万3855件…G大阪の新マスコットの名前が決定(ゲキサカ)",
-      "summary": "ガンバ大阪は25日、新マスコットの名前について、1万3855件の応募による名前案の中から「ハーチモ」に決定したと発表した。 この名前は、熱い「ハート」と「もちもち」した体を組み合わせた造語だとい",
-      "link": "https://news.yahoo.co.jp/articles/8f28c58ce32a2efeb3542fdce480b028ba20409e?source=rss",
-      "pubDate": "2026-07-26T00:53:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "名前案の応募は1万3855件…G大阪の新マスコットの名前が決定",
+      "summary": "ガンバ大阪は25日、新マスコットの名前について、1万3855件の応募による名前案の中から「ハーチモ」に決定したと発表した。 この名前は、熱い「ハート」と「もちもち」した体を組み合わせた造語だという。クラブは公式サイトで「たくさんのご応募をい…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?455925-455925-fl",
+      "pubDate": "2026-07-26T00:53:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "gamba"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?455925-455925-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -5385,25 +5489,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/96d5b83dd226b87a0a49e7907e8b77f53ed4922f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪の異例の決定に怒りや呆れ…8月ホームゲームを遠方・北九州で開催へ",
-      "summary": "Jリーグは24日、試合日程が未定となっていたJ3第3節のFC大阪対FC琉球を8月22日にミクニワールドスタジアム北九州で行うと発表した。キックオフは18時。 大阪府東大阪市をホームタウンとするFC大阪のホームゲームを福岡県北九州市で行う異例…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?455800-455800-fl",
-      "pubDate": "2026-07-24T09:46:26.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?455800-455800-fl"
         }
       ]
     },
