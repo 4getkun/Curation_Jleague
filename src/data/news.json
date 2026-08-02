@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-02T07:26:43.131Z",
-  "count": 556,
+  "generatedAt": "2026-08-02T09:30:44.858Z",
+  "count": 558,
   "items": [
+    {
+      "title": "国立スタンドに拍手「らしい応援」 東京から届け…10文字横断幕にファン感動「ありがとう」(FOOTBALL ZONE)",
+      "summary": "J1のFC東京は8月1日、MUFGスタジアム（国立競技場）でボルシア・ドルトムントと国際親善試合で対戦した。試合前からゴール裏に掲げられた横断幕が「熊本に届け！」「東京らしい応援でいいね」など注目を",
+      "link": "https://news.yahoo.co.jp/articles/1f9e4d61facc852648bf55cea532d30c7b74760d?source=rss",
+      "pubDate": "2026-08-02T09:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1f9e4d61facc852648bf55cea532d30c7b74760d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】天野純、コリカ監督からのチームキャプテン任命に「正直引き受けるかどうか悩んだ」(日刊スポーツ)",
+      "summary": "横浜F・マリノスは2日、今季のクラブキャプテンにMF喜田拓也（31）、チームキャプテンにMF天野純（35）、副キャプテンにFW宮市亮（33）が就任すると発表した。 チームの一体感を高めるため、キ",
+      "link": "https://news.yahoo.co.jp/articles/f6fb4714dacaeec2dd87343071e70cececdcabc3?source=rss",
+      "pubDate": "2026-08-02T08:49:58.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f6fb4714dacaeec2dd87343071e70cececdcabc3?source=rss"
+        }
+      ]
+    },
     {
       "title": "山本由伸「すごいフレンドリーにコミュニケーションを」トレード獲得報道のスクバルの印象に(日刊スポーツ)",
       "summary": "ドジャースが2年連続サイ・ヤング賞に輝いた先発左腕タリク・スクバル（29）をタイガースから獲得する1対3の大型トレードが決まったと、ESPNのジェフ・パッサン記者ら複数の米メディアが1日（日本時間2",
