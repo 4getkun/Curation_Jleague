@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-02T12:33:04.933Z",
-  "count": 559,
+  "generatedAt": "2026-08-02T14:23:09.963Z",
+  "count": 560,
   "items": [
+    {
+      "title": "【広島】秋山翔吾「大雅の負けを消せてよかった」３号逆転２ランで最下位転落危機救う(東スポWEB)",
+      "summary": "広島・秋山翔吾外野手（38）が土壇場でチームを救った。2日の中日戦（マツダ）の8回に逆転3号2ランを放ち、4―3の逆転勝利へ導いた。 負ければ5月9日以来の最下位転落となる一戦。「5番・右翼」で",
+      "link": "https://news.yahoo.co.jp/articles/96cc7110ce90f3292c884f96a3ad8c4b0aa0ece4?source=rss",
+      "pubDate": "2026-08-02T13:25:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/96cc7110ce90f3292c884f96a3ad8c4b0aa0ece4?source=rss"
+        }
+      ]
+    },
     {
       "title": "【横浜】コリカ監督、炎天下で実戦トレ「フィットネス問題ない」鹿島は「超えなきゃいけない」(日刊スポーツ)",
       "summary": "横浜F・マリノスが、王者鹿島アントラーズとの8・7国立開幕戦に向け、チームコンディションは上々のようだ。 2日、横須賀市内の拠点でトレーニングをメディアに向けて公開した。炎天下で、ゲーム形式のメ",
@@ -3551,6 +3570,23 @@
       ]
     },
     {
+      "title": "天皇杯の熊本県代表決定戦が中止…大会要項に基づいてJ3熊本が本大会へ",
+      "summary": "ロアッソ熊本(J3)は29日、8月2日に開催を予定していた熊本学園大との「天皇杯 JFA 第106回全日本サッカー選手権大会 熊本県代表決定戦」の中止が決定したと発表した。令和8年熊本地震の影響を受け、熊本県サッカー協会が関係機関と協議を重…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?456116-456116-fl",
+      "pubDate": "2026-07-29T10:53:37.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?456116-456116-fl"
+        }
+      ]
+    },
+    {
       "title": "ドルトムントが“日本語ユニ”を着用 C大阪と対戦…特別仕様の1着でプレー(FOOTBALL ZONE)",
       "summary": "ドルトムントは7月29日、大阪市内ヤンマーハナサカスタジアムで行われた親善試合でセレッソ大阪と対戦。ドルトムントは背ネームが日本語で書かれた特別仕様のユニフォームを着用している。 ドルトムントは",
       "link": "https://news.yahoo.co.jp/articles/914f0b69580339fb094b03a8eb764d2c76758efe?source=rss",
@@ -4840,23 +4876,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/362f88e342d29dcab4bf8b969a83cdca776639d0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯、今大会もNHK&スカパー!で放送・配信へ…1回戦は流経大vsクリアソン新宿など3試合、JFA TVでは1試合をライブ配信",
-      "summary": "日本サッカー協会(JFA)は27日、来月に開幕する『天皇杯 JFA 第106回全日本サッカー選手権大会』について、今大会も『NHK』と『スカパー!』で放送・配信することが決定したと発表した。 1回戦は『スカパー!』でガイナーレ鳥取vs熊本県…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?456018-456018-fl",
-      "pubDate": "2026-07-27T09:41:49.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?456018-456018-fl"
         }
       ]
     },
