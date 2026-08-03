@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-08-03T21:36:25.612Z",
-  "count": 612,
+  "generatedAt": "2026-08-03T22:51:25.262Z",
+  "count": 616,
   "items": [
+    {
+      "title": "「思い知らされた」。出場はわずか17分…元J2得点王が半年で帰国（1）海外から短期間で帰国した日本人選手(フットボールチャンネル)",
+      "summary": "今夏も多くの日本人選手が、キャリアのステップアップのためにJリーグから欧州クラブへ移籍している。そんな中、過去欧州に挑戦した選手に着目をすると、理想と現実が異なり、短期間で帰国するケースも少なくない",
+      "link": "https://news.yahoo.co.jp/articles/28a121015fac14947457e930855001fe23644396?source=rss",
+      "pubDate": "2026-08-03T22:50:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/28a121015fac14947457e930855001fe23644396?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜F・マリノス、宮市亮「みんなが同じ船に乗っている思いで」。新体制で迎える開幕戦への思い",
+      "summary": "横浜F・マリノスの宮市亮が8月3日、東京都内で行われた「2026/27明治安田Jリーグ開幕イベント」に出席した。秋春制へ移行する最初のシーズン開幕を目前に控えるなか、前日に副キャプテン就任が発表された33歳は、新体制で迎える鹿島アントラーズ…",
+      "link": "https://www.footballchannel.jp/2026/08/04/post970659/",
+      "pubDate": "2026-08-03T22:30:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/04/post970659/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/145730c6fc032acc0aea1a3c8fec305b505700d6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ、高2以下でプロ2種登録の選手（1）189cmで足元もうまい！徳島育ちのストライカー(フットボールチャンネル)",
+      "summary": "「09世代」は逸材の宝庫である。J1最年少出場記録を塗り替えた北原槙や、横浜F・マリノス史上最年少でプロ契約を結んだ三井寺眞など、将来の日本代表が確実視される逸材がさらなる大舞台への道を歩み始めている",
+      "link": "https://news.yahoo.co.jp/articles/fcf14b0015d60172f2033f68fcd49c6c3eab6577?source=rss",
+      "pubDate": "2026-08-03T22:10:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fcf14b0015d60172f2033f68fcd49c6c3eab6577?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "早すぎ…。海外から短期間で帰国した日本人選手5人",
+      "summary": "今夏も多くの日本人選手が、キャリアのステップアップのためにJリーグから欧州クラブへ移籍している。そんな中、過去欧州に挑戦した選手に着目をすると、理想と現実が異なり、短期間で帰国するケースも少なくない。今回は短期間で欧州挑戦を終えて帰国した日…",
+      "link": "https://www.footballchannel.jp/2026/08/04/post970422/",
+      "pubDate": "2026-08-03T22:00:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/04/post970422/"
+        }
+      ]
+    },
     {
       "title": "開幕直前に主力が移籍も「しょうがない」 主将の本音…J1残留への道筋「定着することが大事」(FOOTBALL ZONE)",
       "summary": "Jリーグ開幕イベントが8月1日、都内で行われ、J1各クラブの代表選手が出席した。水戸ホーリーホックからはFW渡邉新太が登壇し、“J1元年”に向けて「残留が目標」と力を込めた。 背番号10を背負う",
@@ -117,11 +200,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/04/post970578/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/49f098f7f0d24f9fdc140823a72f550036499dca?source=rss"
         }
       ]
     },
