@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-03T11:53:15.795Z",
-  "count": 602,
+  "generatedAt": "2026-08-03T14:14:18.917Z",
+  "count": 603,
   "items": [
+    {
+      "title": "26-27シーズンJリーグ、新たにマカオ&オーストラリアでの放映が決定(ゲキサカ)",
+      "summary": "Jリーグは3日、26-27シーズンJリーグのマカオ、オーストラリアでの放映が新たに決定したことを発表した。 マカオでは国を代表する総合スポーツメディアプラットフォームの『M Plus』、オースト",
+      "link": "https://news.yahoo.co.jp/articles/b24ca4a8d43c76e879b1d1263101ba944d63b349?source=rss",
+      "pubDate": "2026-08-03T13:08:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b24ca4a8d43c76e879b1d1263101ba944d63b349?source=rss"
+        }
+      ]
+    },
     {
       "title": "東京Ｖ森田晃樹「優勝が目標と言ったほうがいい」視線を上げて高みを目指す 鎖骨骨折からの早期復帰にも意欲(スポーツ報知)",
       "summary": "Ｊリーグは３日、都内のホテルで「２０２６／２７明治安田Ｊリーグ開幕イベント」を実施した。 ＊ ＊ ＊ 東京Ｖからは、主将ＭＦ森田晃樹が出席した。現在はキャンプ中に負傷した「左鎖骨骨折」からの",
@@ -4569,6 +4586,27 @@
       ]
     },
     {
+      "title": "神戸FW相澤デイビッドが大分に育成型期限付き移籍「ストライカーとして成長してきます」",
+      "summary": "大分トリニータは29日、ヴィッセル神戸FW相澤デイビッドの育成型期限付き移籍加入を発表した。 相澤はクラブを通じ、「大分トリニータに関わるすべての皆さま、はじめまして。ヴィッセル神戸から加入することになりました相澤デイビッドです。大分トリニ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456114-456114-fl",
+      "pubDate": "2026-07-29T05:59:04.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456114-456114-fl"
+        }
+      ]
+    },
+    {
       "title": "「もう一度日本で自分のプレーを」 ACLE出場権を“捨てて”浦和入り…36歳水沼宏太が感じた「やりがい」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/666040",
@@ -5035,23 +5073,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/65fc0ca8d05f343b1ff24abb3770096985b7a9f2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "磐田新キャプテンはMF藤原健介!! アカデミー出身22歳「もう一度強いジュビロ磐田を」",
-      "summary": "ジュビロ磐田は28日、今季のチームキャプテンがMF藤原健介に決まったと発表した。藤原は中学時代からクラブ一筋の22歳。百年構想リーグでキャプテンを務めたGK川島永嗣とMF角昂志郎から大役を受け継いだ。 藤原はクラブを通じて「今シーズン、キャ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456063-456063-fl",
-      "pubDate": "2026-07-28T09:41:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456063-456063-fl"
         }
       ]
     },
