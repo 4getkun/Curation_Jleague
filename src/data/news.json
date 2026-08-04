@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-04T08:18:11.976Z",
-  "count": 643,
+  "generatedAt": "2026-08-04T11:00:31.144Z",
+  "count": 644,
   "items": [
+    {
+      "title": "J1C大阪・香川真司と田中駿汰が負傷離脱した柴山昌也への思い語る「結果で安心してリハビリに取り組めるように」(サンケイスポーツ)",
+      "summary": "J1C大阪は4日、Jリーグ開幕を前に大阪・住吉区の住吉大社で必勝祈願を行った。MF香川真司（37）とMF田中駿汰（29）が3日に左膝複合靱帯損傷で離脱すると発表されたMF柴山昌也（24）への思いを語っ",
+      "link": "https://news.yahoo.co.jp/articles/7806ce64d813bbecbb8dda940b46384a6bb8c1b1?source=rss",
+      "pubDate": "2026-08-04T10:47:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7806ce64d813bbecbb8dda940b46384a6bb8c1b1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「ほんまに這い上がるしかない」ジェフ千葉、松村拓実に漂うブレイクの予感。熾烈な競争を勝ち抜くうえでの「生き残っていく道」とは【コラム】",
+      "summary": "想定外のシステム変更の中で、松村拓実が存在感を示した。柏レイソルとのちばぎんカップでは慣れないシャドーを任されると、背後への抜け出しやチャンスメイクで攻撃面に持ち味を発揮。得点こそなかったものの、J1で戦うための可能性を示した。一方で、プロ…",
+      "link": "https://www.footballchannel.jp/2026/08/04/post970872/",
+      "pubDate": "2026-08-04T09:00:54.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/04/post970872/"
+        }
+      ]
+    },
     {
       "title": "【鹿島】鬼木達監督「やりがいしかない。決勝戦のような思いで」８・７開幕横浜戦へ決意(日刊スポーツ)",
       "summary": "鹿島アントラーズの鬼木達監督（52）が4日、鹿嶋市内で取材に応じ、開幕戦の横浜F・マリノス戦（7日、東京・MUFG国立競技場）に向けて意気込みを語った。 秋春制への移行という歴史的なシーズンの幕",
@@ -4288,12 +4328,12 @@
       ]
     },
     {
-      "title": "岡山の新コーチがU-21チームの監督就任「『子どもたちに夢を!』届けられるチームを作っていきます」(ゲキサカ)",
-      "summary": "ファジアーノ岡山は30日、上野展裕コーチ(60)がU-21ファジアーノ岡山の監督に就任することを発表した。 上野氏は過去に複数クラブの監督を歴任し、2026-27シーズンから岡山のコーチに就任。",
-      "link": "https://news.yahoo.co.jp/articles/137e1a55909f4ac3acf1e4f91d299f4ae3109f29?source=rss",
-      "pubDate": "2026-07-30T05:57:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "岡山の新コーチがU-21チームの監督就任「『子どもたちに夢を!』届けられるチームを作っていきます」",
+      "summary": "ファジアーノ岡山は30日、上野展裕コーチ(60)がU-21ファジアーノ岡山の監督に就任することを発表した。 上野氏は過去に複数クラブの監督を歴任し、2026-27シーズンから岡山のコーチに就任。クラブ公式サイトを通じ、「真剣勝負の中で互いに…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456153-456153-fl",
+      "pubDate": "2026-07-30T05:57:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "fagiano"
       ],
@@ -4301,6 +4341,11 @@
         "personnel"
       ],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456153-456153-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -4502,28 +4547,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/30/post814785/"
-        }
-      ]
-    },
-    {
-      "title": "日本代表GK大迫敬介が海外クラブ移籍へ! 広島がチーム離脱を発表",
-      "summary": "サンフレッチェ広島は30日、日本代表GK大迫敬介(27)が海外クラブへの移籍を前提とした手続きと準備のため、チームを離脱したと発表した。今後については正式に決定次第、改めて報告するという。 大迫は2018年に広島ユースからトップチームへ昇格…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456143-456143-fl",
-      "pubDate": "2026-07-30T01:12:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456143-456143-fl"
         }
       ]
     },
