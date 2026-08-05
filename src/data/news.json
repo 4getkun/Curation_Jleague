@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T11:35:07.334Z",
+  "generatedAt": "2026-08-05T13:41:39.562Z",
   "count": 696,
   "items": [
     {
@@ -4657,6 +4657,26 @@
       ]
     },
     {
+      "title": "特別指定選手の大学生が大量にJリーグ選手登録、神戸や名古屋らは複数選手を2種登録",
+      "summary": "Jリーグは31日、登録選手の追加・抹消を発表した。■J1水戸ホーリーホック16 DF田村遊吏(桃山学院大3年、特別指定)87 FW五木田季晋(日本大4年、特別指定)ジェフユナイテッド千葉46 DF齋藤隼士(2種)47 MF伊藤暖(2種)柏レ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456205-456205-fl",
+      "pubDate": "2026-07-31T08:21:24.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "vissel",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456205-456205-fl"
+        }
+      ]
+    },
+    {
       "title": "アジア大会に臨むU―21男子日本代表23人決定 OA活用せず、欧州勢も招集 アビスパ福岡→いわきに期限付き移籍中のFW道脇豊ら(西スポWEB OTTO!)",
       "summary": "日本サッカー協会（JFA）は31日、9～10月に愛知県で行われるアジア大会に臨むU―21（21歳以下）男子日本代表23人を発表した。 J1アビスパ福岡からJ2いわきに期限付き移籍中のFW道脇豊ら",
       "link": "https://news.yahoo.co.jp/articles/d55a79af35b0d8ecb52b27a05058703c072cdc92?source=rss",
@@ -4696,27 +4716,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/8743e1a1de57a93ead2297a8e1d404c4fec9265a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "堂安律がU-21 Jリーグアンバサダーに就任",
-      "summary": "Jリーグは31日、日本代表MF堂安律がU-21 Jリーグアンバサダーに就任することを発表した。 U-21 Jリーグはポストユース世代の育成などを目的に今季から発足する大会。Jリーグはガンバ大阪U-23でプレー経験がある堂安について「Jリーグ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456199-456199-fl",
-      "pubDate": "2026-07-31T04:09:25.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456199-456199-fl"
         }
       ]
     },
