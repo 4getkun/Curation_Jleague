@@ -1,7 +1,174 @@
 {
-  "generatedAt": "2026-08-04T23:30:09.669Z",
-  "count": 661,
+  "generatedAt": "2026-08-05T00:55:51.553Z",
+  "count": 669,
   "items": [
+    {
+      "title": "入社２年目の「逸材」佐々木沙羅アナ、蛇を手にしたにっこり笑顔に「静岡レベル高い」「尊い」(日刊スポーツ)",
+      "summary": "静岡朝日テレビの佐々木沙羅アナウンサーが、4日までにインスタグラムを更新。静岡県・エスパルスドリームプラザで開催されたイベント「ドラゴン動物園」でのショットを公開した。 佐々木アナは「エスパルスド",
+      "link": "https://news.yahoo.co.jp/articles/7d4abf3c7cbd758b021ee5ba5e6c24ca67c55e56?source=rss",
+      "pubDate": "2026-08-05T00:55:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/7d4abf3c7cbd758b021ee5ba5e6c24ca67c55e56?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本サッカー界にBIGニュース「まぁじ！！」 板倉滉に続き…相次ぐ結婚報告に騒然「奥様めっちゃスタイル良い」祝福殺到(THE ANSWER)",
+      "summary": "サッカーJ1町田のGK谷晃生が、4日までに自身のインスタグラムを更新。結婚を発表した。俳優の川口春奈と結婚を発表した日本代表DF板倉滉に続くサッカー界の相次ぐ朗報に、ファンや選手仲間から祝福の声が殺",
+      "link": "https://news.yahoo.co.jp/articles/2a379dc61ba4fdb6ddd554779e2d43adf391888f?source=rss",
+      "pubDate": "2026-08-05T00:41:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2a379dc61ba4fdb6ddd554779e2d43adf391888f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表の去就が二転三転「そんなことあんの！？」 ファンも仰天「このパターン初めて」(FOOTBALL ZONE)",
+      "summary": "サンフレッチェ広島は8月5日、7月末よりチームを離脱していたGK大迫敬介が、同日のトレーニングより再合流すると発表した。ファンからは「嬉しいけどめっちゃ複雑」「共に頑張ろう！」と反響を呼んでいる。",
+      "link": "https://news.yahoo.co.jp/articles/f97b85d173f924e96bdd2b8d5942d38348a9a9e0?source=rss",
+      "pubDate": "2026-08-05T00:41:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f97b85d173f924e96bdd2b8d5942d38348a9a9e0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島、日本代表GK大迫敬介の再合流を発表…海外クラブ移籍のために離脱も現地では破談と報道(ゲキサカ)",
+      "summary": "サンフレッチェ広島は5日、7月末よりチームを離脱していた日本代表GK大迫敬介が同日のトレーニングより再合流することを発表した。 1999年7月28日生まれの27歳は広島の下部組織から18年にトッ",
+      "link": "https://news.yahoo.co.jp/articles/5f2ea76f62d1c1781bbbac574b5b910a90b1327a?source=rss",
+      "pubDate": "2026-08-05T00:19:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5f2ea76f62d1c1781bbbac574b5b910a90b1327a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1クラブが強力助っ人を補強へ 海外ベスト11入り…移籍金は2.3億円と現地報道「別れを告げた」(FOOTBALL ZONE)",
+      "summary": "韓国1部全北現代に所属するブラジル人MFオベルダンは、J1ファジアーノ岡山へ移籍する可能性が高まっていると韓国紙「スポーツ東亜」が報じた。 記事によると、Kリーグの夏季移籍市場が佳境を迎えるなか",
+      "link": "https://news.yahoo.co.jp/articles/58f4b30e9a28d36869ed27e58cb8d399146e341a?source=rss",
+      "pubDate": "2026-08-05T00:19:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/58f4b30e9a28d36869ed27e58cb8d399146e341a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1クラブが強力助っ人を補強へ 海外ベスト11入り…移籍金は2.3億円と現地報道「別れを告げた」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/666997",
+      "pubDate": "2026-08-05T00:19:01.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/666997"
+        }
+      ]
+    },
+    {
+      "title": "サンフレッチェ広島GK大迫敬介、海外移籍準備からチームに再合流 5日のトレーニングから復帰へ",
+      "summary": "J1のサンフレッチェ広島は5日、日本代表GK大迫敬介が同日のトレーニングからチームに再合流すると発表した。大迫は海外クラブへの移籍を前提とした手続きと準備のため、7月末からチームを離れていた。",
+      "link": "https://www.footballchannel.jp/2026/08/05/post971298/",
+      "pubDate": "2026-08-05T00:10:37.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/05/post971298/"
+        }
+      ]
+    },
+    {
+      "title": "広島の日本代表GK大迫敬介がチームに再合流 海外移籍のため離脱も…現地では破談と報道",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/666987",
+      "pubDate": "2026-08-04T23:32:26.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/666987"
+        }
+      ]
+    },
     {
       "title": "J3奈良クラブ 天皇杯へ イコマFCと初対戦 新加入・安藤選手が決勝点 (産経新聞)",
       "summary": "サッカー天皇杯の奈良県代表を決める第31回県サッカー選手権大会の決勝が1日、橿原市の鞄工房山本アスレチックフィールド橿原で行われた。J3奈良クラブが今季から関西サッカーリーグ1部（J5相当）に参戦した",
