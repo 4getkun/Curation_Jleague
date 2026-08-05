@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-05T13:41:39.562Z",
-  "count": 696,
+  "generatedAt": "2026-08-05T15:54:19.093Z",
+  "count": 698,
   "items": [
+    {
+      "title": "岡山が“Kリーグ屈指のファイター”全北MFオベルタンを獲得へ (スポニチアネックス)",
+      "summary": "岡山が全北（韓国）所属のブラジル人MFオベルタン（31）を完全移籍で獲得することが5日までに分かった。関係者によるとすでに契約を締結し、Jリーグへの選手登録も申請済み。コンディションや連係面を考慮す",
+      "link": "https://news.yahoo.co.jp/articles/296167d9a42da07372be999233160ae74b729919?source=rss",
+      "pubDate": "2026-08-05T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/296167d9a42da07372be999233160ae74b729919?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-15 Jリーグ選抜対リバプールU15を担当した審判団(11枚)",
+      "summary": "U-15 Jリーグ選抜は7月下旬に「Jリーグインターナショナルシリーズ2026 アカデミーマッチ」を戦った。リバプールU15と2試合を行って初戦は1-0で勝利。2戦目は1-1で突入したPK戦を3-1で制した。●2026-27シーズンJリーグ…",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456411-456411-pn",
+      "pubDate": "2026-08-05T13:46:04.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456411-456411-pn"
+        }
+      ]
+    },
     {
       "title": "ハノーバー横田大祐がレンジャーズ移籍 フロンターレ下部組織で宮代大聖や山田新と同期(スポニチアネックス)",
       "summary": "サッカーのスコットランド・プレミアリーグで優勝55回を誇る名門レンジャーズは5日、ドイツ2部ハノーバーからMF横田大祐（26）を獲得したと発表した。3年契約で1年延長のオプションが付く。英スカイスポ",
@@ -4640,6 +4678,25 @@
       ]
     },
     {
+      "title": "開幕1週間前に…J3群馬が4選手の負傷を公表",
+      "summary": "[故障者情報] ザスパ群馬は31日、4選手の負傷状況を発表した。MF山口一真が左下腿三頭筋損傷、MF米原秀亮が右肩関節脱臼、MF安達秀都が右肩関節脱臼、FW松本皐誠が右膝外側半月板を損傷した。 シーズン移行を行うJリーグは、8月7日に26-…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456211-456211-fl",
+      "pubDate": "2026-07-31T08:43:46.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456211-456211-fl"
+        }
+      ]
+    },
+    {
       "title": "Jリーグから全面バックアップも…選ばれた3人の大学生 大岩監督が期待「目線が高い状態で」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/666379",
@@ -4653,26 +4710,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/666379"
-        }
-      ]
-    },
-    {
-      "title": "特別指定選手の大学生が大量にJリーグ選手登録、神戸や名古屋らは複数選手を2種登録",
-      "summary": "Jリーグは31日、登録選手の追加・抹消を発表した。■J1水戸ホーリーホック16 DF田村遊吏(桃山学院大3年、特別指定)87 FW五木田季晋(日本大4年、特別指定)ジェフユナイテッド千葉46 DF齋藤隼士(2種)47 MF伊藤暖(2種)柏レ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456205-456205-fl",
-      "pubDate": "2026-07-31T08:21:24.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456205-456205-fl"
         }
       ]
     },
