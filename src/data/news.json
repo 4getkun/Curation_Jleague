@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T12:24:34.994Z",
+  "generatedAt": "2026-08-06T14:43:01.338Z",
   "count": 735,
   "items": [
     {
@@ -4081,11 +4081,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?456276-456276-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3a287f85717da34fd8866b5cb5be7fa17dbc6693?source=rss"
         }
       ]
     },
