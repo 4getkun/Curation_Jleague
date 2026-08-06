@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-06T07:32:20.608Z",
-  "count": 733,
+  "generatedAt": "2026-08-06T10:27:06.908Z",
+  "count": 734,
   "items": [
+    {
+      "title": "Ｊリーグ７日開幕 ついに「秋春制」移行 変更点、メリットは(日刊スポーツ)",
+      "summary": "新時代を迎えるJリーグが7日に横浜－鹿島（MUFG国立）、G大阪－浦和（パナスタ）で開幕する。今季より8月～翌年6月に行われる「秋春制」に移行され、選手のパフォーマンス向上と、欧州シーズンを合わせた",
+      "link": "https://news.yahoo.co.jp/articles/46729586b1f3a23cc201181d5d63a82a9d43dcf4?source=rss",
+      "pubDate": "2026-08-06T09:18:49.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/46729586b1f3a23cc201181d5d63a82a9d43dcf4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「みんなの印象に残るようなプレーを」横浜F・マリノス16歳・三井寺眞、開幕戦デビューへ「結果も大切になってくる」",
+      "summary": "横浜F・マリノスは8月5日、横須賀市内でトレーニングを行った。秋春制へ移行する最初のシーズンの開幕記念マッチとなる7日の鹿島アントラーズ戦へ向けて調整。全席種のチケットが完売し、およそ6万枚以上のチケットが発券されるなど注目を集める一戦を前…",
+      "link": "https://www.footballchannel.jp/2026/08/06/post972426/",
+      "pubDate": "2026-08-06T08:00:33.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/06/post972426/"
+        }
+      ]
+    },
     {
       "title": "J1柏MF熊坂光希「もう一度代表を目指す」右膝前十字靭帯断裂の大けがから完全復活へ(サンケイスポーツ)",
       "summary": "J1柏は6日、千葉県柏市にて8日の水戸との開幕戦（三協F柏）に向けて非公開で練習を行った。右膝前十字靭帯断裂の大けがから復帰したMF熊坂光希（25）は「やっと始まるなという感じ。去年の途中でけがをして",
@@ -4423,18 +4461,23 @@
       ]
     },
     {
-      "title": "31回目のちばぎんカップは初のスコアレスに…PK戦で千葉を下した柏が通算20勝目(ゲキサカ)",
-      "summary": "[8.1 ちばぎんカップ 千葉 0-0(PK4-5) 柏 フクアリ] 1日、第31回ちばぎんカップが、フクダ電子アリーナで開催された。試合は0-0でのPK戦の末に、柏が勝利をおさめた。 ベンチ",
-      "link": "https://news.yahoo.co.jp/articles/6543bf42911fb800f1c02c5ffeb0b120d2fbb843?source=rss",
+      "title": "31回目のちばぎんカップは初のスコアレスに…PK戦で千葉を下した柏が通算20勝目",
+      "summary": "[8.1 ちばぎんカップ 千葉 0-0(PK4-5) 柏 フクアリ] 1日、第31回ちばぎんカップが、フクダ電子アリーナで開催された。試合は0-0でのPK戦の末に、柏が勝利をおさめた。 ベンチ入り選手は22名。交代は11名までで、交代の回数…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456269-456269-fl",
       "pubDate": "2026-08-01T12:18:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "jef-chiba",
         "reysol"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456269-456269-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -4540,23 +4583,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8208c4af4acc7def3b592798b53995c621b5aed9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "蜂須賀孝治氏が秋田のクラブコミュニケーターに就任「大変光栄に思います」",
-      "summary": "ブラウブリッツ秋田は1日、蜂須賀孝治氏(36)が「クラブコミュニケーター」に就任することを発表した。クラブと地域のつながりをより強固なものにしていくためとしている。 栃木県出身の蜂須賀氏は現役時代にベガルタ仙台と秋田で活躍。秋田に所属してい…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456262-456262-fl",
-      "pubDate": "2026-08-01T11:32:09.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456262-456262-fl"
         }
       ]
     },
