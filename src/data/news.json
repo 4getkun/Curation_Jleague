@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-08-07T15:43:41.369Z",
-  "count": 858,
+  "generatedAt": "2026-08-07T16:41:08.254Z",
+  "count": 860,
   "items": [
+    {
+      "title": "【鹿島】DF広瀬陸斗「鹿島の若いやつらの方がすごいぞと」ニヤリ、三井寺眞とマッチアップ(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 昨季王者の鹿島アントラーズが横浜F・マリノスに4－3で逆転勝ちを収めた。一時は2点リードを許したが、後半追加タイムに2得点を奪う劇的な幕",
+      "link": "https://news.yahoo.co.jp/articles/f063839a33f17a7545caf89de1d801bffb4232ca?source=rss",
+      "pubDate": "2026-08-07T15:53:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f063839a33f17a7545caf89de1d801bffb4232ca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "衝撃の開幕戦！横浜FMの16歳・三井寺眞がファーストゴールを奪うも、鹿島が怒涛の攻めで2点差を跳ね返して逆転勝ち｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー レビュー】明治安田J1リーグは8月7日から9日にかけて第1節が開催。 MUFGスタジアムで開催されたPICK UP MATCHの横浜F・マリノスと鹿島アントラーズの一戦は壮絶な死闘とな",
+      "link": "https://news.yahoo.co.jp/articles/5fdc08ba026715f2e0c574ad20b2028fafe4d01c?source=rss",
+      "pubDate": "2026-08-07T15:45:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5fdc08ba026715f2e0c574ad20b2028fafe4d01c?source=rss"
+        }
+      ]
+    },
     {
       "title": "Ｕ―２１日本代表ＧＫの荒木琉偉がＧＫで開幕最年少先発も３失点「良くない結果。課題、反省が多い」 ほろ苦いＪ１デビュー(スポーツ報知)",
       "summary": "◆明治安田Ｊ１リーグ▽第１節 Ｇ大阪４―３浦和（７日・パナスタ） ２０２６～２７年シーズンが開幕した。明神智和新監督が就任したＧ大阪は、逆転勝ちで６年ぶりに開幕白星発進した。Ｕ―２１日本代表のＧＫ",
@@ -154,8 +193,8 @@
       "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 横浜F・マリノスのエースFW谷村海那（28）が2得点したが、近年勝てていない天敵・鹿島からの勝ち点3とはならなかった。 前半18分に",
       "link": "https://news.yahoo.co.jp/articles/3dc5acca9797dffb99867ff5955c85a4be42eda2?source=rss",
       "pubDate": "2026-08-07T14:55:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "antlers",
         "marinos"
@@ -163,8 +202,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3dc5acca9797dffb99867ff5955c85a4be42eda2?source=rss"
         }
       ]
@@ -214,8 +253,8 @@
       "summary": "＜明治安田J1：G大阪4－3浦和＞◇第1節◇7日◇パナスタ ガンバ大阪のU－21日本代表GK荒木琉偉（18）が、J1での開幕先発GKの最年少記録を更新した。 浦和レッズとの開幕戦でスタメンを任",
       "link": "https://news.yahoo.co.jp/articles/06ca039e10162a0b5ff9b22c2983d8ec8ab1203b?source=rss",
       "pubDate": "2026-08-07T14:46:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
@@ -224,8 +263,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/06ca039e10162a0b5ff9b22c2983d8ec8ab1203b?source=rss"
         }
       ]
@@ -235,8 +274,8 @@
       "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 U－19日本代表の鹿島FW吉田湊海（18）が開幕スタメンを飾った。18歳23日は06年のDF内田（17歳11カ月8日）に次ぐクラブ史上2",
       "link": "https://news.yahoo.co.jp/articles/f293f022035145ba43a0d77234721dd72f9062bc?source=rss",
       "pubDate": "2026-08-07T14:40:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "antlers"
       ],
@@ -245,8 +284,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f293f022035145ba43a0d77234721dd72f9062bc?source=rss"
         }
       ]
@@ -353,16 +392,16 @@
       "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 秋春制へのシーズン移行元年、大転換期の日本サッカー界に新星が現れた。史上最年少となる16歳4カ月5日でJ1開幕戦に先発デビューした横浜F",
       "link": "https://news.yahoo.co.jp/articles/84fb116bad810940ad39a03dc0170e54921de422?source=rss",
       "pubDate": "2026-08-07T14:29:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "antlers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/84fb116bad810940ad39a03dc0170e54921de422?source=rss"
         }
       ]
@@ -629,7 +668,8 @@
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
       "teams": [
-        "antlers"
+        "antlers",
+        "marinos"
       ],
       "topics": [
         "national-team"
@@ -639,6 +679,11 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f3353a20bf0c8c3b80f725157d9f3445d1dd73c9?source=rss"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/748f3ea8b14135af8aab8ddac21eef98cc428e82?source=rss"
         }
       ]
     },
