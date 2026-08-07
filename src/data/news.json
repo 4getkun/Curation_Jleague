@@ -1,7 +1,141 @@
 {
-  "generatedAt": "2026-08-07T06:40:22.752Z",
-  "count": 761,
+  "generatedAt": "2026-08-07T08:06:02.143Z",
+  "count": 768,
   "items": [
+    {
+      "title": "J1岡山、ホーム開幕の長崎戦チケット完売を発表 31試合連続で…クラブ謝罪「大変申し訳なく思っております」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/667419",
+      "pubDate": "2026-08-07T08:05:54.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/667419"
+        }
+      ]
+    },
+    {
+      "title": "セレッソ電撃加入のジャクソン・アーバイン、インスタがオシャレすぎた！ 日本代表炎ユニほか絶妙“ユニコーデ”も多数披露(theWORLD（ザ・ワールドWeb）)",
+      "summary": "セレッソ大阪は、オーストラリア代表MFジャクソン・アーバインの加入を発表。ザンクトパウリで主将も務めた大物の加入に驚きが広がった。 口髭と長髪がトレードマークのアーバインは人気を博しそうだが、セレッ",
+      "link": "https://news.yahoo.co.jp/articles/16bd41d8965d42e8c4d024e1f6a21b874b5e0fde?source=rss",
+      "pubDate": "2026-08-07T08:02:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/16bd41d8965d42e8c4d024e1f6a21b874b5e0fde?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜FMユース出身の筑波大3年生DF池田春汰、富山加入が内定「強い覚悟と責任を持って全力で戦いたい」(ゲキサカ)",
+      "summary": "カターレ富山は7日、筑波大DF池田春汰(3年)の2027-28シーズン加入内定を発表した。 池田は横浜F・マリノスのアカデミー出身。世代別日本代表歴も豊富なほか、2025年度デンソーカップではU",
+      "link": "https://news.yahoo.co.jp/articles/2c9aff9e3f7ea80c457a94e724b7f3e90e287f97?source=rss",
+      "pubDate": "2026-08-07T07:57:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "signing",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2c9aff9e3f7ea80c457a94e724b7f3e90e287f97?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグが熊本県に義援金1,000万円を拠出(ゲキサカ)",
+      "summary": "Jリーグは7日、臨時理事会で熊本県に義援金1,000万円を拠出することを決定したと発表した。 令和8年熊本地震を受けてのもの。なお、各クラブも募金活動を行っているほか、「Jリーグ TEAM AS",
+      "link": "https://news.yahoo.co.jp/articles/e04fcf04d9ef5c3c83e13e736ace81de6a94db6b?source=rss",
+      "pubDate": "2026-08-07T07:44:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e04fcf04d9ef5c3c83e13e736ace81de6a94db6b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ、熊本地震への義援金1000万円拠出を発表 臨時理事会で決定…募金活動は9月末まで継続",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/667408",
+      "pubDate": "2026-08-07T07:35:59.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/667408"
+        }
+      ]
+    },
+    {
+      "title": "【東京V】城福監督「泥水をすする」挑戦、歴史的転換期のJ1へ「どんな姿勢でやり続けるか？」(日刊スポーツ)",
+      "summary": "東京ヴェルディを指揮して5年目を迎える城福浩監督（65）が、今季はさらに「泥水をすする」覚悟で挑む。開幕戦（9日・川崎フロンターレ戦＝東京・味スタ）に向けて7日、東京・稲城市の練習場でメディア対応し",
+      "link": "https://news.yahoo.co.jp/articles/948175f29824624b65851d655785b327d09bca95?source=rss",
+      "pubDate": "2026-08-07T07:24:26.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/948175f29824624b65851d655785b327d09bca95?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】シーズン開幕へ権田修一が決意「ここから本当の強豪になれるかの分岐点」8日に福岡戦(日刊スポーツ)",
+      "summary": "ヴィッセル神戸は8日にアビスパ福岡とアウェーで開幕戦（ベススタ）を戦う。 7日は神戸市内のいぶきの森球技場で最終調整。オンライン取材に応じたミヒャエル・スキッベ監督（61）は「明日の試合に向けて",
+      "link": "https://news.yahoo.co.jp/articles/a3bd619c37c0d21b62352d7cc46b3b0dad79e1ae?source=rss",
+      "pubDate": "2026-08-07T06:59:21.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a3bd619c37c0d21b62352d7cc46b3b0dad79e1ae?source=rss"
+        }
+      ]
+    },
     {
       "title": "神戸、アカデミー出身の中京大MF岩本悠庵の加入内定を発表！「目標であるアジアNo.1になれるように」 | Jリーグ(DAZN News)",
       "summary": "【国内サッカーニュース】ヴィッセル神戸は7日、中京大学のMF岩本悠庵が2029/30シーズンより加入が内定したことを発表した。なお、2026/27シーズンは『JFA・Jリーグ特別指定選手』として承認さ",
