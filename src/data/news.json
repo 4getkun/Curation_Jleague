@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-07T18:38:48.769Z",
-  "count": 860,
+  "generatedAt": "2026-08-07T19:43:31.870Z",
+  "count": 861,
   "items": [
+    {
+      "title": "新潟 J1復帰への戦い開幕 船越監督「新潟らしく戦う」(スポニチアネックス)",
+      "summary": "J2新潟は8日にアウェーで大宮との開幕戦に臨む。7日に新潟・聖籠町のアルビレッジでの最終調整を終えた船越優蔵監督（49）は、J1昇格へ向けて冷静に最初の勝ち点3を奪いにいく姿勢を示した。 どうし",
+      "link": "https://news.yahoo.co.jp/articles/8581bdc4f336f3d39aefeecda6afe02f7d2fe3af?source=rss",
+      "pubDate": "2026-08-07T19:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8581bdc4f336f3d39aefeecda6afe02f7d2fe3af?source=rss"
+        }
+      ]
+    },
     {
       "title": "【鹿島】DF広瀬陸斗「鹿島の若いやつらの方がすごいぞと」ニヤリ、三井寺眞とマッチアップ(日刊スポーツ)",
       "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 昨季王者の鹿島アントラーズが横浜F・マリノスに4－3で逆転勝ちを収めた。一時は2点リードを許したが、後半追加タイムに2得点を奪う劇的な幕",
@@ -110,8 +127,8 @@
       "summary": "＜明治安田J1：G大阪4－3浦和＞◇第1節◇7日◇パナスタ ガンバ大阪が浦和との壮絶な打ち合いを制し、明神智和新監督（48）の初陣を白星で飾った。 前半に退場者を出した浦和を逆転しながら、後半",
       "link": "https://news.yahoo.co.jp/articles/691b658b77f67e43a740f593f7361fdf52538964?source=rss",
       "pubDate": "2026-08-07T15:09:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
@@ -120,8 +137,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/691b658b77f67e43a740f593f7361fdf52538964?source=rss"
         }
       ]
@@ -131,8 +148,8 @@
       "summary": "＜明治安田J1：G大阪4－3浦和＞◇第1節◇7日◇パナスタ 浦和レッズのFW南野遥海（22）が、浦和デビューとなった開幕戦でいきなりゴールを決めた。 2－2の後半15分に途中出場。同35分に左",
       "link": "https://news.yahoo.co.jp/articles/c717421799a2f36f5cbc09da8c82fec10e585303?source=rss",
       "pubDate": "2026-08-07T15:00:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reds"
       ],
@@ -141,8 +158,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c717421799a2f36f5cbc09da8c82fec10e585303?source=rss"
         }
       ]
