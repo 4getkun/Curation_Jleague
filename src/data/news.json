@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-08-07T23:01:50.965Z",
-  "count": 901,
+  "generatedAt": "2026-08-07T23:54:59.357Z",
+  "count": 904,
   "items": [
+    {
+      "title": "ビジョンに共感？大学No.1CBが選んだ道（1） Jリーグ、特別指定で在籍も加入しなかった選手(フットボールチャンネル)",
+      "summary": "「JFA・Jリーグ特別指定選手制度」は現在、受入先のJクラブにプロ選手として加入することが内定していることを条件としている。しかしそれ以前は、受入先クラブへの加入が内定せずとも、特別指定選手としてプロ",
+      "link": "https://news.yahoo.co.jp/articles/cc0e21e3c3b78f27c152c277c6db4f45620d7845?source=rss",
+      "pubDate": "2026-08-07T23:05:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cc0e21e3c3b78f27c152c277c6db4f45620d7845?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "大物助っ人は「やっぱりものが違う」 J1アビスパ福岡熱烈サポーター、KBC「沖アビ義」アナを直撃！ 888の「ハチの日」に新シーズンがスタート(西スポWEB OTTO!)",
+      "summary": "いよいよ、Jリーグ初の「秋春制」となる2026～27年シーズンが開幕します。J1アビスパ福岡は令和8年8月8日、「ハチの日」にホームのベスト電器スタジアムで明治安田J1百年構想リーグ王者の神戸を迎え",
+      "link": "https://news.yahoo.co.jp/articles/6b5da97491b6a999584158b02a4eec08bc290ab5?source=rss",
+      "pubDate": "2026-08-07T23:05:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6b5da97491b6a999584158b02a4eec08bc290ab5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】16歳三井寺眞チームの全３得点に絡むも…王者鹿島相手に開幕戦勝利ならず(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 秋春制へのシーズン移行元年の日本サッカー界に新星が現れた。 史上最年少となる16歳4カ月5日でJ1開幕戦に先発デビューした横浜MF三",
+      "link": "https://news.yahoo.co.jp/articles/be18d2134fae062d462e1a1f2187f4fc8c049b94?source=rss",
+      "pubDate": "2026-08-07T23:01:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/be18d2134fae062d462e1a1f2187f4fc8c049b94?source=rss"
+        }
+      ]
+    },
     {
       "title": "衝撃のラスト20分。マリノスには“真の強さ”がなかった。知念慶が感じた古巣との差「鹿島はタフ。シンプルに自分たちが弱かった」(SOCCER DIGEST Web)",
       "summary": "［J１第１節］横浜FM ３－４ 鹿島／８月７日／国立競技場 スティーブ・コリカ新監督が率いる横浜F・マリノスは、16歳のスーパールーキー三井寺眞の先制点と、エースストライカー谷村海那の２発で、３－",
