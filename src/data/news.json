@@ -1,7 +1,203 @@
 {
-  "generatedAt": "2026-08-08T00:50:07.558Z",
-  "count": 912,
+  "generatedAt": "2026-08-08T02:49:23.665Z",
+  "count": 921,
   "items": [
+    {
+      "title": "「3-1になったときには勝ちに持っていかなくちゃいけない」横浜F・マリノス、スティーブ・コリカ監督が鹿島戦の逆転負けを悔やむ",
+      "summary": "横浜F・マリノスは8月7日、2026/27明治安田J1リーグ第1節で鹿島アントラーズとMUFGスタジアム（国立競技場）で対戦し、3-4で敗れた。Jリーグ最多となる6万3960人が来場したシーズン開幕記念マッチで、スティーブ・コリカ監督にとっ…",
+      "link": "https://www.footballchannel.jp/2026/08/08/post973443/",
+      "pubDate": "2026-08-08T02:45:04.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post973443/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/17cf5c0503566fb8a2109c6deab57c84d3e8e77d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "初ゴールが値千金の決勝弾！ ガンバ大阪FW植中朝日が新天地初得点！ シーソーゲームを制す一撃",
+      "summary": "ガンバ大阪は7日、2026/27シーズン明治安田J1リーグ第1節で浦和レッズと対戦し、4-3の勝利を収めた。横浜F・マリノスからの移籍でガンバでプレーするFW植中朝日が、新天地初ゴールを決めた。特別大会は怪我で出場がなかったが、ついに初ゴー…",
+      "link": "https://www.footballchannel.jp/2026/08/08/post973425/",
+      "pubDate": "2026-08-08T02:27:47.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post973425/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b1a66f357811037f450f588366780ac41fa8954c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島の練習は「トレンドと逆行している」 鬼木監督が明かす…猛暑でも足をつらない理由(FOOTBALL ZONE)",
+      "summary": "鹿島アントラーズは8月7日に行われた2026-27シーズンのJ1リーグ開幕戦で横浜F・マリノスに4-3の逆転勝利を収めた。後半アディショナルタイム（AT）に入っても2-3と1点ビハインドだった鹿島だ",
+      "link": "https://news.yahoo.co.jp/articles/54ea39b65acb73cd554b40c45d748dc79dd07209?source=rss",
+      "pubDate": "2026-08-08T02:20:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/54ea39b65acb73cd554b40c45d748dc79dd07209?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/667634"
+        }
+      ]
+    },
+    {
+      "title": "ファジアーノ岡山が海外クラブから外国人選手を獲得！ 松本山雅FCは海外日本人選手を獲得【7日のJリーグ移籍情報まとめ】",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年8月7日に発表された最新の新加入、退団情報などは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/08/08/post973407/",
+      "pubDate": "2026-08-08T02:01:16.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post973407/"
+        }
+      ]
+    },
+    {
+      "title": "松本山雅FC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける松本山雅FCの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/08/post821259/",
+      "pubDate": "2026-08-08T01:56:10.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post821259/"
+        }
+      ]
+    },
+    {
+      "title": "湘南ベルマーレ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける湘南ベルマーレの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/08/post814599/",
+      "pubDate": "2026-08-08T01:54:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post814599/"
+        }
+      ]
+    },
+    {
+      "title": "ファジアーノ岡山 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるファジアーノ岡山の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/08/post814794/",
+      "pubDate": "2026-08-08T01:52:21.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post814794/"
+        }
+      ]
+    },
+    {
+      "title": "16歳が決めた横浜F・マリノスのオープニングゴール！ MF三井寺眞、衝撃のデビュー弾をピッチ目線で",
+      "summary": "横浜F・マリノスは7日、2026/27シーズン明治安田J1リーグ第1節で鹿島アントラーズと国立競技場で対戦し、3-4の敗北を喫した。結果は、逆転負けとなったが、16歳のMF三井寺眞が開幕デビューを飾り、ゴールを決めた。このゴールのピッチ目線…",
+      "link": "https://www.footballchannel.jp/2026/08/08/post973380/",
+      "pubDate": "2026-08-08T01:37:12.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/08/post973380/"
+        }
+      ]
+    },
+    {
+      "title": "プロ初先発の鹿島18歳「何もやれなかった」 前半のみで交代…相手16歳が活躍「悔しい」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/667627",
+      "pubDate": "2026-08-08T01:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/667627"
+        }
+      ]
+    },
     {
       "title": "シーズン移行の門出を祝うド派手な開幕戦、王者・鹿島が劇的大逆転で白星発進！(チケットぴあ)",
       "summary": "シーズン移行の新たな門出にふさわしいド派手なゲームとなった。横浜F・マリノスと鹿島アントラーズが対峙した『2026/27明治安田J1リーグ』開幕戦に集った6万3960人は7つのゴールシーンに酔いしれた",
@@ -1682,8 +1878,7 @@
       "source": "日刊スポーツ（Yahoo!ニュース経由）",
       "sourceId": "yahoo-nikkansports",
       "teams": [
-        "antlers",
-        "marinos"
+        "antlers"
       ],
       "topics": [
         "national-team"
