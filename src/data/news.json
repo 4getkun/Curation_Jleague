@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-08-08T19:50:11.377Z",
-  "count": 1034,
+  "generatedAt": "2026-08-08T20:16:55.624Z",
+  "count": 1037,
   "items": [
+    {
+      "title": "Jリーグ反則ポイント、名門が残した“驚異的な数値” 2位名古屋、3位浦和…特徴的な「減点方式」(FOOTBALL ZONE)",
+      "summary": "今年の北中米ワールドカップを観戦していて、特に決勝トーナメントに入ってからのファウルの多さに辟易した人は多いのではないだろうか。だが実はフェアプレーを貫くことには、チームにとって大きなメリットが存在",
+      "link": "https://news.yahoo.co.jp/articles/8da99f6b632aef6aa9d32a7a0d22f92582e83ceb?source=rss",
+      "pubDate": "2026-08-08T20:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8da99f6b632aef6aa9d32a7a0d22f92582e83ceb?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/667681"
+        }
+      ]
+    },
+    {
+      "title": "広島・斉藤優汰「先に点を取られている」 4回5失点だった前回から修正も反省しきり(スポニチアネックス)",
+      "summary": "◇セ・リーグ 広島3―4DeNA（2026年8月8日 横浜） 広島の先発・斉藤優は5回2失点。4回5失点だった前回の中日戦より修正はできたが「先に点を取られている。走者が出ると甘くなってしまった",
+      "link": "https://news.yahoo.co.jp/articles/1ba46c7b349dbc0037219b8cec261bc7e1311695?source=rss",
+      "pubDate": "2026-08-08T20:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1ba46c7b349dbc0037219b8cec261bc7e1311695?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "明治安田J1 水戸、開幕戦黒星 柏に1-2(茨城新聞クロスアイ)",
+      "summary": "明治安田J1第1節第2日は8日、千葉県の三協フロンテア柏スタジアムなどで行われ、初昇格の水戸は柏に1-2で敗れ、開幕戦を飾れなかった。 水戸は前半5分に先制され、同36分にはミドルシュートを決められ",
+      "link": "https://news.yahoo.co.jp/articles/099f40c967aa2bd24b01001e2ea11b17dee16a29?source=rss",
+      "pubDate": "2026-08-08T20:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/099f40c967aa2bd24b01001e2ea11b17dee16a29?source=rss"
+        }
+      ]
+    },
     {
       "title": "柏 J1通算400勝! 2点絡んだ小泉は“純国産ラインアップ”に手応え「イメージ共有できてる」(スポニチアネックス)",
       "summary": "◇明治安田J1第1節 柏 2―1 水戸（2026年8月8日 三協F柏） 明治安田J1リーグは8日に6試合が行われ、柏が水戸を2―1で破ってJ1通算400勝を達成した。MF小泉佳穂（29）が前半3",
