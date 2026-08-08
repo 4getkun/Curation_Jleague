@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-08-08T10:57:06.694Z",
-  "count": 968,
+  "generatedAt": "2026-08-08T11:22:37.390Z",
+  "count": 971,
   "items": [
+    {
+      "title": "FC東京の橋本健人が痛恨の一発レッド。スライディングした左足裏が相手の脛を直撃(SOCCER DIGEST Web)",
+      "summary": "FC東京は８月８日、2026/27シーズンのJ１第１節でFC町田ゼルビアと味の素スタジアムで対戦。DF橋本健人が前半のうちに退場となり、数的不利に陥った。 １－１で迎えた37分、橋本はルーズボー",
+      "link": "https://news.yahoo.co.jp/articles/7529c28846db7544d7269706a8763d46a8fbf0b1?source=rss",
+      "pubDate": "2026-08-08T11:17:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7529c28846db7544d7269706a8763d46a8fbf0b1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｃ大阪、パブロ・マチン新監督の初陣は前半２―１でリード 岡山に先制許すも桜川ソロモン、横山夢樹のゴールで逆転(スポーツ報知)",
+      "summary": "◆２０２６／２７明治安田Ｊ１▽第１節 Ｃ大阪―岡山（８日・ヤンマーハナサカスタジアム） Ｃ大阪は今季開幕節のホーム岡山戦で、スペイン出身のパブロ・マチン新監督が初陣を迎えた。 試合は前半から動",
+      "link": "https://news.yahoo.co.jp/articles/fee139c4ca90dbfc1b9ca351746959619926aab2?source=rss",
+      "pubDate": "2026-08-08T11:16:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fee139c4ca90dbfc1b9ca351746959619926aab2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ロス世代の20歳アタッカーがJ１初ゴール！ 香川真司のラストパスから狙いすましたコントロールシュート(SOCCER DIGEST Web)",
+      "summary": "ロス五輪世代の20歳アタッカーが決めた。 セレッソ大阪は８月８日、J１開幕戦でファジアーノ岡山とホームで対戦している。 開始８分に先制を許すも、20分に櫻川ソロモンが巧みな抜け出しから同点弾",
+      "link": "https://news.yahoo.co.jp/articles/c2e8a6981c2e08b665f39c099ad1a9ec706bac3b?source=rss",
+      "pubDate": "2026-08-08T11:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo",
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c2e8a6981c2e08b665f39c099ad1a9ec706bac3b?source=rss"
+        }
+      ]
+    },
     {
       "title": "ベテランの技は健在 ３６歳の神戸ＦＷ大迫勇也が今季初ゴール ロングスロー起点に押し込む(スポーツ報知)",
       "summary": "◆２０２６／２７明治安田Ｊ１▽第１節 福岡―神戸（８日・ベススタ） 百年構想リーグ王者の神戸は、アウェーで福岡との開幕戦に臨み、元日本代表ＦＷ大迫勇也が今季初ゴールを決めて先制した。前半２３分、左",
@@ -4084,11 +4144,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?456472-456472-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2c9aff9e3f7ea80c457a94e724b7f3e90e287f97?source=rss"
         }
       ]
     },
