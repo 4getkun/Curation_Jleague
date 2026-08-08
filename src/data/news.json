@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-08T08:05:30.829Z",
-  "count": 938,
+  "generatedAt": "2026-08-08T09:07:31.417Z",
+  "count": 940,
   "items": [
+    {
+      "title": "【J1広島】新たなる歴史の幕開け。広島ー千葉戦スターティングイレブン発表！GKは大内が先発、復帰の川村、新加入のアレーはサブスタート(アスリートマガジンWEB)",
+      "summary": "8月8日、エディオンピースウイング広島で開催される広島ー千葉戦のスターティングイレブンが発表された。 Jリーグ秋春制元年となる2026/27シーズン、広島が開幕戦の相手として迎え撃つのは、今季、",
+      "link": "https://news.yahoo.co.jp/articles/0d9e6e5980063d40e3088635dc7daed77b6d37b0?source=rss",
+      "pubDate": "2026-08-08T09:00:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0d9e6e5980063d40e3088635dc7daed77b6d37b0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "フェンシング吉田とテコンドー山田美諭の五輪婚に江村美咲も「おめでとう」吉田の父は元FC東京(日刊スポーツ)",
+      "summary": "フェンシング男子サーブルの東京オリンピック（五輪）とパリ五輪代表の吉田健人（33＝警視庁）と、テコンドー女子49キロ級で同じく東京五輪に出場した山田美諭（32）が結婚した。8日、インスタグラムで発表",
+      "link": "https://news.yahoo.co.jp/articles/38400fe4b8696f00abb83dd38a8cf8f21942f5d2?source=rss",
+      "pubDate": "2026-08-08T08:19:09.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/38400fe4b8696f00abb83dd38a8cf8f21942f5d2?source=rss"
+        }
+      ]
+    },
     {
       "title": "ハーランドはノルウェーの育成が生んだわけじゃない？Jリーグが世界的スーパースターを輩出するには…【しゃべGOAL】(GOAL)",
       "summary": "ついに開幕した2026-27シーズンの明治安田生命Jリーグ。今季から「秋春制」を導入して新たな時代を迎えた日本トップリーグだが、今夏に行われたFIFAワールドカップ2026の日本代表の結果を受けて、改",
@@ -4168,6 +4208,27 @@
       ]
     },
     {
+      "title": "大学受験失敗でトップ昇格、W杯意識して海外挑戦も1年半で帰還…挫折乗り越える藤井陽也がド派手なチームに変貌した名古屋を守備で支える",
+      "summary": "ド派手なチームに変貌した。25シーズンのJ1を16位で終えた名古屋グランパスは、22年から4季指揮した長谷川健太監督を解任してペトロヴィッチ監督を招へい。超攻撃的サッカーを志向する新監督のもとでJ1百年構想リーグを戦ったチームは、リーグ18…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456432-456432-fl",
+      "pubDate": "2026-08-06T06:00:16.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456432-456432-fl"
+        }
+      ]
+    },
+    {
       "title": "【町田】優勝掲げる黒田監督に思わぬ刺客が…「この間も体当たりされたし、小便かけられた」(日刊スポーツ)",
       "summary": "FC町田ゼルビアの黒田剛監督（56）が、シーズン移行元年の目標を「優勝」と明言した。 FC東京との開幕戦（8日、東京・味スタ）を2日後に控えた6日、トレーニング後に取材対応。今季の目標にJ1優勝",
       "link": "https://news.yahoo.co.jp/articles/e50aaa059435afdf1bcb3a5fd23b0db719a5b81e?source=rss",
@@ -4361,25 +4422,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7f938db482475d610b5040b09e5ae1fa6ea5b6a1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "去就は…FC東京が開幕戦前に“登録外”長友佑都が挨拶を行うと発表",
-      "summary": "FC東京は6日、DF長友佑都が8日に行うJ1第1節の町田戦に来場すると発表した。ワールドカップを戦った代表選手への花束贈呈に出席する。 キックオフ前の18時40分ごろに挨拶を行う予定。なお、新シーズンを戦うFC東京のメンバーに、長友はまだ登…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456420-456420-fl",
-      "pubDate": "2026-08-06T03:26:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456420-456420-fl"
         }
       ]
     },
