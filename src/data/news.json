@@ -1,7 +1,65 @@
 {
-  "generatedAt": "2026-08-08T02:49:23.665Z",
-  "count": 921,
+  "generatedAt": "2026-08-08T04:03:59.226Z",
+  "count": 924,
   "items": [
+    {
+      "title": "3アシスト記録してもおかしくなかった!? 後半から入った松村優太は鹿島劇的逆転勝利の影の立役者に 「ビハインドで入ったということは、勝たせることが自分の目的」(theWORLD（ザ・ワールドWeb）)",
+      "summary": "鹿島アントラーズは、7日J1開幕戦で横浜F・マリノスと対戦し、4-3の逆転勝利を飾った。 試合終盤までマリノスに2点のリードを許す苦しい展開となった鹿島。攻め続けるも1点が遠い状況が続いていたなか、",
+      "link": "https://news.yahoo.co.jp/articles/91618ec39b8e1704408f948914131767de327664?source=rss",
+      "pubDate": "2026-08-08T04:01:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/91618ec39b8e1704408f948914131767de327664?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】「ヤバい」鮮烈デビュー16歳三井寺眞、SNS注目 人気漫画キャラと「見間違え」も(日刊スポーツ)",
+      "summary": "新時代を迎えるJリーグが7日に開幕し、横浜－鹿島（MUFG国立）で、史上最年少となる16歳4カ月5日でJ1開幕戦に先発デビューした横浜F・マリノスMF三井寺眞（みいでら・しん）が、王者鹿島アントラー",
+      "link": "https://news.yahoo.co.jp/articles/65e86c5e47bf64ef588b7ef4ac54220543d65227?source=rss",
+      "pubDate": "2026-08-08T02:55:06.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers",
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/65e86c5e47bf64ef588b7ef4ac54220543d65227?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "壮絶な敗戦も「誇りに思います」 曺貴裁監督が選手称賛…認識した「浦和の新しい姿」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/667638",
+      "pubDate": "2026-08-08T02:50:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/667638"
+        }
+      ]
+    },
     {
       "title": "「3-1になったときには勝ちに持っていかなくちゃいけない」横浜F・マリノス、スティーブ・コリカ監督が鹿島戦の逆転負けを悔やむ",
       "summary": "横浜F・マリノスは8月7日、2026/27明治安田J1リーグ第1節で鹿島アントラーズとMUFGスタジアム（国立競技場）で対戦し、3-4で敗れた。Jリーグ最多となる6万3960人が来場したシーズン開幕記念マッチで、スティーブ・コリカ監督にとっ…",
@@ -18,11 +76,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/08/post973443/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/17cf5c0503566fb8a2109c6deab57c84d3e8e77d?source=rss"
         }
       ]
     },
@@ -44,11 +97,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/08/post973425/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b1a66f357811037f450f588366780ac41fa8954c?source=rss"
         }
       ]
     },
