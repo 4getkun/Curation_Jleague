@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-08-08T20:54:49.836Z",
-  "count": 1041,
+  "generatedAt": "2026-08-08T21:19:36.995Z",
+  "count": 1046,
   "items": [
+    {
+      "title": "ＦＣ東京・佐藤恵允 パリ五輪組からのＡ代表入りへ「数字にはこだわっていきたい」(東スポWEB)",
+      "summary": "J1FC東京のMF佐藤恵允（25）が、森保一監督から大岩剛監督へ指揮官が引き継がれる日本代表入りへのアピールを誓った。 町田との明治安田J1リーグ開幕戦（7日、味スタ）で前半5分に先制点をアシス",
+      "link": "https://news.yahoo.co.jp/articles/e98ff4e89851ebe6c62788ca695c2e220975c0ab?source=rss",
+      "pubDate": "2026-08-08T21:15:39.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e98ff4e89851ebe6c62788ca695c2e220975c0ab?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サンフレッチェ広島MF川村拓夢が鮮やか“復帰弾”！ 背番号8が“令和8年8月8日88分”に勝利を決定づけるゴール",
+      "summary": "明治安田J1リーグ第1節、サンフレッチェ広島対ジェフユナイテッド千葉が8日に行われ、広島が3-0で勝利した。この試合では、今夏に広島へ復帰したMF川村拓夢が途中出場からゴールを奪っている。",
+      "link": "https://www.footballchannel.jp/2026/08/09/post973632/",
+      "pubDate": "2026-08-08T21:05:01.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/09/post973632/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d9ec44221828d1ba0ba979a60c5613de9f899dcc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "長友佑都が追う夢 空っぽの心に火をつけた「情けなさと悔しさ」…伝説の次に誓った有言実行(FOOTBALL ZONE)",
+      "summary": "FC東京は8月8日、J1リーグ開幕節でFC町田ゼルビアと対戦し、1-5で敗れた。契約更新が決定したDF長友佑都が試合前にピッチで挨拶し、新たな「夢」に向かって突き進む決断をした。 大歓声に包まれ",
+      "link": "https://news.yahoo.co.jp/articles/263138c2c78450777ae0e097a5ea30112ce52377?source=rss",
+      "pubDate": "2026-08-08T21:01:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/263138c2c78450777ae0e097a5ea30112ce52377?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "なぜこうなった…。Jリーグ、期待を裏切った外国人監督5人",
+      "summary": "Jリーグにやって来た外国人指揮官の中には、思うように結果を残せず、短期間でチームを去った監督も少なくない。これまでJリーグでは、実績や評価とは裏腹に、目立った成果を挙げられなかった外国人監督が数多く存在している。今回は、Jリーグでガッカリな…",
+      "link": "https://www.footballchannel.jp/2026/08/09/post973494/",
+      "pubDate": "2026-08-08T21:00:47.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/09/post973494/"
+        }
+      ]
+    },
+    {
+      "title": "【広島】新井監督、５回２失点の先発斉藤優汰に「前回よりもいい内容だった」／一問一答(日刊スポーツ)",
+      "summary": "＜DeNA4×－3広島＞◇8日◇横浜 広島が延長12回にサヨナラ負けを喫し、4連敗で借金が今季ワーストの17となった。 同点の12回。イニングをまたいだ8番手アドゥワが先頭の筒香にサヨナラ弾を",
+      "link": "https://news.yahoo.co.jp/articles/a46c57faf1bc972012fb4fdfdbb4936d1675f8a7?source=rss",
+      "pubDate": "2026-08-08T21:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a46c57faf1bc972012fb4fdfdbb4936d1675f8a7?source=rss"
+        }
+      ]
+    },
     {
       "title": "新星16歳の仕草「ポンポンしてる」 歴史的ゴール直後…ファン興奮「何度見ても心震える」(FOOTBALL ZONE)",
       "summary": "Jリーグは8月7日、同日に行われたJ1開幕戦の鹿島アントラーズ戦でプロ初ゴールを記録した横浜F・マリノスの16歳MF三井寺眞の現地独自カメラ映像を公式Xで公開した。ファンからは「何度見ても心震える」",
