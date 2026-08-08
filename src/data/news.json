@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-08T17:30:57.187Z",
-  "count": 1028,
+  "generatedAt": "2026-08-08T18:21:19.631Z",
+  "count": 1029,
   "items": [
+    {
+      "title": "韓国サッカー協会 日本人含む外国人審判員に性接待疑惑 W杯予選なども含むと現地テレビ報道(スポニチアネックス)",
+      "summary": "韓国のMBCテレビは7日、サッカー協会が過去に外国人審判員約10人に性接待をして日本人も含まれるとの疑惑を報じた。日本人について「Jリーグの審判を統括する人物も含まれる」としている。16年に作成され",
+      "link": "https://news.yahoo.co.jp/articles/f1ef8dee49c4de6e628843ba41b66861498067bf?source=rss",
+      "pubDate": "2026-08-08T18:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f1ef8dee49c4de6e628843ba41b66861498067bf?source=rss"
+        }
+      ]
+    },
     {
       "title": "ストーク所属の瀬古樹、2年ぶりのJリーグ復帰か…クラブ間で合意と現地報道(サッカーキング)",
       "summary": "ストークに所属するMF瀬古樹が、今夏に同クラブを退団する見込みのようだ。8日、地元メディア『センチネル』が報じている。 報道によると、ストークはすでに瀬古の移籍をめぐり、Jリーグのクラブと合意に",
@@ -1853,6 +1870,23 @@
       ]
     },
     {
+      "title": "長野vs山口 スタメン発表",
+      "summary": "[8.8 J3第1節](長野U)※18:00開始主審:菊池俊吾[AC長野パルセイロ]先発GK 21 中野小次郎DF 7 大野佑哉DF 13 附木雄也DF 24 渡邉禅DF 25 田中康介MF 6 長谷川隼MF 8 近藤貴司MF 30 野嶋圭…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456526-456526-fl",
+      "pubDate": "2026-08-08T08:11:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456526-456526-fl"
+        }
+      ]
+    },
+    {
       "title": "ハーランドはノルウェーの育成が生んだわけじゃない？Jリーグが世界的スーパースターを輩出するには…【しゃべGOAL】(GOAL)",
       "summary": "ついに開幕した2026-27シーズンの明治安田生命Jリーグ。今季から「秋春制」を導入して新たな時代を迎えた日本トップリーグだが、今夏に行われたFIFAワールドカップ2026の日本代表の結果を受けて、改",
       "link": "https://news.yahoo.co.jp/articles/9d86d3895e50ebb49922abae20eb5091b2f8f1f2?source=rss",
@@ -1887,23 +1921,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/64bea330c80a5f1cacaab7d655e50a32ce50ddfa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "札幌vs徳島 試合記録",
-      "summary": "【J2第1節】(プレド)札幌 2-0(前半1-0)徳島[札]ビニ・ペイショット(15分)、白井陽斗(58分)[徳]トニー・アンデルソン(60分)主審:中井敏博[北海道コンサドーレ札幌]先発GK 24 田川知樹DF 2 高尾瑠DF 3 パク・…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456527-456527-fl",
-      "pubDate": "2026-08-08T07:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456527-456527-fl"
         }
       ]
     },
