@@ -1,16 +1,135 @@
 {
-  "generatedAt": "2026-08-08T12:24:59.220Z",
-  "count": 989,
+  "generatedAt": "2026-08-08T13:24:47.865Z",
+  "count": 1000,
   "items": [
     {
-      "title": "【日本代表】斉藤俊秀コーチが東京－町田戦視察 W杯北中米大会は守備担当コーチ(日刊スポーツ)",
-      "summary": "＜明治安田J1：東京1－5町田＞◇8日◇東京・味スタ FIFAワールドカップ（W杯）北中米大会に出場した日本代表の斉藤俊秀コーチ（53）が、FC東京対FC町田ゼルビア戦を視察に訪れた。 斉藤コ",
-      "link": "https://news.yahoo.co.jp/articles/0ac7137ffa735090d704b794b1ee0a1da32a7569?source=rss",
-      "pubDate": "2026-08-08T12:20:58.000Z",
+      "title": "佐野航大、オランダ王者PSV移籍決定「理想的なステップ」監督は元千葉MFで「日本語も話せる」(日刊スポーツ)",
+      "summary": "オランダ1部リーグのPSVアイントホーフェンは8日、NECナイメヘンからMF佐野航大（22）が加入すると発表した。 クラブ公式サイトで「私のキャリアにおける理想的なステップ」とコメント。2031年",
+      "link": "https://news.yahoo.co.jp/articles/33aa80d7200a4c845165aa41cf196779f1324a54?source=rss",
+      "pubDate": "2026-08-08T13:23:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/33aa80d7200a4c845165aa41cf196779f1324a54?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【FC東京】町田に５失点逆転負け「選手は捨てずにやってくれた」松橋監督(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京1－5町田＞◇8日◇第1節◇味スタ FC東京が開幕戦で町田に5失点の逆転負けを喫した。 同じ東京を本拠とするライバルにホームで先制したものの、前半38分のDF橋本健退場も響き、",
+      "link": "https://news.yahoo.co.jp/articles/46a3ac6e3108bb50837ade3eb1d0dac9eb8ed307?source=rss",
+      "pubDate": "2026-08-08T13:23:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/46a3ac6e3108bb50837ade3eb1d0dac9eb8ed307?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【町田】新戦力の明本、いきなり開幕決勝弾「気持ちで押し込んだ」参戦３季目の初優勝へ白星発進(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京1－5町田＞◇8日◇第1節◇味スタ 参戦3季目で初のJ1優勝を狙うFC町田ゼルビアが、逆転勝ちで開幕戦を白星で飾った。試合を決めたのは新加入のMF明本。1－1の前半追加タイム2",
+      "link": "https://news.yahoo.co.jp/articles/b7418f9dc7af907c30329d6c264d29a986292aa7?source=rss",
+      "pubDate": "2026-08-08T13:22:59.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
         "zelvia"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b7418f9dc7af907c30329d6c264d29a986292aa7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "清水、オ・セフンの愚行に吉田監督も苦言「絶対にやってはいけないプレー」(ゲキサカ)",
+      "summary": "[8.8 J1第1節 名古屋0-1清水 豊田ス] 開幕戦を1-0で勝利した清水エスパルスだが、後半16分にFWオ・セフンがイエローカードを出した主審に対して拍手を送る“挑発行為”で2枚目のイエロー",
+      "link": "https://news.yahoo.co.jp/articles/b0a13f31713146883cf6c36a1184d659c426af1b?source=rss",
+      "pubDate": "2026-08-08T13:20:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b0a13f31713146883cf6c36a1184d659c426af1b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京・松橋監督、前半に一発退場でバタバタ「考えていた策になじむ前にやられてしまった」(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第1節第2日（8日、FC東京1－5町田、味スタ）FC東京は、前半の退場も響いて大敗となった。松橋監督は「非常に難しい内容となった。1人減ってからの失点のタイミングが早すぎる。考えてい",
+      "link": "https://news.yahoo.co.jp/articles/2e8abe0c976a253b05b57d464424eac4a3f9ec31?source=rss",
+      "pubDate": "2026-08-08T13:12:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2e8abe0c976a253b05b57d464424eac4a3f9ec31?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "退場者を出しながら清水が敵地で大きな1勝。序盤から押し込んだ名古屋はミスで自滅し、悔しい敗戦◎J1開幕戦(サッカーマガジンWeb)",
+      "summary": "8日、2026ー2027シーズンのJ1第1節が各地で行われ、豊田スタジアムでは名古屋グランパスと清水エスパルスが対戦。ボールを持たれる苦しい展開の中、相手のミスを逃さずに先制した清水が退場者を出しなが",
+      "link": "https://news.yahoo.co.jp/articles/e70aeec0f016ba3d04f195177844d83163d5c5db?source=rss",
+      "pubDate": "2026-08-08T13:06:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e70aeec0f016ba3d04f195177844d83163d5c5db?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "王者・神戸はＦＷ大迫勇也が決勝ゴールで白星発進 衰え知らずの３６歳・エース「タイトルのために点取りたい」(スポーツ報知)",
+      "summary": "２０２６ー２７明治安田Ｊ１▽第１節 福岡０―１神戸（８日・ベススタ） 百年構想リーグ王者の神戸は、アウェーで福岡との開幕戦に、元日本代表ＦＷ大迫勇也の今季初ゴールで１―０と勝利した。前半２３分、左",
+      "link": "https://news.yahoo.co.jp/articles/7c490c5e0e73d1fa28f7b9078e13ab5da96d3052?source=rss",
+      "pubDate": "2026-08-08T13:01:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
       ],
       "topics": [
         "national-team"
@@ -19,6 +138,105 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7c490c5e0e73d1fa28f7b9078e13ab5da96d3052?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「軽率だな」浦和10番マテウス・サヴィオが“最悪の突き倒し”で2枚目イエロー→退場処分に「熱い性格が裏目に出たか」(ABEMA TIMES)",
+      "summary": "【明治安田J1リーグ】ガンバ大阪 4－3 浦和レッズ（8月7日/パナソニックスタジアム吹田） 浦和レッズのMFマテウス・サヴィオが相手選手を突き倒し、前半早々に退場となった。今季から10番を背負う",
+      "link": "https://news.yahoo.co.jp/articles/4ba852f47aa74918b0d505996336266c4b474a3a?source=rss",
+      "pubDate": "2026-08-08T13:00:36.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4ba852f47aa74918b0d505996336266c4b474a3a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【C大阪】逆転勝ちで開幕戦は12年連続無敗 スペイン人のマチン新監督「第１歩としていい勝利」(日刊スポーツ)",
+      "summary": "＜明治安田J1：C大阪2－1岡山＞◇第1節◇8日◇ハナサカ セレッソ大阪がファジアーノ岡山に逆転勝ちを収め、リーグ開幕戦は2025年から2年連続勝利。 C大阪はリーグ開幕戦にめっぽう強く、26",
+      "link": "https://news.yahoo.co.jp/articles/c8d986f0174572ff8952659399817fd5a91dc7be?source=rss",
+      "pubDate": "2026-08-08T12:58:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c8d986f0174572ff8952659399817fd5a91dc7be?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「タイトルを取るために点を取りたい」大迫勇也が値千金の決勝弾！ 神戸を開幕戦勝利に導く「本当に硬い試合になりましたけど…」(SOCCER DIGEST Web)",
+      "summary": "８月８日に行なわれた2026/27シーズンのJ１開幕戦で、ヴィッセル神戸はアビスパ福岡と敵地で対戦。１－０で勝利した。 この一戦で決勝点を奪ったのが、大迫勇也だ。23分、敵陣左サイドからのジエゴ",
+      "link": "https://news.yahoo.co.jp/articles/949f3f83180fa3b8dcddc36cad0e9dedbebb749c?source=rss",
+      "pubDate": "2026-08-08T12:58:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/949f3f83180fa3b8dcddc36cad0e9dedbebb749c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【清水】敵地で名古屋相手に開幕白星！北川航也Ｖ弾 オ・セフン退場も守り切り完封(日刊スポーツ)",
+      "summary": "＜明治安田J1：名古屋0－1清水＞◇8日◇第1節◇豊田スタジアム J1清水エスパルスはアウェーで名古屋グランパスを1－0で振り切り、25年に続いて開幕戦を飾った。22年7月の勝利を最後に4戦未勝利",
+      "link": "https://news.yahoo.co.jp/articles/286a821e76dffdf5ee7295e710c5ef60953f1a50?source=rss",
+      "pubDate": "2026-08-08T12:32:48.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/286a821e76dffdf5ee7295e710c5ef60953f1a50?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】斉藤俊秀コーチが東京－町田戦視察 W杯北中米大会は守備担当コーチ(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京1－5町田＞◇8日◇東京・味スタ FIFAワールドカップ（W杯）北中米大会に出場した日本代表の斉藤俊秀コーチ（53）が、FC東京対FC町田ゼルビア戦を視察に訪れた。 斉藤コ",
+      "link": "https://news.yahoo.co.jp/articles/0ac7137ffa735090d704b794b1ee0a1da32a7569?source=rss",
+      "pubDate": "2026-08-08T12:20:58.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0ac7137ffa735090d704b794b1ee0a1da32a7569?source=rss"
         }
       ]
@@ -107,16 +325,16 @@
       "summary": "＜明治安田J1：柏2－1水戸＞◇8日◇第1節◇三協F柏 前年シーズン2位の柏レイソルが、ホームで水戸ホーリーホックに2－1で競り勝ち、シーズン移行初戦を白星で飾った。 前半5分にMF久保藤次郎",
       "link": "https://news.yahoo.co.jp/articles/56af3c776e5daba6d25ef74ebe35243e320e8393?source=rss",
       "pubDate": "2026-08-08T12:14:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reysol"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/56af3c776e5daba6d25ef74ebe35243e320e8393?source=rss"
         }
       ]
@@ -1351,6 +1569,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/70538cb3f9a36e3dab9447d0ae0dfb5ab73df336?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "“661対1”大先輩と対峙、G大阪の大器GK荒木瑠偉は3失点J1デビュー「フィールドのおかげで勝てた」",
+      "summary": "勝利の喜びはあまり表情にはなかった。シーズン移行を伴う新シーズン、ガンバ大阪は2020年以来6シーズンぶりにJ1開幕戦を勝利で飾ったが、シーソーゲームの末の4-3での勝利に、GK荒木瑠偉は「フィールドのおかげもあって勝てた。キーパーとしてよ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456513-456513-fl",
+      "pubDate": "2026-08-08T04:28:10.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456513-456513-fl"
         }
       ]
     },
@@ -3996,23 +4233,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a7c0479bc0a6b5f1dd31884e7f066d3150fac7b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "山形MF土居聖真が新シーズンも主将担当「一緒にこのクラブの歴史を変えましょう」",
-      "summary": "モンテディオ山形は7日、2026-27シーズンのキャプテンをMF土居聖真が担当すると発表した。 土居は2025年からキャプテンを担当している。クラブを通じて「ファン、サポーター、スポンサー企業の皆様いつもご支援ご声援ありがとうございます。こ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456481-456481-fl",
-      "pubDate": "2026-08-07T10:50:04.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456481-456481-fl"
         }
       ]
     },
