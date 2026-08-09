@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-09T16:21:40.614Z",
-  "count": 1134,
+  "generatedAt": "2026-08-09T17:02:26.875Z",
+  "count": 1135,
   "items": [
+    {
+      "title": "浦和 MF瀬古樹を獲得決定的! イングランド2部ストークからJリーグ復帰へ(スポニチアネックス)",
+      "summary": "浦和が、イングランド2部ストークのMF瀬古樹（たつき）を獲得することが9日までに決定的となった。複数の関係者が明かした。 高い技術を誇るボランチで20年に明大から横浜FCに正式加入。22年に川崎",
+      "link": "https://news.yahoo.co.jp/articles/d998d8499f57a2778c5e39fddaa19cfa6f8d091c?source=rss",
+      "pubDate": "2026-08-09T16:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d998d8499f57a2778c5e39fddaa19cfa6f8d091c?source=rss"
+        }
+      ]
+    },
     {
       "title": "チアゴ・サンタナが2ゴール！ 『平和の日』にアグレッシブなプレーを見せ続けた長崎が京都を下し、白星スタート◎J1第1戦(サッカーマガジンWeb)",
       "summary": "9日、J1リーグ第1節、残りの2試合が開催された。長崎・PEACE STADIUMではV・ファーレン長崎対京都サンガF.C.が対戦。前半2ゴールを奪った長崎が京都の反撃を1点に抑え、勝ち点3を手にした",
@@ -137,7 +156,7 @@
       ]
     },
     {
-      "title": "【J2今治】元Rマドリード「神童」ピピ中井卓大が日本デビュー 華麗なボールキープで沸かせる(日刊スポーツ)",
+      "title": "【今治】中井卓大「4年後のW杯で日本代表に」元レアル「ピピ」が日本デビュー！J2から再出発(日刊スポーツ)",
       "summary": "元Rマドリードの「神童」で、スペインのレガネスBからJ2今治に完全移籍で加入したMF中井卓大（22）が、Jリーグデビューした。開幕いわき戦にボランチで先発。プロで初めて日本のピッチに立った試合は1－",
       "link": "https://news.yahoo.co.jp/articles/4b72e6afa4a4c08951d294142b0156fea1ad8909?source=rss",
       "pubDate": "2026-08-09T13:45:47.000Z",
@@ -145,7 +164,8 @@
       "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [
-        "trade"
+        "trade",
+        "national-team"
       ],
       "sources": [
         {
