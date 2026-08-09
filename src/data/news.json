@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T17:02:26.875Z",
+  "generatedAt": "2026-08-09T17:55:03.443Z",
   "count": 1135,
   "items": [
     {
@@ -67,8 +67,8 @@
       "summary": "＜明治安田J1：東京V1－1川崎F＞◇9日◇第1節◇味スタ 東京ヴェルディが、開幕戦勝利を目前で逃した。 鋭い出足とチーム一体となった組織的な守備。後半開始早々に鹿島から移籍したMF溝口修平が",
       "link": "https://news.yahoo.co.jp/articles/3bd946b8f4842de0e8aa8c5a998556dc08d88bdf?source=rss",
       "pubDate": "2026-08-09T14:15:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "verdy"
       ],
@@ -77,8 +77,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3bd946b8f4842de0e8aa8c5a998556dc08d88bdf?source=rss"
         }
       ]
