@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-08-09T08:08:32.443Z",
-  "count": 1092,
+  "generatedAt": "2026-08-09T09:08:49.000Z",
+  "count": 1093,
   "items": [
+    {
+      "title": "「本当に彼が大好きだった」 瀬古樹のJリーグ復帰が決定的に…ストーク指揮官が惜別「最高のプロフェッショナル」",
+      "summary": "イングランド2部ストーク・シティのマーク・ロビンス監督が、日本復帰が決定的となっているMF瀬古樹へ惜別の言葉を贈った。英紙『Stoke Sentinel』が現地時間8日に伝えている。",
+      "link": "https://www.footballchannel.jp/2026/08/09/post973821/",
+      "pubDate": "2026-08-09T08:13:10.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/09/post973821/"
+        }
+      ]
+    },
+    {
+      "title": "柏がホームで白星スタート! FW垣田裕暉&MF小泉佳穂のゴールで水戸に競り勝つ(25枚)",
+      "summary": "J1第1節が8日に行われ、柏レイソルはホームで水戸ホーリーホックに2-1で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456615-456615-pn",
+      "pubDate": "2026-08-09T08:10:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reysol",
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456615-456615-pn"
+        }
+      ]
+    },
     {
       "title": "【Ｊ１清水】０３年世代が横浜ＦＭ戦出場へ猛アピール 練習試合で千葉寛汰と大畑凜生が２発、鈴木奎吾はＦＫ弾 次節はエースＦＷ呉世勲が出場停止(スポーツ報知)",
       "summary": "▽練習試合（４０分×２） 清水５―０静岡産業大（９日・三保グラウンド） Ｊ１清水エスパルスは９日、静岡産業大と練習試合（４０分×２本）を行い、５―０で勝利した。８日の開幕戦勝利を飾った名古屋戦でベ",
@@ -27,8 +64,8 @@
       "summary": "FC東京で現役続行することを決めた日本代表DF長友佑都（39）が9日、自身のインスタグラムを更新。思いをつづった。 8日に行われた東京の開幕戦前にあいさつした写真をアップし「昨日の開幕戦応援あり",
       "link": "https://news.yahoo.co.jp/articles/9d4f44e3e47fb84c7db11c9613df890f9ef06dd1?source=rss",
       "pubDate": "2026-08-09T07:54:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fc-tokyo"
       ],
@@ -37,8 +74,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9d4f44e3e47fb84c7db11c9613df890f9ef06dd1?source=rss"
         }
       ]
@@ -2464,6 +2501,25 @@
       ]
     },
     {
+      "title": "福岡vs神戸 スタメン発表",
+      "summary": "[8.8 J1第1節](ベススタ)※19:00開始主審:上田益也[アビスパ福岡]先発GK 1 永石拓海DF 15 辻岡佑真DF 16 岡哲平DF 20 三國ケネディエブスMF 6 重見柾斗MF 11 見木友哉MF 14 名古新太郎MF 22…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456544-456544-fl",
+      "pubDate": "2026-08-08T11:01:37.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456544-456544-fl"
+        }
+      ]
+    },
+    {
       "title": "ベテランの技は健在 ３６歳の神戸ＦＷ大迫勇也が今季初ゴール ロングスロー起点に押し込む(スポーツ報知)",
       "summary": "◆２０２６／２７明治安田Ｊ１▽第１節 福岡―神戸（８日・ベススタ） 百年構想リーグ王者の神戸は、アウェーで福岡との開幕戦に臨み、元日本代表ＦＷ大迫勇也が今季初ゴールを決めて先制した。前半２３分、左",
       "link": "https://news.yahoo.co.jp/articles/c92ca0637c2b12df01e1fdeec5fc5f9a78f97ad8?source=rss",
@@ -3096,23 +3152,6 @@
       ]
     },
     {
-      "title": "大宮vs新潟 スタメン発表",
-      "summary": "[8.8 J2第1節](NACK)※19:00開始主審:中村太[RB大宮アルディージャ]先発GK 24 トム・グローバーDF 3 加藤聖DF 19 尾崎優成DF 37 関口凱心DF 88 西尾隆矢MF 10 豊川雄太MF 16 加藤玄MF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456533-456533-fl",
-      "pubDate": "2026-08-08T08:42:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456533-456533-fl"
-        }
-      ]
-    },
-    {
       "title": "フェンシング吉田とテコンドー山田美諭の五輪婚に江村美咲も「おめでとう」吉田の父は元FC東京(日刊スポーツ)",
       "summary": "フェンシング男子サーブルの東京オリンピック（五輪）とパリ五輪代表の吉田健人（33＝警視庁）と、テコンドー女子49キロ級で同じく東京五輪に出場した山田美諭（32）が結婚した。8日、インスタグラムで発表",
       "link": "https://news.yahoo.co.jp/articles/38400fe4b8696f00abb83dd38a8cf8f21942f5d2?source=rss",
@@ -3166,25 +3205,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/64bea330c80a5f1cacaab7d655e50a32ce50ddfa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島FWチャヴリッチが大逆転勝利を呼び込む2ゴール!(25枚)",
-      "summary": "J1第1節が7日に行われ、鹿島アントラーズはMUFGスタジアムで横浜F・マリノスに4-3で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456523-456523-pn",
-      "pubDate": "2026-08-08T07:05:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456523-456523-pn"
         }
       ]
     },
