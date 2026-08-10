@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-10T14:12:43.682Z",
-  "count": 1193,
+  "generatedAt": "2026-08-10T15:28:58.751Z",
+  "count": 1194,
   "items": [
+    {
+      "title": "「C・ロナウドを完封した」ACLEでガンバ大阪と激突する江原FC 韓国メディアが“ACL2王者”のJクラブを警戒！「強大な相手を打ち破らなければならない」(theWORLD（ザ・ワールドWeb）)",
+      "summary": "ガンバ大阪がアジアの舞台で再び大一番を迎える。 8月11日に江陵総合運動場で行われる2026-27 AFCチャンピオンズリーグ・エリート（ACLE）予選プレーオフで、ガンバ大阪は韓国の江原FCと対戦",
+      "link": "https://news.yahoo.co.jp/articles/9a2e85f0c81f72a837c104dd8a108b82b58b95d9?source=rss",
+      "pubDate": "2026-08-10T14:20:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9a2e85f0c81f72a837c104dd8a108b82b58b95d9?source=rss"
+        }
+      ]
+    },
     {
       "title": "アル・アハリのACLE連覇に貢献のイバニェスが新契約にサイン…アストン・ヴィラ関心もサウジアラビア残留(サッカーキング)",
       "summary": "サウジアラビアのアル・アハリ・サウジは9日、ブラジル代表DFロジェール・イバニェスとの契約を2030年6月30日まで延長したことを発表した。 2023年8月にローマからアル・アハリへ完全移籍した",
@@ -1995,19 +2014,21 @@
       ]
     },
     {
-      "title": "滋賀vs岐阜 スタメン発表",
-      "summary": "[8.9 J3第1節](ハトスタ)※18:30開始主審:田中玲匡[レイラック滋賀FC]先発GK 41 本吉勇貴DF 5 西山大雅DF 13 小泉隆斗DF 14 白石智之DF 37 鍋田純志MF 8 中村健人MF 11 三宅海斗MF 18 秋…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456626-456626-fl",
-      "pubDate": "2026-08-09T09:29:01.000Z",
+      "title": "東京Vvs川崎F スタメン発表",
+      "summary": "[8.9 J1第1節](味スタ)※18:00開始主審:御厨貴文[東京ヴェルディ]先発GK 1 マテウスDF 4 林尚輝DF 6 宮原和也DF 15 鈴木海音MF 7 松橋優安MF 14 福田湧矢MF 16 平川怜MF 18 溝口修平MF 2…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456622-456622-fl",
+      "pubDate": "2026-08-09T09:31:35.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "verdy"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456626-456626-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456622-456622-fl"
         }
       ]
     },
