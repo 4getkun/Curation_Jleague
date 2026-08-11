@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-11T10:23:47.268Z",
+  "generatedAt": "2026-08-11T11:11:06.790Z",
   "count": 1226,
   "items": [
+    {
+      "title": "江原FCvsG大阪 スタメン発表",
+      "summary": "[8.11 ACLEプレリミナリーステージ](江原)※19:30開始[江原FC]先発GK 1 パク・チョンヒョDF 13 イ・ギヒョクDF 23 マルコ・トゥチDF 33 ホン・チョルDF 97 イ・ユヒョンDF 99 カン・ジュンヒョクM…",
+      "link": "https://web.gekisaka.jp/news/acl/detail/?456702-456702-fl",
+      "pubDate": "2026-08-11T10:16:20.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/acl/detail/?456702-456702-fl"
+        }
+      ]
+    },
     {
       "title": "鹿島・鬼木監督「飲水の時のあれは、もう…」開幕戦の逆転勝利呼び込んだ大声援回想「本当にすごかった」(スポーツ報知)",
       "summary": "鹿島は１１日、ホーム開幕戦となる第２節名古屋戦（１５日、メルスタ）に向け、茨城・鹿嶋市内のクラブハウスで公開練習を行い、鬼木達監督が取材に応じた。 ＊ ＊ ＊ 囲み取材中、次節のホーム開幕",
@@ -2257,9 +2276,9 @@
       ]
     },
     {
-      "title": "八戸vs富山 試合記録",
-      "summary": "【J2第1節】(プラスタ)八戸 2-0(前半1-0)富山[八]佐藤祐太2(6分、47分)[八]佐藤祐太(5分)[富]岡本將成(70分)、松田力(73分)観衆:4,088人主審:中川愛斗[ヴァンラーレ八戸]先発GK 25 谷口裕介DF 2 平…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456560-456560-fl",
+      "title": "宮崎vs横浜FC 試合記録",
+      "summary": "【J2第1節】(いちご)宮崎 0-1(前半0-0)横浜FC[横]アダイウトン(76分)[宮]松本雄真(90分+2)[宮]松本雄真2(61分、90分+2)[横]高江麗央(49分)、山田康太(59分)観衆:3,561人主審:吉田哲朗[テゲバジャ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456563-456563-fl",
       "pubDate": "2026-08-09T12:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -2269,7 +2288,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456560-456560-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456563-456563-fl"
         }
       ]
     },
@@ -2860,25 +2879,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e5fdc290d6c0c663ecc075061beb4af93b13c4bf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ公式YouTubeチャンネルでACLEプレリミナリーステージのライブ配信が決定",
-      "summary": "Jリーグは9日、AFCチャンピオンズリーグエリート(ACLE)2026-27のプレリミナリーステージを公式YouTubeチャンネルでライブ配信することが決定したと発表した。 ガンバ大阪は11日に開催されるACLEプレリミナリーステージで、江…",
-      "link": "https://web.gekisaka.jp/news/acl/detail/?456606-456606-fl",
-      "pubDate": "2026-08-09T04:44:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/acl/detail/?456606-456606-fl"
         }
       ]
     },
