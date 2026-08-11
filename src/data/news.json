@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-08-11T04:46:53.140Z",
-  "count": 1214,
+  "generatedAt": "2026-08-11T05:46:33.873Z",
+  "count": 1217,
   "items": [
+    {
+      "title": "大富豪2人がリバプール株式取得へ 評価額9550億円…現地報道「スポーツ史上最も高額」(FOOTBALL ZONE)",
+      "summary": "アマゾン創業者のジェフ・ベゾス氏、フェイスブック（現メタ）共同創業者のエドゥアルド・サベリン氏らを含む投資コンソーシアム（事業共同体）がイングランド1部リバプールの株式の3分の1を取得に向けて合意間",
+      "link": "https://news.yahoo.co.jp/articles/32db3f3ff530a2eb044c236b697caf153814ea21?source=rss",
+      "pubDate": "2026-08-11T05:40:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/32db3f3ff530a2eb044c236b697caf153814ea21?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "長友「戦場に帰ってきた」 FC東京の全体練習合流(共同通信)",
+      "summary": "サッカー日本代表としてワールドカップ（W杯）5大会連続出場の長友佑都が11日、現役続行を表明してから初めて所属するFC東京の全体練習に合流した。多くのファンが見守る中、東京都小平市の練習場で汗を流し",
+      "link": "https://news.yahoo.co.jp/articles/49e3519acb9935754161baf45acb03ecfc4c4935?source=rss",
+      "pubDate": "2026-08-11T05:30:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/49e3519acb9935754161baf45acb03ecfc4c4935?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ACLE】G大阪が本戦出場懸け江原とアウェー戦 中谷進之介「今季の中でも一番大事になる」(日刊スポーツ)",
+      "summary": "ガンバ大阪は11日にアジア・チャンピオンズリーグ・エリート（ACLE）プレリミナリーステージ（プレーオフ）で江原FC（韓国）と対戦する。 G大阪は5月のアジア・チャンピオンズリーグ2（ACL2）",
+      "link": "https://news.yahoo.co.jp/articles/92453f65328810d016b1a477ba22810f7d596078?source=rss",
+      "pubDate": "2026-08-11T05:07:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/92453f65328810d016b1a477ba22810f7d596078?source=rss"
+        }
+      ]
+    },
     {
       "title": "浦和の200cmDFルカ・ディドゥリカがU-20オーストラリア代表に選出(ゲキサカ)",
       "summary": "浦和レッズは11日、DFルカ・ディドゥリカ(18)がU-20オーストラリア代表メンバーに選出されたことを報告した。 同代表はラオスで開催されるAFC U20アジアカップ予選に臨み、8月31日にU",
@@ -2022,9 +2081,9 @@
       ]
     },
     {
-      "title": "鳥栖vs甲府 スタメン発表",
-      "summary": "[8.8 J2第1節](駅スタ)※19:30開始主審:堀善仁[サガン鳥栖]先発GK 1 泉森涼太DF 5 長澤シヴァタファリDF 33 小川大空DF 44 阿部海大MF 2 松本凪生MF 6 櫻井辰徳MF 11 塩浜遼MF 16 西澤健太M…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456548-456548-fl",
+      "title": "八戸vs富山 試合記録",
+      "summary": "【J2第1節】(プラスタ)八戸 2-0(前半1-0)富山[八]佐藤祐太2(6分、47分)[八]佐藤祐太(5分)[富]岡本將成(70分)、松田力(73分)観衆:4,088人主審:中川愛斗[ヴァンラーレ八戸]先発GK 25 谷口裕介DF 2 平…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456560-456560-fl",
       "pubDate": "2026-08-09T12:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -2034,7 +2093,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456548-456548-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456560-456560-fl"
         }
       ]
     },
