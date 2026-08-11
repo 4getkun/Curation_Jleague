@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-08-11T03:14:48.182Z",
-  "count": 1211,
+  "generatedAt": "2026-08-11T04:46:53.140Z",
+  "count": 1214,
   "items": [
+    {
+      "title": "浦和の200cmDFルカ・ディドゥリカがU-20オーストラリア代表に選出(ゲキサカ)",
+      "summary": "浦和レッズは11日、DFルカ・ディドゥリカ(18)がU-20オーストラリア代表メンバーに選出されたことを報告した。 同代表はラオスで開催されるAFC U20アジアカップ予選に臨み、8月31日にU",
+      "link": "https://news.yahoo.co.jp/articles/965fe5bcf2093e6726ae2991ba5ae33c3c6cb70d?source=rss",
+      "pubDate": "2026-08-11T04:45:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/965fe5bcf2093e6726ae2991ba5ae33c3c6cb70d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "長友佑都が異例の1時間ファンサービス サイン、写真撮影の神対応…全体練習に初合流(FOOTBALL ZONE)",
+      "summary": "FC東京は8月11日、小平練習場で公開トレーニングを行なった。約500人のファン・サポーターが詰めかけたなか、全体練習に初合流となったDF長友佑都が観客を唸らせるプレーを見せた。 ファン・サポー",
+      "link": "https://news.yahoo.co.jp/articles/33483488a2ac811d48e0fd829f4069cef7f4ebdf?source=rss",
+      "pubDate": "2026-08-11T04:21:44.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/33483488a2ac811d48e0fd829f4069cef7f4ebdf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1順位表に反響「終了にしません？」 開幕から明暗…ファン悲鳴「最下位スタート痺れる」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/668182",
+      "pubDate": "2026-08-11T03:40:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668182"
+        }
+      ]
+    },
     {
       "title": "キムタクと並んでベストジーニストに選出！ 「北澤豪」が明かすJリーグ創世期を牽引した“ヴェルディ伝説” 「プロとしてサッカーに注目してもらうために、どう見られるかを意識していたんだ」(デイリー新潮)",
       "summary": "「常に停滞を嫌い、異端児と時に言われようとも独自のスタイルを貫き通してきた」（公式HPより）東京ヴェルディの源流を探るべく、8人のレジェンドへインタビューした海老原一哉氏の『緑の血脈 東京ヴェルディ",
@@ -1967,9 +2022,9 @@
       ]
     },
     {
-      "title": "大分vs湘南 スタメン発表",
-      "summary": "[8.8 J2第1節](クラド)※19:00開始主審:田邉裕樹[大分トリニータ]先発GK 22 ムン・キョンゴンDF 3 宮川歩己DF 6 三竿雄斗DF 31 ペレイラMF 2 小田逸稀MF 7 西村恭史MF 14 宇津元伸弥MF 19 林…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456538-456538-fl",
+      "title": "鳥栖vs甲府 スタメン発表",
+      "summary": "[8.8 J2第1節](駅スタ)※19:30開始主審:堀善仁[サガン鳥栖]先発GK 1 泉森涼太DF 5 長澤シヴァタファリDF 33 小川大空DF 44 阿部海大MF 2 松本凪生MF 6 櫻井辰徳MF 11 塩浜遼MF 16 西澤健太M…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456548-456548-fl",
       "pubDate": "2026-08-09T12:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -1979,7 +2034,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456538-456538-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456548-456548-fl"
         }
       ]
     },
