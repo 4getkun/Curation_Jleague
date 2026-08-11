@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T14:49:54.661Z",
-  "count": 1241,
+  "generatedAt": "2026-08-11T15:49:50.736Z",
+  "count": 1240,
   "items": [
     {
       "title": "【ACLE】江原 J1町田から派遣の菅澤大我テクニカルコーチがベンチ入りもプレーオフ惜敗ACL2へ(スポニチアネックス)",
@@ -2504,26 +2504,6 @@
       ]
     },
     {
-      "title": "長崎FWサンタナ2ゴール!平和願う“原爆の日”に2878日ぶりJ1リーグ勝利! 京都はエリアス圧巻弾も開幕黒星(ゲキサカ)",
-      "summary": "[8.9 J1第1節 長崎 2-1 京都 ピースタ] J1リーグは9日、第1節を各地で行い、V・ファーレン長崎が京都サンガF.C.に2-1で勝利した。8年ぶりのJ1昇格を果たした長崎は2878日ぶ",
-      "link": "https://news.yahoo.co.jp/articles/df0e37d7b7a0f27593406e4b230c00cd49e8b713?source=rss",
-      "pubDate": "2026-08-09T12:12:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "v-varen",
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/df0e37d7b7a0f27593406e4b230c00cd49e8b713?source=rss"
-        }
-      ]
-    },
-    {
       "title": "中井卓大ピピが先発でJデビューの今治は黒星発進…大宮や札幌ら9チームが開幕戦勝利/J2第1節(サッカーキング)",
       "summary": "2026－27明治安田J2リーグ第1節が8日と9日に行われた。 レアル・マドリードの下部組織などを経て今夏からFC今治に加わった中井卓大ピピは、いわきFC戦で先発出場しJリーグデビューを飾った。",
       "link": "https://news.yahoo.co.jp/articles/478cbe2a4a6d9057b9a4c2421752e9a68b532fdb?source=rss",
@@ -2560,19 +2540,27 @@
       ]
     },
     {
-      "title": "鳥栖vs甲府 試合記録",
-      "summary": "【J2第1節】(駅スタ)鳥栖 2-0(前半1-0)甲府[鳥]高橋利樹(42分)、田中雄大(87分)[甲]荒木翔(3分)観衆:18,116人主審:堀善仁[サガン鳥栖]先発GK 1 泉森涼太DF 5 長澤シヴァタファリDF 33 小川大空DF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456582-456582-fl",
-      "pubDate": "2026-08-09T12:10:02.000Z",
+      "title": "長崎FWサンタナ2ゴール!平和願う“原爆の日”に2878日ぶりJ1リーグ勝利! 京都はエリアス圧巻弾も開幕黒星",
+      "summary": "[8.9 J1第1節 長崎 2-1 京都 ピースタ] J1リーグは9日、第1節を各地で行い、V・ファーレン長崎が京都サンガF.C.に2-1で勝利した。8年ぶりのJ1昇格を果たした長崎は2878日ぶりのJ1勝利。エースのFWチアゴ・サンタナが…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456644-456644-fl",
+      "pubDate": "2026-08-09T12:11:05.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "v-varen",
+        "sanga"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456582-456582-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456644-456644-fl"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df0e37d7b7a0f27593406e4b230c00cd49e8b713?source=rss"
         }
       ]
     },
