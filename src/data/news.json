@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-11T15:49:50.736Z",
-  "count": 1240,
+  "generatedAt": "2026-08-11T16:45:39.242Z",
+  "count": 1241,
   "items": [
+    {
+      "title": "「最後の10分、15分、僕たちに力をくれる」鹿島アントラーズ開幕節の劇的逆転勝利を描き出す21分32秒のダイジェスト映像を公開(スポーティングニュース日本版)",
+      "summary": "鹿島アントラーズは、8月7日（金）に行われた開幕節、vs横浜F・マリノスのダイジェスト映像「MATCH DAY」を11日（火・祝）21時に公開した。 この試合、アントラーズは後半13分の時点で1-3",
+      "link": "https://news.yahoo.co.jp/articles/79ba9980cfddd06a7c42220da42cd7cf25d7dcd7?source=rss",
+      "pubDate": "2026-08-11T15:57:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/79ba9980cfddd06a7c42220da42cd7cf25d7dcd7?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ACLE】江原 J1町田から派遣の菅澤大我テクニカルコーチがベンチ入りもプレーオフ惜敗ACL2へ(スポニチアネックス)",
       "summary": "◇アジア・チャンピオンズリーグエリート G大阪1-0江原（2026年8月11日 江陵総合競技場） 江原は2大会連続のACLE出場を逃した。技術向上や指導力向上のためJ1町田からの派遣でテクニカル",
@@ -2556,11 +2575,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?456644-456644-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/df0e37d7b7a0f27593406e4b230c00cd49e8b713?source=rss"
         }
       ]
     },
