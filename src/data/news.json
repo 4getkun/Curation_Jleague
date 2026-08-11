@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-08-11T13:49:42.628Z",
-  "count": 1239,
+  "generatedAt": "2026-08-11T14:49:54.661Z",
+  "count": 1241,
   "items": [
+    {
+      "title": "【ACLE】江原 J1町田から派遣の菅澤大我テクニカルコーチがベンチ入りもプレーオフ惜敗ACL2へ(スポニチアネックス)",
+      "summary": "◇アジア・チャンピオンズリーグエリート G大阪1-0江原（2026年8月11日 江陵総合競技場） 江原は2大会連続のACLE出場を逃した。技術向上や指導力向上のためJ1町田からの派遣でテクニカル",
+      "link": "https://news.yahoo.co.jp/articles/8e98a4ef15cbcf190c17bb8cb1bef961899f7c28?source=rss",
+      "pubDate": "2026-08-11T14:44:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8e98a4ef15cbcf190c17bb8cb1bef961899f7c28?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京新加入の元デンマーク代表MFが長期離脱か…前所属先が膝の大ケガを公表(ゲキサカ)",
+      "summary": "FC東京に今季加入したMFニコライ・ヴァリス(29)が「十字靭帯断裂」の重傷を負ったことが分かった。前所属先のブレンビーが11日に公表した。 デンマーク代表選出歴を持つヴァリスはこれまでデンマー",
+      "link": "https://news.yahoo.co.jp/articles/6d22fde75174ebd423ae549315ceca69133d9d13?source=rss",
+      "pubDate": "2026-08-11T14:33:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "injury",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6d22fde75174ebd423ae549315ceca69133d9d13?source=rss"
+        }
+      ]
+    },
     {
       "title": "Ｇ大阪がＡＣＬＥ切符獲得！ 日本勢は鹿島、柏、神戸、京都の５クラブ アウェーでの一発勝負で江原を撃破 名和田我空が決勝点「エリートと２は全く違う」(スポーツ報知)",
       "summary": "◆アジア・チャンピオンズリーグ・エリート（ＡＣＬＥ）プレーオフ Ｇ大阪１―０江原（１１日、韓国・江陵総合競技場） Ｇ大阪が江原に勝ち、ＡＣＬＥの本戦出場を決めた。０―０の延長前半１３分、ＭＦ名和田",
@@ -138,16 +179,16 @@
       "summary": "＜アジア・チャンピオンズリーグ・エリート（ACLE）：江原（韓国）0－1G大阪＞◇11日◇プレーオフ◇韓国・江陵総合競技場 ガンバ大阪が江原FC（韓国）を下し、アジア・チャンピオンズリーグ・エリー",
       "link": "https://news.yahoo.co.jp/articles/78d778258ac6ca4df7d1496a85f04cb9d89ada05?source=rss",
       "pubDate": "2026-08-11T13:09:39.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/78d778258ac6ca4df7d1496a85f04cb9d89ada05?source=rss"
         }
       ]
@@ -168,11 +209,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/11/post975903/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ea9bb0ee0e068406f1c4a1d400a080c22b8c3def?source=rss"
         }
       ]
     },
@@ -2524,9 +2560,9 @@
       ]
     },
     {
-      "title": "大宮vs新潟 試合記録",
-      "summary": "【J2第1節】(NACK)大宮 1-0(前半1-0)新潟[大]山本桜大(5分)観衆:12,217人主審:中村太[RB大宮アルディージャ]先発GK 24 トム・グローバーDF 3 加藤聖DF 19 尾崎優成DF 37 関口凱心(81分→DF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456572-456572-fl",
+      "title": "鳥栖vs甲府 試合記録",
+      "summary": "【J2第1節】(駅スタ)鳥栖 2-0(前半1-0)甲府[鳥]高橋利樹(42分)、田中雄大(87分)[甲]荒木翔(3分)観衆:18,116人主審:堀善仁[サガン鳥栖]先発GK 1 泉森涼太DF 5 長澤シヴァタファリDF 33 小川大空DF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456582-456582-fl",
       "pubDate": "2026-08-09T12:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -2536,7 +2572,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456572-456572-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456582-456582-fl"
         }
       ]
     },
