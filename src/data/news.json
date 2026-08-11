@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-08-11T01:15:51.777Z",
-  "count": 1207,
+  "generatedAt": "2026-08-11T03:14:48.182Z",
+  "count": 1211,
   "items": [
+    {
+      "title": "キムタクと並んでベストジーニストに選出！ 「北澤豪」が明かすJリーグ創世期を牽引した“ヴェルディ伝説” 「プロとしてサッカーに注目してもらうために、どう見られるかを意識していたんだ」(デイリー新潮)",
+      "summary": "「常に停滞を嫌い、異端児と時に言われようとも独自のスタイルを貫き通してきた」（公式HPより）東京ヴェルディの源流を探るべく、8人のレジェンドへインタビューした海老原一哉氏の『緑の血脈 東京ヴェルディ",
+      "link": "https://news.yahoo.co.jp/articles/39a1b7fb6b6389b80c5118f9a36a9685bf68af13?source=rss",
+      "pubDate": "2026-08-11T03:01:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/39a1b7fb6b6389b80c5118f9a36a9685bf68af13?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "高校時代のあだ名は「ヨミウリ」…元日本代表「北澤豪」が明かす読売クラブのジュニアユース時代「大人が中学生に思いっきり蟹挟みをしてくる。ただそれが超楽しかった」(デイリー新潮)",
+      "summary": "発足から34年目を迎えるJリーグ。今年から8月7日に開幕し、来年5月に閉幕する「秋春制」になる。1993年のリーグ発足から2年連続で年間王者に輝いたのは、名門・東京ヴェルディ（当時はヴェルディ川崎）",
+      "link": "https://news.yahoo.co.jp/articles/a0ea195c01e5e31b2282122eec16804e68fb1f24?source=rss",
+      "pubDate": "2026-08-11T03:00:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy",
+        "frontale"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a0ea195c01e5e31b2282122eec16804e68fb1f24?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "かつての助っ人外国人が監督へ！懸念は主力流出？ J1総合評価ランキング18位【2026/27】(フットボールチャンネル)",
+      "summary": "Jリーグの秋春制移行初年度となる2026/27シーズンが、8月7日（金）に開幕した。移行期の特別大会「百年構想リーグ」ではヴィッセル神戸と鹿島アントラーズが東西を制する構図となった。先の戦いぶりと夏",
+      "link": "https://news.yahoo.co.jp/articles/bad1ac2aae9d54696d533fa073e2020ef118d16d?source=rss",
+      "pubDate": "2026-08-11T03:00:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bad1ac2aae9d54696d533fa073e2020ef118d16d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "セレッソ大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるセレッソ大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/11/post814773/",
+      "pubDate": "2026-08-11T01:22:32.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/11/post814773/"
+        }
+      ]
+    },
     {
       "title": "大規模入れ替え！元バルセロナMFに注目！J1総合評価ランキング19位【2026/27】(フットボールチャンネル)",
       "summary": "Jリーグの秋春制移行初年度となる2026/27シーズンが、8月7日（金）に開幕した。移行期の特別大会「百年構想リーグ」ではヴィッセル神戸と鹿島アントラーズが東西を制する構図となった。先の戦いぶりと夏",
@@ -40,11 +123,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/11/post975609/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f4883485670683075fb44c8673aea0b6c8d71ed5?source=rss"
         }
       ]
     },
@@ -1889,6 +1967,23 @@
       ]
     },
     {
+      "title": "大分vs湘南 スタメン発表",
+      "summary": "[8.8 J2第1節](クラド)※19:00開始主審:田邉裕樹[大分トリニータ]先発GK 22 ムン・キョンゴンDF 3 宮川歩己DF 6 三竿雄斗DF 31 ペレイラMF 2 小田逸稀MF 7 西村恭史MF 14 宇津元伸弥MF 19 林…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456538-456538-fl",
+      "pubDate": "2026-08-09T12:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456538-456538-fl"
+        }
+      ]
+    },
+    {
       "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
       "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
       "link": "https://www.footballchannel.jp/2026/08/09/post969138/",
@@ -2248,25 +2343,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ae0f319263d6d55b309dd85bacd0e23679a10280?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "2026-27シーズンのJリーグで適用される新ルール&ハンドの基準一覧",
-      "summary": "2026-27シーズンのJリーグでは競技規則の改正点などを受けて様々な新ルールや運用が行われる。■交代の時間制限 交代で退く選手は交代ボードが表示されてから10秒以内に退出しなければいけない(負傷者、安全上の理由で最も近いところからピッチ外…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456473-456473-fl",
-      "pubDate": "2026-08-09T10:41:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456473-456473-fl"
         }
       ]
     },
