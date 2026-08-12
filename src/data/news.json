@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-08-12T00:06:57.796Z",
-  "count": 1258,
+  "generatedAt": "2026-08-12T03:02:15.170Z",
+  "count": 1263,
   "items": [
+    {
+      "title": "FC東京の元デンマーク代表MFが左膝関節前十字靱帯損傷…今年7月に完全移籍加入も長期離脱の不運 ｜ Jリーグ(DAZN News)",
+      "summary": "【国内サッカー 最新ニュース】FC東京は8月12日、元デンマーク代表MFニコライ・ヴァリスの負傷内容をクラブ公式サイト上で発表した。 FC東京のクラブ公式サイトによると、ヴァリスは8月4日の練習中に",
+      "link": "https://news.yahoo.co.jp/articles/adefabe5a2d63f0e0fb1aaf562c2b350206ea658?source=rss",
+      "pubDate": "2026-08-12T02:57:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/adefabe5a2d63f0e0fb1aaf562c2b350206ea658?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「助っ人外国人みたいに」。キレが戻りつつある柏レイソル・久保藤次郎「本当に子どもみたいな考え方だなと思うけど…」【コラム】",
+      "summary": "柏レイソルの久保藤次郎が、本来のキレを取り戻しつつある。明治安田J1百年構想リーグでは本調子とは言えない状態が続いたが、開幕戦では復調を感じさせるプレーを披露した。開幕前、久保は10日間ブラジルへ渡っていたという。そこで何を求め、何を持ち帰…",
+      "link": "https://www.footballchannel.jp/2026/08/12/post976980/",
+      "pubDate": "2026-08-12T02:30:54.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/12/post976980/"
+        }
+      ]
+    },
+    {
+      "title": "欧州→J1移籍も「最悪のスタート」 全治不明で帰国…地元メディア「手術は必要ないかもしれない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/668300",
+      "pubDate": "2026-08-12T02:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "trade",
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668300"
+        }
+      ]
+    },
+    {
+      "title": "平愛梨、Ｗ杯後の夫は「心ここに在らず…のような」状態も現役続行に「嬉しくてたまらない!!」(日刊スポーツ)",
+      "summary": "女優の平愛梨（41）が、12日までにインスタグラムを更新。夫でサッカー日本代表のFC東京長友佑都（39）の現役続行について思いをつづった。 平は、FC東京の開幕戦のスタンドでサポーターが掲げた「",
+      "link": "https://news.yahoo.co.jp/articles/ee22701596e547df5b99e95158752538dc4ae249?source=rss",
+      "pubDate": "2026-08-12T01:19:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ee22701596e547df5b99e95158752538dc4ae249?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ACLエリートの出場32クラブが確定 G大阪が死闘制す…日本＆サウジから最多5クラブが参戦",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/668289",
+      "pubDate": "2026-08-12T00:48:37.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668289"
+        }
+      ]
+    },
     {
       "title": "「伝統あるガンバと互角に戦えた。彼らはJ1で優勝を争うチームだ」ACLEを逃した韓国勢指揮官が示した成果。一方で…ルール誤認？の審判団には辟易(SOCCER DIGEST Web)",
       "summary": "8月11日に開催されたアジア・チャンピオンズリーグエリート（ACLE）のプレリミナリーステージで、ガンバ大阪が韓国の江原FCと敵地で対戦。スコアレスで延長戦に突入して迎えた103分に名和田我空が決勝",
@@ -2431,6 +2532,23 @@
       ]
     },
     {
+      "title": "福島vs讃岐 試合記録",
+      "summary": "【J3第1節】(とうスタ)福島 1-2(前半1-0)讃岐[福]岡田優希(10分)[讃]佐野竜眞(50分)、林田魁斗(82分)[讃]村上悠緋(45分)観衆:3,171人主審:小林健太朗[福島ユナイテッドFC]先発GK 78 チョン・ソンリョン…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456632-456632-fl",
+      "pubDate": "2026-08-09T18:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456632-456632-fl"
+        }
+      ]
+    },
+    {
       "title": "浦和 MF瀬古樹を獲得決定的! イングランド2部ストークからJリーグ復帰へ(スポニチアネックス)",
       "summary": "浦和が、イングランド2部ストークのMF瀬古樹（たつき）を獲得することが9日までに決定的となった。複数の関係者が明かした。 高い技術を誇るボランチで20年に明大から横浜FCに正式加入。22年に川崎",
       "link": "https://news.yahoo.co.jp/articles/d998d8499f57a2778c5e39fddaa19cfa6f8d091c?source=rss",
@@ -2747,26 +2865,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/39d1293d07032cb7b192570efefbac283ecacee8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏vs水戸 試合記録",
-      "summary": "【J1第1節】(三協F柏)柏 2-1(前半2-0)水戸[柏]垣田裕暉(5分)、小泉佳穂(36分)[水]内野航太郎(68分)[水]仙波大志(90分+1)観衆:13,701人主審:笠原寛貴├垣田先制弾&小泉決勝ミドルで柏が開幕白星! 水戸は新戦…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456570-456570-fl",
-      "pubDate": "2026-08-09T12:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol",
-        "hollyhock"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456570-456570-fl"
         }
       ]
     },
