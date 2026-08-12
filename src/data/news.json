@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T23:29:13.517Z",
+  "generatedAt": "2026-08-12T00:06:57.796Z",
   "count": 1258,
   "items": [
     {
@@ -2751,6 +2751,26 @@
       ]
     },
     {
+      "title": "柏vs水戸 試合記録",
+      "summary": "【J1第1節】(三協F柏)柏 2-1(前半2-0)水戸[柏]垣田裕暉(5分)、小泉佳穂(36分)[水]内野航太郎(68分)[水]仙波大志(90分+1)観衆:13,701人主審:笠原寛貴├垣田先制弾&小泉決勝ミドルで柏が開幕白星! 水戸は新戦…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456570-456570-fl",
+      "pubDate": "2026-08-09T12:40:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reysol",
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456570-456570-fl"
+        }
+      ]
+    },
+    {
       "title": "シーズン移行後、最初のJ1順位表…単独首位発進を決めたのは？ 前年王者は3位スタート",
       "summary": "",
       "link": "https://www.football-zone.net/archives/667990",
@@ -2764,26 +2784,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/667990"
-        }
-      ]
-    },
-    {
-      "title": "長崎vs京都 試合記録",
-      "summary": "【J1第1節】(ピースタ)長崎 2-1(前半2-0)京都[長]チアゴ・サンタナ2(11分、29分)[京]ラファエル・エリアス(54分)[長]翁長聖(90分+3)[京]ジョアン・ペドロ(34分)、ウェベルトン(50分)、ラファエル・エリアス(…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456643-456643-fl",
-      "pubDate": "2026-08-09T12:30:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "v-varen",
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456643-456643-fl"
         }
       ]
     },
