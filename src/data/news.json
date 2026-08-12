@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-08-12T09:36:36.327Z",
-  "count": 1288,
+  "generatedAt": "2026-08-12T10:50:50.453Z",
+  "count": 1291,
   "items": [
+    {
+      "title": "【オートレース】すでに１３Ｖの福岡鷹はガチの天然だが本当に強い「ＳＧの優勝を目指しています」～ＳＧ伊勢崎(スポーツ報知)",
+      "summary": "◆第３０回オートレースグランプリ（ＳＧ、１２日・２日目、伊勢崎オートレース場） 飯塚の岩見貴史が苦笑いマックスで言った。「福岡鷹はガチの天然ですよ。ぜ～んぜん打っても響かないし、のれんに腕押しって",
+      "link": "https://news.yahoo.co.jp/articles/e152f06010f65f2f1e149df1a9d40935a991cc2f?source=rss",
+      "pubDate": "2026-08-12T10:31:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e152f06010f65f2f1e149df1a9d40935a991cc2f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本協会・宮本会長、未定となっている日本代表のコーチングスタッフは19日技術委員会で「話し合われる」 (サンケイスポーツ)",
+      "summary": "日本サッカー協会の宮本恒靖会長が12日、東京都内で「第106回天皇杯 夏休み子ども体験型イベント」に出席した。イベント後に取材に応じ、来年1月のアジア杯まで続投が決まった森保一監督を支える日本代表のコ",
+      "link": "https://news.yahoo.co.jp/articles/ed7303087428daaddbaa71d4e8ce0851367f1054?source=rss",
+      "pubDate": "2026-08-12T10:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ed7303087428daaddbaa71d4e8ce0851367f1054?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ACLE出場クラブが確定「今年もキツそう」 J1から最多5クラブ「これは良いニュース」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/668395",
+      "pubDate": "2026-08-12T10:01:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668395"
+        }
+      ]
+    },
     {
       "title": "C大阪DF髙橋仁胡、ドイツ2部キールへの期限付き移籍が決定！ 安部大晴、関根大輝に続き今夏3人目の加入(サッカーキング)",
       "summary": "セレッソ大阪は12日、DF髙橋仁胡がドイツ2部のホルシュタイン・キールへ期限付き移籍することを発表した。契約期間は2027年6月30日までの1年間となる。 2005年8月16日生まれの髙橋は現在",
@@ -2614,10 +2669,10 @@
       ]
     },
     {
-      "title": "藤枝vs仙台 スタメン発表",
-      "summary": "[8.8 J2第1節](藤枝サ)※18:30開始主審:川俣秀[藤枝MYFC]先発GK 24 吉田舜DF 2 松田佳大DF 3 鈴木翔太DF 16 森侑里MF 6 岡本拓也MF 8 角田惠風MF 13 中村優斗MF 41 上畑佑平士MF 66…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456530-456530-fl",
-      "pubDate": "2026-08-09T23:30:01.000Z",
+      "title": "クラブ史上初のホーム開幕戦が実現した山形、エースのPK弾などで栃木Cを撃破! 守ってもプロ1年目GKが好セーブ連発",
+      "summary": "[8.9 J2第1節 山形 2-0 栃木C NDスタ] J2第1節が9日に行われ、モンテディオ山形はNDソフトスタジアム山形で昇格組の栃木シティを2-0で下した。 雪国クラブということもあり、1999年のJ2参入以降、J1時代を含む全ての開…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456641-456641-fl",
+      "pubDate": "2026-08-09T23:44:43.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -2626,7 +2681,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456530-456530-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456641-456641-fl"
         }
       ]
     },
