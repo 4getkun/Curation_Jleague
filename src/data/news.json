@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-12T12:42:39.192Z",
-  "count": 1291,
+  "generatedAt": "2026-08-12T14:13:07.754Z",
+  "count": 1292,
   "items": [
+    {
+      "title": "日本協会・宮本会長、韓国サッカー協会からの審判の性接待疑惑に「その事実を確認している状況」(サンケイスポーツ)",
+      "summary": "日本サッカー協会の宮本恒靖会長が12日、東京都内で「第106回天皇杯・夏休み子ども体験型イベント」に出席した。イベント後に取材に応じ、韓国サッカー協会が過去に日本を含む外国人審判員に性接待をした疑いが",
+      "link": "https://news.yahoo.co.jp/articles/5901194e31429f88717aa325ea63cf46e464c131?source=rss",
+      "pubDate": "2026-08-12T13:46:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5901194e31429f88717aa325ea63cf46e464c131?source=rss"
+        }
+      ]
+    },
     {
       "title": "【オートレース】すでに１３Ｖの福岡鷹はガチの天然だが本当に強い「ＳＧの優勝を目指しています」～ＳＧ伊勢崎(スポーツ報知)",
       "summary": "◆第３０回オートレースグランプリ（ＳＧ、１２日・２日目、伊勢崎オートレース場） 飯塚の岩見貴史が苦笑いマックスで言った。「福岡鷹はガチの天然ですよ。ぜ～んぜん打っても響かないし、のれんに腕押しって",
@@ -2534,13 +2551,14 @@
       ]
     },
     {
-      "title": "ホーム開幕戦を盛り上げた東京Vの12番目の選手たち(47枚)",
+      "title": "川崎Fが劇的ドロー! 東京Vに先制を許すも終了間際に追いつく(26枚)",
       "summary": "J1第1節が9日に行われ、味の素スタジアムでは東京ヴェルディと川崎フロンターレが1-1で引き分けた。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456656-456656-pn",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456657-456657-pn",
       "pubDate": "2026-08-10T03:05:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
+        "frontale",
         "verdy"
       ],
       "topics": [],
@@ -2548,7 +2566,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456656-456656-pn"
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456657-456657-pn"
         }
       ]
     },
