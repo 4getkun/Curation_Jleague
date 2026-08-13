@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:21:50.657Z",
+  "generatedAt": "2026-08-13T22:08:48.544Z",
   "count": 1354,
   "items": [
     {
@@ -56,11 +56,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/14/post981762/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b0df96532d9e81ad515237b8ab9a8613c9f52797?source=rss"
         }
       ]
     },
