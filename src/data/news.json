@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-14T16:11:41.906Z",
-  "count": 1395,
+  "generatedAt": "2026-08-14T17:23:36.229Z",
+  "count": 1396,
   "items": [
+    {
+      "title": "Wソックス・村上 “休養”で代打起用も三振 連続出塁は27試合でストップ(スポニチアネックス)",
+      "summary": "◇インターリーグ ホワイトソックス8―9レッズ（2026年8月13日 シカゴ） ホワイトソックスの村上は休養のためレッズ戦のスタメンを外れ、9回に代打で起用されて空振り三振に倒れた。 右太腿",
+      "link": "https://news.yahoo.co.jp/articles/8984b7139ffd5b703301174c1305acc3262fafd7?source=rss",
+      "pubDate": "2026-08-14T16:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8984b7139ffd5b703301174c1305acc3262fafd7?source=rss"
+        }
+      ]
+    },
     {
       "title": "柏、交代策的中で開幕2連勝 途中出場の瀬川が決勝点「力まず冷静に射抜けた」(産経新聞)",
       "summary": "柏3－1東京V（J1第2節＝14日） 交代策がずばり的中した柏が逆転で開幕2連勝を飾った。1－1で迎えた後半20分、途中出場の瀬川が同時投入された渡井の横パスを受け、右足で決勝点。「前半はチームに思",
@@ -182,8 +201,8 @@
       "summary": "サッカー日本代表の森保一監督（57）が14日、東京・MUFG国立で行われた東京ヴェルディ対柏レイソル戦を視察した。 試合後にメディア対応し、FC東京で現役続行を決断した長友佑都（39）について見",
       "link": "https://news.yahoo.co.jp/articles/4f8515fc1913fb799e7a3943d739798e66cacf1a?source=rss",
       "pubDate": "2026-08-14T14:03:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fc-tokyo"
       ],
@@ -192,8 +211,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4f8515fc1913fb799e7a3943d739798e66cacf1a?source=rss"
         }
       ]
