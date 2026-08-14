@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-08-14T05:13:04.236Z",
-  "count": 1367,
+  "generatedAt": "2026-08-14T06:50:50.128Z",
+  "count": 1369,
   "items": [
     {
-      "title": "【神戸】快適環境下で15日東京戦へスキッベ監督「相手に常にプレッシャーかけることを重要視」(日刊スポーツ)",
-      "summary": "ヴィッセル神戸は15日にホーム開幕戦でFC東京と対戦（ノエスタ）する。 14日は神戸市内のいぶきの森球技場で非公開調整。オンライン取材に応じたミヒャエル・スキッベ監督（61）は「ホーム開幕戦を勝",
-      "link": "https://news.yahoo.co.jp/articles/c7f57b67a2c9be6630a1077c2d36da379ca91f20?source=rss",
-      "pubDate": "2026-08-14T04:49:20.000Z",
+      "title": "神戸のミヒャエル・スキッベ監督が福岡戦で負傷の鍬先祐弥の軽傷を強調「元気で、明日も試合に出場できる状況。出番は来る」(スポーツ報知)",
+      "summary": "神戸のスキッベ監督が１４日、ＦＣ東京戦（１５日・ノエスタ）に向けてオンラインで取材に応じた。「ホーム開幕を勝利で終えられるように」と、開幕２連勝を誓った。福岡戦で負傷交代したＭＦ鍬先については「元気",
+      "link": "https://news.yahoo.co.jp/articles/6ac73efc6f02c335e75a002805c0043096c7bc56?source=rss",
+      "pubDate": "2026-08-14T06:48:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6ac73efc6f02c335e75a002805c0043096c7bc56?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸がホーム開幕・ＦＣ東京戦でノエビアスタジアムの空調設備導入に向けた試験稼働 ミヒャエル・スキッベ監督「サッカーの質が上がれば」(スポーツ報知)",
+      "summary": "神戸のスキッベ監督が１４日、ＦＣ東京戦（１５日・ノエスタ）に向けてオンラインで取材に応じた。神戸と神戸市は、観戦環境の向上を目指し、ノエスタの空調設備導入に向けた改修工事を段階的に進めている。２０２",
+      "link": "https://news.yahoo.co.jp/articles/6af02c5030ad912331b259cadf3885c062ad1101?source=rss",
+      "pubDate": "2026-08-14T06:42:49.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
@@ -17,6 +38,25 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6af02c5030ad912331b259cadf3885c062ad1101?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】快適環境下で15日東京戦へスキッベ監督「相手に常にプレッシャーかけることを重要視」(日刊スポーツ)",
+      "summary": "ヴィッセル神戸は15日にホーム開幕戦でFC東京と対戦（ノエスタ）する。 14日は神戸市内のいぶきの森球技場で非公開調整。オンライン取材に応じたミヒャエル・スキッベ監督（61）は「ホーム開幕戦を勝",
+      "link": "https://news.yahoo.co.jp/articles/c7f57b67a2c9be6630a1077c2d36da379ca91f20?source=rss",
+      "pubDate": "2026-08-14T04:49:20.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c7f57b67a2c9be6630a1077c2d36da379ca91f20?source=rss"
         }
       ]
@@ -3517,6 +3557,25 @@
       ]
     },
     {
+      "title": "町田戦で一発退場のFC東京DF橋本健人、2試合出場停止&罰金20万円",
+      "summary": "Jリーグは10日、J1リーグ第1節で退場を命じられたFC東京DF橋本健人に対し、2試合の出場停止と罰金20万円の処分を決定した。 橋本は8日にホームで開催された町田戦に先発出場。しかし、前半38分にルーズボールを処理しようとスライディングを…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456684-456684-fl",
+      "pubDate": "2026-08-10T12:30:55.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456684-456684-fl"
+        }
+      ]
+    },
+    {
       "title": "リヴァプールに“世界屈指の富豪”が共同オーナー就任へ？ アマゾン創業者らが約3分の1の株式取得で合意間近と報道(フットボールチャンネル)",
       "summary": "リヴァプールの少数株式取得を巡る大型取引が、成立に近づいているようだ。英メディア『スカイスポーツ』が10日、独占情報として報じている。 報道によると、アマゾン創業者のジェフ・ベゾス氏を含む投",
       "link": "https://news.yahoo.co.jp/articles/7f3017eda041e07b05be9afbf2b1df5aaa6f76a7?source=rss",
@@ -3834,23 +3893,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/10/post974433/"
-        }
-      ]
-    },
-    {
-      "title": "いわきvs今治 スタメン発表",
-      "summary": "[8.9 J2第1節](ハワスタ)※18:00開始主審:小林拓矢[いわきFC]先発GK 23 佐々木雅士DF 6 岩下航DF 15 中野陽斗DF 35 深港壮一郎MF 3 遠藤凌MF 7 中島舜MF 10 西谷亮MF 14 山口大輝MF 3…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456624-456624-fl",
-      "pubDate": "2026-08-10T08:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456624-456624-fl"
         }
       ]
     },
