@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-14T15:12:47.306Z",
-  "count": 1394,
+  "generatedAt": "2026-08-14T16:11:41.906Z",
+  "count": 1395,
   "items": [
+    {
+      "title": "柏、交代策的中で開幕2連勝 途中出場の瀬川が決勝点「力まず冷静に射抜けた」(産経新聞)",
+      "summary": "柏3－1東京V（J1第2節＝14日） 交代策がずばり的中した柏が逆転で開幕2連勝を飾った。1－1で迎えた後半20分、途中出場の瀬川が同時投入された渡井の横パスを受け、右足で決勝点。「前半はチームに思",
+      "link": "https://news.yahoo.co.jp/articles/8b30c87a57d09d569209e3188e7ffd13b05f2aba?source=rss",
+      "pubDate": "2026-08-14T15:58:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8b30c87a57d09d569209e3188e7ffd13b05f2aba?source=rss"
+        }
+      ]
+    },
     {
       "title": "豪雨被害にJ1千葉社長「苦渋の決断」も…15日町田戦は「予定通り開催」を決定(ゲキサカ)",
       "summary": "ジェフユナイテッド千葉は14日、15日に予定しているJ1第2節のFC町田ゼルビア戦について、「予定通り開催することを決定いたしました」と発表した。 13日に千葉県内で発生した豪雨被害は広範囲に及",
@@ -3660,19 +3679,21 @@
       ]
     },
     {
-      "title": "相模原vs熊本 スタメン発表",
-      "summary": "[8.8 J3第1節](ギオンス)※18:00開始主審:佐々木慎哉[SC相模原]先発GK 21 金珉浩DF 2 綿引康DF 3 ピトリックDF 13 常田克人DF 19 沖田空MF 4 島川俊郎MF 10 中山陸MF 15 前田泰良MF 1…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456528-456528-fl",
+      "title": "鳥取vsFC大阪 スタメン発表",
+      "summary": "[8.8 J3第1節](Axis)※19:00開始主審:北沢倫章[ガイナーレ鳥取]先発GK 47 桃井玲DF 4 二階堂正哉DF 7 荒井涼DF 14 河村匠DF 34 鄭翔英DF 42 金浦真樹MF 15 木内達也MF 21 矢島慎也MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456535-456535-fl",
       "pubDate": "2026-08-11T02:00:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "cerezo"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456528-456528-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456535-456535-fl"
         }
       ]
     },
