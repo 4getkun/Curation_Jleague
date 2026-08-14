@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-14T21:46:12.950Z",
-  "count": 1411,
+  "generatedAt": "2026-08-14T22:11:56.968Z",
+  "count": 1412,
   "items": [
+    {
+      "title": "リヴァプール、Amazon創業者ベゾス氏らの出資で正式合意 クラブが公式声明「戦略的投資は長期的な成長目標を支援するもの」",
+      "summary": "イングランド・プレミアリーグのリヴァプールは現地時間14日、クラブを所有するフェンウェイ・スポーツ・グループ（FSG）が、投資家グループ「1892ホールディングス」へ少数株式を売却することで正式合意したと発表した。Amazon創業者ジェフ・…",
+      "link": "https://www.footballchannel.jp/2026/08/15/post988128/",
+      "pubDate": "2026-08-14T21:55:20.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/15/post988128/"
+        }
+      ]
+    },
     {
       "title": "柏MF熊坂光希が完全復活446日ぶりフル出場「また代表に戻る覚悟を持って頑張ってきた」W杯制覇のスペインMFにも刺激「本当に彼のチームだなと」(ゲキサカ)",
       "summary": "[8.14 J1第2節 東京V 1-3 柏 MUFG国立] 右膝前十字靭帯断裂の大ケガを乗り越えた柏レイソルMF熊坂光希が14日、J1第2節・東京V戦で昨年5月25日以来446日ぶりの公式戦フル出",
@@ -97,11 +116,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/15/post988110/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a856e0ce4e74c05776e9e645ad5cdd695c1bc414?source=rss"
         }
       ]
     },
