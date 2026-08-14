@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:12:40.327Z",
+  "generatedAt": "2026-08-14T19:25:27.990Z",
   "count": 1396,
   "items": [
     {
@@ -102,16 +102,16 @@
       "summary": "＜明治安田J1：東京V1－3柏＞◇14日◇第2節◇MUFG国立◇観衆4万4690人 強い柏レイソルが戻ってきた。東京ヴェルディに3－1で快勝し、開幕から2連勝となった。 開始早々に先制点を許し",
       "link": "https://news.yahoo.co.jp/articles/a51cd3ce36313efd8a86f8e417ed101eb72bef7e?source=rss",
       "pubDate": "2026-08-14T14:19:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reysol"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a51cd3ce36313efd8a86f8e417ed101eb72bef7e?source=rss"
         }
       ]
@@ -121,16 +121,16 @@
       "summary": "＜明治安田J1：東京V1－3柏＞◇14日◇第2節◇MUFG国立◇観衆4万4690人 東京ヴェルディが1－3で柏レイソルに敗れた。 開始早々にDF林尚輝のヘディングシュートで幸先良く先制したが、",
       "link": "https://news.yahoo.co.jp/articles/1e3c375f2c81ce96c0192af51641d940021c296b?source=rss",
       "pubDate": "2026-08-14T14:16:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "verdy"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/1e3c375f2c81ce96c0192af51641d940021c296b?source=rss"
         }
       ]
