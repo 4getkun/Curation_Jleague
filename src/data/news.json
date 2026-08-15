@@ -1,7 +1,206 @@
 {
-  "generatedAt": "2026-08-15T13:48:54.402Z",
-  "count": 1508,
+  "generatedAt": "2026-08-15T14:12:08.560Z",
+  "count": 1518,
   "items": [
+    {
+      "title": "4失点で連敗…浦和監督が主張「意識の問題です」 浸透されていない”共通認識”「勝つ確率は下がる」(FOOTBALL ZONE)",
+      "summary": "浦和レッズは8月15日にホーム開幕戦となったJ1第2節のサンフレッチェ広島戦に1-4で敗れた。2連敗のスタートになった曺貴裁監督は「2試合連続で前半の終わり際に失点しています」と、勝負を分ける時間帯",
+      "link": "https://news.yahoo.co.jp/articles/8faa4e76c3c0da4275ada546fca9d878163f59f5?source=rss",
+      "pubDate": "2026-08-15T14:08:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8faa4e76c3c0da4275ada546fca9d878163f59f5?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668889"
+        }
+      ]
+    },
+    {
+      "title": "鹿島、ヤン・マテウス＆レオ・セアラのホットライン開通「まだいっぱいゴールを決められる」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 鹿島2―1名古屋（2026年8月15日 メルカリスタジアム） 鹿島のFWレオ・セアラが2戦連発となる先制ヘッドを決めた。前半22分、中央でボールを運んだMFヤン・マテ",
+      "link": "https://news.yahoo.co.jp/articles/aaa786ecddfea12774201abaf2de6f1abe77175e?source=rss",
+      "pubDate": "2026-08-15T14:00:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aaa786ecddfea12774201abaf2de6f1abe77175e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島DF関川郁万「全てがスローに見えました」試合終了間際に劇的決勝弾(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 鹿島2―1名古屋（2026年8月15日 メルカリスタジアム） 鹿島が名古屋に競り勝ち、10年ぶりに開幕2連勝を飾った。 1―1の試合終了間際にDF関川郁万が決勝ゴ",
+      "link": "https://news.yahoo.co.jp/articles/b8867817bd98a69be409c0d647197330a3126c33?source=rss",
+      "pubDate": "2026-08-15T13:57:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b8867817bd98a69be409c0d647197330a3126c33?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸FW武藤嘉紀「力が抜けて良いところへ飛んでいってくれた」戦術ロングスローで劇的同点弾(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 神戸 2―2 FC東京（2026年8月15日 ノエスタ） 神戸は“戦術ロングスロー”で土壇場ドローに持ち込んだ。1点ビハインドの後半48分、DFジエゴのロングスローの流れか",
+      "link": "https://news.yahoo.co.jp/articles/04c6478f33e5b9437073dc4a2447fa36f3aaf697?source=rss",
+      "pubDate": "2026-08-15T13:57:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/04c6478f33e5b9437073dc4a2447fa36f3aaf697?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和１９歳・笹修大が２試合連続先発 ブーイングには「全部自分に向けられたものだと思って」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第２節 浦和１―４広島（１５日・埼玉スタジアム２００２） Ｊ１浦和は１５日、ホーム開幕戦で広島と対戦し、１―４で敗れた。開幕戦（対Ｇ大阪 ３●４）に続いて２試合連続４失点での",
+      "link": "https://news.yahoo.co.jp/articles/cc6990442d68ea488a96e06570aee72cbf76d52d?source=rss",
+      "pubDate": "2026-08-15T13:56:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cc6990442d68ea488a96e06570aee72cbf76d52d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「街のためにも絶対に勝とうと…」大雨被害の千葉は2連敗、生え抜きMF姫野誠が巻き返し誓う(GOAL)",
+      "summary": "2026/27明治安田J1リーグ第2節が15日に千葉県のフクダ電子アリーナで行われ、ジェフユナイテッド千葉はFC町田ゼルビアに0-4で敗れた。 地元千葉市出身の生え抜きMF姫野誠が巻き返しを誓った。",
+      "link": "https://news.yahoo.co.jp/articles/3ca5e4ac104af0dedce9484c5b917ea664d6cb02?source=rss",
+      "pubDate": "2026-08-15T13:56:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3ca5e4ac104af0dedce9484c5b917ea664d6cb02?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】三井寺眞、フル出場でプロ初勝利も反省の弁「前線の選手なのでゴールに関わらないと」(日刊スポーツ)",
+      "summary": "＜明治安田J1：清水0－1横浜＞◇15日◇第2節◇アイスタ 横浜がアウェーで清水を1－0で下し、今季2戦目で初勝利を挙げた。後半34分にDF井上太聖が決勝点を挙げた。16歳新星MF三井寺真は開幕戦",
+      "link": "https://news.yahoo.co.jp/articles/d61406348215b5862dc85d0a342bcbba84abeae4?source=rss",
+      "pubDate": "2026-08-15T13:56:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d61406348215b5862dc85d0a342bcbba84abeae4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜Mコリカ監督、初白星に「1―0で勝たなければいけない試合は非常に重要…改善が見られた」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 横浜M1―0清水（2026年8月15日 IAIスタジアム日本平） 横浜F・マリノスは清水との接戦を1―0で制し、開幕2戦目で今季初勝利を挙げた。 今季から指揮を執",
+      "link": "https://news.yahoo.co.jp/articles/046df903739718254241291e5ce3bd426639d4bb?source=rss",
+      "pubDate": "2026-08-15T13:55:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse",
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/046df903739718254241291e5ce3bd426639d4bb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸のＤＦ酒井高徳が肋骨を痛めて後半４分に交代 ホーム開幕で終了間際に追いついてドロー ミヒャエル・スキッベ監督「勝ち点１を取れたのは非常に満足」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第２節 神戸２―２ＦＣ東京（１５日・ノエスタ） 神戸は、ホーム開幕で引き分けに持ち込んだ。１―２の後半アディショナルタイム３分、ロングスローからのこぼれ球をＦＷ武藤が右足でゴ",
+      "link": "https://news.yahoo.co.jp/articles/cf980df8edbb11178c1278924d59b367836a39f2?source=rss",
+      "pubDate": "2026-08-15T13:54:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cf980df8edbb11178c1278924d59b367836a39f2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1浦和、3シーズンぶりの開幕2連敗で降格圏19位…ホーム開幕戦も5万人に届かず(中日スポーツ)",
+      "summary": "◇１５日 Ｊ１第２節 浦和１―４広島（埼玉スタジアム） 浦和がホーム開幕戦で広島に大敗を喫した。第１節・Ｇ大阪戦の黒星に続き、２０２３年以来となる３シーズンぶりの開幕２連敗。曺貴裁（チョウ・キジェ",
+      "link": "https://news.yahoo.co.jp/articles/c78dc67701e4c933f15f0c1d24eb414f2c5da8dd?source=rss",
+      "pubDate": "2026-08-15T13:50:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c78dc67701e4c933f15f0c1d24eb414f2c5da8dd?source=rss"
+        }
+      ]
+    },
     {
       "title": "【広島】坂倉将吾 決勝打も〝どん詰まり〟告白…お立ち台では失策を自虐「僕だけエラーした」(東スポWEB)",
       "summary": "広島・坂倉将吾捕手（28）が15日の阪神戦（マツダ）で決勝打を放ち、5―2の勝利に貢献した。チームは首位・阪神に2連勝し、カード勝ち越しを決めた。 2点を追う初回には一死一、三塁から二ゴロで1点",
@@ -210,16 +409,16 @@
       "summary": "＜明治安田J1：浦和1－4広島＞◇15日◇第2節◇埼玉 サンフレッチェ広島はアウェーで浦和レッズに4－1で快勝し、開幕2連勝を飾った。 DF塩谷司（37）が勝ち越し点。1－1の前半終了間際にM",
       "link": "https://news.yahoo.co.jp/articles/cf2567905555bd1e2b157659829453a557ddc7bd?source=rss",
       "pubDate": "2026-08-15T13:14:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanfrecce"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/cf2567905555bd1e2b157659829453a557ddc7bd?source=rss"
         }
       ]
