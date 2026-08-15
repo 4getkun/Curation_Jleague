@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-15T21:41:27.747Z",
-  "count": 1557,
+  "generatedAt": "2026-08-15T22:10:34.547Z",
+  "count": 1559,
   "items": [
+    {
+      "title": "【Ｊ１清水】横浜ＦＭの三井寺真から刺激 ＦＣフォーリクラッセ仙台の先輩・針生涼太「自分も頑張らないといけない」…２３日・Ｕ―２１Ｊリーグ浦和戦(スポーツ報知)",
+      "summary": "Ｊ１清水は２３日、新設されたＵ―２１Ｊリーグの初戦・浦和戦をホームのアイスタで迎える。ＭＦ針生涼太（１８）は、中学時代に所属したＦＣフォーリクラッセ仙台の後輩、横浜ＭのＭＦ三井寺真（みいでら・しん、",
+      "link": "https://news.yahoo.co.jp/articles/3af5daf564d295120a11c52055ac3d564b243e4c?source=rss",
+      "pubDate": "2026-08-15T22:00:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse",
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3af5daf564d295120a11c52055ac3d564b243e4c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【Ｊ１清水】１２日死去した太田貴光さんへの弔い星ならず 選手は喪章つけ臨むも横浜ＦＭに０―１ 吉田孝行監督「もったいないゲーム」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第２節 横浜ＦＭ１―０清水（１５日、静岡・ＩＡＩスタジアム日本平） 清水エスパルスは、ホーム開幕戦で横浜ＦＭと対戦し、０―１で敗れた。両チーム無得点で迎えた後半３４分に失点。",
+      "link": "https://news.yahoo.co.jp/articles/31b4c59479e82edece0943c4aae30e2d304add45?source=rss",
+      "pubDate": "2026-08-15T21:50:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse",
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/31b4c59479e82edece0943c4aae30e2d304add45?source=rss"
+        }
+      ]
+    },
     {
       "title": "今季チーム初得点にも「もう少しボールに触りたかった」指揮官も感じるアビスパ福岡のドリブラー 藤本一輝の進化への姿勢(西スポWEB OTTO!)",
       "summary": "◆明治安田J1リーグ第2節 福岡3―0C大阪（15日・ベスト電器スタジアム） ホームで味わう勝利の喜びはやはり格別だ。開幕2戦目での今季初勝利に塚原監督は「今日に関しては完璧だった」と自賛した。3",
@@ -86,8 +126,8 @@
       "summary": "＜明治安田J1：清水0－1横浜＞◇15日◇第2節◇アイスタ 横浜F・マリノスがアウェーで清水エスパルスを1－0で下し、今季2戦目で初勝利を挙げた。 鹿島アントラーズから移籍してきたMF知念慶（",
       "link": "https://news.yahoo.co.jp/articles/b5001c6a555999a4e38f0dd54636afe7a18cf49e?source=rss",
       "pubDate": "2026-08-15T21:13:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marinos",
         "s-pulse",
@@ -98,8 +138,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b5001c6a555999a4e38f0dd54636afe7a18cf49e?source=rss"
         }
       ]
