@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-15T08:52:00.009Z",
-  "count": 1451,
+  "generatedAt": "2026-08-15T09:15:53.981Z",
+  "count": 1452,
   "items": [
+    {
+      "title": "【女子ワールドカップ2026】途中離脱から復帰した町田瑠唯が下す厳しい自己評価「ケガせず試合を終えたことが唯一良かったこと」(BASKET COUNT)",
+      "summary": "8月13日と14日で行われた韓国との強化試合『三井不動産カップ2026（東京大会）』は、女子日本代表が第1戦を開始から圧倒して77-59で勝利。第2戦は逆に追い上げる展開となるが、田中こころが終了間際",
+      "link": "https://news.yahoo.co.jp/articles/d1f17defb89d5060a8773b67ae2bee13a87fc1fa?source=rss",
+      "pubDate": "2026-08-15T09:10:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d1f17defb89d5060a8773b67ae2bee13a87fc1fa?source=rss"
+        }
+      ]
+    },
     {
       "title": "J1アビスパ福岡 注目の元バルサMFオリオール・ロメウが初のベンチ入り 師岡柊生が初先発【C大阪戦スタメン】(西スポWEB OTTO!)",
       "summary": "◆明治安田J1リーグ第2節 福岡―C大阪（15日・ベスト電器スタジアム） 今季初勝利を目指すアビスパ福岡は、鹿島から加入した師岡柊生が移籍後初スタメンとなった。 橋本悠や、神奈川大から特別指定",
@@ -4019,11 +4040,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/acl/detail/?456710-456710-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/056ad4a6f3fcf68e960ef9f8a66a044868d18cda?source=rss"
         }
       ]
     },
@@ -4222,11 +4238,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?456707-456707-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6d22fde75174ebd423ae549315ceca69133d9d13?source=rss"
         }
       ]
     },
