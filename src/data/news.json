@@ -1,7 +1,229 @@
 {
-  "generatedAt": "2026-08-15T13:04:56.548Z",
-  "count": 1497,
+  "generatedAt": "2026-08-15T13:48:54.402Z",
+  "count": 1508,
   "items": [
+    {
+      "title": "【広島】坂倉将吾 決勝打も〝どん詰まり〟告白…お立ち台では失策を自虐「僕だけエラーした」(東スポWEB)",
+      "summary": "広島・坂倉将吾捕手（28）が15日の阪神戦（マツダ）で決勝打を放ち、5―2の勝利に貢献した。チームは首位・阪神に2連勝し、カード勝ち越しを決めた。 2点を追う初回には一死一、三塁から二ゴロで1点",
+      "link": "https://news.yahoo.co.jp/articles/5d271c7d86864ef77da9dfac0eb4d6109a627ba6?source=rss",
+      "pubDate": "2026-08-15T13:45:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5d271c7d86864ef77da9dfac0eb4d6109a627ba6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "京都の新監督「私に原因があったかも」 ドロー決着…”冗談交じり”に「高くジャンプをしすぎた」(FOOTBALL ZONE)",
+      "summary": "京都サンガF.C.は、8月15日に行われたJ1第2節で川崎フロンターレと対戦し、2-2で引き分けた。先制されたもののDF福田心之助とFWラファエル・エリアスのゴールで逆転した京都だったが、後半20分",
+      "link": "https://news.yahoo.co.jp/articles/35f9c9c30db388ea778a7d7780db2189106e4a9a?source=rss",
+      "pubDate": "2026-08-15T13:44:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/35f9c9c30db388ea778a7d7780db2189106e4a9a?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668886"
+        }
+      ]
+    },
+    {
+      "title": "千葉、4失点で開幕2連敗 試合前には豪雨災害の緊急募金、小林慶行監督「勇気を届けられるように」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 千葉0―4町田（2026年8月15日 フクダ電子アリーナ） 千葉は4失点を喫し、開幕2連敗となった。FWエリソンが両チーム最多5本のシュートを放つも結果に結びつかなか",
+      "link": "https://news.yahoo.co.jp/articles/5baa4f5d316e03c3576862fb9651ff05f0b93cb1?source=rss",
+      "pubDate": "2026-08-15T13:44:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5baa4f5d316e03c3576862fb9651ff05f0b93cb1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島また劇的勝利 鬼木監督「選手の頑張りとサポーターに尽きる」決勝弾の関川には「自信にしてほしい」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 鹿島2―1名古屋（2026年8月15日 メルカリスタジアム） 鹿島はホーム開幕戦で名古屋に競り勝った。1―1の試合終了間際、右CKの流れからDF関川郁万が決勝ゴールを",
+      "link": "https://news.yahoo.co.jp/articles/fe38c0660847d0276e4d65cb733d2e0e204a701c?source=rss",
+      "pubDate": "2026-08-15T13:40:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fe38c0660847d0276e4d65cb733d2e0e204a701c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和・曺貴裁監督、開幕2連敗に「愛の叱咤も含めてすべて現実…望んでいるスタートではなかった」(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第2節第2日（15日、浦和1―4広島、埼スタ）浦和は開幕から2連敗となった。試合を終えて曺貴裁監督は「1失点目と3失点目の仕方が非常に痛かった。自分たちのミスというか、声をかけていれ",
+      "link": "https://news.yahoo.co.jp/articles/d3a82ea00406b52fadd4ef73f32ac17e1467df0e?source=rss",
+      "pubDate": "2026-08-15T13:35:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d3a82ea00406b52fadd4ef73f32ac17e1467df0e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和・曺貴裁監督「２、３失点目の失点が非常に痛かった」新体制での初勝利ならず(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第２節 浦和１―４広島（１５日・埼玉スタジアム２００２） Ｊ１浦和は１５日、ホーム開幕戦で広島と対戦し、１―４で敗れた。開幕戦（対Ｇ大阪 ３●４）に続いて２試合連続４失点での",
+      "link": "https://news.yahoo.co.jp/articles/09a55d8c3282d8b0d96356558b87fb368d41321f?source=rss",
+      "pubDate": "2026-08-15T13:29:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/09a55d8c3282d8b0d96356558b87fb368d41321f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島DF関川の劇的勝ち越し弾「すべてがスローに」 開幕連勝の立役者…ゴールの瞬間は「あ、入ったな」(FOOTBALL ZONE)",
+      "summary": "鹿島アントラーズは8月15日、J1リーグ第2節で名古屋グランパスと対戦し、2-1で勝利した。ホーム開幕戦となった昨季J1王者の鹿島は1-1の試合終了間際にDF関川郁万が値千金の勝ち越し弾を決めて、劇",
+      "link": "https://news.yahoo.co.jp/articles/98756fe935edf5739932fb57f5d0231a91c096ac?source=rss",
+      "pubDate": "2026-08-15T13:28:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/98756fe935edf5739932fb57f5d0231a91c096ac?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668864"
+        }
+      ]
+    },
+    {
+      "title": "J1浦和、開幕2戦で計8失点…曺貴裁監督は「戦術問題というよりも、共通意識を浸透させられていない」と厳しく指摘(中日スポーツ)",
+      "summary": "◇１５日 Ｊ１第２節 浦和１―４広島（埼玉スタジアム） 浦和がホーム開幕戦で広島に大敗を喫した。第１節・Ｇ大阪戦の黒星に続き、２０２３年以来となる３シーズンぶりの開幕２連敗。曺貴裁（チョウ・キジェ",
+      "link": "https://news.yahoo.co.jp/articles/1baac2dc5e6cd5a8434cf95ede5357d61327f78d?source=rss",
+      "pubDate": "2026-08-15T13:22:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1baac2dc5e6cd5a8434cf95ede5357d61327f78d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島が浦和に４発快勝で連勝 ガウル監督「主導権を握ってゲームを進められた」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第２節 浦和１―４広島（１５日・埼玉スタジアム２００２） Ｊ１広島は１５日、アウェーで広島と対戦し、４―１で勝利した。開幕戦（対千葉 ３〇０）に続いて２連勝となった。 ガ",
+      "link": "https://news.yahoo.co.jp/articles/29b109a40504049e35e3d8f72b82ce0084bcfe83?source=rss",
+      "pubDate": "2026-08-15T13:22:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/29b109a40504049e35e3d8f72b82ce0084bcfe83?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "千葉・小林慶行監督 豪雨被害で開催危機も…ホーム開幕戦大敗で声を落とす「本当に残念な思いでいっぱい」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ ▽第２節 町田４―０千葉（１５日・フクダ電子アリーナ） 千葉はホーム開幕戦で町田に０―４で大敗した。前半１８分にＤＦ中山雄太に芸術的なＦＫを沈められると、そこから立て直せず。",
+      "link": "https://news.yahoo.co.jp/articles/ab6f7f3f9cd3c612c00f7551648d47b8201f79cd?source=rss",
+      "pubDate": "2026-08-15T13:18:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ab6f7f3f9cd3c612c00f7551648d47b8201f79cd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】開幕２連勝、37歳DF塩谷司が健在 クラブ最年長ゴール記録更新 浦和は開幕２連敗(日刊スポーツ)",
+      "summary": "＜明治安田J1：浦和1－4広島＞◇15日◇第2節◇埼玉 サンフレッチェ広島はアウェーで浦和レッズに4－1で快勝し、開幕2連勝を飾った。 DF塩谷司（37）が勝ち越し点。1－1の前半終了間際にM",
+      "link": "https://news.yahoo.co.jp/articles/cf2567905555bd1e2b157659829453a557ddc7bd?source=rss",
+      "pubDate": "2026-08-15T13:14:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cf2567905555bd1e2b157659829453a557ddc7bd?source=rss"
+        }
+      ]
+    },
     {
       "title": "水戸、J1初の“歴史的”勝ち点1 樹森監督「こういうゲームでも勝ちきれるチームつくりたい」(スポニチアネックス)",
       "summary": "◇明治安田J1リーグ第2節 水戸 1―1 G大阪（2026年8月15日 水戸信用金庫スタジアム） 水戸が前半18分に左サイドのMF谷口海斗（30）のパスを受けたMF鳥海芳樹（28）のJ1初ゴール",
