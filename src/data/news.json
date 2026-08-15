@@ -1,22 +1,129 @@
 {
-  "generatedAt": "2026-08-15T10:44:28.780Z",
-  "count": 1469,
+  "generatedAt": "2026-08-15T11:10:44.003Z",
+  "count": 1474,
   "items": [
     {
-      "title": "【神戸】東京戦前に熊本地震被害への募金活動 アンデルソン・ロペス、扇原貴宏らが支援呼びかけ(日刊スポーツ)",
-      "summary": "ヴィッセル神戸は15日のFC東京戦キックオフ前に、ノエビアスタジアム神戸場外で募金活動を実施した。 7月28日に熊本県で発生した令和8年熊本地震での被害者に向けた活動で、クラブ、選手会、サポータ",
-      "link": "https://news.yahoo.co.jp/articles/4c131a58a87b06705eeb508d78aff614925376b4?source=rss",
-      "pubDate": "2026-08-15T10:40:31.000Z",
+      "title": "鹿島がホーム開幕戦で劇的勝利 終了間際にDF関川郁万が勝ち越し弾…6季ぶり開幕2連勝スタート(FOOTBALL ZONE)",
+      "summary": "鹿島アントラーズは8月15日、J1リーグ第2節で名古屋グランパスと対戦し、2-1で勝利を収めた。ホーム開幕戦となった昨季J1王者の鹿島はFWレオ・セアラが先制点を奪った。後半に追いつかれるも、試合終",
+      "link": "https://news.yahoo.co.jp/articles/65531b539363c6a65bd280eadab946aea404bf56?source=rss",
+      "pubDate": "2026-08-15T11:04:42.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "vissel"
+        "antlers"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/65531b539363c6a65bd280eadab946aea404bf56?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668796"
+        }
+      ]
+    },
+    {
+      "title": "鹿島が2戦続けて劇的勝利！ ラストプレーで関川郁万が決勝弾、名古屋との熱戦を制す(サッカーキング)",
+      "summary": "2026/27明治安田J1リーグ第2節が15日に行われ、鹿島アントラーズと名古屋グランパスが対戦した。 2025シーズンの王者である鹿島は今夏、DF広瀬陸斗、MFマテウス・ブエノ、FWヤン・マテ",
+      "link": "https://news.yahoo.co.jp/articles/72f12b867eb0fb5e270addcdafa0ed70c4c690a5?source=rss",
+      "pubDate": "2026-08-15T11:04:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/72f12b867eb0fb5e270addcdafa0ed70c4c690a5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「うますぎる！」「天才だ」町田DFの“黄金左足”炸裂！ 美しい直接FK弾にファン喝采「今すぐ日本代表になってくれ」(SOCCER DIGEST Web)",
+      "summary": "圧巻の一撃がゴールネットに突き刺さった。 FC町田ゼルビアは８月15日、J１第２節でジェフユナイテッド千葉と敵地で対戦。DF中山雄太が鮮やかな直接FKを叩き込み、先制点を奪った。 スコアレス",
+      "link": "https://news.yahoo.co.jp/articles/c25e0ed4c6628b58942ca9f61e1d473ba5556724?source=rss",
+      "pubDate": "2026-08-15T11:02:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "jef-chiba"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c25e0ed4c6628b58942ca9f61e1d473ba5556724?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1ホーム初陣の水戸、先制するも勝ち切れず…中3日のG大阪がセットプレーから追いついてドロー(ゲキサカ)",
+      "summary": "[8.15 J1第2節 水戸 1-1 G大阪 水戸信ス] J1第2節が15日に開催され、水戸信用金庫スタジアムでは水戸ホーリーホックとガンバ大阪が1-1で引き分けた。 J1でのホーム初陣を迎え",
+      "link": "https://news.yahoo.co.jp/articles/7d9b6592b53c166ca8891efe1d43696ac7ec76db?source=rss",
+      "pubDate": "2026-08-15T11:01:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7d9b6592b53c166ca8891efe1d43696ac7ec76db?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "熊本出身の元川崎Ｆ車屋紳太郎さんが募金活動「支え合うことの大切さ」約2000人行列(日刊スポーツ)",
+      "summary": "昨季限りで現役引退した元川崎フロンターレの車屋紳太郎さん（34）が15日、川崎市内で令和8年熊本地震支援金の募金活動を行った。募金総額は152万6222円だった。 熊本県出身の車屋さんは、すでに",
+      "link": "https://news.yahoo.co.jp/articles/8dc0714715d3ac0e710b19ce7e76b389fe764e90?source=rss",
+      "pubDate": "2026-08-15T10:46:33.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8dc0714715d3ac0e710b19ce7e76b389fe764e90?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】東京戦前に熊本地震被害への募金活動 アンデルソン・ロペス、扇原貴宏らが支援呼びかけ(日刊スポーツ)",
+      "summary": "ヴィッセル神戸は15日のFC東京戦キックオフ前に、ノエビアスタジアム神戸場外で募金活動を実施した。 7月28日に熊本県で発生した令和8年熊本地震での被害者に向けた活動で、クラブ、選手会、サポータ",
+      "link": "https://news.yahoo.co.jp/articles/4c131a58a87b06705eeb508d78aff614925376b4?source=rss",
+      "pubDate": "2026-08-15T10:40:31.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4c131a58a87b06705eeb508d78aff614925376b4?source=rss"
         }
       ]
