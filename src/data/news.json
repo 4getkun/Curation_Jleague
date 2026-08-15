@@ -1,7 +1,108 @@
 {
-  "generatedAt": "2026-08-15T10:12:13.109Z",
-  "count": 1464,
+  "generatedAt": "2026-08-15T10:44:28.780Z",
+  "count": 1469,
   "items": [
+    {
+      "title": "【神戸】東京戦前に熊本地震被害への募金活動 アンデルソン・ロペス、扇原貴宏らが支援呼びかけ(日刊スポーツ)",
+      "summary": "ヴィッセル神戸は15日のFC東京戦キックオフ前に、ノエビアスタジアム神戸場外で募金活動を実施した。 7月28日に熊本県で発生した令和8年熊本地震での被害者に向けた活動で、クラブ、選手会、サポータ",
+      "link": "https://news.yahoo.co.jp/articles/4c131a58a87b06705eeb508d78aff614925376b4?source=rss",
+      "pubDate": "2026-08-15T10:40:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c131a58a87b06705eeb508d78aff614925376b4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "わずか11分で無念…京都FWアレックス・ソウザが右ひざを負傷か。手で顔を覆い涙、担架で運ばれる(SOCCER DIGEST Web)",
+      "summary": "京都サンガF.C.に開始早々、アクシデントが発生した。 京都は８月15日、J１第２節で川崎フロンターレと敵地で対戦。FWアレックス・ソウザが負傷し、前半の早い時間帯で交代を余儀なくされた。",
+      "link": "https://news.yahoo.co.jp/articles/cf8d953c774b16572be90ed1f0606587ef949498?source=rss",
+      "pubDate": "2026-08-15T10:32:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cf8d953c774b16572be90ed1f0606587ef949498?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【セレッソ大阪】パブロ・マチン新体制で挑む新シーズン、クラブ史上最高順位の更新へ｜試合日程・選手一覧・注目選手・移籍・補強｜2026/27 Jリーグ選手名鑑(DAZN News)",
+      "summary": "2026/27シーズンの明治安田J1リーグが8月7日に開幕した。秋春制に移行して行われる初めてのシーズンに挑む、セレッソ大阪の選手一覧や今夏の新戦力などをまとめて紹介する。※情報は2026年8月14日",
+      "link": "https://news.yahoo.co.jp/articles/aa145b570e61a7de25b86a2ff4483e327861f881?source=rss",
+      "pubDate": "2026-08-15T10:31:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aa145b570e61a7de25b86a2ff4483e327861f881?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【アビスパ福岡】塚原真也新体制で挑む本格再建｜試合日程・選手一覧・注目選手・移籍・補強｜2026/27 Jリーグ選手名鑑(DAZN News)",
+      "summary": "2026/27シーズンの明治安田J1リーグが8月7日に開幕した。秋春制に移行して行われる初めてのシーズンに挑む、アビスパ福岡の選手一覧や今夏の新戦力などをまとめて紹介する。※情報は2026年8月14日",
+      "link": "https://news.yahoo.co.jp/articles/494e1880f8c9fc097e84fbe4c31b55fb64347723?source=rss",
+      "pubDate": "2026-08-15T10:20:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/494e1880f8c9fc097e84fbe4c31b55fb64347723?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「サッカーを通じて勇気と喜びを」豪雨の爪痕残る千葉、ホーム開幕戦を開催 島田社長があいさつ(サンケイスポーツ)",
+      "summary": "J1千葉は15日、今季のホーム開幕戦となる町田戦に臨んだ。試合前にはスタジアム内コンコースで「令和8年8月千葉豪雨に対する緊急募金」が行われ、DF鈴木大輔らが支援を呼び掛けた。 13日夜から14日未",
+      "link": "https://news.yahoo.co.jp/articles/fa60b5a8567782c22f0333a3eaa3526799054549?source=rss",
+      "pubDate": "2026-08-15T10:19:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fa60b5a8567782c22f0333a3eaa3526799054549?source=rss"
+        }
+      ]
+    },
     {
       "title": "「スーパーすぎてヤバ」「意味がわかりません」鹿島９番が圧巻ヘッド弾！2025年得点王は今季も半端ない！開幕２戦３発(SOCCER DIGEST Web)",
       "summary": "超強力な元横浜F・マリノスのブラジル人コンビだ。 鹿島アントラーズは８月15日、J１第２節で名古屋グランパスとホームで対戦している。 開始22分、先制に成功。ヤン・マテウスが左足で正確なクロ",
@@ -3238,6 +3339,26 @@
       ]
     },
     {
+      "title": "東京Vvs川崎F 試合記録",
+      "summary": "【J1第1節】(味スタ)東京V 1-1(前半0-0)川崎F[東]溝口修平(46分)[川]ラザル・ロマニッチ(90分+6)[川]伊藤達哉(68分)観衆:27,452人主審:御厨貴文├川崎Fが終了間際に劇的同点弾、東京Vは溝口修平のプロ初弾を守…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456633-456633-fl",
+      "pubDate": "2026-08-12T23:20:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "verdy",
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456633-456633-fl"
+        }
+      ]
+    },
+    {
       "title": "「立つべき場所に立っていれば」。走行距離は約9.5km、それでも川崎フロンターレの攻撃を動かした山本悠樹の思考【コラム】",
       "summary": "新シーズンの幕開けで、確かな存在感を放った山本悠樹。川崎フロンターレの中盤を支える男は、これまでの経験を糧にどのような変化を遂げているのか。開幕戦で見せたプレー、試合後に語った言葉から、その現在地とさらなる可能性を探る。（取材・文：菊地正典…",
       "link": "https://www.footballchannel.jp/2026/08/13/post977160/",
@@ -3496,26 +3617,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ed7303087428daaddbaa71d4e8ce0851367f1054?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "名古屋vs清水 試合記録",
-      "summary": "【J1第1節】(豊田ス)名古屋 0-1(前半0-1)清水[清]北川航也(38分)[清]オ・セフン(61分)[清]オ・セフン2(61分、61分)、パク・スンウク(85分)観衆:40,494人主審:須谷雄三├オ・セフンが“審判挑発”で退場も…1…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456565-456565-fl",
-      "pubDate": "2026-08-12T10:10:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "grampus",
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456565-456565-fl"
         }
       ]
     },
