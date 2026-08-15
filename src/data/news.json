@@ -1,7 +1,98 @@
 {
-  "generatedAt": "2026-08-15T12:16:33.017Z",
-  "count": 1492,
+  "generatedAt": "2026-08-15T13:04:56.548Z",
+  "count": 1497,
   "items": [
+    {
+      "title": "水戸、J1初の“歴史的”勝ち点1 樹森監督「こういうゲームでも勝ちきれるチームつくりたい」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 水戸 1―1 G大阪（2026年8月15日 水戸信用金庫スタジアム） 水戸が前半18分に左サイドのMF谷口海斗（30）のパスを受けたMF鳥海芳樹（28）のJ1初ゴール",
+      "link": "https://news.yahoo.co.jp/articles/2ce63b5ad4407e0d87fb1efe12e94a7e4d3506b3?source=rss",
+      "pubDate": "2026-08-15T12:59:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2ce63b5ad4407e0d87fb1efe12e94a7e4d3506b3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【オールスター競輪】地元四国が4車がっちり結束…松本貴治がG1優勝つかむか 東日本勢、単騎の古性優作、清水裕友も勝機うかがう(中日スポーツ)",
+      "summary": "愛媛県・松山競輪場のナイターG1「第69回オールスター競輪」は最終日の16日、11Rで決勝（優勝賞金7100万円・副賞含む）が行われる。準決勝を突破した地元地区の四国4車が結束。石原颯を先頭に犬伏湧",
+      "link": "https://news.yahoo.co.jp/articles/48c2f4fb1b8ffe42dcec8eb9d29308310fb4aa97?source=rss",
+      "pubDate": "2026-08-15T12:46:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/48c2f4fb1b8ffe42dcec8eb9d29308310fb4aa97?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "清水、ホーム開幕戦飾れず 横浜Mに0―1…吉田監督「全体的にもったいないゲーム」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第2節 清水0―1横浜M（2026年8月15日 IAIスタジアム日本平） J1清水は、ホーム開幕戦で横浜Mに0―1で敗れ、開幕連勝を逃した。1万9077人が詰めかけた満員のア",
+      "link": "https://news.yahoo.co.jp/articles/8a670a6aac85f91310810a62fcef9871449ba6ee?source=rss",
+      "pubDate": "2026-08-15T12:42:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8a670a6aac85f91310810a62fcef9871449ba6ee?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1リーグ2節消化で明暗分かれる 町田が首位…浦和、千葉、名古屋がまさかの2連敗で苦戦",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/668868",
+      "pubDate": "2026-08-15T12:38:46.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/668868"
+        }
+      ]
+    },
+    {
+      "title": "J1リーグ2節消化で明暗分かれる 町田が首位…浦和、千葉、名古屋がまさかの2連敗で苦戦(FOOTBALL ZONE)",
+      "summary": "明治安田J1リーグの第2節が開催され、各地で白熱した戦いが繰り広げられた。連勝でスタートを切ったチームと連敗を喫したチームの明暗が早くも分かれている。 FC町田ゼルビアはジェフユナイテッド千葉を",
+      "link": "https://news.yahoo.co.jp/articles/d6a1dbb2fea28b7b10e09811c4c5e293fc742266?source=rss",
+      "pubDate": "2026-08-15T12:38:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d6a1dbb2fea28b7b10e09811c4c5e293fc742266?source=rss"
+        }
+      ]
+    },
     {
       "title": "鹿島、町田、広島、柏が連勝スタート！ 浦和ら3チームが開幕2連敗/J1第2節(サッカーキング)",
       "summary": "2026/27明治安田J1リーグ第2節が14日と15日に行われた。 王者・鹿島アントラーズは後半アディショナルタイム8分の決勝点で名古屋グランパスを下し、2試合連続の劇的勝利で連勝スタート。FC",
@@ -964,6 +1055,23 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/bcba39ff84afe6163309d3ecf58656f405466aca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "北九州vs讃岐 スタメン発表",
+      "summary": "[8.15 J3第2節](ミクスタ)※18:00開始主審:酒井達矢[ギラヴァンツ北九州]先発GK 31 大谷幸輝DF 3 神橋良汰DF 5 奈良坂巧DF 6 星広太DF 30 福森健太MF 8 吉長真優MF 17 岡野凜平MF 18 平松昇…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456856-456856-fl",
+      "pubDate": "2026-08-15T08:14:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456856-456856-fl"
         }
       ]
     },
@@ -3109,28 +3217,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/664c09a177c3f4a673eece8457fc4f97bc0b261a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "岐阜の32歳MFが海外挑戦へ…開幕直後の異例離脱が決定",
-      "summary": "FC岐阜は13日、MF荒木大吾(32)が海外クラブへの移籍を前提とした手続きと準備のためチームを離脱したことを発表した。 柏レイソルのアカデミー出身の荒木は青山学院大を経て、2016年にジュビロ磐田に加入。20年から京都サンガF.C.でプレ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456809-456809-fl",
-      "pubDate": "2026-08-13T10:45:51.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol",
-        "sanga"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456809-456809-fl"
         }
       ]
     },
