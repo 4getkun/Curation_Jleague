@@ -1,7 +1,88 @@
 {
-  "generatedAt": "2026-08-16T05:22:10.046Z",
-  "count": 1575,
+  "generatedAt": "2026-08-16T05:50:42.521Z",
+  "count": 1579,
   "items": [
+    {
+      "title": "旗手怜央、ギリシャの名門パナシナイコスから関心か…今季セルティックでは出番なし(サッカーキング)",
+      "summary": "セルティックに所属する元日本代表MF旗手怜央の獲得に、パナシナイコスが関心を示しているようだ。15日、イギリス紙『デイリー・レコード』が報じた。 1997年11月生まれの旗手は、川崎フロンターレ",
+      "link": "https://news.yahoo.co.jp/articles/88ba39001de8da67a5511598e2acafbee8f25055?source=rss",
+      "pubDate": "2026-08-16T05:47:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/88ba39001de8da67a5511598e2acafbee8f25055?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「後ろに光希くんがいるのは頼もしい」熊坂光希が支え、中川敦瑛が前へ。柏レイソル、新ボランチコンビの“共存と競争”【コラム】",
+      "summary": "昨年、日本代表に初選出されながら、代表活動中に右膝前十字靱帯を断裂した柏レイソルの熊坂光希が、約1年の長期離脱を経て戻ってきた。その間、柏の中盤では中川敦瑛がボランチへとコンバートされ、台頭。8月14日の東京ヴェルディ戦では2人がダブルボラ…",
+      "link": "https://www.footballchannel.jp/2026/08/16/post988458/",
+      "pubDate": "2026-08-16T05:43:12.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/16/post988458/"
+        }
+      ]
+    },
+    {
+      "title": "「エレガントすぎ」広島ファンタジスタが“別格のパス”で浦和を無力化！極上アシストに「何じゃそりゃ」「洋太朗にしかない感覚」(ABEMA TIMES)",
+      "summary": "【明治安田J1リーグ】浦和レッズ 1－4 サンフレッチェ広島（8月15日/埼玉スタジアム2002） 日本サッカーの未来を担うファンタジスタが、ピッチに魔法をかけた。サンフレッチェ広島のMF中島洋太",
+      "link": "https://news.yahoo.co.jp/articles/8038b6e7687b9a28245b65dc47ba7dac7b5dec97?source=rss",
+      "pubDate": "2026-08-16T05:36:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8038b6e7687b9a28245b65dc47ba7dac7b5dec97?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【川﨑颯太】2030年Ｗ杯の目標は「チームの中心として勝たせる」ドイツでプレーした1年…欧州で直面した「自分の中での課題」とは？【KICKOFF！KANSAI】(MBSニュース)",
+      "summary": "北中米ワールドカップを終えて、新たな４年がスタート。『ＫＩＣＫ ＯＦＦ！ＫＡＮＳＡＩ』では、関西から２０３０年Ｗ杯目指す若手にインタビューした。 京都サンガＦ．Ｃ．で育った２５歳のＭＦ川﨑颯太選手は",
+      "link": "https://news.yahoo.co.jp/articles/1b770cde8eb795fde0745fbc5bc9cabc84c5216f?source=rss",
+      "pubDate": "2026-08-16T05:30:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1b770cde8eb795fde0745fbc5bc9cabc84c5216f?source=rss"
+        }
+      ]
+    },
     {
       "title": "【Ｇ大阪】安田理大「勝っただけで良い」白星発進に安堵 キーマンの劇的弾を絶賛「相当技術が高い」【KICKOFF！KANSAI】(MBSニュース)",
       "summary": "ついにＪリーグが開幕。今シーズンから秋春制へ移行し、新たな時代がスタートする。 明神智和新監督・遠藤保仁ヘッドコーチのOBコンビが率いるガンバ大阪。初戦から曺貴裁新監督が指揮を取る浦和レッズと対戦し",
@@ -39,11 +120,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/16/post988464/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c6daa2ea7d37219a4bc00d57401606e68e7241cd?source=rss"
         }
       ]
     },
@@ -2545,10 +2621,10 @@
       ]
     },
     {
-      "title": "栃木Cvs八戸 スタメン発表",
-      "summary": "[8.15 J2第2節](CFS)※18:00開始主審:窪田陽輔[栃木シティ]先発GK 97 キム・ジンヒョンDF 2 マテイ・ヨニッチDF 3 照山颯人DF 5 奥井諒DF 15 佐藤喜生MF 7 森俊貴MF 20 ペドロ・アウグストMF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456855-456855-fl",
-      "pubDate": "2026-08-15T08:58:02.000Z",
+      "title": "今治vs大宮 スタメン発表",
+      "summary": "[8.15 J2第2節](アシさと)※19:00開始主審:俵元希[FC今治]先発GK 1 立川小太郎DF 2 梅木怜DF 3 孫大河DF 15 菊地健太DF 35 櫛引一紀MF 5 新井光MF 8 森晃太MF 14 駒井善成MF 17 持井…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456869-456869-fl",
+      "pubDate": "2026-08-15T09:04:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -2557,7 +2633,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456855-456855-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456869-456869-fl"
         }
       ]
     },
