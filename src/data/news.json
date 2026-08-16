@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-08-16T07:07:10.969Z",
-  "count": 1577,
+  "generatedAt": "2026-08-16T07:51:43.657Z",
+  "count": 1579,
   "items": [
+    {
+      "title": "早期復帰を求む！ J1リーグ、開幕戦を怪我で出場できなかった主力選手5選(フットボールチャンネル)",
+      "summary": "秋春制に移行した明治安田Jリーグの2026/27シーズンが開幕戦を終えた。各地で熱戦が繰り広げられ、選手やサポーターの熱も高まっている。しかし、開幕直前の怪我により、出遅れてしまった選手もいる。今回",
+      "link": "https://news.yahoo.co.jp/articles/cd666cc3780d50ab2866462a9bbf43076e6c7bbd?source=rss",
+      "pubDate": "2026-08-16T07:50:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cd666cc3780d50ab2866462a9bbf43076e6c7bbd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「んーサンフレッチェつよかったなあ」埼玉県出身の人気俳優が“浦和ユニ姿”を披露！「レッズサポなの!?」「え！え！どこにいたの」など驚きの声！(SOCCER DIGEST Web)",
+      "summary": "浦和レッズは８月15日、J１第２節でサンフレッチェ広島と本拠地の埼玉スタジアム2002で対戦。１－４で敗れた。 この試合後、埼玉県出身で俳優やモデルとして活躍する成田凌さんが自身のインスタグラム",
+      "link": "https://news.yahoo.co.jp/articles/da38984f42e73dbdce2b2a62eee60c4184ebc86c?source=rss",
+      "pubDate": "2026-08-16T07:33:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/da38984f42e73dbdce2b2a62eee60c4184ebc86c?source=rss"
+        }
+      ]
+    },
     {
       "title": "旗手怜央、ギリシャの名門パナシナイコスから関心か…今季セルティックでは出番なし(サッカーキング)",
       "summary": "セルティックに所属する元日本代表MF旗手怜央の獲得に、パナシナイコスが関心を示しているようだ。15日、イギリス紙『デイリー・レコード』が報じた。 1997年11月生まれの旗手は、川崎フロンターレ",
@@ -2621,21 +2658,19 @@
       ]
     },
     {
-      "title": "福岡vsC大阪 スタメン発表",
-      "summary": "[8.15 J1第2節](ベススタ)※19:00開始主審:上村篤史[アビスパ福岡]先発GK 1 永石拓海DF 15 辻岡佑真DF 16 岡哲平DF 20 三國ケネディエブスMF 6 重見柾斗MF 11 見木友哉MF 13 師岡柊生MF 22…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456872-456872-fl",
-      "pubDate": "2026-08-15T09:04:01.000Z",
+      "title": "甲府vs宮崎 スタメン発表",
+      "summary": "[8.15 J2第2節](JITス)※19:00開始主審:野堀桂佑[ヴァンフォーレ甲府]先発GK 33 山内康太DF 17 福元竣DF 20 遠藤光DF 22 小出悠太MF 7 荒木翔MF 8 安田虎士朗MF 13 村上千歩MF 14 藤井…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456873-456873-fl",
+      "pubDate": "2026-08-15T09:07:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "avispa"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456872-456872-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456873-456873-fl"
         }
       ]
     },
