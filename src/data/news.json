@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T12:17:30.618Z",
+  "generatedAt": "2026-08-16T13:06:54.683Z",
   "count": 1590,
   "items": [
     {
@@ -2299,6 +2299,26 @@
       ]
     },
     {
+      "title": "水戸vsG大阪 試合記録",
+      "summary": "【J1第2節】(水戸信ス)水戸 1-1(前半1-0)G大阪[水]鳥海芳樹(18分)[G]中谷進之介(74分)[水]山本隼大(82分)観衆:13,226人主審:飯田淳平└J1ホーム初陣の水戸、先制するも勝ち切れず…中3日のG大阪がセットプレー…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456887-456887-fl",
+      "pubDate": "2026-08-15T12:00:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "hollyhock",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456887-456887-fl"
+        }
+      ]
+    },
+    {
       "title": "新体制の浦和が開幕2連敗スタート 2試合連続で4失点と守備崩壊…ホームで広島に完敗",
       "summary": "",
       "link": "https://www.football-zone.net/archives/668828",
@@ -2415,25 +2435,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d3af9319fbe5314723029f0a3df22ad711d7aef3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和vs広島 スタメン発表",
-      "summary": "[8.15 J1第2節](埼玉)※19:00開始主審:長峯滉希[浦和レッズ]先発GK 1 西川周作DF 2 宮本優太DF 3 ダニーロ・ボザDF 15 工藤孝太DF 88 長沼洋一MF 13 渡邊凌磨MF 25 安居海渡MF 33 笹修大F…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456875-456875-fl",
-      "pubDate": "2026-08-15T11:28:57.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456875-456875-fl"
         }
       ]
     },
