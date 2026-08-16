@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-16T13:50:16.979Z",
-  "count": 1593,
+  "generatedAt": "2026-08-16T14:13:01.912Z",
+  "count": 1594,
   "items": [
+    {
+      "title": "浦和がストークからMF瀬古樹を完全移籍で獲得「自分を表現し、クラブに貢献できるように」(ゲキサカ)",
+      "summary": "浦和レッズは16日、MF瀬古樹(28)がストーク・シティ(イングランド2部)から完全移籍加入することで合意したと発表した。背番号は「12」となる。 瀬古は三菱養和SCユースから明治大を経て、20",
+      "link": "https://news.yahoo.co.jp/articles/222562e48159fc8ccd45b694ebd03535c23c1e42?source=rss",
+      "pubDate": "2026-08-16T13:51:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/222562e48159fc8ccd45b694ebd03535c23c1e42?source=rss"
+        }
+      ]
+    },
     {
       "title": "浦和レッズ、瀬古樹の完全移籍での加入を発表！ ストーク・シティから獲得「自分を表現し、クラブに貢献できるように」(フットボールチャンネル)",
       "summary": "浦和レッズは16日、ストーク・シティFC（イングランド2部）に所属するMF瀬古樹が完全移籍で加入することで合意したと発表した。 瀬古は現在28歳。三菱養和SC巣鴨のジュニア、ジュニアユース、",
@@ -54,8 +75,8 @@
       "summary": "浦和レッズは16日、イングランド2部相当のチャンピオンシップリーグ所属のストーク・シティーからMF瀬古樹（28）が完全移籍で加入すると発表した。 明治大から20年に横浜FCに加入し、22年から3",
       "link": "https://news.yahoo.co.jp/articles/e3e555eedb5e6b55a4a03f7aa58575a56375ab4b?source=rss",
       "pubDate": "2026-08-16T13:27:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reds"
       ],
@@ -64,8 +85,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e3e555eedb5e6b55a4a03f7aa58575a56375ab4b?source=rss"
         }
       ]
@@ -2384,11 +2405,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?456913-456913-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1185d1c8b05621d034e4ca4c641e322887beb0e6?source=rss"
         }
       ]
     },
