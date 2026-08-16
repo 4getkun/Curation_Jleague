@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-08-16T04:56:57.881Z",
-  "count": 1574,
+  "generatedAt": "2026-08-16T05:22:10.046Z",
+  "count": 1575,
   "items": [
+    {
+      "title": "【Ｇ大阪】安田理大「勝っただけで良い」白星発進に安堵 キーマンの劇的弾を絶賛「相当技術が高い」【KICKOFF！KANSAI】(MBSニュース)",
+      "summary": "ついにＪリーグが開幕。今シーズンから秋春制へ移行し、新たな時代がスタートする。 明神智和新監督・遠藤保仁ヘッドコーチのOBコンビが率いるガンバ大阪。初戦から曺貴裁新監督が指揮を取る浦和レッズと対戦し",
+      "link": "https://news.yahoo.co.jp/articles/775461682941705d98fb0504a4bf1d6525401a0c?source=rss",
+      "pubDate": "2026-08-16T05:07:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/775461682941705d98fb0504a4bf1d6525401a0c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「必ずチャンスが来る」サンフレッチェ広島の新エース・アレーがJ初ゴールで示したもの「やっぱりストライカーは…」",
+      "summary": "サンフレッチェ広島は8月15日、2026/27明治安田J1リーグ第2節で浦和レッズに1-4で勝利した。元コートジボワール代表で、エールディビジのアヤックスでは得点王に輝いたストライカー、セバスティアン・アレーが早速、Jリーグの舞台でもその実…",
+      "link": "https://www.footballchannel.jp/2026/08/16/post988464/",
+      "pubDate": "2026-08-16T05:05:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/16/post988464/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c6daa2ea7d37219a4bc00d57401606e68e7241cd?source=rss"
+        }
+      ]
+    },
     {
       "title": "「鹿島の基準を分かっている自分が…」東京V・溝口修平、柏戦で痛感した“甘さ”「自分が勝たせられるような存在に」【コラム】",
       "summary": "8月14日の柏レイソル戦、東京ヴェルディは林尚輝の先制弾を守り切れず1-3で逆転負け。鹿島アントラーズから武者修行中の溝口修平はサッカー日本代表経験者・久保藤次郎に苦しみ、3失点目にも絡んだ。「鹿島の基準を分かっている自分がこういうやられ方…",
@@ -30662,26 +30707,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/663675"
-        }
-      ]
-    },
-    {
-      "title": "J1開幕戦、地上波での全国生中継が決定 横浜FMと鹿島の”オリ10”対決…ゴールデンタイム放送は24年ぶり",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/663646",
-      "pubDate": "2026-07-17T05:02:59.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/663646"
         }
       ]
     }
