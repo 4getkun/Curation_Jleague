@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T14:45:15.253Z",
+  "generatedAt": "2026-08-16T15:11:07.168Z",
   "count": 1596,
   "items": [
     {
@@ -2391,6 +2391,26 @@
       ]
     },
     {
+      "title": "長倉2発でFC東京が2度の勝ち越しも…神戸が大迫&武藤弾で追いついてドロー決着",
+      "summary": "[8.15 J1第2節 神戸2-2FC東京 ノエスタ] ヴィッセル神戸のホーム開幕戦となったFC東京との一戦は、2-2の引き分けに終わった。 開幕戦で福岡に1-0で勝利した神戸は、先発メンバーに変更なし。一方の町田に1-5で敗れたFC東京は…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456912-456912-fl",
+      "pubDate": "2026-08-15T12:03:12.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "fc-tokyo",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456912-456912-fl"
+        }
+      ]
+    },
+    {
       "title": "J1神戸、今季ホーム初戦でFC東京とドロー 武藤嘉紀が土壇場で同点弾(サンケイスポーツ)",
       "summary": "明治安田J1リーグ第2節最終日（15日、神戸2－2FC東京、ノエスタ）神戸はFC東京相手に試合終盤で追いつき、今季のホーム初戦で勝ち点1をつかんだ。 先手を奪ったのはFC東京。前半35分にカウンター",
       "link": "https://news.yahoo.co.jp/articles/0e56f745e45fdd3f146fc7246dcfd2b14f1f1ea2?source=rss",
@@ -2427,31 +2447,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f99fddb207a0b0214b37af3af4efed547aa40cd0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "長倉2発でFC東京が2度の勝ち越しも…神戸が大迫&武藤弾で追いついてドロー決着",
-      "summary": "[8.15 J1第2節 神戸2-2FC東京 ノエスタ] ヴィッセル神戸のホーム開幕戦となったFC東京との一戦は、2-2の引き分けに終わった。 開幕戦で福岡に1-0で勝利した神戸は、先発メンバーに変更なし。一方の町田に1-5で敗れたFC東京は…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456912-456912-fl",
-      "pubDate": "2026-08-15T12:02:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "fc-tokyo",
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456912-456912-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fbc9cfa94cbf2fba507d841308da916394fe7744?source=rss"
         }
       ]
     },
