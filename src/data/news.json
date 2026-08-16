@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-16T11:10:19.845Z",
-  "count": 1589,
+  "generatedAt": "2026-08-16T11:41:22.978Z",
+  "count": 1590,
   "items": [
+    {
+      "title": "【福岡ボート】エース機が本領発揮！ 松村敏が当地６ＶへＧＯ(東スポWEB)",
+      "summary": "ボートレース福岡の「お盆特選レース」は5日目の16日、準優勝戦を行い、今節のベスト6が出揃った。 ついにエース機が本領を発揮だ。予選3位通過の松村敏（42＝福岡）は準優10Rに1号艇で登場。コン",
+      "link": "https://news.yahoo.co.jp/articles/e0bd854e1836740acd3f09711fc36d8bcc6d1a96?source=rss",
+      "pubDate": "2026-08-16T11:15:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e0bd854e1836740acd3f09711fc36d8bcc6d1a96?source=rss"
+        }
+      ]
+    },
     {
       "title": "国立にJ2歴代2位の5万3,973名が集結！ 横浜FCが開幕2連勝、髙江麗央の直接FK弾などで磐田を3発撃破(サッカーキング)",
       "summary": "2026/27明治安田J2リーグ第2節が16日に行われ、横浜FCとジュビロ磐田が対戦した。 1年半ぶりのJ1復帰を目指す横浜FCと、2024シーズン以来のJ1帰還を目論む磐田が、『MUFGスタジ",
@@ -2400,6 +2419,25 @@
       ]
     },
     {
+      "title": "浦和vs広島 スタメン発表",
+      "summary": "[8.15 J1第2節](埼玉)※19:00開始主審:長峯滉希[浦和レッズ]先発GK 1 西川周作DF 2 宮本優太DF 3 ダニーロ・ボザDF 15 工藤孝太DF 88 長沼洋一MF 13 渡邊凌磨MF 25 安居海渡MF 33 笹修大F…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456875-456875-fl",
+      "pubDate": "2026-08-15T11:28:57.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456875-456875-fl"
+        }
+      ]
+    },
+    {
       "title": "横浜FMが今季初勝利！ 井上太聖がJ1初ゴール、守護神ルベン・ブランコ活躍で清水を完封(サッカーキング)",
       "summary": "2026/27明治安田J1リーグ第2節が15日に行われ、清水エスパルスと横浜F・マリノスが対戦した。 ホーム開幕戦で3シーズン連続の開幕連勝を目指す清水と、スティーブ・コリカ体制での初勝利を狙う",
       "link": "https://news.yahoo.co.jp/articles/79a0d22eadd0efb22d2769d547a0c0b905ec2906?source=rss",
@@ -2704,25 +2742,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/6f3e7045f1e6df421379e16fb2a3d411239a8e27?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "神戸vsFC東京 スタメン発表",
-      "summary": "[8.15 J1第2節](ノエスタ)※19:00開始主審:荒木友輔[ヴィッセル神戸]先発GK 71 権田修一DF 3 マテウス・トゥーレルDF 4 山川哲史DF 15 ジエゴDF 24 酒井高徳MF 5 郷家友太MF 7 井手口陽介MF 2…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456876-456876-fl",
-      "pubDate": "2026-08-15T10:02:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456876-456876-fl"
         }
       ]
     },
