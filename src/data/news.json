@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-16T06:21:55.310Z",
-  "count": 1579,
+  "generatedAt": "2026-08-16T07:07:10.969Z",
+  "count": 1577,
   "items": [
     {
       "title": "旗手怜央、ギリシャの名門パナシナイコスから関心か…今季セルティックでは出番なし(サッカーキング)",
@@ -2621,19 +2621,21 @@
       ]
     },
     {
-      "title": "今治vs大宮 スタメン発表",
-      "summary": "[8.15 J2第2節](アシさと)※19:00開始主審:俵元希[FC今治]先発GK 1 立川小太郎DF 2 梅木怜DF 3 孫大河DF 15 菊地健太DF 35 櫛引一紀MF 5 新井光MF 8 森晃太MF 14 駒井善成MF 17 持井…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456869-456869-fl",
+      "title": "福岡vsC大阪 スタメン発表",
+      "summary": "[8.15 J1第2節](ベススタ)※19:00開始主審:上村篤史[アビスパ福岡]先発GK 1 永石拓海DF 15 辻岡佑真DF 16 岡哲平DF 20 三國ケネディエブスMF 6 重見柾斗MF 11 見木友哉MF 13 師岡柊生MF 22…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456872-456872-fl",
       "pubDate": "2026-08-15T09:04:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "avispa"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456869-456869-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456872-456872-fl"
         }
       ]
     },
@@ -30745,44 +30747,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/663715"
-        }
-      ]
-    },
-    {
-      "title": "C大阪MF石渡ネルソン、シント＝トロイデンへ完全移籍 海外挑戦へ「今だと思い決断しました」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/663691",
-      "pubDate": "2026-07-17T07:03:04.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/663691"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグの発表が「ヤバすぎー」 開幕3週間前に決定…ファンが唸った吉報「これはすげえわ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/663675",
-      "pubDate": "2026-07-17T06:40:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/663675"
         }
       ]
     }
