@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-16T10:12:43.557Z",
-  "count": 1583,
+  "generatedAt": "2026-08-16T10:45:31.217Z",
+  "count": 1585,
   "items": [
+    {
+      "title": "「俺ら中堅の世代が…」アビスパ福岡の24歳DF辻岡佑真がJ1リーグ初G＆無失点に貢献「うるせーわってくらい声出してくれる」守護神にも感謝(西スポWEB OTTO!)",
+      "summary": "◆明治安田J1リーグ第2節 福岡3―0C大阪（15日・ベスト電器スタジアム） アビスパ福岡のDF辻岡佑真（24）がJ1リーグ戦初ゴールを決めた。 1点リードの前半43分、藤本一輝のドリブル突破",
+      "link": "https://news.yahoo.co.jp/articles/93299c1224c8d656766219fd7af81101df54f8d5?source=rss",
+      "pubDate": "2026-08-16T10:30:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/93299c1224c8d656766219fd7af81101df54f8d5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【町田】小川航基と曺圭成の獲得に動く 日韓W杯代表ストライカーをターゲットに(日刊スポーツ)",
+      "summary": "町田が、オランダ1部NECナイメヘン所属の日本代表FW小川航基（29）、デンマーク1部ミッティラント所属の韓国代表FW曺圭成（チョ・ギュソン、28）の獲得に乗り出していることが16日までに分かった。",
+      "link": "https://news.yahoo.co.jp/articles/0b58df8771913f342e7f743b4f80c23407fd8897?source=rss",
+      "pubDate": "2026-08-16T10:27:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0b58df8771913f342e7f743b4f80c23407fd8897?source=rss"
+        }
+      ]
+    },
     {
       "title": "ド派手ネックレスで笑顔満開 J1アビスパ福岡の新加入FW、ウェリックポポが移籍後初ゴール 「決め手」と挙げたワンプレー(西スポWEB OTTO!)",
       "summary": "◆明治安田J1リーグ第2節 福岡3―0C大阪（15日・ベスト電器スタジアム） J1アビスパ福岡のFWウェリックポポ（24）が、移籍後初ゴールを決めた。 2―0で迎えた後半28分、自陣でDF深澤",
@@ -25,12 +65,32 @@
       ]
     },
     {
+      "title": "広島が開幕2連勝! アウェーで浦和に4-1の大勝(35枚)",
+      "summary": "J1第2節が15日に行われ、埼玉スタジアム2002ではサンフレッチェ広島が浦和レッズに4-1で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456950-456950-pn",
+      "pubDate": "2026-08-16T10:10:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "sanfrecce",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456950-456950-pn"
+        }
+      ]
+    },
+    {
       "title": "【福島】カズへのアシストで話題の左利きドリブラーが海外移籍準備のため活動離脱(日刊スポーツ)",
       "summary": "川崎フロンターレは16日、J3福島ユナイテッドFCに育成型期限付き移籍中のMF永長鷹虎（23）が海外クラブへの移籍を前提とした準備のため、活動を離脱すると発表した。 今後については「正式に決定次",
       "link": "https://news.yahoo.co.jp/articles/f754d9500eec442e430508673a2e3725f1eddb5f?source=rss",
       "pubDate": "2026-08-16T10:06:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "frontale"
       ],
@@ -39,8 +99,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f754d9500eec442e430508673a2e3725f1eddb5f?source=rss"
         }
       ]
@@ -2654,27 +2714,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3c16f8ad83f340c31d90a52f68d335f6edc3fd7b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "移籍後初ゴールの柏MF遠藤渓太「レイソルの選手としての1歩を踏み出した」(12枚)",
-      "summary": "J1第2節が14日に行われ、MUFGスタジアム(国立競技場)で柏レイソルが東京ヴェルディに3-1で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456878-456878-pn",
-      "pubDate": "2026-08-15T09:50:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?456878-456878-pn"
         }
       ]
     },
