@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-15T23:40:45.776Z",
-  "count": 1563,
+  "generatedAt": "2026-08-16T00:39:21.534Z",
+  "count": 1564,
   "items": [
+    {
+      "title": "【今日のJリーグ】8月16日 2026/27明治安田Jリーグ第2節のキックオフ時間・放送予定・対戦カードは？",
+      "summary": "明治安田Jリーグは16日、J2が2試合、J3が4試合開催される。キックオフ時間や放送予定、対戦カードなどは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/08/16/post981456/",
+      "pubDate": "2026-08-16T00:00:23.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/16/post981456/"
+        }
+      ]
+    },
     {
       "title": "奥田真由（神戸）が初優勝 競泳100女子バタ 全国高校総体 三重(伊勢新聞)",
       "summary": "全国高校総体（インターハイ）は15日、滋賀県のインフロニア草津アクアティクスセンターなどで行われ、競泳の100メートル女子バタフライで奥田真由（三重・神戸）が初優勝した。 奥田は高1だった昨年、",
@@ -2314,21 +2331,19 @@
       ]
     },
     {
-      "title": "清水vs横浜FM スタメン発表",
-      "summary": "[8.15 J1第2節](アイスタ)※18:30開始主審:椎野大地[清水エスパルス]先発GK 16 梅田透吾DF 14 パク・スンウクDF 15 本多勇喜DF 24 須貝英大DF 25 マテウス・ブルネッティMF 2 ディエギーニョMF 1…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456862-456862-fl",
-      "pubDate": "2026-08-15T08:34:01.000Z",
+      "title": "湘南vs山形 スタメン発表",
+      "summary": "[8.15 J2第2節](レモンS)※19:00開始主審:上原直人[湘南ベルマーレ]先発GK 31 真田幸太DF 2 松村晟怜DF 3 袴田裕太郎DF 15 堂鼻起暉DF 37 鈴木雄斗MF 6 武田将平MF 16 アルトゥール・シルバMF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456863-456863-fl",
+      "pubDate": "2026-08-15T08:37:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "s-pulse"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456862-456862-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456863-456863-fl"
         }
       ]
     },
