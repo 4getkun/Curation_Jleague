@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-08-17T12:21:12.828Z",
-  "count": 1625,
+  "generatedAt": "2026-08-17T13:13:08.216Z",
+  "count": 1629,
   "items": [
+    {
+      "title": "PSG移籍破談の翌日にアストン・ヴィラ加入で合意 鈴木彩艶がプレミアリーグへ。クラブはGK1番手の座を用意(theWORLD（ザ・ワールドWeb）)",
+      "summary": "現在はセリエAのパルマでプレイする日本代表GK鈴木彩艶の去就に注目が集まっている。 Jリーグの浦和レッズでキャリアをスタートさせ、2023年にシント・トロイデンに移籍して海外進出を果たした鈴木。翌年",
+      "link": "https://news.yahoo.co.jp/articles/bf817b7732dc04f7da7cb1dfec0122157102aa43?source=rss",
+      "pubDate": "2026-08-17T12:50:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bf817b7732dc04f7da7cb1dfec0122157102aa43?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜FMが突然始めた「謎のドラマ」にファン騒然 記憶喪失の青年が登場「急にどうしたwww」(スポーティングニュース日本版)",
+      "summary": "8月16日（日）、サッカーJ1の横浜F・マリノス（横浜FM）は、連続ショートドラマ『トリコロールの記憶』と題した5夜連続配信のドラマを公開した。 第1話『消えたトリコロール』では、記憶を失った青年・",
+      "link": "https://news.yahoo.co.jp/articles/c339ad747c9b33205681d26805df9bd30f9cd336?source=rss",
+      "pubDate": "2026-08-17T12:47:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c339ad747c9b33205681d26805df9bd30f9cd336?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "佐藤龍之介を獲得からの“空白の40日” あれから新戦力を1人も獲得していないバレンシアに残る不安(theWORLD（ザ・ワールドWeb）)",
+      "summary": "スペイン1部のバレンシアは、今夏にFC東京から19歳のFW佐藤龍之介を獲得。このニュースは日本でも話題となり、佐藤がラ・リーガでどんなプレイを見せてくれるのか楽しみにしているファンも多いはず。 佐藤",
+      "link": "https://news.yahoo.co.jp/articles/871821d005877d605f3858e44aff51765876cc39?source=rss",
+      "pubDate": "2026-08-17T12:31:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/871821d005877d605f3858e44aff51765876cc39?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "下村幸男氏の訃報を受けJFAがコメントを発表 田嶋幸三名誉会長、川淵三郎相談役が追悼",
+      "summary": "日本サッカー協会（JFA）は17日、サンフレッチェ広島の前身である東洋工業蹴球部で選手・監督を務め、同クラブのアドバイザー・参与を歴任した下村幸男氏の訃報を受け、田嶋幸三名誉会長と川淵三郎相談役のコメントを発表した。",
+      "link": "https://www.footballchannel.jp/2026/08/17/post991089/",
+      "pubDate": "2026-08-17T12:24:39.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/17/post991089/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/47a7e49d13d7e48eea6e11c3b3340b4712a5fa17?source=rss"
+        }
+      ]
+    },
     {
       "title": "「僕なんかが勝っているところがあっては」千葉を背負う３８歳・米倉恒貴 豪雨、町田戦敗戦を経てＦＣ東京戦へ(スポーツ報知)",
       "summary": "Ｊ１千葉は１７日、千葉市内でＦＣ東京戦（２１日・ＭＵＦＧ国立）に向けた練習を公開した。 千葉市出身でチーム最年長の３８歳ＭＦ米倉恒貴は、１３日に発生した「令和８年８月千葉豪雨」を振り返り、「ずっ",
@@ -1682,6 +1766,23 @@
       ]
     },
     {
+      "title": "「意見や批判とは異なります」栃木CがSNSでの誹謗中傷に注意喚起",
+      "summary": "栃木シティは14日、公式サイトで「SNSにおける誹謗中傷について」と題した声明を発表した。 クラブは「選手・スタッフ・クラブ関係者をはじめ、サポーター、対戦クラブ関係者、その他クラブに関わるすべての方に対する、誹謗中傷、侮辱、人格を否定する…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456935-456935-fl",
+      "pubDate": "2026-08-16T03:21:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456935-456935-fl"
+        }
+      ]
+    },
+    {
       "title": "J1にブラジル人が10人在籍「ギャップはある」 クラブハウスで異例の光景も「関係なくやれている」(FOOTBALL ZONE)",
       "summary": "今シーズンよりランコ・ポポヴィッチ監督が率いる京都サンガF.C.は、8月15日のJ1第2節・川崎フロンターレ戦で2-2と引き分け、勝ち点1を手にした。1得点1アシストを記録し、今季初の勝ち点獲得の立",
       "link": "https://news.yahoo.co.jp/articles/e9393d56df4700e54e30902414376ba674f742a3?source=rss",
@@ -1867,25 +1968,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/97c69cd48162fbb2c9916b634a22181443c064f7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "富山がDF岡本將成の結婚を公表「いつもどんな時も僕のサッカーを…」",
-      "summary": "カターレ富山は14日、DF岡本將成(26)が8日に入籍したことを発表した。 岡本は2026シーズンにアルビレックス新潟から完全移籍で加入。今季は開幕2試合連続で先発フル出場している。クラブ公式サイトを通じ、以下のようにコメントした。「この度…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456934-456934-fl",
-      "pubDate": "2026-08-16T00:55:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456934-456934-fl"
         }
       ]
     },
