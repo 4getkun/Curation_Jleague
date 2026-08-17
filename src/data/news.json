@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-08-17T06:40:54.789Z",
-  "count": 1614,
+  "generatedAt": "2026-08-17T07:42:42.918Z",
+  "count": 1616,
   "items": [
+    {
+      "title": "【J2試合結果まとめ｜第2節】いわきに快勝した藤枝が開幕連勝で首位に！国立決戦を制した横浜FCら4チームが連勝スタートを切る｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー・ニュース】明治安田J2リーグ第2節は8月15日から16日にかけて開催。いわきFCに快勝した藤枝MYFCが首位スタートを切った中、国立決戦を制した横浜FCら4チームが開幕連勝となった。",
+      "link": "https://news.yahoo.co.jp/articles/d80cbdfcc136beefa0601b0ddc2b9a59fe70eb42?source=rss",
+      "pubDate": "2026-08-17T07:33:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d80cbdfcc136beefa0601b0ddc2b9a59fe70eb42?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U―21神戸・手倉森監督「“優勝しろ”という無言の要求ですね（笑）」U―21リーグ開幕前に必勝祈願(スポニチアネックス)",
+      "summary": "選手育成や強化を目的に設立したU―21リーグが22日から開幕する。東西11チームが参加する中、U―21神戸は17日に必勝祈願を行い、手倉森誠監督は「言われてませんが、三木谷副会長や千布社長、永井SD",
+      "link": "https://news.yahoo.co.jp/articles/8f2f348d287e7706b2fa29e88f8b526bfc27e2af?source=rss",
+      "pubDate": "2026-08-17T07:33:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8f2f348d287e7706b2fa29e88f8b526bfc27e2af?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1神戸のU―21チームが必勝祈願 手倉森誠監督らが参加 主将に決まった橋本陸斗「いいサッカーが作れたら」(サンケイスポーツ)",
+      "summary": "J1神戸のU-21チームが17日、兵庫県神戸市兵庫区の和田神社で必勝祈願を実施した。 Jリーグは今季から主に21歳以下の選手を対象にしたU―21リーグを新設。主に下部組織や高校からプロ入りした19歳",
+      "link": "https://news.yahoo.co.jp/articles/af4a7182504f5e3c5e7231a5432fcbf473395730?source=rss",
+      "pubDate": "2026-08-17T07:03:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/af4a7182504f5e3c5e7231a5432fcbf473395730?source=rss"
+        }
+      ]
+    },
     {
       "title": "【J1試合結果まとめ｜第2節】敵地で千葉を相手に大勝した町田が開幕連勝で首位。広島、柏、鹿島も連勝でスタートダッシュに成功｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー・ニュース】明治安田J1リーグ第2節が8月14日〜8月15日に開催。FC町田ゼルビアやサンフレッチェ広島など、4チームが開幕連勝を飾っている。",
@@ -31441,27 +31496,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/62bb9ff2ef890e404ddeb412dcefaa5bf040caf4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "18歳日本人が「ベリンガムと一緒に写ってる」 今夏移籍…強豪クラブの「トップでやってる！」(FOOTBALL ZONE)",
-      "summary": "ドイツ1部ドルトムントMF山本天翔は7月7日にガンバ大阪から同クラブへ期限付き移籍が決定した。U-23のセカンドチームで主にプレーを予定しているとドルトムント側は発表していたなか、現在トップチームに",
-      "link": "https://news.yahoo.co.jp/articles/6ab39dc5e52a6596736f7773cbd91b578260e591?source=rss",
-      "pubDate": "2026-07-18T07:36:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6ab39dc5e52a6596736f7773cbd91b578260e591?source=rss"
         }
       ]
     }
