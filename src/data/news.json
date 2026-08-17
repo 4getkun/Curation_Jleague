@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-17T10:05:15.532Z",
-  "count": 1619,
+  "generatedAt": "2026-08-17T10:53:56.110Z",
+  "count": 1620,
   "items": [
+    {
+      "title": "【ソフトバンク】福岡移転後初のリーグ３連覇へ ９月４日からの終盤戦スローガンは「ゼンシン！」に決定(スポーツ報知)",
+      "summary": "ソフトバンクは１７日、９月４日の西武戦（みずほペイペイ）からの終盤戦のスローガンを「ゼンシン！」に決定したことを発表した。 今季スローガンである「全新」を基盤に「全身全霊で、新境地へ」をテーマに",
+      "link": "https://news.yahoo.co.jp/articles/d9858e9033762d277ac803563a3ba66a29a67d4b?source=rss",
+      "pubDate": "2026-08-17T10:29:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d9858e9033762d277ac803563a3ba66a29a67d4b?source=rss"
+        }
+      ]
+    },
     {
       "title": "古賀太陽が語る熊坂光希、渡井理己の価値。柏レイソル好調の理由「質が1段階、2段階上の選手たちなんです」【コラム】",
       "summary": "柏レイソルが東京ヴェルディ戦で先制を許しながらも3-1の逆転勝利を収め、開幕2連勝を飾った。1年半ぶりにキャプテンへ復帰した27歳DF古賀太陽は、相手に予兆を感じさせない縦パス一本から勝ち越しゴールを演出。熊坂光希や渡井理己の復帰が生んだチ…",
@@ -18,6 +37,27 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/17/post990675/"
+        }
+      ]
+    },
+    {
+      "title": "サッカー元日本代表監督・下村幸男さん死去…現役時代にはメルボリン五輪に出場",
+      "summary": "日本サッカー協会(JFA)は17日、元日本代表の下村幸男さんが8月13日に広島県内で老衰のため、逝去(享年94歳)したことを発表した。 1932年1月25日生まれの下村さんは1950年から東洋工業(後のマツダ/現サンフレッチェ広島)でプレー…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?457009-457009-fl",
+      "pubDate": "2026-08-17T09:51:35.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?457009-457009-fl"
         }
       ]
     },
@@ -1715,6 +1755,27 @@
       ]
     },
     {
+      "title": "覚悟のJ復帰決断「広島でクラブW杯に」川村拓夢、苦しんだ欧州挑戦2年間の財産「よく喋るようになった(笑)」",
+      "summary": "[8.15 J1第2節 浦和 1-4 広島 埼玉] 日本代表として北中米W杯予選にも出場していたMF川村拓夢は今夏、2年ぶりにザルツブルクからサンフレッチェ広島に復帰し、Jリーグで再スタートを切った。 初の海外挑戦先に選んだザルツブルクでは…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456933-456933-fl",
+      "pubDate": "2026-08-16T00:02:11.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456933-456933-fl"
+        }
+      ]
+    },
+    {
       "title": "【今日のJリーグ】8月16日 2026/27明治安田Jリーグ第2節のキックオフ時間・放送予定・対戦カードは？",
       "summary": "明治安田Jリーグは16日、J2が2試合、J3が4試合開催される。キックオフ時間や放送予定、対戦カードなどは以下の通り。",
       "link": "https://www.footballchannel.jp/2026/08/16/post981456/",
@@ -1946,30 +2007,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b5001c6a555999a4e38f0dd54636afe7a18cf49e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「沢山の国旗が見えた」CL決勝も経験した広島の大物助っ人FWアレー、J初先発初ゴールの要因は「昨日お好み焼きを食べたから」",
-      "summary": "[8.15 J1第2節 浦和 1-4 広島 埼玉] ドルトムント時代にUEFAチャンピオンズリーグ決勝の舞台に立った経験を持つ、欧州CL通算12ゴールの実績を持つ大物ストライカーが、鳴り物入りで加入したJリーグでの初先発で得点力を証明した。…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456929-456929-fl",
-      "pubDate": "2026-08-15T21:10:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456929-456929-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/478d350b2cb1813a45552e15955e1c038da7b163?source=rss"
         }
       ]
     },
@@ -10881,23 +10918,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ae0f319263d6d55b309dd85bacd0e23679a10280?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「ヤバすごすぎ」「待って電車の中で声出た」中丸雄一さんが日本の超大物選手と2ショット",
-      "summary": "タレントの中丸雄一さんが8日に自身のインスタグラム(@y_nakamaru_94)を更新し、本田圭佑とのツーショットを披露した。 中丸さんは「本田さん!!突然の写真すみません、ありがとうございました!ありがとうございました!」と写真を投稿。…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?456631-456631-fl",
-      "pubDate": "2026-08-09T09:50:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?456631-456631-fl"
         }
       ]
     },
