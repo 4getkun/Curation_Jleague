@@ -1,14 +1,52 @@
 {
-  "generatedAt": "2026-08-17T04:09:06.370Z",
-  "count": 1609,
+  "generatedAt": "2026-08-17T05:04:42.842Z",
+  "count": 1610,
   "items": [
+    {
+      "title": "Ｊ１浦和がＷ杯経験者・山根視来を完全移籍で獲得「歴史を作れるように全力を尽くしたい」曺貴裁監督の教え子(スポーツ報知)",
+      "summary": "Ｊ１浦和は１７日、ＬＡギャラクシー（米国）よりＤＦ山根視来が完全移籍で加入すると発表した。背番号は６。 山根は「このたび、浦和レッズに加入することになりました山根視来です。自分の成長が一番、チー",
+      "link": "https://news.yahoo.co.jp/articles/8b5c75dcb4e23837496ee66621c332729d0fe15b?source=rss",
+      "pubDate": "2026-08-17T04:46:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8b5c75dcb4e23837496ee66621c332729d0fe15b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J3最新順位表にファン驚愕「バグってる」 衝撃の上位2チーム…新規サポは自虐「見つけられない」(FOOTBALL ZONE)",
+      "summary": "明治安田J3リーグは8月15日までに第2節が行われた。各地で激戦が繰り広げられた順位表に対し、SNS上では「得失点差がバグってる」「Jリーグにいるんだなぁ」といった声が上がっている。 第2節を終",
+      "link": "https://news.yahoo.co.jp/articles/fa61f165cbc2c322fc99b6bfe85aa81d4b7cc09a?source=rss",
+      "pubDate": "2026-08-17T04:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fa61f165cbc2c322fc99b6bfe85aa81d4b7cc09a?source=rss"
+        }
+      ]
+    },
     {
       "title": "【浦和】元日本代表の山根視来を完全移籍で獲得 川崎Ｆの黄金期支えた右SB 22年Ｗ杯出場(日刊スポーツ)",
       "summary": "浦和レッズは17日、MLSロサンゼルス・ギャラクシーから元日本代表DF山根視来（32）を完全移籍で獲得したと発表した。 16年に桐蔭横浜大から湘南ベルマーレ入りした山根は、20年に川崎フロンター",
       "link": "https://news.yahoo.co.jp/articles/4c5fcb27982fe961e8fea05c84aec88d77cba9e8?source=rss",
       "pubDate": "2026-08-17T03:55:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reds"
       ],
@@ -18,8 +56,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4c5fcb27982fe961e8fea05c84aec88d77cba9e8?source=rss"
         }
       ]
@@ -31348,27 +31386,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7a38e9dfb6c92d8b60fd91adf7c3d97bc0d05440?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "早川友基がグランドキャニオンでも守護神務める？ 再渡米してオフ写真をインスタで公開(日刊スポーツ)",
-      "summary": "W杯北中米大会の日本代表GK早川友基（27＝鹿島アントラーズ）が、18日までに自身のインスタグラムを更新。 W杯敗退後のオフを利用し、再渡米。ラスベガスやアリゾナ州のグランドキャニオンなどを旅行",
-      "link": "https://news.yahoo.co.jp/articles/950fdf13f63c7bb34392eb2eebf7bb9382dc8bcd?source=rss",
-      "pubDate": "2026-07-18T04:27:10.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/950fdf13f63c7bb34392eb2eebf7bb9382dc8bcd?source=rss"
         }
       ]
     }
