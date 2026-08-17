@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T14:25:43.808Z",
-  "count": 1625,
+  "generatedAt": "2026-08-17T14:52:54.692Z",
+  "count": 1624,
   "items": [
     {
       "title": "PSG移籍破談の翌日にアストン・ヴィラ加入で合意 鈴木彩艶がプレミアリーグへ。クラブはGK1番手の座を用意(theWORLD（ザ・ワールドWeb）)",
@@ -1619,6 +1619,25 @@
       ]
     },
     {
+      "title": "大宮FWオリオラ・サンデーがシドニーFCへ期限付き移籍「貴重な挑戦の機会」",
+      "summary": "RB大宮アルディージャは16日、FWオリオラ・サンデー(23)がシドニーFC(オーストラリア)へ期限付き移籍することを発表した。移籍期間は2027年6月30日までとなる。 ナイジェリア出身の同選手は、2022年に福知山成美高から徳島ヴォルテ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456940-456940-fl",
+      "pubDate": "2026-08-16T05:59:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456940-456940-fl"
+        }
+      ]
+    },
+    {
       "title": "旗手怜央、ギリシャの名門パナシナイコスから関心か…今季セルティックでは出番なし(サッカーキング)",
       "summary": "セルティックに所属する元日本代表MF旗手怜央の獲得に、パナシナイコスが関心を示しているようだ。15日、イギリス紙『デイリー・レコード』が報じた。 1997年11月生まれの旗手は、川崎フロンターレ",
       "link": "https://news.yahoo.co.jp/articles/88ba39001de8da67a5511598e2acafbee8f25055?source=rss",
@@ -1757,23 +1776,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/16/post988383/"
-        }
-      ]
-    },
-    {
-      "title": "「意見や批判とは異なります」栃木CがSNSでの誹謗中傷に注意喚起",
-      "summary": "栃木シティは14日、公式サイトで「SNSにおける誹謗中傷について」と題した声明を発表した。 クラブは「選手・スタッフ・クラブ関係者をはじめ、サポーター、対戦クラブ関係者、その他クラブに関わるすべての方に対する、誹謗中傷、侮辱、人格を否定する…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456935-456935-fl",
-      "pubDate": "2026-08-16T03:21:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456935-456935-fl"
         }
       ]
     },
@@ -31653,25 +31655,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/8c201249a1def614a9461caca6f4b752ed5fa1d2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート・ＧⅢウエスタンヤング】定松勇樹 メンバー中唯一のＳＧ覇者が好発進を決める「気負わずに頑張ります」(東スポWEB)",
-      "summary": "ボートレース福岡では19日、G3「第13回ウエスタンヤング」が開幕する。 定松勇樹（25＝佐賀）が前検日、注目のエンジン抽選で引き当てたのはÅ評価の11号機。「班でも山崎祥選手や常住蓮選手が良さ",
-      "link": "https://news.yahoo.co.jp/articles/8a6288ee0929b8e72e2ec9279c24b5e56944456e?source=rss",
-      "pubDate": "2026-07-18T14:35:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8a6288ee0929b8e72e2ec9279c24b5e56944456e?source=rss"
         }
       ]
     }
