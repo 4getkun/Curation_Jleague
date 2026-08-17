@@ -1,7 +1,55 @@
 {
-  "generatedAt": "2026-08-17T21:15:48.254Z",
-  "count": 1621,
+  "generatedAt": "2026-08-17T21:46:52.089Z",
+  "count": 1622,
   "items": [
+    {
+      "title": "元ドイツ代表が引退「スパイクを脱ぐ」 J移籍も出場ゼロで退団…ファン感謝「来てくれて嬉しかった」(FOOTBALL ZONE)",
+      "summary": "今年4月にJ1ガンバ大阪を退団した元ドイツ代表DFフィリップ・マックスが現役引退を表明した。自身のSNSでメッセージを公開すると、各方面から労いの声が寄せられている。 今年3月12日にG大阪へ完",
+      "link": "https://news.yahoo.co.jp/articles/4d69def2800712b17e47f8c361927462842d857d?source=rss",
+      "pubDate": "2026-08-17T21:40:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4d69def2800712b17e47f8c361927462842d857d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島から覚悟の移籍「恩返しをしたい」 代表選出も…19歳の本音「焦りの方が大きい」(FOOTBALL ZONE)",
+      "summary": "アルビレックス新潟は8月15日、J2リーグ第2節で北海道コンサドーレ札幌と対戦し、2-1で勝利した。後半途中から出場したDF佐藤海宏が、プロ2年目で抱く“焦り”を口にした。 ホーム開幕戦で2万8",
+      "link": "https://news.yahoo.co.jp/articles/fec9231bed27dfcd5f355cc4037fe6822e72bb31?source=rss",
+      "pubDate": "2026-08-17T21:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fec9231bed27dfcd5f355cc4037fe6822e72bb31?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669141"
+        }
+      ]
+    },
     {
       "title": "J2クラブの新ユニが「雲のようだ」 流動のグラフィック…専門家も絶賛「動画がとにかく素晴らしい」(FOOTBALL ZONE)",
       "summary": "2026-27シーズンから秋春制へと移行したJリーグ。8月7日に開幕し、J1は6月初旬、J2とJ3は5月末までのリーグ戦を予定している。そんななか、サッカーユニフォーム研究家である「ともさん」は横浜",
@@ -31568,29 +31616,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/18a9eb608ae34b33da283c234f41b024d6a69118?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「お調子者の本領発揮」バレンシア移籍の日本代表MF19歳が新加入あいさつで一発芸!「長友イズムが息づいてる」ノリノリダンスで爆笑の渦に!(サッカー批評Web)",
-      "summary": "今夏にJ1のFC東京からスペインのラ・リーガ（1部）バレンシアへ完全移籍を果たしたMF佐藤龍之介が、新天地でノリノリの一発芸を披露。早くもチームメイトたちのハートをガッチリとつかみ、話題を呼んでいる",
-      "link": "https://news.yahoo.co.jp/articles/e7872ddb5b258dca332f13247a5a384f26217bee?source=rss",
-      "pubDate": "2026-07-18T21:36:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade",
-        "signing",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e7872ddb5b258dca332f13247a5a384f26217bee?source=rss"
         }
       ]
     }
