@@ -1,7 +1,104 @@
 {
-  "generatedAt": "2026-08-17T05:04:42.842Z",
-  "count": 1610,
+  "generatedAt": "2026-08-17T05:57:07.898Z",
+  "count": 1614,
   "items": [
+    {
+      "title": "【J1試合結果まとめ｜第2節】敵地で千葉を相手に大勝した町田が開幕連勝で首位。広島、柏、鹿島も連勝でスタートダッシュに成功｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー・ニュース】明治安田J1リーグ第2節が8月14日〜8月15日に開催。FC町田ゼルビアやサンフレッチェ広島など、4チームが開幕連勝を飾っている。",
+      "link": "https://news.yahoo.co.jp/articles/ce67789925024215334070338e9d49ecfefe58ec?source=rss",
+      "pubDate": "2026-08-17T05:44:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ce67789925024215334070338e9d49ecfefe58ec?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "20歳のJ1MFが魅せた神アシストが「どエロいパス」 37歳への絶妙浮き球に衝撃の声「はよ海外行こ」(FOOTBALL ZONE)",
+      "summary": "J1サンフレッチェ広島のMF中島洋太朗の鮮やかなラストパスが今季も観客を魅了している。 広島は8月15日に行われたJ1リーグ第2節で浦和レッズと対戦し、4-1で快勝。20歳の中島は1-1で迎えた",
+      "link": "https://news.yahoo.co.jp/articles/617946135423cb52dd81d2908b5d5a179d99833f?source=rss",
+      "pubDate": "2026-08-17T05:40:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/617946135423cb52dd81d2908b5d5a179d99833f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "20歳のJ1MFが魅せた神アシストが「どエロいパス」 37歳への絶妙浮き球に衝撃の声「はよ海外行こ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669075",
+      "pubDate": "2026-08-17T05:40:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669075"
+        }
+      ]
+    },
+    {
+      "title": "横浜FCの23歳MF J3ギラヴァンツ北九州に期限付き移籍 東福岡高出身のドリブラー「1日でも早く…」(西スポWEB OTTO!)",
+      "summary": "J3ギラヴァンツ北九州は17日、J2横浜FCのMF遠藤貴成（23）が期限付き移籍で加入すると発表した。期間は来年6月末までで、横浜FCと対戦する全ての公式戦に出場できない。 新潟県出身の遠藤は新",
+      "link": "https://news.yahoo.co.jp/articles/aad55edf03fb3c756dd73dca065174b477696699?source=rss",
+      "pubDate": "2026-08-17T05:22:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aad55edf03fb3c756dd73dca065174b477696699?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１浦和 曺貴裁監督教え子のＤＦ山根視来獲得発表 ＭＦ瀬古樹とともに巻き返し起爆剤なるか(東スポWEB)",
+      "summary": "J1浦和は17日、元日本代表DF山根視来（32）が、米MLSロサンゼルス・ギャラクシーから完全移籍で加入すると発表した。 右サイドバックを主戦場とする山根は2016年に桐蔭横浜大から湘南入りし、",
+      "link": "https://news.yahoo.co.jp/articles/83e1f0d37327a69d141b45bc611a5f60172a096c?source=rss",
+      "pubDate": "2026-08-17T05:15:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/83e1f0d37327a69d141b45bc611a5f60172a096c?source=rss"
+        }
+      ]
+    },
     {
       "title": "Ｊ１浦和がＷ杯経験者・山根視来を完全移籍で獲得「歴史を作れるように全力を尽くしたい」曺貴裁監督の教え子(スポーツ報知)",
       "summary": "Ｊ１浦和は１７日、ＬＡギャラクシー（米国）よりＤＦ山根視来が完全移籍で加入すると発表した。背番号は６。 山根は「このたび、浦和レッズに加入することになりました山根視来です。自分の成長が一番、チー",
@@ -31365,27 +31462,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/6ab39dc5e52a6596736f7773cbd91b578260e591?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ACL2制したヴィッシング監督が電撃退任のガンバ大阪 新監督は明神智和コーチに 「責任の重さも十分理解しています」(theWORLD（ザ・ワールドWeb）)",
-      "summary": "ガンバ大阪は18日、明神智和コーチが新監督に就任することを発表した。 2025年12月にガンバ大阪の指揮官に就任したイェンス・ヴィッシング前監督はAFCチャンピオンズリーグ2（ACL2）で優勝を果た",
-      "link": "https://news.yahoo.co.jp/articles/7a38e9dfb6c92d8b60fd91adf7c3d97bc0d05440?source=rss",
-      "pubDate": "2026-07-18T05:30:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7a38e9dfb6c92d8b60fd91adf7c3d97bc0d05440?source=rss"
         }
       ]
     }
