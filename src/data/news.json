@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-17T00:37:03.429Z",
-  "count": 1599,
+  "generatedAt": "2026-08-17T02:13:26.751Z",
+  "count": 1601,
   "items": [
+    {
+      "title": "J1クラブの完璧すぎる連係弾に「額縁に飾りたい」 相手ファンも思わず脱帽…失点も「悔しさ感じない」(FOOTBALL ZONE)",
+      "summary": "相手の守備陣を鮮やかに崩したサンフレッチェ広島の連携弾が大きな反響を呼んでいる。 広島は8月15日にJ1リーグ第2節で浦和レッズと敵地で対戦し、4-1で勝利。大量4ゴールの破壊力を見せつけて開幕",
+      "link": "https://news.yahoo.co.jp/articles/92527dbdf26e5e701d69c7adcad8aaaeb85b5027?source=rss",
+      "pubDate": "2026-08-17T01:50:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/92527dbdf26e5e701d69c7adcad8aaaeb85b5027?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1クラブの完璧すぎる連係弾に「額縁に飾りたい」 相手ファンも思わず脱帽…失点も「悔しさ感じない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669053",
+      "pubDate": "2026-08-17T01:50:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669053"
+        }
+      ]
+    },
+    {
+      "title": "J1名門の新守護神が「ちょっとレベチすぎ」 神セーブ連発…絶体絶命のピンチ救い「反応速度えっぐ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669048",
+      "pubDate": "2026-08-17T00:57:33.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669048"
+        }
+      ]
+    },
     {
       "title": "【新日本】ジェフ・コブが電撃登場！古巣UE復帰を拒否し、まさかのUnbound Co.加入表明(まるスポ)",
       "summary": "16日、新日本プロレス東京・両国国技館大会にジェフ・コブがサプライズ登場し、新日本への復帰とUnbound Co.への電撃加入を表明した。 この日、第4試合ではUnbound Co.のYuto-Ic",
@@ -31151,25 +31205,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9415e8b3604d8b2020c814f60769c079a17337f9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブが欧州1部MF獲得に”5.6億円オファー” 要求額は3倍以上で拒否か「期限付き移籍も検討」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/663801",
-      "pubDate": "2026-07-18T02:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/663801"
         }
       ]
     }
