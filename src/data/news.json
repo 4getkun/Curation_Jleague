@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-08-17T07:42:42.918Z",
-  "count": 1616,
+  "generatedAt": "2026-08-17T08:30:32.329Z",
+  "count": 1617,
   "items": [
+    {
+      "title": "広島サッカー界の黄金期を築いた下村幸男氏が94歳で死去 東洋工業蹴球部などで活躍(フットボールチャンネル)",
+      "summary": "サンフレッチェ広島は17日、クラブの前身である東洋工業蹴球部で選手・監督を務め、クラブのアドバイザーや参与を歴任した下村幸男氏が、8月13日に94歳で死去したことを発表した。 広島市出身の下",
+      "link": "https://news.yahoo.co.jp/articles/1fa9ae8d21926ae501b9250de7c46d639ba748fe?source=rss",
+      "pubDate": "2026-08-17T08:14:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1fa9ae8d21926ae501b9250de7c46d639ba748fe?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/17/post990759/"
+        }
+      ]
+    },
+    {
+      "title": "「世界にバレちゃった感じか」 カズ弾を演出したレンタル中の若手が海外へ…電撃離脱に「凄い急展開」(FOOTBALL ZONE)",
+      "summary": "J1川崎フロンターレは8月16日、J3福島ユナイテッドFCに育成型期限付き移籍しているMF永長鷹虎について「海外クラブへの移籍を前提とした準備のため、福島ユナイテッドFCの活動から離脱いたしました」",
+      "link": "https://news.yahoo.co.jp/articles/6e3b85fc69670ebc251bd07b737f8696a4682cd8?source=rss",
+      "pubDate": "2026-08-17T08:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6e3b85fc69670ebc251bd07b737f8696a4682cd8?source=rss"
+        }
+      ]
+    },
     {
       "title": "【J2試合結果まとめ｜第2節】いわきに快勝した藤枝が開幕連勝で首位に！国立決戦を制した横浜FCら4チームが連勝スタートを切る｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー・ニュース】明治安田J2リーグ第2節は8月15日から16日にかけて開催。いわきFCに快勝した藤枝MYFCが首位スタートを切った中、国立決戦を制した横浜FCら4チームが開幕連勝となった。",
@@ -31474,28 +31519,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/052fb81cbf9dd1b20670901a04a14b5d4557a240?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【G大阪】明神智和コーチが新監督に就任「観ている人を熱狂させられるよう」前監督はサウジへ(日刊スポーツ)",
-      "summary": "ガンバ大阪は元日本代表MFの明神智和コーチ（48）が監督に昇格することを18日、発表した。 J1百年構想リーグはイェンス・ビッシング監督（38）が指揮を執ったが、今月上旬からのオーストリア合宿は",
-      "link": "https://news.yahoo.co.jp/articles/62bb9ff2ef890e404ddeb412dcefaa5bf040caf4?source=rss",
-      "pubDate": "2026-07-18T07:47:18.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "national-team",
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/62bb9ff2ef890e404ddeb412dcefaa5bf040caf4?source=rss"
         }
       ]
     }
