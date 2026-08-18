@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-08-18T06:27:39.004Z",
-  "count": 1642,
+  "generatedAt": "2026-08-18T07:13:39.117Z",
+  "count": 1643,
   "items": [
+    {
+      "title": "FC町田ゼルビアはグループGに AFCチャンピオンズリーグ2 2026/27のグループ分けが決定(スポーティングニュース日本版)",
+      "summary": "AFCチャンピオンズリーグ（ACL）2の組み合わせ抽選会が2026年8月18日（火）15:00からマレーシア・クアラルンプールのグランドハイアット・クアラルンプールで行われ、参加32チームのグループ分",
+      "link": "https://news.yahoo.co.jp/articles/cd103881ed748ada84e38b6a2ed040c0d7d4d6d3?source=rss",
+      "pubDate": "2026-08-18T07:06:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cd103881ed748ada84e38b6a2ed040c0d7d4d6d3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "クラセンU-15決勝トーナメントが開幕!! 鹿島“同門対決”は劇的な逆転決着、広島FW駒野友春2発で得点ランク首位タイ浮上:ラウンド32全結果(ゲキサカ)",
+      "summary": "中学年代のクラブチームの頂点を争う第41回日本クラブユースサッカー選手権(U-15)大会は18日、決勝トーナメント1回戦(ラウンド32)を行い、前回王者のヴィッセル神戸U-15や鹿島アントラーズジュ",
+      "link": "https://news.yahoo.co.jp/articles/851f196ffcf3e73800b51c800d0d3dbc409024ba?source=rss",
+      "pubDate": "2026-08-18T06:58:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/851f196ffcf3e73800b51c800d0d3dbc409024ba?source=rss"
+        }
+      ]
+    },
     {
       "title": "U―20女子W杯に板村や真城ら 日本代表21人、9月開幕(共同通信)",
       "summary": "日本サッカー協会は18日、U―20（20歳以下）女子ワールドカップ（W杯）ポーランド大会（9月開幕）に臨む日本代表に、ただ一人の海外組となる板村（リバプール）や、真城（日テレ東京V）ら21人を選んだ",
@@ -2106,22 +2145,19 @@
       ]
     },
     {
-      "title": "川崎Fvs京都 試合記録",
-      "summary": "【J1第2節】(U等々力)川崎F 2-2(前半1-0)京都[川]ラザル・ロマニッチ(43分)、マルシーニョ(64分)[京]福田心之助(54分)、ラファエル・エリアス(58分)[川]大関友翔(80分)[京]アレックス・ソウザ(9分)、ウェベル…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456910-456910-fl",
-      "pubDate": "2026-08-16T09:20:02.000Z",
+      "title": "仙台vs大分 スタメン発表",
+      "summary": "[8.15 J2第2節](ユアスタ)※19:00開始主審:木村博之[ベガルタ仙台]先発GK 33 林彰洋DF 2 五十嵐聖己DF 3 奥山政幸DF 19 マテウス・モラエスDF 42 石井隼太DF 44 井上詩音MF 7 中島元彦MF 10…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456864-456864-fl",
+      "pubDate": "2026-08-16T09:30:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale",
-        "sanga"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456910-456910-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456864-456864-fl"
         }
       ]
     },
@@ -32000,23 +32036,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/19/post950679/"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ「絶対スタジアム爆破される」 人気キャラ来場で…ファン心配「事件起きちゃう」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/664122",
-      "pubDate": "2026-07-19T06:48:29.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/664122"
         }
       ]
     }
