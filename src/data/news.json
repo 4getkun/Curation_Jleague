@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-18T03:14:02.161Z",
-  "count": 1636,
+  "generatedAt": "2026-08-18T04:03:59.483Z",
+  "count": 1637,
   "items": [
+    {
+      "title": "「次のW杯で暴れて」久保建英と交代で日本代表デビューのC大阪育ち22歳、2年目の欧州で圧巻の今季初ゴール! GKノーチャンスの理不尽弾に「冷静」「さすが颯太」(サッカー批評Web)",
+      "summary": "オーストリア1部の強豪RBザルツブルクに所属する若き日本人アタッカーが、待望の今季リーグ戦初ゴールを記録した。すでに日本代表（SAMURAI BLUE）デビューも果たし、8月13日に「22歳」の誕生",
+      "link": "https://news.yahoo.co.jp/articles/18233d717ae4c5a0121324b5046c00f70d7966b4?source=rss",
+      "pubDate": "2026-08-18T03:36:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/18233d717ae4c5a0121324b5046c00f70d7966b4?source=rss"
+        }
+      ]
+    },
     {
       "title": "「自分が引っ張るぐらいでやれ」指揮官からの言葉に大森博は奮起した。J3からJ1に這い上がった23歳がファジアーノ岡山で目指すものとは【コラム】",
       "summary": "ファジアーノ岡山の大森博にとって、8月15日のV・ファーレン長崎戦は、J1で初めて勝利を味わった一戦だった。試合前日、木山隆之監督から「責任感を持って、自分が引っ張るぐらいでやれ」と言葉をかけられた23歳は、ホーム開幕戦で最後までゴールを守…",
@@ -1971,9 +1992,9 @@
       ]
     },
     {
-      "title": "新潟vs札幌 試合記録",
-      "summary": "【J2第2節】(デンカS)新潟 2-1(前半1-1)札幌[新]奥村仁(19分)、シマブク・カズヨシ(46分)[札]堀米悠斗(36分)[札]梅津龍之介(17分)、西野奨太(64分)、宮澤裕樹(70分)、高尾瑠(90分)観衆:28,949人主審…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456904-456904-fl",
+      "title": "愛媛vs鳥取 スタメン発表",
+      "summary": "[8.16 J3第2節](ニンスタ)※19:00開始主審:石丸秀平[愛媛FC]先発GK 36 辻周吾DF 5 黒石貴哉DF 6 谷岡昌DF 50 杉山耕二MF 8 上村周平MF 14 斉藤涼優MF 22 竹本雄飛MF 23 宮本航汰MF 3…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456949-456949-fl",
       "pubDate": "2026-08-16T09:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -1983,7 +2004,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456904-456904-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456949-456949-fl"
         }
       ]
     },
