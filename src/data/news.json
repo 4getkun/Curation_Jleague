@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-08-18T07:59:53.166Z",
-  "count": 1648,
+  "generatedAt": "2026-08-18T08:39:10.436Z",
+  "count": 1650,
   "items": [
+    {
+      "title": "G大阪DF池谷銀姿郎「練習からもっとやっていく」水戸戦での失点直結ミスを糧に(スポニチアネックス)",
+      "summary": "G大阪は18日、吹田市内の練習場で公開トレーニングを行った。22日には敵地・名古屋戦。前節・水戸戦で縦パスを相手に渡してしまい、失点に直結するミスをしたDF池谷銀姿郎は「望ましくない選択だったと思う",
+      "link": "https://news.yahoo.co.jp/articles/50981d700c413e52de9d731653000d91e15b1844?source=rss",
+      "pubDate": "2026-08-18T08:32:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/50981d700c413e52de9d731653000d91e15b1844?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】斎藤功佑「６割くらい」柴戸海、森田晃樹と揃ってチーム練習に部分合流(日刊スポーツ)",
+      "summary": "負傷者が続出している東京ヴェルディにあって、離脱していた主力MFの斎藤功佑（29）、柴戸海（30）、森田晃樹（26）が18日、東京・稲城市でのチーム練習に部分合流した。 主将の森田は7月に左鎖骨",
+      "link": "https://news.yahoo.co.jp/articles/6c29c2b93bea423b54c0500fa6ac231e86768c8d?source=rss",
+      "pubDate": "2026-08-18T08:05:25.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6c29c2b93bea423b54c0500fa6ac231e86768c8d?source=rss"
+        }
+      ]
+    },
     {
       "title": "天皇杯 JFA第106回全日本サッカー選手権大会 全試合日程・結果・放送・配信予定一覧",
       "summary": "2026年8月19日から行われる天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。",
@@ -16,6 +56,23 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/18/post991491/"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
+      "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post991494/",
+      "pubDate": "2026-08-18T07:59:14.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post991494/"
         }
       ]
     },
@@ -63,17 +120,22 @@
       ]
     },
     {
-      "title": "ACL2のグループ分け決定!! 町田は上海申花や日本人多数の“提携先”タンピネスと同組に(ゲキサカ)",
-      "summary": "アジアサッカー連盟(AFC)は18日、AFCチャンピオンズリーグ2(ACL2)のグループステージ組み合わせ抽選会を行い、日本から出場するFC町田ゼルビアはG組に入り、上海申花(中国)、PKRスバリエ",
-      "link": "https://news.yahoo.co.jp/articles/4f03e662b1972c4be9931e7e03d17731d13b5aa6?source=rss",
-      "pubDate": "2026-08-18T07:53:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "ACL2のグループ分け決定!! 町田は上海申花や日本人多数の“提携先”タンピネスと同組に",
+      "summary": "アジアサッカー連盟(AFC)は18日、AFCチャンピオンズリーグ2(ACL2)のグループステージ組み合わせ抽選会を行い、日本から出場するFC町田ゼルビアはG組に入り、上海申花(中国)、PKRスバリエン(カンボジア)、タンピネス・ローバーズ(…",
+      "link": "https://web.gekisaka.jp/news/acl/detail/?457043-457043-fl",
+      "pubDate": "2026-08-18T07:52:38.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "zelvia"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/acl/detail/?457043-457043-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -2262,9 +2324,9 @@
       ]
     },
     {
-      "title": "仙台vs大分 スタメン発表",
-      "summary": "[8.15 J2第2節](ユアスタ)※19:00開始主審:木村博之[ベガルタ仙台]先発GK 33 林彰洋DF 2 五十嵐聖己DF 3 奥山政幸DF 19 マテウス・モラエスDF 42 石井隼太DF 44 井上詩音MF 7 中島元彦MF 10…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456864-456864-fl",
+      "title": "仙台vs大分 試合記録",
+      "summary": "【J2第2節】(ユアスタ)仙台 0-0(前半0-0)大分[大]相澤デイビッド(76分)観衆:18,323人主審:木村博之[ベガルタ仙台]先発GK 33 林彰洋DF 2 五十嵐聖己DF 3 奥山政幸(86分→DF 22 高田椋汰)DF 19…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456903-456903-fl",
       "pubDate": "2026-08-16T09:30:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -2274,7 +2336,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456864-456864-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456903-456903-fl"
         }
       ]
     },
@@ -8852,25 +8914,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/12/post975927/"
-        }
-      ]
-    },
-    {
-      "title": "ACLEプレーオフで異例の交代トラブル発生…G大阪に敗れた江原チョン監督が審判団に不満「理解しがたい」AFCに正式抗議へ",
-      "summary": "[8.11 ACLEプレーオフ G大阪 1-0(延長) 江原FC 江陵] AFCチャンピオンズリーグエリート(ACLE)プレーオフでガンバ大阪に敗れた江原FCのチョン・ギョンホ監督が試合後、記者会見で審判団への不満を口にしたようだ。韓国メデ…",
-      "link": "https://web.gekisaka.jp/news/acl/detail/?456710-456710-fl",
-      "pubDate": "2026-08-11T20:30:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/acl/detail/?456710-456710-fl"
         }
       ]
     },
