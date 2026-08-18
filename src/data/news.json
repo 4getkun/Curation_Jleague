@@ -1,22 +1,41 @@
 {
-  "generatedAt": "2026-08-18T13:16:16.270Z",
-  "count": 1672,
+  "generatedAt": "2026-08-18T14:02:54.071Z",
+  "count": 1671,
   "items": [
     {
-      "title": "【Ｇ大阪】公式戦２戦欠場の食野亮太郎が22日名古屋戦で復帰へ「ここから取り返していければ」(日刊スポーツ)",
-      "summary": "ガンバ大阪は18日、大阪・吹田市内の練習場で公開練習を行った。 この日のトレーニングでは、アジア・チャンピオンズリーグ・エリート（ACLE）本戦出場を懸けたプレーオフの11日江原FC（韓国）戦、",
-      "link": "https://news.yahoo.co.jp/articles/4f9aba764fd880562c4ae50e32295cad745bf8f3?source=rss",
-      "pubDate": "2026-08-18T13:08:50.000Z",
+      "title": "浦和JrユースFWウチェフナクリストファー・チゾバが2Gで3戦連発!! 開幕2試合ベンチスタートに奮起「絶対に結果残すぞと」(ゲキサカ)",
+      "summary": "[8.18 クラセンU-15決勝T1回戦 浦和Jrユース 3-1 北九州U-15 白旗山A] 浦和レッズジュニアユースFWウチェフナクリストファー・チゾバ(3年)が2得点の活躍で決勝トーナメント2",
+      "link": "https://news.yahoo.co.jp/articles/090c4060584beb8be5895b9dc55a41cd86bcd300?source=rss",
+      "pubDate": "2026-08-18T13:55:02.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "gamba"
+        "reds"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/090c4060584beb8be5895b9dc55a41cd86bcd300?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【Ｇ大阪】公式戦２戦欠場の食野亮太郎が22日名古屋戦で復帰へ「ここから取り返していければ」(日刊スポーツ)",
+      "summary": "ガンバ大阪は18日、大阪・吹田市内の練習場で公開練習を行った。 この日のトレーニングでは、アジア・チャンピオンズリーグ・エリート（ACLE）本戦出場を懸けたプレーオフの11日江原FC（韓国）戦、",
+      "link": "https://news.yahoo.co.jp/articles/4f9aba764fd880562c4ae50e32295cad745bf8f3?source=rss",
+      "pubDate": "2026-08-18T13:08:50.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4f9aba764fd880562c4ae50e32295cad745bf8f3?source=rss"
         }
       ]
@@ -2583,10 +2602,10 @@
       ]
     },
     {
-      "title": "5万3973人集結の国立決戦は横浜FCが制す! 1人退場もリード守り切り2連勝…磐田は1敗1分で未勝利続く",
-      "summary": "[8.16 J2第2節 横浜FC 3-1 磐田 MUFG国立] J1リーグは16日に各地で第2節を行った。MUFGスタジアム(国立競技場)で行われた横浜FCとジュビロ磐田の対戦は、横浜FCが3-1で勝利。前半28分にMF高江麗央がFKを直接…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456959-456959-fl",
-      "pubDate": "2026-08-16T11:15:20.000Z",
+      "title": "甲府vs宮崎 試合記録",
+      "summary": "【J2第2節】(JITス)甲府 1-1(前半1-1)宮崎[甲]内藤大和(16分)[宮]土信田悠生(6分)[甲]遠藤光(34分)、荒木翔(51分)[宮]渡邉英祐(21分)観衆:9,857人主審:野堀桂佑[ヴァンフォーレ甲府]先発GK 33 山…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456911-456911-fl",
+      "pubDate": "2026-08-16T11:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -2595,7 +2614,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456959-456959-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456911-456911-fl"
         }
       ]
     },
@@ -32547,46 +32566,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a85a295d4dbbbb4c6de079823cf1eddeca9b340a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【相撲編集部が選ぶ名古屋場所８日目の一番】安青錦、１敗守ってトップ並走キープも、足の親指を痛め不安を残す(BBM Sports)",
-      "summary": "安青錦（押し出し）隆の勝 左から頭を突かれて横倒しに土俵下まで転がり落ち、一瞬負けたのかと思わされたが、白星はしっかりと手にしていた。 １敗で優勝争いのトップに並んでいる安青錦だ。この日は、先々",
-      "link": "https://news.yahoo.co.jp/articles/c3bb20c838a133b5c01e4834e91c47b1c477e088?source=rss",
-      "pubDate": "2026-07-19T14:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c3bb20c838a133b5c01e4834e91c47b1c477e088?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【清水】神村学園DF大空星那の加入内定発表「攻撃参加を存分に発揮し勝利に貢献できる選手に」(日刊スポーツ)",
-      "summary": "J1清水エスパルスは19日、神村学園DF大空星那（18）の加入（27年1月）内定を発表した。大空は、クラブを通じて「これまで支えてくださった皆さんへの感謝の気持ちを忘れず、自分の持ち味である攻撃参加",
-      "link": "https://news.yahoo.co.jp/articles/3ef8dc695e4a7ff7b84b3df17a1637313bc77505?source=rss",
-      "pubDate": "2026-07-19T13:37:14.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3ef8dc695e4a7ff7b84b3df17a1637313bc77505?source=rss"
         }
       ]
     }
