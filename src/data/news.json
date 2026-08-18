@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-18T04:03:59.483Z",
+  "generatedAt": "2026-08-18T04:59:10.498Z",
   "count": 1637,
   "items": [
+    {
+      "title": "「なんて簡単にやってのけるんだ…」バレンシアの19歳日本人が魅せた“おしゃれ弾”を現地ファン絶賛！「やばすぎる」「チームで最も優れた選手」(SOCCER DIGEST Web)",
+      "summary": "スペイン１部バレンシアに加入したMF佐藤龍之介が、トレーニングで披露した華麗な一撃が注目を集めている。 今夏にFC東京からバレンシアへ移籍した19歳の若きサムライは、新天地で早くも存在感を示して",
+      "link": "https://news.yahoo.co.jp/articles/66279b7e6705a989b304d26c66c2232408faeb0c?source=rss",
+      "pubDate": "2026-08-18T04:51:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/66279b7e6705a989b304d26c66c2232408faeb0c?source=rss"
+        }
+      ]
+    },
     {
       "title": "「次のW杯で暴れて」久保建英と交代で日本代表デビューのC大阪育ち22歳、2年目の欧州で圧巻の今季初ゴール! GKノーチャンスの理不尽弾に「冷静」「さすが颯太」(サッカー批評Web)",
       "summary": "オーストリア1部の強豪RBザルツブルクに所属する若き日本人アタッカーが、待望の今季リーグ戦初ゴールを記録した。すでに日本代表（SAMURAI BLUE）デビューも果たし、8月13日に「22歳」の誕生",
@@ -1992,19 +2013,22 @@
       ]
     },
     {
-      "title": "愛媛vs鳥取 スタメン発表",
-      "summary": "[8.16 J3第2節](ニンスタ)※19:00開始主審:石丸秀平[愛媛FC]先発GK 36 辻周吾DF 5 黒石貴哉DF 6 谷岡昌DF 50 杉山耕二MF 8 上村周平MF 14 斉藤涼優MF 22 竹本雄飛MF 23 宮本航汰MF 3…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456949-456949-fl",
-      "pubDate": "2026-08-16T09:10:02.000Z",
+      "title": "川崎Fvs京都 試合記録",
+      "summary": "【J1第2節】(U等々力)川崎F 2-2(前半1-0)京都[川]ラザル・ロマニッチ(43分)、マルシーニョ(64分)[京]福田心之助(54分)、ラファエル・エリアス(58分)[川]大関友翔(80分)[京]アレックス・ソウザ(9分)、ウェベル…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456910-456910-fl",
+      "pubDate": "2026-08-16T09:20:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "frontale",
+        "sanga"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456949-456949-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456910-456910-fl"
         }
       ]
     },
@@ -31900,25 +31924,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/664122"
-        }
-      ]
-    },
-    {
-      "title": "ACLE2連覇中のアルアハリ・サウジ、ポルトガル代表FWフランシスコ・トリンコンを獲得(ゲキサカ)",
-      "summary": "アルアハリ・サウジは18日、スポルティングからFWフランシスコ・トリンコン(26)が4年契約で完全移籍加入すると発表した。 トリンコンは2025-26シーズンのポルトガルリーグで34試合7得点を",
-      "link": "https://news.yahoo.co.jp/articles/2831d389daa36e2ce3ea556448ec33e76782a798?source=rss",
-      "pubDate": "2026-07-19T04:48:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2831d389daa36e2ce3ea556448ec33e76782a798?source=rss"
         }
       ]
     }
