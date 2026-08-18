@@ -1,22 +1,60 @@
 {
-  "generatedAt": "2026-08-18T09:55:02.465Z",
-  "count": 1664,
+  "generatedAt": "2026-08-18T10:17:13.733Z",
+  "count": 1666,
   "items": [
+    {
+      "title": "日本勢は全北や大田と対戦 サッカー、ACLE1次リーグ(共同通信)",
+      "summary": "アジア・サッカー連盟は18日、アジアのクラブ王者を決める最上位大会、アジア・チャンピオンズリーグ・エリート（ACLE）の1次リーグ組み合わせ抽選をクアラルンプールで行い、J1鹿島、神戸、柏、京都、G",
+      "link": "https://news.yahoo.co.jp/articles/8f44082d982e4556c7a44e5c806b945ed39ccc66?source=rss",
+      "pubDate": "2026-08-18T10:03:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8f44082d982e4556c7a44e5c806b945ed39ccc66?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ACL2】タンピネスローバーズ・李忠成副会長兼SD「自分たちのゼロ地点作りたい」町田と同組に高揚(スポニチアネックス)",
+      "summary": "アジアサッカー連盟（AFC）は18日、AFCチャンピオンズリーグ2（ACL2）のグループステージ組み合わせ抽選会を行った。元日本代表FWの李忠成氏が副会長兼スポーツダイレクター（SD）を務めるタンピ",
+      "link": "https://news.yahoo.co.jp/articles/f86c668a2ffe331de7db9f8cb931bed71c6eff93?source=rss",
+      "pubDate": "2026-08-18T10:03:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f86c668a2ffe331de7db9f8cb931bed71c6eff93?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ACLE】日本勢5チーム対戦相手一覧、1次リーグ組み合わせ抽選 ACL2で町田の相手も決定(日刊スポーツ)",
       "summary": "アジア・サッカー連盟は18日、アジアのクラブ王者を決める最上位大会のアジア・チャンピオンズリーグ・エリート（ACLE）の1次リーグ組み合わせ抽選をクアラルンプールで行い、日本勢の対戦相手が決まった。",
       "link": "https://news.yahoo.co.jp/articles/d56b0baf83dd91244fa245c228d7d514aa5530cf?source=rss",
       "pubDate": "2026-08-18T09:32:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "zelvia"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/d56b0baf83dd91244fa245c228d7d514aa5530cf?source=rss"
         }
       ]
@@ -88,8 +126,8 @@
       "summary": "ガンバ大阪のFW植中朝日（24）が、けが人もいる攻撃陣をけん引していく。 17日は大阪・吹田市内の練習場で公開練習を行い、約1時間汗を流した。今年G大阪に加入し、負傷離脱を乗り越えて出場を続ける",
       "link": "https://news.yahoo.co.jp/articles/6cfb73cb2d316c29aa6626c4f84cbc28b2a69619?source=rss",
       "pubDate": "2026-08-18T09:28:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
@@ -98,8 +136,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6cfb73cb2d316c29aa6626c4f84cbc28b2a69619?source=rss"
         }
       ]
