@@ -1,7 +1,150 @@
 {
-  "generatedAt": "2026-08-17T23:43:06.141Z",
-  "count": 1624,
+  "generatedAt": "2026-08-18T00:37:12.631Z",
+  "count": 1631,
   "items": [
+    {
+      "title": "柏レイソル 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける柏レイソルの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post814032/",
+      "pubDate": "2026-08-18T00:32:06.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post814032/"
+        }
+      ]
+    },
+    {
+      "title": "松本山雅FC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける松本山雅FCの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post821259/",
+      "pubDate": "2026-08-18T00:29:10.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post821259/"
+        }
+      ]
+    },
+    {
+      "title": "ギラヴァンツ北九州 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるギラヴァンツ北九州の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post820506/",
+      "pubDate": "2026-08-18T00:18:06.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post820506/"
+        }
+      ]
+    },
+    {
+      "title": "横浜FC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける横浜FCの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post814497/",
+      "pubDate": "2026-08-18T00:17:05.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post814497/"
+        }
+      ]
+    },
+    {
+      "title": "北海道コンサドーレ札幌 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける北海道コンサドーレ札幌の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post814845/",
+      "pubDate": "2026-08-18T00:15:32.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post814845/"
+        }
+      ]
+    },
+    {
+      "title": "浦和レッズ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおける浦和レッズの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/18/post813000/",
+      "pubDate": "2026-08-18T00:12:23.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/18/post813000/"
+        }
+      ]
+    },
+    {
+      "title": "【広島】床田寛樹、森下暢仁の先発２本柱が６週間ぶりそろい踏み 反攻の旗手となれるか(日刊スポーツ)",
+      "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【広島】 ＜先週のMVP＞ 14日阪神戦に先発した森下",
+      "link": "https://news.yahoo.co.jp/articles/c2dc7a60aa908041d908f3f72b58c55749cda85e?source=rss",
+      "pubDate": "2026-08-17T23:55:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c2dc7a60aa908041d908f3f72b58c55749cda85e?source=rss"
+        }
+      ]
+    },
     {
       "title": "「誰やこれ」浦和レッズ加入の元日本代表DF、「金髪髭面」に騒然! 「なんか別人」「似合ってる」“優勝将請負人”が恩師と再タッグで猛反撃へ(サッカー批評Web)",
       "summary": "J1の浦和レッズが、元サッカー日本代表DF山根視来の完全移籍加入を発表した。実績十分な実力者のJリーグ復帰はもちろんのこと、これまでのイメージを大きく覆す“現在の姿”に、ファンからは驚きの声が広がっ",
@@ -29,8 +172,8 @@
       "summary": "今季、FC東京から移籍金400万ユーロ（約7億4000万円）でバレンシアに加入したMF佐藤龍之介（19）が、スペインリーグ開幕戦に出場できるとスペイン紙マルカ電子版が17日に報じた。 バレンシア",
       "link": "https://news.yahoo.co.jp/articles/e75a382252744755e0508e09e7f806d83d3af7cd?source=rss",
       "pubDate": "2026-08-17T23:09:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "fc-tokyo"
       ],
@@ -39,8 +182,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e75a382252744755e0508e09e7f806d83d3af7cd?source=rss"
         }
       ]
@@ -1709,9 +1852,9 @@
       ]
     },
     {
-      "title": "栃木Cvs八戸 スタメン発表",
-      "summary": "[8.15 J2第2節](CFS)※18:00開始主審:窪田陽輔[栃木シティ]先発GK 97 キム・ジンヒョンDF 2 マテイ・ヨニッチDF 3 照山颯人DF 5 奥井諒DF 15 佐藤喜生MF 7 森俊貴MF 20 ペドロ・アウグストMF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456855-456855-fl",
+      "title": "栃木Cvs八戸 試合記録",
+      "summary": "【J2第2節】(CFS)栃木C 5-0(前半2-0)八戸[栃]照山颯人(10分)、吉田篤志(30分)、ペドロ・アウグスト(49分)、小池裕太(64分)、山下敬大(83分)観衆:3,430人主審:窪田陽輔[栃木シティ]先発GK 97 キム・ジ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456886-456886-fl",
       "pubDate": "2026-08-16T09:00:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -1721,7 +1864,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456855-456855-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456886-456886-fl"
         }
       ]
     },
