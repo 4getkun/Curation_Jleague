@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-19T04:59:20.221Z",
-  "count": 1686,
+  "generatedAt": "2026-08-19T05:31:01.532Z",
+  "count": 1688,
   "items": [
+    {
+      "title": "甲府FW三平和司が左膝内側半月板損傷で全治約6カ月…ユーモア交えてファンに呼びかけ「辛い時には僕のアフロを思い出して」 ｜ Jリーグ(DAZN News)",
+      "summary": "【国内サッカー 最新ニュース】ヴァンフォーレ甲府は8月19日、FW三平和司の負傷内容についてクラブ公式サイト上で報告した。 甲府のクラブ公式サイトによると、三平は左膝内側半月板損傷との診断を受け、8",
+      "link": "https://news.yahoo.co.jp/articles/154b53a535ae1e430f8c72cca61d8a7e11897fac?source=rss",
+      "pubDate": "2026-08-19T05:19:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/154b53a535ae1e430f8c72cca61d8a7e11897fac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋グランパス、名鉄乗務員らもコラボTシャツで応援！ 開幕２連敗から巻き返しへ高嶺朋樹は「思いを背負って」(中日スポーツ)",
+      "summary": "Ｊ１名古屋グランパスは１９日、愛知県豊田市のトヨタスポーツセンターでの練習を公開し、２２日にＪ１で対戦するＧ大阪を想定した１１対１１のミニゲームなどで調整した。今季開幕から２戦連続でフル出場している",
+      "link": "https://news.yahoo.co.jp/articles/2913542ea55b3dc3043aa94ddfc594934ab4fc5e?source=rss",
+      "pubDate": "2026-08-19T05:16:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2913542ea55b3dc3043aa94ddfc594934ab4fc5e?source=rss"
+        }
+      ]
+    },
     {
       "title": "浦和レッズ開幕2連敗、8失点に金子拓郎が危機感「そんな甘いこと言ってる場合じゃない」",
       "summary": "浦和レッズは8月15日、2026/27明治安田J1リーグ第2節でサンフレッチェ広島に1-4で敗れた。開幕戦のガンバ大阪戦に続く2連敗で、2試合で8失点。今季からチームキャプテンを務める4選手の一人、MF金子拓郎は「本当にチームとしての差を痛…",
@@ -18,11 +56,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/19/post992163/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/988bbdd220b8201201a8327fd4f07b863a4bdacb?source=rss"
         }
       ]
     },
