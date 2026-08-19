@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-19T15:31:31.599Z",
-  "count": 1743,
+  "generatedAt": "2026-08-19T16:18:32.614Z",
+  "count": 1744,
   "items": [
+    {
+      "title": "天皇杯 JFA第106回全日本サッカー選手権大会 全試合日程・結果・放送・配信予定一覧",
+      "summary": "2026年8月19日から行われる天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。",
+      "link": "https://www.footballchannel.jp/2026/08/20/post991491/",
+      "pubDate": "2026-08-19T15:47:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/20/post991491/"
+        }
+      ]
+    },
     {
       "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
       "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
@@ -1265,19 +1282,21 @@
       ]
     },
     {
-      "title": "金沢vs福島 試合記録",
-      "summary": "【J3第2節】(石川西部)金沢 4-3(前半0-2)福島[金]鈴木遼2(48分、75分)、大澤朋也(62分)、白輪地敬大(90分+4)[福]オウンゴール(20分)、岡田優希(23分)、狩野海晟(87分)[金]山本義道(65分)[福]芦部晃生…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456916-456916-fl",
+      "title": "FC大阪vs長野 試合記録",
+      "summary": "【J3第2節】(花園)FC大阪 4-2(前半1-1)長野[F]芳賀日陽(4分)、島田拓海(62分)、木匠貴大(78分)、東家聡樹(81分)[長]吉澤柊2(20分、54分)[F]東家聡樹(87分)[長]藤川虎太朗(81分)観衆:4,229人主…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456957-456957-fl",
       "pubDate": "2026-08-19T04:20:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "cerezo"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456916-456916-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456957-456957-fl"
         }
       ]
     },
