@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-08-19T14:03:24.277Z",
-  "count": 1739,
+  "generatedAt": "2026-08-19T14:59:25.774Z",
+  "count": 1742,
   "items": [
+    {
+      "title": "59歳カズが天皇杯で2ゴール! 大会最年長得点記録を更新(ゲキサカ)",
+      "summary": "福島ユナイテッドFCの元日本代表FW三浦知良が19日、天皇杯1回戦の大山サッカークラブ戦(○7-0)で大会最年長得点記録を59歳174日に更新した。 スタメン出場したカズは前半12分、PKを決め",
+      "link": "https://news.yahoo.co.jp/articles/83eb97ad33f416897c74d5e9e0cb154d4cac66f1?source=rss",
+      "pubDate": "2026-08-19T14:53:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/83eb97ad33f416897c74d5e9e0cb154d4cac66f1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】FC大阪、奈良に逆転勝ちで２回戦進出 ソウザが2G1A「練習でやっていた形」(日刊スポーツ)",
+      "summary": "＜天皇杯：奈良1－4FC大阪＞◇19日◇1回戦◇ロートF J3のFC大阪が奈良クラブとの“生駒山ダービー”を制し、2回戦に駒を進めた。 前半22分に先制を許すも、同42分に追い付いた。後半開始",
+      "link": "https://news.yahoo.co.jp/articles/be1b91ab60f6cc0673270bab72382f760edd7d9d?source=rss",
+      "pubDate": "2026-08-19T14:17:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/be1b91ab60f6cc0673270bab72382f760edd7d9d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "川崎F、MF永長鷹虎のベルギー2部ベールスホット完全移籍を発表 福島への育成型期限付き移籍は解除(スポニチアネックス)",
+      "summary": "川崎Fは19日、J3福島に育成型期限付き移籍している元U―20日本代表MF永長鷹虎（23）が両クラブ・選手合意のもと、期限付き移籍契約を解除し、ベルギー2部ベールスホットに完全移籍すると発表した。",
+      "link": "https://news.yahoo.co.jp/articles/06fbd9375a4dbd3451ab682ed2a8b67a2ced51c3?source=rss",
+      "pubDate": "2026-08-19T14:16:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/06fbd9375a4dbd3451ab682ed2a8b67a2ced51c3?source=rss"
+        }
+      ]
+    },
     {
       "title": "【天皇杯】奈良、生駒山ダービーでFC大阪に逆転負け「２点目取れなかったのが響いた」大黒監督(日刊スポーツ)",
       "summary": "＜天皇杯：奈良1－4FC大阪＞◇19日◇1回戦◇ロートF “生駒山ダービー”となったJ3対決で、奈良クラブはFC大阪に逆転負けして1回戦で姿を消した。 前半22分にCKの流れから先制に成功した",
@@ -1188,6 +1248,23 @@
       ]
     },
     {
+      "title": "金沢vs福島 試合記録",
+      "summary": "【J3第2節】(石川西部)金沢 4-3(前半0-2)福島[金]鈴木遼2(48分、75分)、大澤朋也(62分)、白輪地敬大(90分+4)[福]オウンゴール(20分)、岡田優希(23分)、狩野海晟(87分)[金]山本義道(65分)[福]芦部晃生…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456916-456916-fl",
+      "pubDate": "2026-08-19T04:20:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456916-456916-fl"
+        }
+      ]
+    },
+    {
       "title": "“32試合連続”の快挙も…J1で続くチケット完売劇「もっと多くの人が観戦できるようにして」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/669347",
@@ -1712,23 +1789,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/51d7d08f99de7874c89aa6539d070e7cee93f2b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "山口vs琉球 試合記録",
-      "summary": "【J3第2節】(みらスタ)山口 1-0(前半1-0)琉球[山]成岡輝瑠(20分)[琉]岩本翔(43分)、藤春廣輝(88分)、石浦大雅(90分+1)観衆:10,094人主審:本多文哉[レノファ山口FC]先発GK 35 内山圭DF 3 大岩一貴…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456900-456900-fl",
-      "pubDate": "2026-08-18T17:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456900-456900-fl"
         }
       ]
     },
