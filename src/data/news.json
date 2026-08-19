@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-08-19T11:15:20.718Z",
-  "count": 1725,
+  "generatedAt": "2026-08-19T11:46:52.365Z",
+  "count": 1728,
   "items": [
+    {
+      "title": "「まじですごい」「バケモノですか？」59歳174日。圧巻２発のカズにSNS沸騰！ 先発で58分までプレー「ヤバすぎ」(SOCCER DIGEST Web)",
+      "summary": "59歳と174日。福島ユナイテッドFCに所属する三浦知良が、脅威の決定力を見せつけた。 ８月19日に行なわれた天皇杯１回戦で、福島は大山サッカークラブと対戦。この試合に先発したカズは、12分にP",
+      "link": "https://news.yahoo.co.jp/articles/3611d05c7cff24a0c15f3e5f40311abcb62eac01?source=rss",
+      "pubDate": "2026-08-19T11:43:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3611d05c7cff24a0c15f3e5f40311abcb62eac01?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】59歳福島カズ、最年長弾含む２発 23年ぶり天皇杯本戦でのゴール(日刊スポーツ)",
+      "summary": "＜天皇杯：福島－大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドのカズことFW三浦知良が、59歳5カ月24日にして1回戦の大山サッカークラブ（山形）戦にキャプテンマークを巻いて先発出場",
+      "link": "https://news.yahoo.co.jp/articles/c059ff85905f3ac0aefc525f234d2e004bdaa967?source=rss",
+      "pubDate": "2026-08-19T11:39:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c059ff85905f3ac0aefc525f234d2e004bdaa967?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【愛知・名古屋アジア大会】３２年ぶりの日本開催まで１か月 井上康生団長「選手のパフォーマンスを最大限いかすサポートを」…都内で結団式(スポーツ報知)",
+      "summary": "愛知・名古屋などで開催されるアジア大会（９月１９日開幕）の開幕まで１か月となった１９日、日本選手団の結団式が都内で行われた。井上康生団長は会見で「選手たちが最高のパフォーマンスを発揮できるよう、チー",
+      "link": "https://news.yahoo.co.jp/articles/73956ffa35d989eb88da16e2b6af9fbeff55247b?source=rss",
+      "pubDate": "2026-08-19T11:38:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/73956ffa35d989eb88da16e2b6af9fbeff55247b?source=rss"
+        }
+      ]
+    },
     {
       "title": "待望ゴールは劇的8強進出弾!! 思わず涙溢れた京都U-15FW武田賢志「めちゃくちゃ嬉しくて泣いてしまった」(ゲキサカ)",
       "summary": "[8.19 クラセンU-15決勝T2回戦 京都U-15 2-1 C大阪U-15 白旗山A] 待望の今大会初得点は後半アディショナルタイムに突入する直前の劇的弾だった。京都サンガF.C.U-15FW",
@@ -26,14 +79,14 @@
       "summary": "＜天皇杯：福島－大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドFCのカズことFW三浦知良が、初戦の大山サッカークラブ（山形）戦でゴールを決めた。 前半12分にPKから右足でゴール",
       "link": "https://news.yahoo.co.jp/articles/c9b84c50a1905e24c9b8f0a27144bd08923a2999?source=rss",
       "pubDate": "2026-08-19T10:55:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c9b84c50a1905e24c9b8f0a27144bd08923a2999?source=rss"
         }
       ]
@@ -353,6 +406,23 @@
       ]
     },
     {
+      "title": "ラインメール青森vs秋田大 スタメン発表",
+      "summary": "[8.19 天皇杯1回戦](カクスタ)※18:00開始[ラインメール青森]先発GK 17 廣末陸DF 27 佐久間駿希DF 3 遠藤元一DF 2 今井那生MF 29 田頭亮太MF 41 長嶋風太FW 16 明石梓希DF 8 橋本陸FW 9…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457086-457086-fl",
+      "pubDate": "2026-08-19T08:21:37.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457086-457086-fl"
+        }
+      ]
+    },
+    {
       "title": "「個でやられても…」 J1アビスパ福岡、前線守備のキーマン重見柾斗が見据える王者鹿島との戦い 新加入選手と〝ぶっつけ本番〟で好連係(西スポWEB OTTO!)",
       "summary": "開幕2戦目で今季初勝利を手にしたJ1アビスパ福岡。Jリーグ公式戦6連敗中だったC大阪を相手に3―0の快勝を引き寄せたのは、J1定着の原動力となった「堅守」だった。 本拠地がゴールラッシュに沸いた",
       "link": "https://news.yahoo.co.jp/articles/c2e5ce0f7ab614d9a4282c7574d263a14f78f911?source=rss",
@@ -459,23 +529,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a4fba2637be94d9ea7ccafa0a75cf63dd1f650b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "アルテリーヴォ和歌山vs沼津 スタメン発表",
-      "summary": "[8.19 天皇杯1回戦](紀三井寺)※17:00開始[アルテリーヴォ和歌山]先発GK 1 兒島拓哉DF 17 下間蓮之介DF 4 山田大地DF 23 北奥蓮DF 19 中島雅尭DF 5 長岡道MF 14 中川慶虎MF 20 山瀬翔輝MF…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457082-457082-fl",
-      "pubDate": "2026-08-19T07:27:13.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457082-457082-fl"
         }
       ]
     },
@@ -2332,6 +2385,25 @@
       ]
     },
     {
+      "title": "群馬vs相模原 試合記録",
+      "summary": "【J3第2節】(正田スタ)群馬 1-4(前半0-2)相模原[群]小西宏登(90分+4)[相]島川俊郎(25分)、竹内崇人(45分)、佐々木快2(60分、63分)[群]中野力瑠(79分)[相]神戸康輔(83分)観衆:5,501人主審:矢野浩平…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456905-456905-fl",
+      "pubDate": "2026-08-18T01:20:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456905-456905-fl"
+        }
+      ]
+    },
+    {
       "title": "【王位戦】藤井聡太王位７連覇王手なるか、伊藤匠２冠がタイに戻すか 長崎でライバル対局始まる(日刊スポーツ)",
       "summary": "藤井聡太王位（竜王、名人、棋聖、棋王、王将＝24）に伊藤匠2冠（叡王、王座＝23）が挑戦する、将棋の伊藤園お～いお茶杯第67期王位戦7番勝負第4局が18日、長崎市の「ガーデンテラス長崎ホテル＆リゾー",
       "link": "https://news.yahoo.co.jp/articles/8211a29fe247dd4de2696648e5f0d8adfe86ccfe?source=rss",
@@ -2366,23 +2438,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/56991a4065e057366e9e0db784c888c28a956100?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "16歳トップデビューから3年…磐田MF川合徳孟は開幕2戦先発も悔しさ、代表入り視野に求める“結果”",
-      "summary": "[8.16 J2第2節 横浜FC 3-1 磐田 MUFG国立] 開幕2試合連続スタメンも今季初勝利に貢献できなかった。ジュビロ磐田の19歳MF川合徳孟は自身の出来について「ラストのシュートやパスの精度はかなりチャンスがあったなかで結果につな…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457029-457029-fl",
-      "pubDate": "2026-08-18T00:57:52.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457029-457029-fl"
         }
       ]
     },
