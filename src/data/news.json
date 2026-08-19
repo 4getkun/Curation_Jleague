@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T16:18:32.614Z",
+  "generatedAt": "2026-08-19T16:53:06.156Z",
   "count": 1744,
   "items": [
     {
@@ -60,16 +60,16 @@
       "summary": "＜天皇杯：奈良1－4FC大阪＞◇19日◇1回戦◇ロートF J3のFC大阪が奈良クラブとの“生駒山ダービー”を制し、2回戦に駒を進めた。 前半22分に先制を許すも、同42分に追い付いた。後半開始",
       "link": "https://news.yahoo.co.jp/articles/be1b91ab60f6cc0673270bab72382f760edd7d9d?source=rss",
       "pubDate": "2026-08-19T14:17:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/be1b91ab60f6cc0673270bab72382f760edd7d9d?source=rss"
         }
       ]
