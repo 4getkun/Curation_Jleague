@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-18T23:43:10.863Z",
-  "count": 1681,
+  "generatedAt": "2026-08-19T00:36:51.075Z",
+  "count": 1679,
   "items": [
+    {
+      "title": "「千葉のためにも、街のためにも」困難な状況に立ち向かったジェフ千葉・姫野誠。それでも本人は「結果がすべて」【コラム】(フットボールチャンネル)",
+      "summary": "令和8年8月千葉豪雨から2日後、ジェフユナイテッド千葉はホームでFC町田ゼルビアと対戦し、0－4で敗れた。一時は開催も危ぶまれたホーム開幕戦で先発したのが、千葉県出身で18歳の高校生Jリーガーの姫野",
+      "link": "https://news.yahoo.co.jp/articles/5377a6a74bdd45dc93995b5f0f777f976c531163?source=rss",
+      "pubDate": "2026-08-19T00:00:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5377a6a74bdd45dc93995b5f0f777f976c531163?source=rss"
+        }
+      ]
+    },
     {
       "title": "旗手怜央に「序列は下がったが貴重な戦力。あの頃はスコットランド最高の選手だった」。セルティック指揮官が言及(GOAL)",
       "summary": "セルティックのマーティン・オニール監督がMF旗手怜央について言及した。『THE CELTIC BOYS』が伝えている。 28歳の旗手は2022年にJ1川崎フロンターレからセルティックに加入。クラブの",
@@ -32681,69 +32700,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/20/post822213/"
-        }
-      ]
-    },
-    {
-      "title": "鹿島 DF濃野公人が海外移籍の手続きのためチームを離脱 米MLS移籍が決定的(スポニチアネックス)",
-      "summary": "鹿島は20日、DF濃野公人（24）が海外クラブへの移籍を前提とした手続きと準備のため、チームを離脱すると発表した。米MLSのDCユナイテッドに完全移籍することが決定的で、今後は現地でのメディカルチェ",
-      "link": "https://news.yahoo.co.jp/articles/ea82e0d274f01bd771b4da4ac04bef631b8fc46e?source=rss",
-      "pubDate": "2026-07-20T00:34:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ea82e0d274f01bd771b4da4ac04bef631b8fc46e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島の24歳DF濃野公人が海外移籍を前提にチーム離脱!! 大卒1年目はSBながら9得点でベストイレブン(ゲキサカ)",
-      "summary": "鹿島アントラーズは20日、DF濃野公人(24)が海外クラブへの移籍を前提とした手続きと準備のため、チームを離脱すると発表した。 濃野は大津高から関西学院大へ進み、2024年に鹿島に加入。大卒1年",
-      "link": "https://news.yahoo.co.jp/articles/d93852f73514e0876b9b8627d2d7263e354d6f34?source=rss",
-      "pubDate": "2026-07-20T00:32:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d93852f73514e0876b9b8627d2d7263e354d6f34?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "濃野公人が海外へ！ 鹿島アントラーズが｢移籍を前提とした手続きと準備のため｣チームからの離脱を発表",
-      "summary": "J1リーグの鹿島アントラーズは20日、24歳のDF濃野公人が海外クラブへの移籍を前提とした手続きと準備のため、チームを離脱することになったと発表した。クラブ公式サイトで伝えられている。鹿島の不動の右サイドバックがついに海外へ移籍となる。",
-      "link": "https://www.footballchannel.jp/2026/07/20/post951405/",
-      "pubDate": "2026-07-20T00:22:03.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/20/post951405/"
         }
       ]
     }
