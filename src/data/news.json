@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-08-19T07:13:00.422Z",
-  "count": 1703,
+  "generatedAt": "2026-08-19T08:00:02.771Z",
+  "count": 1704,
   "items": [
+    {
+      "title": "J2「地獄すぎるワースト記録」（3）通算470敗、最終節で1－13…。歴史に刻まれた黒星(フットボールチャンネル)",
+      "summary": "J1昇格を目指し、毎シーズン激しい戦いが繰り広げられてきたJ2。その歴史を振り返れば、圧倒的な強さでカテゴリーを駆け抜けたクラブがある一方、出口の見えない苦しい時間を過ごしたクラブも数多い。19試合続",
+      "link": "https://news.yahoo.co.jp/articles/a4fba2637be94d9ea7ccafa0a75cf63dd1f650b8?source=rss",
+      "pubDate": "2026-08-19T07:50:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a4fba2637be94d9ea7ccafa0a75cf63dd1f650b8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "アルテリーヴォ和歌山vs沼津 スタメン発表",
+      "summary": "[8.19 天皇杯1回戦](紀三井寺)※17:00開始[アルテリーヴォ和歌山]先発GK 1 兒島拓哉DF 17 下間蓮之介DF 4 山田大地DF 23 北奥蓮DF 19 中島雅尭DF 5 長岡道MF 14 中川慶虎MF 20 山瀬翔輝MF…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457082-457082-fl",
+      "pubDate": "2026-08-19T07:27:13.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457082-457082-fl"
+        }
+      ]
+    },
+    {
+      "title": "【ACL2】町田初戦ホームでカンボジアのスバイリエンと対戦 第２戦はシンガポールでアウェー戦(日刊スポーツ)",
+      "summary": "日本サッカー協会は19日、ACLEの下位大会、ACL2の1次リーグの日程を発表し、G組の町田ゼルビアはホームでの9月17日の第1戦でスバイリエン（カンボジア）と対戦することになった。 10月15",
+      "link": "https://news.yahoo.co.jp/articles/f7ff5e3f3f6c33d053d8b834dc89e586595af393?source=rss",
+      "pubDate": "2026-08-19T07:25:35.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f7ff5e3f3f6c33d053d8b834dc89e586595af393?source=rss"
+        }
+      ]
+    },
     {
       "title": "天皇杯、1回戦から「薩摩vs長州」 好カード続出に反響…ダービー開催「胸熱ですね」",
       "summary": "",
@@ -3161,6 +3214,25 @@
       ]
     },
     {
+      "title": "横浜FC新加入MF島村拓弥が初ゴール、持ち味発揮の鋭い突破でPKも誘発「前に入ってしまえばもうファウルしかできない」",
+      "summary": "[8.16 J2第2節 横浜FC 3-1 磐田 MUFG国立] 新加入選手が勝利に貢献した。横浜FCのMF島村拓弥は後半3分にPKを獲得し、17分には加入後初得点となるチーム3点目を挙げた。「今日は2得点に絡むことができた。自分自身も早く点…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?456984-456984-fl",
+      "pubDate": "2026-08-16T21:34:37.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?456984-456984-fl"
+        }
+      ]
+    },
+    {
       "title": "浦和が英2部からMF瀬古樹を完全移籍で獲得。2年ぶりにJリーグ復帰(GOAL)",
       "summary": "浦和レッズがストーク・シティからMF瀬古樹を完全移籍で獲得したことを発表した。 明治大学から横浜FCへ加入した瀬古。2022年に川崎フロンターレに加入すると、3シーズンにわたって主力選手として活躍し",
       "link": "https://news.yahoo.co.jp/articles/00558a4588e352f80c5ef9bdeb7ef319283e0c5e?source=rss",
@@ -3317,23 +3389,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/130a07640430e05f15d14383a51f14b7d4cc4a57?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "湘南vs山形 試合記録",
-      "summary": "【J2第2節】(レモンS)湘南 1-0(前半0-0)山形[湘]袴田裕太郎(75分)[山]ディサロ燦シルヴァーノ(79分)、中村亮太朗(90分)観衆:11,583人主審:上原直人[湘南ベルマーレ]先発GK 31 真田幸太DF 2 松村晟怜DF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?456899-456899-fl",
-      "pubDate": "2026-08-16T15:40:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?456899-456899-fl"
         }
       ]
     },
@@ -21396,25 +21451,6 @@
       ]
     },
     {
-      "title": "大学生と小競り合いが発生…天皇杯・福岡県予選決勝で一発退場の北九州FW永井龍は2試合出場停止、クラブは内部調査結果を報告",
-      "summary": "ギラヴァンツ北九州は5日、1日に行われた天皇杯・福岡県予選決勝で退場となったFW永井龍への懲罰とクラブ内部調査の結果について発表した。 福岡予選決勝で北九州は福岡大と対戦。3-2と北九州がリードして迎えた後半アディショナルタイムに両チームの…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?456386-456386-fl",
-      "pubDate": "2026-08-05T06:01:33.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?456386-456386-fl"
-        }
-      ]
-    },
-    {
       "title": "Ｊ１浦和・曺貴裁監督 開幕戦のＧ大阪警戒「むちゃくちゃ能力の高い選手がいる」(東スポWEB)",
       "summary": "J1浦和の曺貴裁監督（57）が5日、さいたま市内で報道陣の取材に応じた。 シーズン移行1年目となる今季は、7日の開幕戦（パナスタ）でG大阪と対戦。浦和の指揮官としての戦いをスタートさせる曺監督は",
       "link": "https://news.yahoo.co.jp/articles/6cb2a324d6bbe50c5560f9354b2f11e8dc3a88d7?source=rss",
@@ -33121,27 +33157,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/20/post951642/"
-        }
-      ]
-    },
-    {
-      "title": "｢苦しい時間も多かったですが…｣荒木遼太郎、移籍先はシント＝トロイデンVVに決定！ 鹿島アントラーズから加入",
-      "summary": "鹿島アントラーズは20日、24歳のMF荒木遼太郎の移籍先がジュピラー・プロ・リーグ（ベルギー1部）のシント＝トロイデンVVに決定したことを発表した。両クラブの公式サイトで伝えられている。海外移籍のため、チームを離脱していたが、新天地はベルギ…",
-      "link": "https://www.footballchannel.jp/2026/07/20/post951606/",
-      "pubDate": "2026-07-20T07:17:33.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/20/post951606/"
         }
       ]
     }
