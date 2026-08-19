@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-08-19T14:59:25.774Z",
-  "count": 1742,
+  "generatedAt": "2026-08-19T15:31:31.599Z",
+  "count": 1743,
   "items": [
+    {
+      "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
+      "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
+      "link": "https://www.footballchannel.jp/2026/08/19/post991494/",
+      "pubDate": "2026-08-19T14:59:14.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/19/post991494/"
+        }
+      ]
+    },
     {
       "title": "59歳カズが天皇杯で2ゴール! 大会最年長得点記録を更新(ゲキサカ)",
       "summary": "福島ユナイテッドFCの元日本代表FW三浦知良が19日、天皇杯1回戦の大山サッカークラブ戦(○7-0)で大会最年長得点記録を59歳174日に更新した。 スタメン出場したカズは前半12分、PKを決め",
@@ -67,16 +84,16 @@
       "summary": "＜天皇杯：奈良1－4FC大阪＞◇19日◇1回戦◇ロートF “生駒山ダービー”となったJ3対決で、奈良クラブはFC大阪に逆転負けして1回戦で姿を消した。 前半22分にCKの流れから先制に成功した",
       "link": "https://news.yahoo.co.jp/articles/67dbe9dd1122b2da7715a86eae84d5adf0ed07dc?source=rss",
       "pubDate": "2026-08-19T13:55:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/67dbe9dd1122b2da7715a86eae84d5adf0ed07dc?source=rss"
         }
       ]
