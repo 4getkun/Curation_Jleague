@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-20T20:16:49.528Z",
-  "count": 1793,
+  "generatedAt": "2026-08-20T20:53:01.940Z",
+  "count": 1795,
   "items": [
+    {
+      "title": "8月22日「Jリーグ勝敗」予想（1）鹿島「不敗神話」崩壊か、王者の弱点を襲う福岡の刺客!2連敗の名古屋vs天敵のG大阪、因縁バトルに「波乱」の予兆!(サッカー批評Web)",
+      "summary": "王者・鹿島アントラーズの劇的勝利はいつまで続くのか? 絶好調に見えるチームに潜む「落とし穴」とは……。さらには開幕2連敗に苦しむ名古屋グランパスと天敵・ガンバ大阪の激突まで! 激動のJ1第3節を徹底",
+      "link": "https://news.yahoo.co.jp/articles/2d86d4914045d5f276e9a9bd4bdad3d38d2c2f03?source=rss",
+      "pubDate": "2026-08-20T20:30:36.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2d86d4914045d5f276e9a9bd4bdad3d38d2c2f03?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1初挑戦→初ゴールも「情けない」 身長165cmの苦労人が挑む“夢の舞台”「まだまだ力不足」(FOOTBALL ZONE)",
+      "summary": "今シーズンからクラブ史上で初めてJ1リーグを戦う水戸ホーリーホックが、複雑な思いとともにアニバーサリーを刻んだ。水戸信用金庫スタジアムにガンバ大阪を迎えた15日のホーム開幕戦で前半18分に先制しなが",
+      "link": "https://news.yahoo.co.jp/articles/3bcb9deacbded9a5376f680ab405074a61f4b751?source=rss",
+      "pubDate": "2026-08-20T20:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3bcb9deacbded9a5376f680ab405074a61f4b751?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1初挑戦→初ゴールも「情けない」 身長165cmの苦労人が挑む“夢の舞台”「まだまだ力不足」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669487",
+      "pubDate": "2026-08-20T20:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669487"
+        }
+      ]
+    },
     {
       "title": "飛び交った「時代遅れではないか」 17年ぶりJ1で苦戦も…果たすべき“使命”「裏切らない集団を」(FOOTBALL ZONE)",
       "summary": "2026年J1百年構想リーグ20位という立ち位置から”チャレンジャー”として26-27シーズンJ1に挑んでいるジェフユナイテッド市原・千葉。8月8日の初戦・サンフレッチェ広島戦、15日のホーム開幕戦",
@@ -34774,25 +34828,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/664597"
-        }
-      ]
-    },
-    {
-      "title": "FC東京 名古屋と練習試合で逆転勝利 新戦力ヴァリスは初実戦「収穫だと思う」(スポニチアネックス)",
-      "summary": "FC東京は北海道・白老キャンプ8日目、白老桜ケ丘公園陸上競技場で名古屋と練習試合（45分×3本）を行い、2―1で逆転勝利を挙げた。 1本目の4分に先制を許したが、室屋と小湊のゴールで逆転した。こ",
-      "link": "https://news.yahoo.co.jp/articles/e20fe569b0aa837c33a1e61478e9307accc8f161?source=rss",
-      "pubDate": "2026-07-21T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e20fe569b0aa837c33a1e61478e9307accc8f161?source=rss"
         }
       ]
     }
