@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-20T23:15:58.057Z",
-  "count": 1803,
+  "generatedAt": "2026-08-20T23:46:30.720Z",
+  "count": 1804,
   "items": [
+    {
+      "title": "中島翔哉、ポルティモネンセで背番号10に！「2部にいるクラブではない。昇格に貢献したい」(GOAL)",
+      "summary": "ポルティモネンセに加入したMF中島翔哉が入団会見で意気込みを語った。『O JOGO』が伝えている。 中島は2017年にFC東京からポルティモネンセにレンタル移籍で加入し、ポルティモネンセがトップリー",
+      "link": "https://news.yahoo.co.jp/articles/2f917be9a3097590895e18263e0428cc21a626ad?source=rss",
+      "pubDate": "2026-08-20T23:20:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2f917be9a3097590895e18263e0428cc21a626ad?source=rss"
+        }
+      ]
+    },
     {
       "title": "Jリーグ史に残る「サッカー一家」（1）J1史上初の兄弟対決！ 兄弟最多の215試合共闘(フットボールチャンネル)",
       "summary": "長い歴史を持つJリーグでは、これまで多くの兄弟や親子がプロの舞台に立ってきた。兄弟で敵味方に分かれて対戦したケースもあれば、同じチームで215試合も共闘した双子、親子2代で日本代表のピッチに立った一",
@@ -2008,6 +2030,23 @@
       ]
     },
     {
+      "title": "岩手vs札幌大 試合記録",
+      "summary": "【天皇杯1回戦】(いわスタ)岩手 1-0(前半0-0)札幌大[岩]石田崚真(90分+4)[札]山岸武尊(23分)主審:高橋睦副審:阿部将茂、宇治原拓也[いわてグルージャ盛岡]先発GK 1 池末知史DF 17 石田崚真DF 4 牟田雄祐DF…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457117-457117-fl",
+      "pubDate": "2026-08-19T12:15:58.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457117-457117-fl"
+        }
+      ]
+    },
+    {
       "title": "【天皇杯】福島カズ２発に「覚醒」「生きる伝説」「ケチつける人を結果で黙らせる」SNSも歓喜(日刊スポーツ)",
       "summary": "＜天皇杯：福島7－0大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドFCのカズことFW三浦知良が、初戦の大山サッカークラブ（山形）戦でゴールを決めた。 前半12分にPKから右足でゴ",
       "link": "https://news.yahoo.co.jp/articles/83e413ed6710898e4435ba5ff5279137617253d7?source=rss",
@@ -2164,25 +2203,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/73956ffa35d989eb88da16e2b6af9fbeff55247b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ベルガロッソいわみvs長崎国際大 試合記録",
-      "summary": "【天皇杯1回戦】(みよし陸)ベルガロッソいわみ 2-0(前半2-0)長崎国際大[ベ]長谷川夢叶2(4分、31分)[長]德丸寛太(38分)主審:鈴木隆太副審:佐藤浩太、村田裕介[ベルガロッソいわみ]先発GK 1 横井健太DF 2 脇本晃成DF…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457115-457115-fl",
-      "pubDate": "2026-08-19T11:38:12.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "v-varen"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457115-457115-fl"
         }
       ]
     },
