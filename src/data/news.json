@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-20T22:15:51.202Z",
-  "count": 1802,
+  "generatedAt": "2026-08-20T22:51:31.526Z",
+  "count": 1803,
   "items": [
+    {
+      "title": "Jリーグ史に残る「サッカー一家」（1）J1史上初の兄弟対決！ 兄弟最多の215試合共闘(フットボールチャンネル)",
+      "summary": "長い歴史を持つJリーグでは、これまで多くの兄弟や親子がプロの舞台に立ってきた。兄弟で敵味方に分かれて対戦したケースもあれば、同じチームで215試合も共闘した双子、親子2代で日本代表のピッチに立った一",
+      "link": "https://news.yahoo.co.jp/articles/ea7885956d133e2644418f6f99767983e47ac585?source=rss",
+      "pubDate": "2026-08-20T22:50:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ea7885956d133e2644418f6f99767983e47ac585?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "[全中]神村学園GK東口葵音が敵将も脱帽の好守連発「あれくらいしないと親父には勝てない」父はG大阪GK「親を超すことを最終目標にしたい」(ゲキサカ)",
+      "summary": "[8.20 全中2回戦 神村学園5-2浜松開誠館 サンフレッチェビレッジ 広島第一球技場] 5-2という点差以上に難しい試合になった。前半のクーリングブレイク明けの20分過ぎから立て続けに4得点を",
+      "link": "https://news.yahoo.co.jp/articles/bd24787655573f38e4734b77d069b33f5b9eb7ee?source=rss",
+      "pubDate": "2026-08-20T22:25:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bd24787655573f38e4734b77d069b33f5b9eb7ee?source=rss"
+        }
+      ]
+    },
     {
       "title": "来季以降のACLE&ACL2出場枠の配分方法が決定 1位〜5位がACLE出場の対象に 天皇杯王者はACL2へ 出場権が重複した場合は……(theWORLD（ザ・ワールドWeb）)",
       "summary": "日本サッカー協会（JFA）は20日、2027-28シーズン以降のアジア・チャンピオンズリーグエリート（ACLE）およびアジア・チャンピオンズリーグ2（ACL2）のクラブノミネーション方法を決定したと発",
@@ -34929,25 +34967,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/22/post815586/"
-        }
-      ]
-    },
-    {
-      "title": "神戸トップ昇格ならず→J注目の逸材へ変貌 在学中のプロ入り視野…エレガントに隠された“真の武器”",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/664568",
-      "pubDate": "2026-07-21T22:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/664568"
         }
       ]
     }
