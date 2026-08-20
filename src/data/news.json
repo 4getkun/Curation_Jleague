@@ -1,7 +1,77 @@
 {
-  "generatedAt": "2026-08-20T09:03:07.577Z",
-  "count": 1783,
+  "generatedAt": "2026-08-20T09:57:08.513Z",
+  "count": 1785,
   "items": [
+    {
+      "title": "【天皇杯】５９歳カズ所属の福島、２回戦・横浜ＦＭ戦はＮＨＫＢＳでの生中継が決定(スポーツ報知)",
+      "summary": "日本サッカー協会は２０日、２６日に行われる「天皇杯ＪＦＡ第１０６回全日本サッカー選手権大会」２回戦について、全放送カードのテレビ放送・配信スケジュールが決定したことを発表した。 前日１９日の１回",
+      "link": "https://news.yahoo.co.jp/articles/c914b1f60e8e566502890d2b03eb1db6bf2eb601?source=rss",
+      "pubDate": "2026-08-20T09:54:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c914b1f60e8e566502890d2b03eb1db6bf2eb601?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "2027-28以降のACL出場枠が決定 J1上位3チームがエリート…4、5位がPO、天皇杯優勝クラブがACL2へ",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669527",
+      "pubDate": "2026-08-20T09:28:42.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669527"
+        }
+      ]
+    },
+    {
+      "title": "【G大阪】特別大会で連敗した名古屋と22日アウェー戦 明神監督「どう前進させるかがポイント」(日刊スポーツ)",
+      "summary": "ガンバ大阪は22日にアウェーで名古屋グランパスと対戦する。 20日は大阪・吹田市内の練習場で非公開調整。明神智和監督（48）は「アウェーではあるが、勝ち点3を取ることに集中する」と、リーグでの敵",
+      "link": "https://news.yahoo.co.jp/articles/bb410e3cad767e560ace43f87147157f08d066cc?source=rss",
+      "pubDate": "2026-08-20T09:21:47.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/bb410e3cad767e560ace43f87147157f08d066cc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "27/28シーズン以降のAFCクラブ大会出場枠が決定。 J1上位5クラブがACLE出場の対象に、天皇杯王者はACL2へ",
+      "summary": "日本サッカー協会（JFA）は20日、理事会を開催し、終了後にブリーフィングを実施。2027/28シーズン以降のAFCクラブ競技会における、日本の出場クラブのノミネーション方法について発表した。",
+      "link": "https://www.footballchannel.jp/2026/08/20/post993138/",
+      "pubDate": "2026-08-20T09:20:12.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/20/post993138/"
+        }
+      ]
+    },
     {
       "title": "「9得点の町田」と「8失点の浦和」 秋春制J1で早くも分かれた明暗(AERA DIGITAL)",
       "summary": "秋春制移行の2026/27シーズンが始まった。例外的な半年間の百年構想リーグを経ての開幕だったこともあり、各会場で目に付いたのがそれぞれのチームの完成度の違いだ。 試合の結果、内容を見ても、開幕",
@@ -27,16 +97,16 @@
       "summary": "ガンバ大阪は20日、大阪・吹田市内の練習場で非公開練習を行い、22日の名古屋グランパス戦（豊田ス）に向けて調整した。 今季守護神としてゴールを守り続けているGK荒木琉偉（18）は、名古屋のGKピ",
       "link": "https://news.yahoo.co.jp/articles/43e1b35c8371d11d320722ebe963d258ad973114?source=rss",
       "pubDate": "2026-08-20T08:57:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/43e1b35c8371d11d320722ebe963d258ad973114?source=rss"
         }
       ]
@@ -1505,6 +1575,25 @@
       ]
     },
     {
+      "title": "ラインメール青森vs秋田大 スタメン発表",
+      "summary": "[8.19 天皇杯1回戦](カクスタ)※18:00開始主審:松田信清副審:林可人、清水拓[ラインメール青森]先発GK 17 廣末陸DF 27 佐久間駿希DF 3 遠藤元一DF 2 今井那生MF 29 田頭亮太MF 41 長嶋風太FW 16…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457086-457086-fl",
+      "pubDate": "2026-08-19T11:32:22.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457086-457086-fl"
+        }
+      ]
+    },
+    {
       "title": "待望ゴールは劇的8強進出弾!! 思わず涙溢れた京都U-15FW武田賢志「めちゃくちゃ嬉しくて泣いてしまった」(ゲキサカ)",
       "summary": "[8.19 クラセンU-15決勝T2回戦 京都U-15 2-1 C大阪U-15 白旗山A] 待望の今大会初得点は後半アディショナルタイムに突入する直前の劇的弾だった。京都サンガF.C.U-15FW",
       "link": "https://news.yahoo.co.jp/articles/231ead712a56b167a3b2d5734a2baea775b30ea0?source=rss",
@@ -1520,23 +1609,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/231ead712a56b167a3b2d5734a2baea775b30ea0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "アルテリーヴォ和歌山vs沼津 試合記録",
-      "summary": "【天皇杯1回戦】(紀三井寺)アルテリーヴォ和歌山 0-6(前半0-2)沼津[沼]内田優晟(29分)、滝裕太2(38分、48分)、篠崎輝和(59分)、川又堅碁(69分)、真家英嵩(75分)[ア]長岡道(90分+5)主審:金渕佑亮副審:井出本瞭…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457111-457111-fl",
-      "pubDate": "2026-08-19T11:00:33.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457111-457111-fl"
         }
       ]
     },
@@ -34571,48 +34643,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/402b74528026d089c53f18314bfabf63c5b5140c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｇ大阪の明神智和監督が就任会見「ハングリーになろう」「ついにタイミングが来た」「いつなってもいい準備を最大限にしてきた」新指揮官への一問一答２(スポーツ報知)",
-      "summary": "Ｇ大阪の明神智和新監督が２１日、大阪・吹田市のパナソニックスタジアムで就任会見に臨んだ。サウジアラビア１部アルイテハドに移ったビッシング前監督の退任が１０日に発表され、１８日に就任した。 以下は一",
-      "link": "https://news.yahoo.co.jp/articles/a25c2ebb72b24c9584d79b1d203e122423737baa?source=rss",
-      "pubDate": "2026-07-21T09:56:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a25c2ebb72b24c9584d79b1d203e122423737baa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【G大阪】明神智和新監督が就任会見 「勝つことが一番。そのために自分の全てを捧げたい」(日刊スポーツ)",
-      "summary": "ガンバ大阪は21日、パナソニックスタジアムで18日に新指揮官に就任した明神智和監督（48）の記者会見を行った。 会見には明神新監督と水谷尚人社長（59）、三上大勝フットボール本部長（54）が参加",
-      "link": "https://news.yahoo.co.jp/articles/d607479600370e62b03e5fc4a32d8df54ae95e6a?source=rss",
-      "pubDate": "2026-07-21T09:18:16.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d607479600370e62b03e5fc4a32d8df54ae95e6a?source=rss"
         }
       ]
     }
