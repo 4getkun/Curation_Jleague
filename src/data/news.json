@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-08-20T05:01:23.833Z",
-  "count": 1769,
+  "generatedAt": "2026-08-20T05:52:48.904Z",
+  "count": 1771,
   "items": [
+    {
+      "title": "「日本代表入りしたら面白い選手」元Jリーガー注目の“AIチーター”が浦和の起爆剤になる可能性も(SOCCER DIGEST Web)",
+      "summary": "元JリーガーでW杯戦士の鄭大世氏が「日本代表入りしたら面白い選手」として挙げたひとりが、浦和レッズの肥田野蓮治だ。 「イケイケ系のプレーヤーで、僕は“AIチーター”と呼んでいます」 なぜ“チー",
+      "link": "https://news.yahoo.co.jp/articles/3f28f9807a90e485db2b8ec5293f3f74e6bcffaf?source=rss",
+      "pubDate": "2026-08-20T05:49:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3f28f9807a90e485db2b8ec5293f3f74e6bcffaf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ピカチュウとエースバーンが国立に大集合！ FC東京vs千葉で「ポケモンJリーグスペシャルフェス」開催(GOAL)",
+      "summary": "FC東京は、21日（金）にMUFGスタジアム（国立競技場）で行われる2026/27明治安田J1リーグ第3節・ジェフユナイテッド千葉戦で、「ポケモンJリーグスペシャルフェス」を開催する。 Jリーグは、",
+      "link": "https://news.yahoo.co.jp/articles/a13df4be6b30aceb79659b692fffda67e33a883a?source=rss",
+      "pubDate": "2026-08-20T05:47:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo",
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a13df4be6b30aceb79659b692fffda67e33a883a?source=rss"
+        }
+      ]
+    },
     {
       "title": "鹿島アントラーズ、大貫琉偉、平島大悟、福岡勇和のトップチーム昇格を発表！ 世代別日本代表の3選手がJリーグへ",
       "summary": "J1リーグの鹿島アントラーズは20日、ユースに所属するMF大貫琉偉、MF平島大悟、MF福岡勇和の3選手がトップチームに昇格したことを発表した。クラブ公式サイトで伝えられている。世代別の日本代表にも選出されている3人のMFがJリーグで戦う。",
@@ -21,11 +62,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/20/post992955/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c1f2ba16924dea0f1821f5318d77ca1cf9c2509c?source=rss"
         }
       ]
     },
@@ -1504,6 +1540,27 @@
       ]
     },
     {
+      "title": "福岡GK小畑裕馬が結婚「新たな責任と覚悟を胸に、ピッチ内外でこれまで以上に成長していきたい」",
+      "summary": "アビスパ福岡は19日、GK小畑裕馬(24)が入籍したことを発表した。相手は一般人のため、名前などの公表は差し控えるとしている。 小畑は2025年にベガルタ仙台から完全移籍。2026特別シーズンのJ1百年構想リーグでは6試合に出場した。今季は…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457088-457088-fl",
+      "pubDate": "2026-08-19T08:45:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457088-457088-fl"
+        }
+      ]
+    },
+    {
       "title": "「新たな責任と覚悟を胸に」J1アビスパ福岡のGK小畑裕馬が結婚発表(西スポWEB OTTO!)",
       "summary": "J1アビスパ福岡は19日、GK小畑裕馬（24）が一般女性と結婚したと発表した。 宮城県出身の小畑は、福岡加入初年度の2025年にリーグ戦でチーム最多となる20試合に出場。 今年の明治安田J1百",
       "link": "https://news.yahoo.co.jp/articles/c1245d315ea6eb433e749afbbc74066468608370?source=rss",
@@ -1782,23 +1839,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7169a26ff8cfdf23bcf7b9ecb68efce8aafaee51?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ピッチに向けて中指を立てる…磐田が観客1名に無期限入場禁止処分",
-      "summary": "ジュビロ磐田は19日、MUFGスタジアム(国立競技場)で16日に開催されたJ2第2節・横浜FC戦(●1-3)で、磐田を応援する観客1名の観戦ルール違反行為があったと報告した。 違反の対象となったのは侮辱的行為(中指を立てる行為)。クラブは公…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457072-457072-fl",
-      "pubDate": "2026-08-19T06:53:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457072-457072-fl"
         }
       ]
     },
