@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-20T21:18:03.386Z",
+  "generatedAt": "2026-08-20T21:50:04.430Z",
   "count": 1799,
   "items": [
+    {
+      "title": "【川崎競輪 F1】小嶋敬二が連勝で決勝へ 落車程度じゃ驚かない「これは後ろから来ないなと」(スポニチアネックス)",
+      "summary": "川崎競輪場のF1「スピCHスカパー杯 CTC杯」は2日目を終えた。 4RのA級準決勝。「社長！」と大声援が飛んだ。小嶋敬二（56＝石川）が単騎ガマシで1着をもぎ取った。 「行った時に（後方で",
+      "link": "https://news.yahoo.co.jp/articles/a3cb60b3799bed86d0e48d355f1212e8b35d1c3b?source=rss",
+      "pubDate": "2026-08-20T21:40:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a3cb60b3799bed86d0e48d355f1212e8b35d1c3b?source=rss"
+        }
+      ]
+    },
     {
       "title": "Jクラブ新ユニが「素晴らしいデザイン」 専門家が絶賛…襷デザインは「クラブの哲学」(FOOTBALL ZONE)",
       "summary": "Jリーグは2026-27シーズンから秋春制へと移行する。8月7日に開幕しJ1は6月初旬、J2とJ3は5月末までのリーグ戦を予定している。そんななか、サッカーユニフォーム研究家である「ともさん」はいわ",
@@ -2035,10 +2054,10 @@
       ]
     },
     {
-      "title": "ベルガロッソいわみvs長崎国際大 スタメン発表",
-      "summary": "[8.19 天皇杯1回戦](みよし陸)※18:00開始主審:鈴木隆太副審:佐藤浩太、村田裕介[ベルガロッソいわみ]先発GK 1 横井健太DF 2 脇本晃成DF 5 伊藤太陽DF 28 西尾響DF 33 北村隼MF 6 林莞大MF 7 伊藤励…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457087-457087-fl",
-      "pubDate": "2026-08-19T11:37:45.000Z",
+      "title": "ベルガロッソいわみvs長崎国際大 試合記録",
+      "summary": "【天皇杯1回戦】(みよし陸)ベルガロッソいわみ 2-0(前半2-0)長崎国際大[ベ]長谷川夢叶2(4分、31分)[長]德丸寛太(38分)主審:鈴木隆太副審:佐藤浩太、村田裕介[ベルガロッソいわみ]先発GK 1 横井健太DF 2 脇本晃成DF…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457115-457115-fl",
+      "pubDate": "2026-08-19T11:38:12.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
@@ -2049,7 +2068,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457087-457087-fl"
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457115-457115-fl"
         }
       ]
     },
@@ -34874,30 +34893,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/22/post952086/"
-        }
-      ]
-    },
-    {
-      "title": "曺貴裁監督も「すぐに結果を出したわけじゃない」 指揮官就任も焦らず…京都が目指す“進化”「土台を作る」(FOOTBALL ZONE)",
-      "summary": "8月7日に幕を開ける26-27シーズン・Jリーグ。93年の発足以来、「春開幕・冬閉幕」というサイクルだったリーグが、「夏開幕・春閉幕」となるのだから、各クラブともにプレシーズンの準備を手探りで行って",
-      "link": "https://news.yahoo.co.jp/articles/915f5035197fa93aee81e939c2f29e53f055b72e?source=rss",
-      "pubDate": "2026-07-21T21:50:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/915f5035197fa93aee81e939c2f29e53f055b72e?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/664597"
         }
       ]
     }
