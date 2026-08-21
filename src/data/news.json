@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-21T04:08:24.205Z",
-  "count": 1815,
+  "generatedAt": "2026-08-21T05:01:10.178Z",
+  "count": 1814,
   "items": [
+    {
+      "title": "岐阜МF荒木大吾がオーストリア2部へ「32歳でヨーロッパの地でサッカーができるチャンスを逃すわけにはいきません」(ゲキサカ)",
+      "summary": "FC岐阜は21日、МF荒木大吾(32)がブレゲンツ(オーストリア2部)に完全移籍することが決定 千葉県出身の荒木は柏レイソルU-18から青山学院大を経て、2016年にジュビロ磐田へ加入。2020",
+      "link": "https://news.yahoo.co.jp/articles/38d3ba58558c27151fb28ab9a9c805bf957e9d0d?source=rss",
+      "pubDate": "2026-08-21T04:53:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/38d3ba58558c27151fb28ab9a9c805bf957e9d0d?source=rss"
+        }
+      ]
+    },
     {
       "title": "「チャンスを逃すわけにはいきません」J3から欧州へ…岐阜MF荒木大吾がオーストリア2部へ完全移籍(GOAL)",
       "summary": "FC岐阜のMF荒木大吾がオーストリア2部SWブレゲンツに完全移籍することが発表された。 青山学院大学からジュビロ磐田に加入した荒木。京都サンガFCでの4シーズンを経て2024年にJ3のFC岐阜へ。1",
@@ -2395,19 +2416,21 @@
       ]
     },
     {
-      "title": "FC徳島vs川副クラブ スタメン発表",
-      "summary": "[8.19 天皇杯1回戦](鳴門大塚)※18:30開始主審:宮尾駿希副審:山村将弘、小野裕太[FC徳島]先発GK 1 大畑神唯DF 15 松下衣舞希DF 3 富永涼大DF 13 安部聖人MF 5 倉員宏人MF 19 岩崎雄永MF 16 高田…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457095-457095-fl",
-      "pubDate": "2026-08-19T12:30:19.000Z",
+      "title": "先制の流経大、JFLクラブを追い詰めるも延長戦で力尽きる…逆転勝利のクリアソン新宿が天皇杯2回戦へ!!",
+      "summary": "[8.19 天皇杯1回戦 流通経済大 1-2(延長) クリアソン新宿 Ksスタ] 天皇杯は19日、各地で1回戦を開催し、ケーズデンキスタジアム水戸では流通経済大(茨城県代表)とクリアソン新宿(東京都代表、JFL)が対戦。延長戦の末に2-1の…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457121-457121-fl",
+      "pubDate": "2026-08-19T12:35:09.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "hollyhock"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457095-457095-fl"
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457121-457121-fl"
         }
       ]
     },
@@ -35155,40 +35178,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a88b8b33a313b53d22bb0aca3e4fec28f63a0039?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "カズが新CMに登場！ 三浦知良が明治安田Jリーグ開幕告知に出演！ ｢すべてに覚悟を持ってやってきた｣5年ぶりのJ復帰",
-      "summary": "明治安田生命保険相互会社は22日、新TV-CM『明治安田Jリーグ新開幕』篇の放映と三浦知良を起用したことを発表した。福島ユナイテッドFCで5年ぶりにJリーグでプレーした“キングカズ”が、新シーズンの告知でTV-CMに起用されている。",
-      "link": "https://www.footballchannel.jp/2026/07/22/post952398/",
-      "pubDate": "2026-07-22T04:19:29.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/22/post952398/"
-        }
-      ]
-    },
-    {
-      "title": "カズが新CMに登場！ 三浦知良が明治安田Jリーグ開幕告知に出演！ ｢すべてに覚悟を持ってやってきた｣5年ぶりのJ復帰(フットボールチャンネル)",
-      "summary": "明治安田生命保険相互会社は22日、新TV-CM『明治安田Jリーグ新開幕』篇の放映と三浦知良を起用したことを発表した。福島ユナイテッドFCで5年ぶりにJリーグでプレーした“キングカズ”が、新シーズンの",
-      "link": "https://news.yahoo.co.jp/articles/18154da572c77aaedcd152a6088cc0ace8720f2a?source=rss",
-      "pubDate": "2026-07-22T04:19:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/18154da572c77aaedcd152a6088cc0ace8720f2a?source=rss"
         }
       ]
     }
