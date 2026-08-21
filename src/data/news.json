@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-21T23:14:00.033Z",
+  "generatedAt": "2026-08-21T23:44:49.750Z",
   "count": 1892,
   "items": [
+    {
+      "title": "長崎一筋の米田隼也、8年ぶりJ1先発出場「個人的にはいいパフォーマンス」 遠藤渓太を封じるも足の張りで交代「後半もやりたかった」(サッカーキング)",
+      "summary": "V・ファーレン長崎一筋を貫くMF米田隼也が、今季初スタメンでピッチを駆けた。J1でのスタメン出場は、自身がプロデビューを飾った2018年以来8年ぶりとなった。 両チームともに『3-4-2-1』を",
+      "link": "https://news.yahoo.co.jp/articles/481854043f1b78f5eb2551944dd890ff7984699f?source=rss",
+      "pubDate": "2026-08-21T23:15:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/481854043f1b78f5eb2551944dd890ff7984699f?source=rss"
+        }
+      ]
+    },
     {
       "title": "千葉は開幕3連敗、0ゴール9失点と苦戦が続く…… 小林慶行監督は「ゲームをコントロールする時間があまりにも少ない」(theWORLD（ザ・ワールドWeb）)",
       "summary": "ジェフユナイテッド千葉は21日、J1リーグ第3節でFC東京と対戦し、0-2で敗戦した。 MUFGスタジアム（国立競技場）にて行われたこの一戦、序盤からFC東京にボールを握られ劣勢の状況に。前半をなん",
@@ -36646,30 +36665,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/05cd8d347569514d6428874487413a3a1ce62973?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1岡山に「サプライズ！」プレミア所属歴ある27歳GK加入か 独紙「契約したいため呼び寄せた」(FOOTBALL ZONE)",
-      "summary": "ドイツ1部ブレーメンは、オーストリアのチロル州ツェル・アム・ツィラーで行われているトレーニングキャンプにおいて、現地時間7月22日にJ1ファジアーノ岡山とテストマッチを行う。ドイツ紙「ビルト」は、日",
-      "link": "https://news.yahoo.co.jp/articles/213409bf4fc1023cc3cffb6bc6f40776f52a6c71?source=rss",
-      "pubDate": "2026-07-22T23:31:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fagiano"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/213409bf4fc1023cc3cffb6bc6f40776f52a6c71?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/664851"
         }
       ]
     }
