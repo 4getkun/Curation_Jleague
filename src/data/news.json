@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-08-21T09:05:34.648Z",
-  "count": 1831,
+  "generatedAt": "2026-08-21T09:57:55.399Z",
+  "count": 1833,
   "items": [
+    {
+      "title": "【コンサドーレ】J1昇格ライバル大宮とホームで激突！早くも迎える注目の一戦 川井監督「J2トップのチーム。だからこそやりがいがある」(STVニュース北海道)",
+      "summary": "J2北海道コンサドーレ札幌は、あす22日(土)にホーム・プレミストドームでRB大宮アルディージャとの第３節を迎える。 札幌はここまで１勝１敗。開幕ダッシュに乗るためには、あすの白星は欠かせない。J1昇",
+      "link": "https://news.yahoo.co.jp/articles/e0bb013a99939f3d3b134b714b192b7ccaff4e0e?source=rss",
+      "pubDate": "2026-08-21T09:56:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e0bb013a99939f3d3b134b714b192b7ccaff4e0e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ史に残る「サッカー一家」（3）兄弟でJ1の監督！？ 親子でJ1プレーした第1号は？(フットボールチャンネル)",
+      "summary": "長い歴史を持つJリーグでは、これまで多くの兄弟や親子がプロの舞台に立ってきた。兄弟で敵味方に分かれて対戦したケースもあれば、同じチームで215試合も共闘した双子、親子2代で日本代表のピッチに立った一",
+      "link": "https://news.yahoo.co.jp/articles/1ea722bb126591cd5d7aea9e4e7078d0dcd5ce36?source=rss",
+      "pubDate": "2026-08-21T09:51:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1ea722bb126591cd5d7aea9e4e7078d0dcd5ce36?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U－21神戸手倉森監督「一流を目指すため。人間教育的なところも」U－21Jリーグが22日開幕(日刊スポーツ)",
+      "summary": "若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21 Jリーグが22日に開幕する。 新リーグスタートを前に、ヴィッセル神戸とガンバ大阪の指揮",
+      "link": "https://news.yahoo.co.jp/articles/48c09f6d8c6413e8c280428dd04ace7131786e24?source=rss",
+      "pubDate": "2026-08-21T09:30:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/48c09f6d8c6413e8c280428dd04ace7131786e24?source=rss"
+        }
+      ]
+    },
     {
       "title": "J1第7節・京都vs柏&神戸vs鹿島の試合日程が決定(ゲキサカ)",
       "summary": "Jリーグは21日、18日に実施されたAFCチャンピオンズリーグエリート(ACLE)の組み合わせ抽選会の結果を受け、J1リーグ第7節の京都サンガF.C.対柏レイソル、ヴィッセル神戸対鹿島アントラーズの",
@@ -2836,19 +2891,21 @@
       ]
     },
     {
-      "title": "長野vs福井ユナイテッド 試合記録",
-      "summary": "【天皇杯1回戦】(サンアル)長野 2-1(前半0-1)福井ユナイテッド[長]行德瑛(85分)、吉田桂介(89分)[福]若月尋(26分)[長]行德瑛(35分)主審:眞尾龍副審:長田望、橋本真光[AC長野パルセイロ]先発GK 31 牧野虎太郎D…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457126-457126-fl",
-      "pubDate": "2026-08-19T13:06:46.000Z",
+      "title": "金沢星稜大vs京都産業大 スタメン発表",
+      "summary": "[8.19 天皇杯1回戦](石川西部)※19:00開始主審:舟橋崇正副審:佐藤裕一、加藤正和[金沢星稜大]先発GK 28 北野豊己DF 2 西松勇里DF 5 宮崎陽DF 14 藤井陽生DF 19 川原悠太郎MF 13 工藤葵柊MF 25 高…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457102-457102-fl",
+      "pubDate": "2026-08-19T13:10:51.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "sanga"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457126-457126-fl"
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457102-457102-fl"
         }
       ]
     },
@@ -35492,30 +35549,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/664774"
-        }
-      ]
-    },
-    {
-      "title": "昌子源が新シーズンもFC町田ゼルビアのキャプテンに就任！ 下田北斗＆谷晃生が副キャプテンとして支える(フットボールチャンネル)",
-      "summary": "FC町田ゼルビアは22日、2026/27シーズンのキャプテン・副キャプテンが決定したことを発表した。 キャプテンには、昨季に続いてDF昌子源が就任。副キャプテンにはMF下田北斗とGK谷晃生が選",
-      "link": "https://news.yahoo.co.jp/articles/cacfc46c6beb27183b31d49aa1619022502e0829?source=rss",
-      "pubDate": "2026-07-22T09:50:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cacfc46c6beb27183b31d49aa1619022502e0829?source=rss"
-        },
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/22/post952623/"
         }
       ]
     }
