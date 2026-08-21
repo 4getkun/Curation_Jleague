@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-21T10:55:19.156Z",
+  "generatedAt": "2026-08-21T11:16:54.940Z",
   "count": 1838,
   "items": [
     {
-      "title": "【広島】ドラ６西川篤夢が「９番遊撃」で初のスタメン「自分のできることを発揮したい」 (日刊スポーツ)",
-      "summary": "＜巨人－広島＞◇21日◇東京ドーム 広島ドラフト6位の西川篤夢内野手（18）が「9番遊撃」でプロ初のスタメン出場を果たした。「自分のできることを発揮したい。積み重ねてきたことをやっていきたい」。0",
-      "link": "https://news.yahoo.co.jp/articles/b4cd4e0f2f9a4ab12d1edba104d91f8ebe486a17?source=rss",
-      "pubDate": "2026-08-21T10:44:59.000Z",
+      "title": "[全中]インハイ優勝の先輩とともに連覇で“静学の夏”に…4強進出の静岡学園「注目が集まる中で自分たちも優勝を」(ゲキサカ)",
+      "summary": "[8.21 全中準々決勝 静岡学園3-1青森山田 サンフレッチェビレッジ 広島第一球技] 2年連続の優勝を狙う静岡学園中(東海/静岡)が、難敵の青森山田中(東北/青森)に競り勝って、聖望学園中(関",
+      "link": "https://news.yahoo.co.jp/articles/788b509cf310670da54a42c036b83a17800b7768?source=rss",
+      "pubDate": "2026-08-21T11:15:01.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
@@ -17,6 +17,25 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/788b509cf310670da54a42c036b83a17800b7768?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】ドラ６西川篤夢が「９番遊撃」で初のスタメン「自分のできることを発揮したい」 (日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇21日◇東京ドーム 広島ドラフト6位の西川篤夢内野手（18）が「9番遊撃」でプロ初のスタメン出場を果たした。「自分のできることを発揮したい。積み重ねてきたことをやっていきたい」。0",
+      "link": "https://news.yahoo.co.jp/articles/b4cd4e0f2f9a4ab12d1edba104d91f8ebe486a17?source=rss",
+      "pubDate": "2026-08-21T10:44:59.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b4cd4e0f2f9a4ab12d1edba104d91f8ebe486a17?source=rss"
         }
       ]
@@ -35621,25 +35640,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3399e24076b6a37a679bb01c604c04c7505aa910?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】持丸泰輝「自分のスイングができるように心がけて…」３戦ぶりスタメンで５号ソロ(日刊スポーツ)",
-      "summary": "＜巨人－広島＞◇22日◇東京ドーム 3戦ぶりにスタメンマスクを被った広島持丸泰輝捕手（24）が、6月6日オリックス戦以来となる5号ソロを放った。1点を先制された直後の2回。2死から同点ソロを放った",
-      "link": "https://news.yahoo.co.jp/articles/8291be31fd0c590117531f654afe64b40a898331?source=rss",
-      "pubDate": "2026-07-22T11:07:22.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8291be31fd0c590117531f654afe64b40a898331?source=rss"
         }
       ]
     }
