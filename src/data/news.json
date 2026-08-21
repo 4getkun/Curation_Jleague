@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-21T15:00:14.063Z",
-  "count": 1866,
+  "generatedAt": "2026-08-21T15:36:05.880Z",
+  "count": 1867,
   "items": [
+    {
+      "title": "ＦＣ東京が今季Ｊ１初勝利 ポルトガル挑戦終えた安斎颯馬が追加点「自分もいるぞと見せたかった」(東スポWEB)",
+      "summary": "J1のFC東京は21日、明治安田J1リーグ第3節千葉戦（MUFG国立）に2―0で今季初勝利を飾った。 リーグ開幕戦の町田戦は1―5で大敗し、前節の神戸戦は2―2の引き分けで未勝利に終わっていた。",
+      "link": "https://news.yahoo.co.jp/articles/c45768e48662422d875a1c427f884356d7c6e27f?source=rss",
+      "pubDate": "2026-08-21T15:15:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c45768e48662422d875a1c427f884356d7c6e27f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "森保監督、W杯共闘のコーチ陣に自ら続投要請「最後まで戦いたいと思っていた」大岩体制への“橋渡し”も意識(ゲキサカ)",
+      "summary": "日本代表の森保一監督は21日、J1リーグ第3節・FC東京対ジェフユナイテッド千葉の視察後に取材に応じた。20日には日本代表のコーチングスタッフ7人の続投が決定。森保監督は「できればW杯を一緒に戦った",
+      "link": "https://news.yahoo.co.jp/articles/8cb032481556244e9de960f27bd30190ba9f978e?source=rss",
+      "pubDate": "2026-08-21T15:01:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8cb032481556244e9de960f27bd30190ba9f978e?source=rss"
+        }
+      ]
+    },
     {
       "title": "「０得点・９失点」の深刻さ。負のサイクルに陥った千葉、FC東京戦で露呈した“痛恨の問題”(SOCCER DIGEST Web)",
       "summary": "2026年８月21日、ジェフユナイテッド千葉がMUFGスタジアム（国立競技場）でFC東京と対戦。開幕２連敗の千葉は、立ち上がりから押し込まれながらも、局面に応じて柔軟に対応し、粘り強く耐え凌いだ。",
@@ -22,7 +60,7 @@
       ]
     },
     {
-      "title": "【日本代表】森保一監督 鈴木彩艶のアストンビラ加入に「考えただけでも、すごくうれしい」(東スポWEB)",
+      "title": "【日本代表】森保監督 鈴木彩艶のアストンビラ加入に「考えただけでも、すごくうれしい」(東スポWEB)",
       "summary": "日本代表の森保一監督が21日、明治安田J1リーグ第3節のFC東京―千葉戦（MUFG国立）を視察した。 試合後には、日本代表GK鈴木彩艶がイタリア1部パルマから、イングランド・プレミアリーグのアス",
       "link": "https://news.yahoo.co.jp/articles/269ea16b77efada46b7b878f7b715ab23a51a475?source=rss",
       "pubDate": "2026-08-21T14:45:30.000Z",
@@ -36156,25 +36194,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/367b132b79f805cf9c18d0df27c6dc31ae3e23fe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート・ＧIIIウエスタンヤング】山崎祥 準優１枠逃すも気配は抜群「行き足、レース足がいい」(東スポWEB)",
-      "summary": "ボートレース福岡のGIII「第13回ウエスタンヤング」は22日、4日間の予選が終了。準優勝戦に進むベスト18が決定した。 山崎祥（27＝山口）は3日目終了時点で得点率3位タイ。4日目4Rのイン戦",
-      "link": "https://news.yahoo.co.jp/articles/36d9d5a1e029b4b4304d06223aaaf6aa93bfdb3e?source=rss",
-      "pubDate": "2026-07-22T15:15:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/36d9d5a1e029b4b4304d06223aaaf6aa93bfdb3e?source=rss"
         }
       ]
     }
