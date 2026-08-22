@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-22T14:10:59.285Z",
-  "count": 1952,
+  "generatedAt": "2026-08-22T14:44:22.015Z",
+  "count": 1953,
   "items": [
+    {
+      "title": "J1C大阪・チアゴアンドラ―デが決勝点 途中出場続くも結果残し「与えられた時間の中で何ができるか」(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第3節第2日（22日、C大阪1－0清水、ハナサカ）C大阪は後半の得点を守り切って清水に勝利した。後半13分から途中出場のFWチアゴアンドラ―デ（25）が決勝点を奪った。 華麗に抜け",
+      "link": "https://news.yahoo.co.jp/articles/34efe2e6db77494ea07881ebc58c5efd4a71199a?source=rss",
+      "pubDate": "2026-08-22T14:12:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/34efe2e6db77494ea07881ebc58c5efd4a71199a?source=rss"
+        }
+      ]
+    },
     {
       "title": "【横浜】16歳三井寺眞「自分自身として結果を残したかった」初の日産で決勝点(日刊スポーツ)",
       "summary": "＜明治安田J1：横浜1－0神戸＞◇22日◇第3節◇日産スタジアム 横浜の16歳4カ月20日の超新星、MF三井寺眞が初見参となった本拠地・日産スタジアムで決勝点を挙げた。百年構想リーグ王者の神戸を相",
@@ -41,7 +60,7 @@
       ]
     },
     {
-      "title": "開幕3試合で3連勝、勝ちなしと明暗分かれる…J1の暫定順位表 水戸がクラブ史上初勝利を挙げる(FOOTBALL ZONE)",
+      "title": "J1の暫定順位表 開幕3戦→3連勝と未勝利で大きく明暗…水戸が“史上初”の勝ち点3(FOOTBALL ZONE)",
       "summary": "明治安田J1リーグは8月22日に第3節の7試合が行われ、暫定順位表が公開された。昨季王者鹿島アントラーズが3連勝を飾る一方で、連敗を重ねて失速したチームなど明暗が分かれた。 鹿島はアビスパ福岡を",
       "link": "https://news.yahoo.co.jp/articles/8fd96bdff72378c002f771c1068df9cfba85e489?source=rss",
       "pubDate": "2026-08-22T13:59:23.000Z",
@@ -226,16 +245,16 @@
       "summary": "＜明治安田J1：京都1－3水戸＞◇22日◇第3節◇サンガS 京都サンガF.C.はホーム開幕戦でも勝利を得られず、3戦未勝利となった。 前半から中盤で水戸ホーリーホックに自由を与え、連続失点。後",
       "link": "https://news.yahoo.co.jp/articles/0f69280ac09bc77585c06efdb81b50d23069ea07?source=rss",
       "pubDate": "2026-08-22T13:30:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanga"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0f69280ac09bc77585c06efdb81b50d23069ea07?source=rss"
         }
       ]
@@ -1552,21 +1571,21 @@
       ]
     },
     {
-      "title": "京都vs水戸 スタメン発表",
-      "summary": "[8.22 J1第3節](サンガS)※19:00開始主審:Harm Osmers[京都サンガF.C.]先発GK 1 太田岳志DF 2 福田心之助DF 43 ウェベルトンDF 44 佐藤響DF 50 鈴木義宜MF 6 ジョアン・ペドロMF 2…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457273-457273-fl",
-      "pubDate": "2026-08-22T08:53:01.000Z",
+      "title": "C大阪vs清水 スタメン発表",
+      "summary": "[8.22 J1第3節](ハナサカ)※19:00開始主審:Florian Exner[セレッソ大阪]先発GK 23 中村航輔DF 4 井上黎生人DF 27 ディオン・クールズDF 44 畠中槙之輔MF 2 中村拓海MF 8 香川真司MF 1…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457274-457274-fl",
+      "pubDate": "2026-08-22T08:59:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "sanga"
+        "cerezo"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457273-457273-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457274-457274-fl"
         }
       ]
     },
