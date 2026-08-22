@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-22T05:19:40.516Z",
-  "count": 1879,
+  "generatedAt": "2026-08-22T05:50:00.013Z",
+  "count": 1880,
   "items": [
+    {
+      "title": "浦和から覚悟の移籍で戸惑い「人生で初めて」 長友佑都らがライバル…飽和状態も実感した「伸びしろ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669719",
+      "pubDate": "2026-08-22T05:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669719"
+        }
+      ]
+    },
     {
       "title": "FC東京に帰ってきた安斎颯馬は“らしさ溢れる”ヘディング弾で今季初勝利に大きく貢献 「ファン、サポーターに『自分もいるぞ』というのをなんとしても見せたかった」(theWORLD（ザ・ワールドWeb）)",
       "summary": "FC東京のMF安斎颯馬はJ1リーグ第3節のジェフユナイテッド千葉戦でチームの2点目となるゴールを決め、今シーズン初勝利に大きく貢献した。 今夏ポルトガル2部リーグのペナフィエルから復帰を果たした安斎",
@@ -4612,6 +4633,23 @@
       ]
     },
     {
+      "title": "ヴェロスクロノス都農vs讃岐 スタメン発表",
+      "summary": "[8.19 天皇杯1回戦](いちご)※19:00開始主審:山田昌輝副審:原田大輔、中井恒[ヴェロスクロノス都農]先発GK 1 赤塚怜DF 6 柳田健太DF 4 井上将弥DF 20 藤田大道DF 16 高橋健MF 7 山内彰MF 19 鈴木琉…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457108-457108-fl",
+      "pubDate": "2026-08-19T13:36:20.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457108-457108-fl"
+        }
+      ]
+    },
+    {
       "title": "【天皇杯】鳥取が熊本とのJ3同士の対戦制す 点を取り合う展開もPK戦で決着 2回戦は26日にJ1名古屋と豊田スタジアムで対戦(中日スポーツ)",
       "summary": "◇１９日 天皇杯全日本サッカー選手権１回戦 鳥取２―２熊本 ＰＫ戦６―５（Ａｘｉｓバードスタジアム） Ｊ３同士の対戦となった試合は延長後半まで互いに点を取り合う展開となり、ＰＫ戦の末に鳥取が勝利。",
       "link": "https://news.yahoo.co.jp/articles/15f4b1ce10faf11027215c703e1535090c61a649?source=rss",
@@ -4648,23 +4686,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/38499ea788a3fe6e9df3c7048304879463db18ec?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ヴェルスパ大分vs高知 スタメン発表",
-      "summary": "[8.19 天皇杯1回戦](クラド)※19:00開始主審:村田裕紀副審:緒方孝浩、国吉真樹[ヴェルスパ大分]先発GK 31 石黒幹太DF 4 西村大吾DF 2 藤崎将汰DF 13 前田紘基MF 14 山崎一帆MF 8 國分龍司MF 22 瓜…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457133-457133-fl",
-      "pubDate": "2026-08-19T13:32:27.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457133-457133-fl"
         }
       ]
     },
