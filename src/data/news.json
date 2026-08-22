@@ -1,22 +1,79 @@
 {
-  "generatedAt": "2026-08-22T09:48:07.840Z",
-  "count": 1890,
+  "generatedAt": "2026-08-22T10:12:11.405Z",
+  "count": 1891,
   "items": [
     {
-      "title": "【G大阪】確かな手腕を発揮する明神智和監督「練習試合でも100％」現役時代から変わらぬ信条(日刊スポーツ)",
-      "summary": "ガンバ大阪の明神智和監督（48）が、就任から間もない中で確かな手腕を発揮している。 「多少の緊張はあった」という8月7日の開幕戦で浦和レッズとの打ち合いを制し、同11日にアジア・チャンピオンズリ",
-      "link": "https://news.yahoo.co.jp/articles/206e739caf64ecf709f1dcecb984c9417e7dda54?source=rss",
-      "pubDate": "2026-08-22T09:44:14.000Z",
+      "title": "［特集／J新世紀26/27 02］独占取材：林晴己（鹿島アントラーズ） レジェンドの「24」を受け継ぐ男 “名良橋晃イチオシ”22歳の挑戦(theWORLD（ザ・ワールドWeb）)",
+      "summary": "百年構想リーグでもEASTの1位に輝いた鹿島アントラーズは、新たに秋春制に生まれ変わったJ1で優勝候補とされるチーム。チームをMF三竿健斗、MF柴崎岳といったベテラン勢が引っ張る一方、FW徳田誉、FW",
+      "link": "https://news.yahoo.co.jp/articles/838064a1b37e887a8217f13966b8e7025f55580b?source=rss",
+      "pubDate": "2026-08-22T10:10:09.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "gamba"
+        "antlers"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/838064a1b37e887a8217f13966b8e7025f55580b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "［特集／J新世紀26/27 01］ 8月開幕で日本のサッカーはどうなる？ Jがリスタートする2026/27シーズン(theWORLD（ザ・ワールドWeb）)",
+      "summary": "2026年、日本サッカー界は大きく変わった。Jリーグのシーズンがこれまでの春秋制から秋春制へと移行され、8月7日に華々しく開幕した。長年J2を抜け出せなかった千葉がJ1に昇格したことで、記念すべきシー",
+      "link": "https://news.yahoo.co.jp/articles/7ce01a53f99c6732b484f65dcf6fb0428c2909e6?source=rss",
+      "pubDate": "2026-08-22T10:00:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7ce01a53f99c6732b484f65dcf6fb0428c2909e6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】新井監督「絞りづらかった」プロ初先発の代木大和に初勝利献上 復帰登板の玉村昇悟には「ゲームをつくってくれた」／一問一答(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・東京ドーム） 広島が２試合連続完封負けで連敗。８月の敵地は６戦全敗で、３カード連続の勝ち越しはならなかった。 先発・玉村は６回途中３失点で４敗目。",
+      "link": "https://news.yahoo.co.jp/articles/ee5f2c4d8420ca3053f4d684294ad803002a4f1e?source=rss",
+      "pubDate": "2026-08-22T09:53:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ee5f2c4d8420ca3053f4d684294ad803002a4f1e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【G大阪】確かな手腕を発揮する明神智和監督「練習試合でも100％」現役時代から変わらぬ信条(日刊スポーツ)",
+      "summary": "ガンバ大阪の明神智和監督（48）が、就任から間もない中で確かな手腕を発揮している。 「多少の緊張はあった」という8月7日の開幕戦で浦和レッズとの打ち合いを制し、同11日にアジア・チャンピオンズリ",
+      "link": "https://news.yahoo.co.jp/articles/206e739caf64ecf709f1dcecb984c9417e7dda54?source=rss",
+      "pubDate": "2026-08-22T09:44:14.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/206e739caf64ecf709f1dcecb984c9417e7dda54?source=rss"
         }
       ]
@@ -36566,48 +36623,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/9f30e6d508984746d232357f26226cc39342e50c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "３月から日本代表監督に就任する大岩剛氏とは 清水商、筑波大で１学年先輩の藤田俊哉氏「冷静」 ロス五輪世代の川合徳孟は「熱い監督」(スポーツ報知)",
-      "summary": "日本サッカー協会（ＪＦＡ）は２３日、日本代表の森保一監督が来年のアジアカップまで指揮を執り、その後はＵ―２３日本代表を率いてきた大岩剛監督が後任に就くことを正式発表した。大岩氏と同じ静岡市出身で、中",
-      "link": "https://news.yahoo.co.jp/articles/70ca6ab1cbf9b6e73302f8f31ed0ae67ba5b5549?source=rss",
-      "pubDate": "2026-07-23T09:59:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/70ca6ab1cbf9b6e73302f8f31ed0ae67ba5b5549?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京Ｖ】森田晃樹が開幕戦アウト…左鎖骨骨折全治６～10週間、田辺秀斗は左膝内側側副靱帯損傷(日刊スポーツ)",
-      "summary": "東京ヴェルディは23日、主将のMF森田晃樹（25）が左鎖骨骨折で全治6～10週間、DF田辺秀斗（24）が左膝内側側副靱帯損傷で全治6～10週間と診断されたと発表された。 シーズン移行により8月7",
-      "link": "https://news.yahoo.co.jp/articles/d222a29a215c6d2fde7a05c4b6b5425688fb7fe4?source=rss",
-      "pubDate": "2026-07-23T09:50:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d222a29a215c6d2fde7a05c4b6b5425688fb7fe4?source=rss"
         }
       ]
     }
