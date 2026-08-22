@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-08-22T14:44:22.015Z",
-  "count": 1953,
+  "generatedAt": "2026-08-22T15:10:21.423Z",
+  "count": 1955,
   "items": [
+    {
+      "title": "スーパー決勝弾の16歳MF三井寺眞「ボレーは得意じゃない」守備でもJ1適応「自分としても意識している」(ゲキサカ)",
+      "summary": "[8.22 J1第3節 横浜FM 1-0 神戸 日産ス] 注目の16歳が止まらない。横浜F・マリノスのMF三井寺眞は22日、J1第3節・神戸戦で開幕3試合連続の先発出場を勝ち取ると、前半7分にボレ",
+      "link": "https://news.yahoo.co.jp/articles/200e20dc7b88a18dd6f2d057c4e82b8d0818aa5a?source=rss",
+      "pubDate": "2026-08-22T14:58:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/200e20dc7b88a18dd6f2d057c4e82b8d0818aa5a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表GKからポジション奪取、開幕3戦連続スタメンの広島GK大内一生「どっちが出るとか関係なく」対峙した盟友GKブローダーセンとはユニ交換(ゲキサカ)",
+      "summary": "[8.22 J1第3節 広島1-1川崎F Eピース] 開幕2連勝としていたサンフレッチェ広島だったが、ホームで川崎フロンターレと1-1で引き分けた。百年構想リーグの終盤も含めると連勝は7となってい",
+      "link": "https://news.yahoo.co.jp/articles/7ef642eba2eaedd585c10a9b1301c42706d71a71?source=rss",
+      "pubDate": "2026-08-22T14:46:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7ef642eba2eaedd585c10a9b1301c42706d71a71?source=rss"
+        }
+      ]
+    },
     {
       "title": "J1C大阪・チアゴアンドラ―デが決勝点 途中出場続くも結果残し「与えられた時間の中で何ができるか」(サンケイスポーツ)",
       "summary": "明治安田J1リーグ第3節第2日（22日、C大阪1－0清水、ハナサカ）C大阪は後半の得点を守り切って清水に勝利した。後半13分から途中出場のFWチアゴアンドラ―デ（25）が決勝点を奪った。 華麗に抜け",
@@ -186,16 +227,16 @@
       "summary": "＜明治安田J1：鹿島3－2福岡＞◇22日◇第3節◇メルカリスタジアム 鹿島アントラーズが14年以来、12シーズンぶりの開幕3連勝を飾った。FWレオセアラが1－1の後半15分、左からのグラウンダーの",
       "link": "https://news.yahoo.co.jp/articles/b758fe590110710d25cdd46448de50f275f72070?source=rss",
       "pubDate": "2026-08-22T13:42:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "antlers"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b758fe590110710d25cdd46448de50f275f72070?source=rss"
         }
       ]
