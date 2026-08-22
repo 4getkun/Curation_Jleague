@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-22T02:08:28.169Z",
+  "generatedAt": "2026-08-22T03:12:25.012Z",
   "count": 1880,
   "items": [
+    {
+      "title": "「内容よりも今我々に必要なのは勝利だった」 FC東京指揮官は今季初勝利に満足もゴール前のクオリティを課題に挙げる(theWORLD（ザ・ワールドWeb）)",
+      "summary": "FC東京の松橋力蔵監督はJ1リーグ第3節でジェフユナイテッド千葉に勝利した後、喜びのコメントを残した。 今シーズンいいパフォーマンスを見せながらもここまで1分1敗と未勝利だったFC東京。そんななかで",
+      "link": "https://news.yahoo.co.jp/articles/df57ab75039929796e3add5285ee231df75e59e1?source=rss",
+      "pubDate": "2026-08-22T03:01:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df57ab75039929796e3add5285ee231df75e59e1?source=rss"
+        }
+      ]
+    },
     {
       "title": "FC東京が今季初勝利も「見つめ直したい」DF稲村隼翔が口にした意外な言葉(GOAL)",
       "summary": "2026/27明治安田J1リーグ第3節が21日に東京都のMUFGスタジアム（国立競技場）で行われ、FC東京はジェフユナイテッド千葉に2-0で勝利した。 今季初白星を飾った試合後に、FC東京のDF稲村",
@@ -36386,23 +36405,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/664932"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグが飲水タイム実施ルールを発表 7月から暑さ厳しく…W杯のハイドレーションブレークは行わず",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/664933",
-      "pubDate": "2026-07-23T03:03:37.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/664933"
         }
       ]
     }
