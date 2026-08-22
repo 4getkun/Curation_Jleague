@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-08-22T08:54:07.760Z",
-  "count": 1886,
+  "generatedAt": "2026-08-22T09:17:09.266Z",
+  "count": 1887,
   "items": [
+    {
+      "title": "【広島】石原貴規「サイン違いではない。僕が捕れなかった」今季初登板の松本竜也の変化球を後逸→イニング途中で交代命じられる(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・東京ドーム） 広島・石原貴規捕手が６回の捕逸を猛省した。 ０―２の６回１死一、二塁、今季初登板の松本の変化球を捕球できず２者の進塁を許した（記録は",
+      "link": "https://news.yahoo.co.jp/articles/1b948df0d248aae76608813f085304885fdfd542?source=rss",
+      "pubDate": "2026-08-22T09:06:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1b948df0d248aae76608813f085304885fdfd542?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-21 Jリーグ開幕節・FC東京vs東京Vが雷雨で1時間遅延に…両チームスタメンを発表(ゲキサカ)",
+      "summary": "22日に行われるU-21 Jリーグ開幕節、U-21 東京ヴェルディ対U-21 FC東京の試合について、雷雨の影響により開始時刻が変更されることが発表された。当初は午後6時キックオフの予定だったが、午",
+      "link": "https://news.yahoo.co.jp/articles/d5ab97a62d5956116a76b3bdbbb6f71e17f5dfc2?source=rss",
+      "pubDate": "2026-08-22T09:01:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d5ab97a62d5956116a76b3bdbbb6f71e17f5dfc2?source=rss"
+        }
+      ]
+    },
     {
       "title": "[ECLOGA U-18 IN 豊田]昌平の1年生FWオツコロ海桜が名古屋U-18相手に2発。肉体強化、シュート練習など「日々の練習を大切に」次はプレミア初ゴールへ(ゲキサカ)",
       "summary": "[8.21 ECLOGA U-18 IN 豊田 2026 名古屋U-18 4-2 昌平高 トヨタスポーツセンター] プレミアリーグ後期開幕前の強化、交流を図る目的で開催された「ECLOGA U-",
@@ -85,8 +124,8 @@
       "summary": "＜明治安田J1：横浜－神戸＞◇22日◇第3節◇日産スタジアム 横浜F・マリノスの16歳超新星、MF三井寺眞がホームのヴィッセル神戸戦に先発出場する。 試合を前にメンバーが発表され、三井寺は開幕",
       "link": "https://news.yahoo.co.jp/articles/5c185a65e21bec3af59ea58f6526bd1fbfb1e6b7?source=rss",
       "pubDate": "2026-08-22T08:30:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marinos",
         "vissel"
@@ -94,8 +133,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5c185a65e21bec3af59ea58f6526bd1fbfb1e6b7?source=rss"
         }
       ]
@@ -4417,7 +4456,7 @@
       "title": "逆転アシストで勝利に貢献…専修大の千葉内定WB佐藤柚太、次戦“ライバル”柏戦に闘争心「そこは負けられない」",
       "summary": "[8.19 天皇杯1回戦 専修大 2-1 筑波大 レモンS] 終了間際、自らのパスで逆転ゴールをアシストした。専修大DF佐藤柚太(3年=甲府U-18/千葉内定)は後半43分、相手にボールを奪われたところを奪取し、MF那須奏輔(3年=名古屋U…",
       "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457150-457150-fl",
-      "pubDate": "2026-08-19T22:37:01.000Z",
+      "pubDate": "2026-08-19T22:40:12.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
@@ -4429,11 +4468,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457150-457150-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5c999cfb143ef79a987d51e5ef24d1bf6873cae3?source=rss"
         }
       ]
     },
@@ -36521,27 +36555,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/23/post953085/"
-        }
-      ]
-    },
-    {
-      "title": "「悲しいだろうなと」V・ファーレン長崎、笠柳翼が「プロにならなければと強く思った」理由。世界へ羽ばたく原点【コラム】",
-      "summary": "V・ファーレン長崎は7月10日、笠柳翼がベルギー2部のパトロ・アイスデン・マースメヘレンへ期限付き移籍することを発表した。2025シーズンの最終節ではJ1昇格を決める同点弾をアシストし、明治安田J1百年構想リーグでも14試合に出場したドリブ…",
-      "link": "https://www.footballchannel.jp/2026/07/23/post952899/",
-      "pubDate": "2026-07-23T09:00:34.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "v-varen"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/23/post952899/"
         }
       ]
     }
