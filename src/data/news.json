@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-22T07:07:12.159Z",
+  "generatedAt": "2026-08-22T07:51:48.521Z",
   "count": 1880,
   "items": [
+    {
+      "title": "Jリーグ史に残る「サッカー一家」（4）J1初の親子対決？ 親子同一チームの得点者は？(フットボールチャンネル)",
+      "summary": "長い歴史を持つJリーグでは、これまで多くの兄弟や親子がプロの舞台に立ってきた。兄弟で敵味方に分かれて対戦したケースもあれば、同じチームで215試合も共闘した双子、親子2代で日本代表のピッチに立った一",
+      "link": "https://news.yahoo.co.jp/articles/b4b947d78e15173de028ecabf9c89594882e28c8?source=rss",
+      "pubDate": "2026-08-22T07:50:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b4b947d78e15173de028ecabf9c89594882e28c8?source=rss"
+        }
+      ]
+    },
     {
       "title": "川崎F U-15生田が横浜FM Jrユースが待つクラセン決勝進出!! 横河武蔵野FC U-15の猛攻凌いで完封勝利(ゲキサカ)",
       "summary": "[8.22 クラセンU-15準決勝 川崎F U-15生田 1-0 横河武蔵野FC U-15 厚別] 第41回日本クラブユースサッカー選手権(U-15)大会は22日に準決勝を開催した。第2試合では川",
@@ -4652,10 +4671,10 @@
       ]
     },
     {
-      "title": "ヴェロスクロノス都農vs讃岐 スタメン発表",
-      "summary": "[8.19 天皇杯1回戦](いちご)※19:00開始主審:山田昌輝副審:原田大輔、中井恒[ヴェロスクロノス都農]先発GK 1 赤塚怜DF 6 柳田健太DF 4 井上将弥DF 20 藤田大道DF 16 高橋健MF 7 山内彰MF 19 鈴木琉…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457108-457108-fl",
-      "pubDate": "2026-08-19T13:36:20.000Z",
+      "title": "ヴェロスクロノス都農vs讃岐 試合記録",
+      "summary": "【天皇杯1回戦】(いちご)ヴェロスクロノス都農 3-1(延長)讃岐[ヴ]井上将弥(35分)、山田雄太(102分)、高貝樹幹(107分)[讃]淺田彗潤(90分+1)[ヴ]山内彰(20分)、中山雄希(39分)[讃]淺田彗潤(100分)、牧山晃政…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457135-457135-fl",
+      "pubDate": "2026-08-19T13:37:03.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -4664,7 +4683,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457108-457108-fl"
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457135-457135-fl"
         }
       ]
     },
@@ -36397,23 +36416,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/665024"
-        }
-      ]
-    },
-    {
-      "title": "J、8月は原則飲水タイム導入 26～27年シーズン開幕から(共同通信)",
-      "summary": "Jリーグは23日、2026～27年シーズンで8月7日の開幕から同30日までの試合において、気温や湿度などから算出する暑さ指数（WBGT）の値にかかわらず、前後半に原則的に約1分間の飲水タイムを設ける",
-      "link": "https://news.yahoo.co.jp/articles/65be6e5679a514f9f6205c9bc523773dce74b99a?source=rss",
-      "pubDate": "2026-07-23T07:28:47.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/65be6e5679a514f9f6205c9bc523773dce74b99a?source=rss"
         }
       ]
     }
