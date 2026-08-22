@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-08-22T07:51:48.521Z",
-  "count": 1880,
+  "generatedAt": "2026-08-22T08:17:04.987Z",
+  "count": 1884,
   "items": [
+    {
+      "title": "「これはマンマミーア」 長友佑都と影山優佳の2ショットに「推しと推しが再会してるの、えぐいーー！」(スポーティングニュース日本版)",
+      "summary": "タレントの影山優佳が、J1の試合を観戦した際、FC東京の長友佑都と対面したことを報告した。SNSに投稿された長友との2ショット写真が反響を呼んでいる。 8月21日、影山はMUFGスタジアム（国立競技",
+      "link": "https://news.yahoo.co.jp/articles/26d14b40eb73c0385520d9c6378878ba45e2c3dc?source=rss",
+      "pubDate": "2026-08-22T08:06:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/26d14b40eb73c0385520d9c6378878ba45e2c3dc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【プレビュー】町田が開幕3連勝を飾るのか、課題残る浦和が立て直すか。勝ち点3を欲する両者が国立で激突｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー プレビュー】明治安田J1リーグは8月21日から23日にかけて第3節が開催。 PICK UP MATCHのFC町田ゼルビアと浦和レッズの一戦はMUFGスタジアムで幕を開ける。",
+      "link": "https://news.yahoo.co.jp/articles/070502f0611d53f7bb65f080b9f25456e80def2f?source=rss",
+      "pubDate": "2026-08-22T08:03:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/070502f0611d53f7bb65f080b9f25456e80def2f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸戦の“致命的なミス”をどう乗り越えたのか。韓国代表GKが示した百戦錬磨のメンタリティ(SOCCER DIGEST Web)",
+      "summary": "2026/27シーズンの３戦目にして今季初勝利。ジェフユナイテッド千葉とのホームゲーム（８月21日）を２−０とモノにしたFC東京は、勝点３を掴んだ。 この完封勝利に尽力したひとりが、",
+      "link": "https://news.yahoo.co.jp/articles/d61feec26f5c57355ff7ddeda9adebcddda4f314?source=rss",
+      "pubDate": "2026-08-22T08:01:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d61feec26f5c57355ff7ddeda9adebcddda4f314?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "荒木遼太郎、シント＝トロイデンで欧州公式戦デビュー。「憧れ」の欧州カップ戦へ「まずはプレーオフに勝てるように」",
+      "summary": "今夏、鹿島アントラーズからシント＝トロイデンVVへ移籍したMF荒木遼太郎が、欧州での公式戦デビューを果たした。現地時間8月20日のUEFAヨーロッパリーグ（EL）プレーオフ・ファーストレグのオモニア・ニコシア（キプロス）戦で61分から途中出…",
+      "link": "https://www.footballchannel.jp/2026/08/22/post994035/",
+      "pubDate": "2026-08-22T08:00:55.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/22/post994035/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/965a4cbfd9b5f9bc7c55b38a46151573d93564fd?source=rss"
+        }
+      ]
+    },
     {
       "title": "Jリーグ史に残る「サッカー一家」（4）J1初の親子対決？ 親子同一チームの得点者は？(フットボールチャンネル)",
       "summary": "長い歴史を持つJリーグでは、これまで多くの兄弟や親子がプロの舞台に立ってきた。兄弟で敵味方に分かれて対戦したケースもあれば、同じチームで215試合も共闘した双子、親子2代で日本代表のピッチに立った一",
