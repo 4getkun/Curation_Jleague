@@ -1,7 +1,100 @@
 {
-  "generatedAt": "2026-08-23T19:42:21.154Z",
-  "count": 2047,
+  "generatedAt": "2026-08-23T20:10:30.993Z",
+  "count": 2049,
   "items": [
+    {
+      "title": "広島・遠藤淳志 安定感！安心感！9試合連続で無失点 夢の球宴初出場が復調の転機に(スポニチアネックス)",
+      "summary": "◇セ・リーグ 広島3―2巨人（2026年8月23日 東京ドーム） 同点の7回に登板した広島・遠藤は2死から連打で一、二塁とされるも、松本を中飛に仕留め1回を零封。9試合連続無失点で4勝目を手にし",
+      "link": "https://news.yahoo.co.jp/articles/6df0f991bf3e4e66a85c9d11480c616b0268d877?source=rss",
+      "pubDate": "2026-08-23T20:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6df0f991bf3e4e66a85c9d11480c616b0268d877?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島・新井監督 秋山翔吾は「状態がいいので5番に」 データで組んだオーダー機能し、8月ビジター初勝利(スポニチアネックス)",
+      "summary": "◇セ・リーグ 広島3―2巨人（2026年8月23日 東京ドーム） 広島は2―2の同点で迎えた8回に秋山の左犠飛で勝ち越しに成功。同一カード3連敗を阻止し、8月は6戦全敗だったビジターで初勝利を挙",
+      "link": "https://news.yahoo.co.jp/articles/785b09c806d3408bb78771481bfaa14f00c4b310?source=rss",
+      "pubDate": "2026-08-23T20:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/785b09c806d3408bb78771481bfaa14f00c4b310?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】秋山翔吾、観察力キラリ「坂倉の打席で球筋が見られた」決勝の左犠飛 同学年の巨人・坂本弾に燃えた ８月ビジター７戦目での初勝利(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―３広島（２３日・東京ドーム） ３８歳の観察力と勝負勘が際立った。同点の８回１死一、三塁、広島・秋山が２―１からの直球にバットを乗せた。決勝の左犠飛だ。「坂倉の打席で球",
+      "link": "https://news.yahoo.co.jp/articles/4b373f45bcecb4038638fb898356d3fd758db445?source=rss",
+      "pubDate": "2026-08-23T20:00:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4b373f45bcecb4038638fb898356d3fd758db445?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "新潟 26日に鹿児島と天皇杯2回戦 FWカスティーリョ、新天地デビューへ「準備はできている」(スポニチアネックス)",
+      "summary": "22日のホームでの藤枝戦でリーグ戦2連勝を決めたアルビレックス新潟は一夜明けた23日、新潟・聖籠町のアルビレッジで控え組メンバーらが26日の天皇杯2回戦のJ3鹿児島戦へ向けて汗を流した。藤枝戦で初め",
+      "link": "https://news.yahoo.co.jp/articles/c4fe23852d92d1e8b363ffb4988d247d2193ea4f?source=rss",
+      "pubDate": "2026-08-23T20:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c4fe23852d92d1e8b363ffb4988d247d2193ea4f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "味わった「ゼロ円提示」の挫折 名門TDの苦労…若手へ促す“生活力”「自立した選手のほうが強い」(FOOTBALL ZONE)",
+      "summary": "17年ぶりのJ1の舞台で躍動し、名門復活へと歩みを進めるジェフユナイテッド市原・千葉。大久保裕樹テクニカルディレクター（TD）のインタビュー連載第5回は、現役時代に味わった「2度の契約満了」という挫",
+      "link": "https://news.yahoo.co.jp/articles/f967b53b6ad1586da1e1ec9de76c8233796ce476?source=rss",
+      "pubDate": "2026-08-23T19:50:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f967b53b6ad1586da1e1ec9de76c8233796ce476?source=rss"
+        }
+      ]
+    },
     {
       "title": "町田 開幕3連勝で堅首! 3戦9人12発に黒田監督「あらゆる選手がフィニッシュできる形を」(スポニチアネックス)",
       "summary": "◇明治安田J1第3節 町田 3―1 浦和（2026年8月23日 MUFG国立） 明治安田J1リーグは1試合が行われ、FC町田ゼルビアが浦和を3―1で下し、開幕3連勝で勝ち点を9に伸ばし、得失点差",
@@ -39698,63 +39791,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/bfb8133f9b00439415bb41514016166cdc55a485?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島・名原典彦 今季3度目の猛打賞 監督の指摘でフォーム修正しきっちり結果(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島3―5ヤクルト（2026年7月24日 神宮） 広島は敗戦の中、名原が今季3度目の猛打賞と奮闘した。 3回無死一塁では左前打、5回先頭では右翼線への二塁打を放って生還。「最近",
-      "link": "https://news.yahoo.co.jp/articles/101ddcb112b55e1460e11f243aec7d9af6a31e10?source=rss",
-      "pubDate": "2026-07-24T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/101ddcb112b55e1460e11f243aec7d9af6a31e10?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島・アドゥワ誠 717日ぶり白星スルリも “次”を期待させる投球術駆使した5回1失点の粘投 (スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島3―5ヤクルト（2026年7月24日 神宮） 広島は24日、ヤクルトと延長12回の激闘の末、今季6度目のサヨナラ負けを喫した。3―1の7回からは勝ちパターンでの逃げ切りを図った",
-      "link": "https://news.yahoo.co.jp/articles/1ec783f9d77dbf59bb19ad48e46651f06edbd986?source=rss",
-      "pubDate": "2026-07-24T20:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1ec783f9d77dbf59bb19ad48e46651f06edbd986?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】３点リード守れず…延長１２回サヨナラ負けで最下位・中日と１ゲーム差 ７回にハーン、８回に遠藤の継投策が裏目に(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ ヤクルト５×―３広島＝延長１２回＝（２４日・神宮） 最大３点リードを守れず、借金が今季ワーストタイの１５に戻った。同点の延長１２回に菊地がサヨナラ２ランを被弾した。２点リード",
-      "link": "https://news.yahoo.co.jp/articles/b689e5b813ab515239882ade73e839acde3063bd?source=rss",
-      "pubDate": "2026-07-24T20:00:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b689e5b813ab515239882ade73e839acde3063bd?source=rss"
         }
       ]
     }
