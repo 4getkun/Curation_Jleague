@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-23T16:12:50.980Z",
-  "count": 2045,
+  "generatedAt": "2026-08-23T16:48:16.370Z",
+  "count": 2046,
   "items": [
+    {
+      "title": "町田去る藤尾翔太…昌子源は冗談交じりに惜別「対戦したら絶対に削ります」(ゲキサカ)",
+      "summary": "FC町田ゼルビアは23日、FW藤尾翔太の移籍を前提とした手続きと準備によるチーム離脱を発表。同日のJ1第3節・浦和レッズ戦後には国立競技場を一周し、サポーターに挨拶をした。 DF昌子源は試合後、",
+      "link": "https://news.yahoo.co.jp/articles/ef2ac529f059af1f821b70638db9bcbc48e82dc2?source=rss",
+      "pubDate": "2026-08-23T16:44:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ef2ac529f059af1f821b70638db9bcbc48e82dc2?source=rss"
+        }
+      ]
+    },
     {
       "title": "【町田】藤尾翔太、柏への移籍確実に「手続きと準備でチームから離脱」エリキは再び神戸の可能性(日刊スポーツ)",
       "summary": "FC町田ゼルビアの2024年パリ五輪（オリンピック）男子日本代表FW藤尾翔太（25）が、柏レイソルに移籍することが確実となった。23日、複数の関係者が明らかにした。チームも、移籍を前提とした手続きと",
@@ -208,16 +229,16 @@
       "summary": "＜U－21Jリーグ：神戸4－0長崎＞◇23日◇東西リーグラウンド第1節◇いぶきの森球技場 若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21",
       "link": "https://news.yahoo.co.jp/articles/aaca576fcbdda2ef767694f6081b29c3717d2d7c?source=rss",
       "pubDate": "2026-08-23T14:38:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "vissel"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/aaca576fcbdda2ef767694f6081b29c3717d2d7c?source=rss"
         }
       ]
