@@ -1,7 +1,71 @@
 {
-  "generatedAt": "2026-08-23T09:49:32.660Z",
-  "count": 2014,
+  "generatedAt": "2026-08-23T10:12:50.439Z",
+  "count": 2017,
   "items": [
+    {
+      "title": "【広島】新井監督がファビアン称賛 満塁機で坂本勇の強打を好捕「あの球際はね…」(東スポWEB)",
+      "summary": "広島は23日の巨人戦（東京ドーム）に3―2で競り勝ち、連敗を2で止めた。試合後、新井貴浩監督（49）は勝利を呼び込んだファビアンの好守をたたえた。 大きなプレーが飛び出したのは1―1の5回だった",
+      "link": "https://news.yahoo.co.jp/articles/fb4174cfddd6f772e6bb1ebf49a7e15b4d56b7db?source=rss",
+      "pubDate": "2026-08-23T10:10:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fb4174cfddd6f772e6bb1ebf49a7e15b4d56b7db?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "G大阪、スペイン人MFファンペの完全移籍加入を発表 ラ・リーガで経験積んだ30歳(FOOTBALL ZONE)",
+      "summary": "ガンバ大阪は8月23日、MFファンペが完全移籍で加入することが決定したと発表した。 スペイン出身で現在30歳のファンペは、カディスCF Bでキャリアをスタート。アトレティコ・マンチャ・レアルやセ",
+      "link": "https://news.yahoo.co.jp/articles/c2fff23d47a535c600415af8f05b88fcbca02251?source=rss",
+      "pubDate": "2026-08-23T10:05:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c2fff23d47a535c600415af8f05b88fcbca02251?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669997"
+        }
+      ]
+    },
+    {
+      "title": "【広島】新井貴浩監督「いい攻撃ができた」巨人・小笠原慎之介に左打者６人をスタメン起用で３連敗阻止 ８月の敵地戦は７戦目で初勝利／一問一答(スポーツ報知)",
+      "summary": "◆ＪＥＲＡセ・リーグ 巨人２―３広島（２３日・東京ドーム） 広島が連敗を２で止めた。８月は全敗だった敵地戦は７戦目で初勝利。同点の８回１死一、三塁で秋山の左犠飛で決勝点を奪った。 打線は両軍無",
+      "link": "https://news.yahoo.co.jp/articles/befa373bfcbc282f2e916ed3dee1e59c1604c20a?source=rss",
+      "pubDate": "2026-08-23T09:58:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/befa373bfcbc282f2e916ed3dee1e59c1604c20a?source=rss"
+        }
+      ]
+    },
     {
       "title": "FC大阪、加入内定選手の内定取り消しを発表 「強い意向」と説明…SNSでは「何があった？」の声(スポーティングニュース日本版)",
       "summary": "8月23日（日）、サッカーJ3のFC大阪は、加入が内定していた浅野崇斗（マレーシア・アンコールタイガーFC）の加入内定取り消しを発表した。 FC大阪の公式Xによると、今回の加入内定取り消しは浅野本人",
@@ -2709,6 +2773,26 @@
       ]
     },
     {
+      "title": "16歳MF三井寺眞がまた決めた!! “王者キラー”の強烈左足ボレー弾、プロ3試合で早くも2ゴール目",
+      "summary": "[8.22 J1第3節 横浜FM-神戸 日産ス] 横浜F・マリノスの16歳MF三井寺眞が22日、J1第3節・神戸戦に先発出場し、前半9分に浮き球に合わせる強烈な左足ボレーシュートで今季2ゴール目を決めた。昨季王者の鹿島相手に決めたプロ初ゴー…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457295-457295-fl",
+      "pubDate": "2026-08-22T11:40:05.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "marinos",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457295-457295-fl"
+        }
+      ]
+    },
+    {
       "title": "「やらなきゃいけないことが多い」苦しみながらも勝ち切った鹿島。開幕３連勝も…鬼木達監督が口にした課題「苦しい時間のほうが多かった」(SOCCER DIGEST Web)",
       "summary": "鹿島アントラーズは８月22日、J１第３節でアビスパ福岡とメルカリスタジアムで対戦し、３－２で競り勝った。 鹿島は31分にオウンゴールで先制したものの、43分に師岡柊生に同点弾を許す。それでも後半",
       "link": "https://news.yahoo.co.jp/articles/bcafa2cc93076a2c4bf1434c079d63afc1551fa6?source=rss",
@@ -2884,31 +2968,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a551ab739931c3c9b9c468b9410f948965201c36?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "16歳MF三井寺眞がまた決めた!! “王者キラー”の強烈左足ボレー弾、プロ3試合で早くも2ゴール目",
-      "summary": "[8.22 J1第3節 横浜FM-神戸 日産ス] 横浜F・マリノスの16歳MF三井寺眞が22日、J1第3節・神戸戦に先発出場し、前半9分に浮き球に合わせる強烈な左足ボレーシュートで今季2ゴール目を決めた。昨季王者の鹿島相手に決めたプロ初ゴー…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457295-457295-fl",
-      "pubDate": "2026-08-22T10:57:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457295-457295-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bba0433d50fb96ca99ac09ba49fd561a24794756?source=rss"
         }
       ]
     },
