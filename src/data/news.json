@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-23T07:08:53.554Z",
-  "count": 2005,
+  "generatedAt": "2026-08-23T07:53:51.358Z",
+  "count": 2003,
   "items": [
     {
       "title": "【広島】22イニングぶり得点の喜びつかの間…先発の森翔平が４回裏、坂本勇人に同点弾浴びる(日刊スポーツ)",
       "summary": "＜巨人－広島＞◇23日◇東京ドーム 広島があっさり追いつかれた。4回表1死満塁から佐々木泰内野手（23）が放った遊ゴロ併殺崩れの間に1点を先制。22イニングぶりの得点、ビジターに限れば45イニング",
       "link": "https://news.yahoo.co.jp/articles/ac2b0648479e6995b40bf38d6f2f0f062ae3e3ca?source=rss",
       "pubDate": "2026-08-23T06:53:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanfrecce"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ac2b0648479e6995b40bf38d6f2f0f062ae3e3ca?source=rss"
         }
       ]
@@ -2846,9 +2846,9 @@
       ]
     },
     {
-      "title": "柏MF瀬川祐輔が逆転V弾! 途中出場から2戦連続ゴール(23枚)",
+      "title": "劇的な逆転勝利! 開幕3連勝に沸いた柏サポーター(70枚)",
       "summary": "J1第3節が21日に行われ、三協フロンテア柏スタジアムでは柏レイソルがV・ファーレン長崎に4-2で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457286-457286-pn",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457289-457289-pn",
       "pubDate": "2026-08-22T09:55:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -2860,7 +2860,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457286-457286-pn"
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457289-457289-pn"
         }
       ]
     },
@@ -38831,42 +38831,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/96d5b83dd226b87a0a49e7907e8b77f53ed4922f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "U-15 Jリーグ選抜のスタメン発表!! リバプールU15とのアカデミーマッチ初戦へ(ゲキサカ)",
-      "summary": "U-15 Jリーグ選抜は24日にリバプールU15との「Jリーグインターナショナルシリーズ2026 アカデミーマッチ」第1戦を行う。午後6時30分のキックオフを前に先発メンバーが発表された。前日練習を",
-      "link": "https://news.yahoo.co.jp/articles/ef82a6f24c922d3f7a1ef20adb7cb54a28bd01af?source=rss",
-      "pubDate": "2026-07-24T07:40:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ef82a6f24c922d3f7a1ef20adb7cb54a28bd01af?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ボートレース】大会連覇を目指す中村日向「博多の相性はいいしＳ勘も合ってきた」～福岡Ｇ３ウエスタンヤング(スポーツ報知)",
-      "summary": "◆第１３回ウエスタンヤング（２４日・ボートレース福岡・最終日） 優出インタビューが行われ、５号艇・中村日向（２７）＝香川＝は「博多の相性はいいしＳ勘も合ってきた」と大会連覇へ、本番まで万全調整を施",
-      "link": "https://news.yahoo.co.jp/articles/b68dc8edd786efef45ce5be5c92c5615e7c7a4bb?source=rss",
-      "pubDate": "2026-07-24T07:20:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b68dc8edd786efef45ce5be5c92c5615e7c7a4bb?source=rss"
         }
       ]
     }
