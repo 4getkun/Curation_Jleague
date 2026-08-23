@@ -1,7 +1,65 @@
 {
-  "generatedAt": "2026-08-23T00:39:57.213Z",
-  "count": 1992,
+  "generatedAt": "2026-08-23T02:17:51.418Z",
+  "count": 1989,
   "items": [
+    {
+      "title": "千葉3連敗からU-19代表へ「プレーを見つめ直す」、18歳MF姫野誠が下した自己採点「10/100点」(ゲキサカ)",
+      "summary": "[8.21 J1第3節 FC東京 2-0 千葉 MUFG国立] 積極性だけで、自身を評価することはなかった。ジェフユナイテッド千葉のU-19日本代表MF姫野誠は後半21分から右サイドハーフで途中出",
+      "link": "https://news.yahoo.co.jp/articles/a53650d0deb1cc8594c3ed34857b8c65625eff5c?source=rss",
+      "pubDate": "2026-08-23T02:02:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo",
+        "jef-chiba"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a53650d0deb1cc8594c3ed34857b8c65625eff5c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「夏休み中の高1なんやろ？」 J1の16歳超新星が鮮烈弾…ダイレクトボレーにホーム熱狂「意味わからん」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669905",
+      "pubDate": "2026-08-23T01:40:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669905"
+        }
+      ]
+    },
+    {
+      "title": "監督から贈られた「バカやろー！」の愛情 昇格組から神戸へ…誓う成長「フワッといる選手になりたくない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669895",
+      "pubDate": "2026-08-23T00:43:15.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669895"
+        }
+      ]
+    },
     {
       "title": "「すごいな」「開幕スタメンも納得」19歳日本人がラ・リーガデビューでいきなり魅せた！“決めるだけ”の絶好機演出に反響「香川真司みたい」(SOCCER DIGEST Web)",
       "summary": "バレンシアの日本代表MF佐藤龍之介が、ラ・リーガデビュー戦でさっそく存在感を放った。 今夏にFC東京からバレンシアへ加入した19歳のMFは、現地時間８月22日に開催されたラ・リーガ第２節のセルタ",
@@ -2506,23 +2564,6 @@
       ]
     },
     {
-      "title": "宮崎vs湘南 スタメン発表",
-      "summary": "[8.22 J2第3節](いちご)※19:00開始主審:福島孝一郎[テゲバジャーロ宮崎]先発GK 31 木村凌也DF 24 松本雄真DF 28 眞鍋旭輝DF 33 黒木謙吾DF 39 下川陽太MF 5 渡邉英祐MF 7 阿野真拓MF 8 山…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457279-457279-fl",
-      "pubDate": "2026-08-22T09:16:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457279-457279-fl"
-        }
-      ]
-    },
-    {
       "title": "【広島】石原貴規「サイン違いではない。僕が捕れなかった」今季初登板の松本竜也の変化球を後逸→イニング途中で交代命じられる(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 巨人５―０広島（２２日・東京ドーム） 広島・石原貴規捕手が６回の捕逸を猛省した。 ０―２の６回１死一、二塁、今季初登板の松本の変化球を捕球できず２者の進塁を許した（記録は",
       "link": "https://news.yahoo.co.jp/articles/1b948df0d248aae76608813f085304885fdfd542?source=rss",
@@ -2542,18 +2583,23 @@
       ]
     },
     {
-      "title": "U-21 Jリーグ開幕節・FC東京vs東京Vが雷雨で1時間遅延に…両チームスタメンを発表(ゲキサカ)",
-      "summary": "22日に行われるU-21 Jリーグ開幕節、U-21 東京ヴェルディ対U-21 FC東京の試合について、雷雨の影響により開始時刻が変更されることが発表された。当初は午後6時キックオフの予定だったが、午",
-      "link": "https://news.yahoo.co.jp/articles/d5ab97a62d5956116a76b3bdbbb6f71e17f5dfc2?source=rss",
+      "title": "U-21 Jリーグ開幕節・FC東京vs東京Vが雷雨で1時間遅延に…両チームスタメンを発表",
+      "summary": "22日に行われるU-21 Jリーグ開幕節、U-21 東京ヴェルディ対U-21 FC東京の試合について、雷雨の影響により開始時刻が変更されることが発表された。当初は午後6時キックオフの予定だったが、午後7時開始に変更。両チームの出場メンバーも…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457276-457276-fl",
       "pubDate": "2026-08-22T09:01:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "verdy",
         "fc-tokyo"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457276-457276-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -38506,106 +38552,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/24/post953316/"
-        }
-      ]
-    },
-    {
-      "title": "東京ヴェルディ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおける東京ヴェルディの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/07/24/post814095/",
-      "pubDate": "2026-07-24T02:13:45.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/24/post814095/"
-        }
-      ]
-    },
-    {
-      "title": "浦和レッズ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおける浦和レッズの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/07/24/post813000/",
-      "pubDate": "2026-07-24T02:13:23.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/24/post813000/"
-        }
-      ]
-    },
-    {
-      "title": "ヴァンラーレ八戸 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるヴァンラーレ八戸の加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/07/24/post815625/",
-      "pubDate": "2026-07-24T02:09:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/24/post815625/"
-        }
-      ]
-    },
-    {
-      "title": "「マジかよ…」「やばすぎる」元Jリーガーで世界的レジェンドの”激変ボディ”にネット騒然！「何を食べればその身体になるんだ」(SOCCER DIGEST Web)",
-      "summary": "元スペイン代表FWのレジェンドの近影が、大きな反響を呼んでいる。 現役時代にリバプールやチェルシー、そしてJリーグのサガン鳥栖でもプレーした現在42歳のフェルナンド・トーレスが７月23日、自身の",
-      "link": "https://news.yahoo.co.jp/articles/27fa854e2cb29a6b22369b24d6c6d07458b12f98?source=rss",
-      "pubDate": "2026-07-24T01:38:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/27fa854e2cb29a6b22369b24d6c6d07458b12f98?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "サッカー界の大谷翔平は！？ Jリーグ、190cm超えの若き日本人選手（5）やや伸び悩み？ 17歳でデビューした守備職人(フットボールチャンネル)",
-      "summary": "日本代表のFIFAワールドカップ2026（北中米W杯）は、ベスト32に終わった。長いスパンで今後の戦いを考える上では、大谷翔平級の逸材がサッカーを選ぶことも重要だが、すでにJリーグにはフィジカルに優",
-      "link": "https://news.yahoo.co.jp/articles/f003f4caff1946cbe96203846f3ca3b38d4b18a1?source=rss",
-      "pubDate": "2026-07-24T01:01:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f003f4caff1946cbe96203846f3ca3b38d4b18a1?source=rss"
         }
       ]
     }
