@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-08-23T11:42:26.715Z",
-  "count": 2020,
+  "generatedAt": "2026-08-23T12:18:04.535Z",
+  "count": 2021,
   "items": [
     {
-      "title": "【U21Ｊリーグ】神戸が４－０で長崎下し白星発進 手倉森監督「プロを意識できるのは良い」(日刊スポーツ)",
-      "summary": "若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21Jリーグの第1節が神戸市内のいぶきの森球技場で行われ、U－21神戸がU－21長崎を4－0で下",
-      "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss",
-      "pubDate": "2026-08-23T11:31:54.000Z",
+      "title": "Ｇ大阪が完全移籍でスペイン出身のＭＦファンぺ獲得「本当にいいサッカーをするチーム」「みんなでたくさん勝ちを積み重ねていきます」(スポーツ報知)",
+      "summary": "サッカー・Ｊ１のＧ大阪は２３日、スペイン出身のＭＦファンぺが完全移籍で加入すると発表した。 １８４センチ、７７キロで３０歳のＭＦは、同国のセビリアやマラガなどでプレー経験がある。クラブを通じて「",
+      "link": "https://news.yahoo.co.jp/articles/2c519e199b018c4a09fc4802b478d99deb009499?source=rss",
+      "pubDate": "2026-08-23T12:10:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2c519e199b018c4a09fc4802b478d99deb009499?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U―21リーグWEST開幕 神戸は長崎に4発圧勝 手倉森誠監督「色々な人の期待勝ち取ろうと話した」(スポニチアネックス)",
+      "summary": "◇U―21リーグ東西ラウンドWEST U―21神戸4―0U―21長崎（2026年8月23日 いぶきの森競技場） U―21リーグWESTが23日に開幕した。FW渡辺隼斗（19）やMF瀬口大翔（18",
+      "link": "https://news.yahoo.co.jp/articles/e266af25f2c764444c057ebeebe11dd8fa54cfa5?source=rss",
+      "pubDate": "2026-08-23T12:06:26.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
@@ -18,6 +39,26 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e266af25f2c764444c057ebeebe11dd8fa54cfa5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【U21Ｊリーグ】神戸が４－０で長崎下し白星発進 手倉森監督「プロを意識できるのは良い」(日刊スポーツ)",
+      "summary": "若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21Jリーグの第1節が神戸市内のいぶきの森球技場で行われ、U－21神戸がU－21長崎を4－0で下",
+      "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss",
+      "pubDate": "2026-08-23T11:31:54.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel",
+        "v-varen"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss"
         }
       ]
@@ -2756,11 +2797,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?457319-457319-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d1d0446bf3e5b5f185658be8bfe7829e1391d231?source=rss"
         }
       ]
     },
@@ -39186,23 +39222,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/cc6b3080888d34e72612f3fba04bb26d7879c9be?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "2年生GK西郷がPKストップ! エースFW礒部が決めた! U-15 Jリーグ選抜がリバプールU15との第1戦を制す(ゲキサカ)",
-      "summary": "[7.24 アカデミーマッチ第1戦 U-15 J選抜 1-0 リバプールU15 味フィ西] U-15 Jリーグ選抜は24日、「Jリーグインターナショナルシリーズ2026 アカデミーマッチ」でリバプー",
-      "link": "https://news.yahoo.co.jp/articles/b009834bf6592fe3c522ce930cc9168877b4ef4b?source=rss",
-      "pubDate": "2026-07-24T11:54:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b009834bf6592fe3c522ce930cc9168877b4ef4b?source=rss"
         }
       ]
     }
