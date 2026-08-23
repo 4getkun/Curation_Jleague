@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T17:11:54.636Z",
+  "generatedAt": "2026-08-23T17:41:38.809Z",
   "count": 2046,
   "items": [
     {
@@ -2737,6 +2737,23 @@
       ]
     },
     {
+      "title": "松本vs愛媛 試合記録",
+      "summary": "【J3第3節】(サンアル)松本 2-2(前半1-1)愛媛[松]金子翔太(4分)、田口裕也(69分)[愛]谷岡昌(19分)、日野翔太(67分)[松]白井達也(61分)、野田裕喜(89分)[愛]日野翔太(57分)観衆:12,556人主審:菊池俊…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457297-457297-fl",
+      "pubDate": "2026-08-22T14:00:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457297-457297-fl"
+        }
+      ]
+    },
+    {
       "title": "J1の暫定順位表 開幕3戦→3連勝と未勝利で大きく明暗…水戸が“史上初”の勝ち点3(FOOTBALL ZONE)",
       "summary": "明治安田J1リーグは8月22日に第3節の7試合が行われ、暫定順位表が公開された。昨季王者鹿島アントラーズが3連勝を飾る一方で、連敗を重ねて失速したチームなど明暗が分かれた。 鹿島はアビスパ福岡を",
       "link": "https://news.yahoo.co.jp/articles/8fd96bdff72378c002f771c1068df9cfba85e489?source=rss",
@@ -2776,25 +2793,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8dafc2f3f787702ebfad3e76413e99f3bb0a6998?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "神戸は大迫、武藤ら多数の主力が欠場…スキッベ監督「悲観するつもりはない」J1デビューの中京大MF岩本悠庵に高評価",
-      "summary": "[8.22 J1第3節 横浜FM 1-0 神戸 日産ス] ヴィッセル神戸は22日、J1第3節・横浜FM戦に0-1で敗れ、今季初黒星を喫した。ミヒャエル・スキッベ監督は「最初の15分、20分、25分で相手のペースに乗せてしまったことが敗因の一…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457333-457333-fl",
-      "pubDate": "2026-08-22T13:52:37.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457333-457333-fl"
         }
       ]
     },
