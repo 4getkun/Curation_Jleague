@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T17:41:38.809Z",
+  "generatedAt": "2026-08-23T18:13:58.725Z",
   "count": 2046,
   "items": [
     {
@@ -28,8 +28,8 @@
       "summary": "FC町田ゼルビアの2024年パリ五輪（オリンピック）男子日本代表FW藤尾翔太（25）が、柏レイソルに移籍することが確実となった。23日、複数の関係者が明らかにした。チームも、移籍を前提とした手続きと",
       "link": "https://news.yahoo.co.jp/articles/8f6f4bc93644b24d122c262dc705c0f0601d28d8?source=rss",
       "pubDate": "2026-08-23T16:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "zelvia"
       ],
@@ -39,8 +39,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8f6f4bc93644b24d122c262dc705c0f0601d28d8?source=rss"
         }
       ]
