@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:48:16.370Z",
+  "generatedAt": "2026-08-23T17:11:54.636Z",
   "count": 2046,
   "items": [
     {
@@ -72,8 +72,8 @@
       "summary": "W杯北中米大会で活躍した日本代表FW小川航基（29）が、オランダ1部NECナイメヘンからJ1町田に加入することが確実となった。かねて同クラブが獲得に乗り出していた中、交渉が合意に達したことが23日、",
       "link": "https://news.yahoo.co.jp/articles/c1a9d957e288d3a6d263fb2de68ea9087dc5958d?source=rss",
       "pubDate": "2026-08-23T15:30:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "zelvia"
       ],
@@ -83,8 +83,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c1a9d957e288d3a6d263fb2de68ea9087dc5958d?source=rss"
         }
       ]
