@@ -1,7 +1,76 @@
 {
-  "generatedAt": "2026-08-23T08:17:44.503Z",
-  "count": 2007,
+  "generatedAt": "2026-08-23T08:54:32.240Z",
+  "count": 2010,
   "items": [
+    {
+      "title": "FC町田ゼルビア、FW藤尾翔太がチーム離脱。移籍を前提とした手続き・準備のため…浦和レッズ戦後にスタンド周回(フットボールチャンネル)",
+      "summary": "FC町田ゼルビアは23日、FW藤尾翔太が移籍を前提とした手続きと準備のため、チームを離脱することを発表した。 今後については、正式に決定次第、改めて発表されるという。 なお、藤尾は同日",
+      "link": "https://news.yahoo.co.jp/articles/3787e4a180ad877487ea36ad3b18932bb781085b?source=rss",
+      "pubDate": "2026-08-23T08:49:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3787e4a180ad877487ea36ad3b18932bb781085b?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/23/post994347/"
+        }
+      ]
+    },
+    {
+      "title": "町田ＦＷ藤尾翔太が移籍のためチームを離脱 昨年は天皇杯得点王で優勝に貢献(スポーツ報知)",
+      "summary": "Ｊ１町田は２３日、ＦＷ藤尾翔太（２５）が移籍を前提とした手続きと準備でチームを離脱したことを発表した。浦和との第３節を直前に控える中での発表となった。 藤尾は当時Ｊ２の２０２３年に町田へ加入。黒",
+      "link": "https://news.yahoo.co.jp/articles/4f5ceeaf62026594a7332d941fac1fb493d4ae72?source=rss",
+      "pubDate": "2026-08-23T08:34:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4f5ceeaf62026594a7332d941fac1fb493d4ae72?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "初の古巣戦で移籍後初ゴールも笑みなく… アビスパ福岡の師岡柊生が感じた鹿島との差「どんなに点を取られても…」【明治安田J1リーグ】(西スポWEB OTTO!)",
+      "summary": "◆明治安田J1リーグ第3節 鹿島3―2福岡（22日、メルカリスタジアム） 念願としていた初の古巣戦での恩返し弾も、試合後の師岡柊生（25）に笑顔はなかった。理由は一つ。試合前に口にしていた「自分が",
+      "link": "https://news.yahoo.co.jp/articles/2f07a9c38aae6ca8bfbb53d52f255e2685201921?source=rss",
+      "pubDate": "2026-08-23T08:30:36.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa",
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2f07a9c38aae6ca8bfbb53d52f255e2685201921?source=rss"
+        }
+      ]
+    },
     {
       "title": "【広島】２連敗で止めた！ ８月の敵地７戦目で初勝利 ８回に秋山翔吾が決勝犠飛(スポーツ報知)",
       "summary": "◆ＪＥＲＡセ・リーグ 巨人２―３広島（２３日・東京ドーム） 広島が連敗を２で止めた。これで８月の敵地７戦目で初勝利。同点の８回１死一、三塁で秋山が決勝の左犠飛を放った。 打線は両軍無得点の４回",
@@ -81,6 +150,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e0c98f22848d37a376d2e88869335bf62d109d43?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜FMがクリーンシートで今季初2連勝! 16歳MF三井寺眞が決勝ボレー弾(33枚)",
+      "summary": "J1第3節が22日に行われ、日産スタジアムでは横浜F・マリノスがヴィッセル神戸に1-0で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457371-457371-pn",
+      "pubDate": "2026-08-23T08:00:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457371-457371-pn"
         }
       ]
     },
@@ -2870,6 +2958,23 @@
       ]
     },
     {
+      "title": "大分vsいわき スタメン発表",
+      "summary": "[8.22 J2第3節](クラド)※19:00開始主審:田中玲匡[大分トリニータ]先発GK 22 ムン・キョンゴンDF 3 宮川歩己DF 6 三竿雄斗DF 31 ペレイラMF 2 小田逸稀MF 7 西村恭史MF 8 榊原彗悟MF 9 有馬幸…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457281-457281-fl",
+      "pubDate": "2026-08-22T10:25:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457281-457281-fl"
+        }
+      ]
+    },
+    {
       "title": "［特集／J新世紀26/27 02］独占取材：林晴己（鹿島アントラーズ） レジェンドの「24」を受け継ぐ男 “名良橋晃イチオシ”22歳の挑戦(theWORLD（ザ・ワールドWeb）)",
       "summary": "百年構想リーグでもEASTの1位に輝いた鹿島アントラーズは、新たに秋春制に生まれ変わったJ1で優勝候補とされるチーム。チームをMF三竿健斗、MF柴崎岳といったベテラン勢が引っ張る一方、FW徳田誉、FW",
       "link": "https://news.yahoo.co.jp/articles/838064a1b37e887a8217f13966b8e7025f55580b?source=rss",
@@ -2904,45 +3009,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7ce01a53f99c6732b484f65dcf6fb0428c2909e6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島vs福岡 スタメン発表",
-      "summary": "[8.22 J1第3節](メルスタ)※18:00開始主審:清水勇人[鹿島アントラーズ]先発GK 1 早川友基DF 5 関川郁万DF 7 小川諒也DF 37 広瀬陸斗DF 55 植田直通MF 8 マテウス・ブエノMF 10 柴崎岳MF 27…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457264-457264-fl",
-      "pubDate": "2026-08-22T09:55:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "s-pulse",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457264-457264-fl"
-        }
-      ]
-    },
-    {
-      "title": "劇的な逆転勝利! 開幕3連勝に沸いた柏サポーター(70枚)",
-      "summary": "J1第3節が21日に行われ、三協フロンテア柏スタジアムでは柏レイソルがV・ファーレン長崎に4-2で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457289-457289-pn",
-      "pubDate": "2026-08-22T09:55:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457289-457289-pn"
         }
       ]
     },
