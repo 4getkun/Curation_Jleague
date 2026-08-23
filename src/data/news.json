@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-08-23T10:12:50.439Z",
-  "count": 2017,
+  "generatedAt": "2026-08-23T10:47:00.115Z",
+  "count": 2021,
   "items": [
+    {
+      "title": "【福岡ボート】村松将平 ２日目連勝も不満げ「追いつかれているし、余裕がない」(東スポWEB)",
+      "summary": "ボートレース福岡の「ライジングゼファーフクオカ杯」は23日、予選2日目が行われた。 村松将平（25＝静岡）は当地2回目の参戦ながら、ここまで3、1、1着と上々の成績。この日2Rイン戦は1Mバタつ",
+      "link": "https://news.yahoo.co.jp/articles/75cfcf72ab64c650761bd4d440d02c51ee942a43?source=rss",
+      "pubDate": "2026-08-23T10:45:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/75cfcf72ab64c650761bd4d440d02c51ee942a43?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島JrユースMF駒野友春は7戦9発、得点ランク単独首位に浮上も準決勝敗退「去年よりは成長している」(ゲキサカ)",
+      "summary": "[8.22 クラセンU-15準決勝 横浜FM Jrユース 4-2 広島Jrユース 厚別] サンフレッチェ広島ジュニアユースのMF駒野友春(3年)が2ゴールを奪って得点ランキング単独首位に浮上したも",
+      "link": "https://news.yahoo.co.jp/articles/8f9f41b2d92cd0e976efdf77bd08dfa9391bf5e6?source=rss",
+      "pubDate": "2026-08-23T10:35:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8f9f41b2d92cd0e976efdf77bd08dfa9391bf5e6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「寝耳に水」町田・藤尾翔太が突然の離脱 移籍を前提に手続きへ…SNSには惜しむ声(スポーティングニュース日本版)",
+      "summary": "8月23日（日）、サッカーJ1のFC町田ゼルビア（町田）はチーム公式Xアカウントで、FW藤尾翔太が移籍を前提とした手続きと準備のため、チームを離脱すると発表した。 町田は同日19時30分からMUFG",
+      "link": "https://news.yahoo.co.jp/articles/d93b5e297319ab08341ce9e46690360c73e1c631?source=rss",
+      "pubDate": "2026-08-23T10:20:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d93b5e297319ab08341ce9e46690360c73e1c631?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "G大阪 スペイン1部マラガCFのMFファンペを完全移籍で獲得(スポニチアネックス)",
+      "summary": "G大阪は23日、スペイン1部、マラガCFのMFファンペ（30）を完全移籍で獲得したと発表した。 スペイン出身、利き足は右で184センチ、77キロ。2015年7月の カディスCF B入団を皮切りに",
+      "link": "https://news.yahoo.co.jp/articles/9ed0f2a746564c6a6f47ed8abe227c1df4905c91?source=rss",
+      "pubDate": "2026-08-23T10:19:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9ed0f2a746564c6a6f47ed8abe227c1df4905c91?source=rss"
+        }
+      ]
+    },
     {
       "title": "【広島】新井監督がファビアン称賛 満塁機で坂本勇の強打を好捕「あの球際はね…」(東スポWEB)",
       "summary": "広島は23日の巨人戦（東京ドーム）に3―2で競り勝ち、連敗を2で止めた。試合後、新井貴浩監督（49）は勝利を呼び込んだファビアンの好守をたたえた。 大きなプレーが飛び出したのは1―1の5回だった",
