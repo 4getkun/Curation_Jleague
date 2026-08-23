@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-08-23T15:43:44.681Z",
-  "count": 2043,
+  "generatedAt": "2026-08-23T16:12:50.980Z",
+  "count": 2045,
   "items": [
+    {
+      "title": "【町田】藤尾翔太、柏への移籍確実に「手続きと準備でチームから離脱」エリキは再び神戸の可能性(日刊スポーツ)",
+      "summary": "FC町田ゼルビアの2024年パリ五輪（オリンピック）男子日本代表FW藤尾翔太（25）が、柏レイソルに移籍することが確実となった。23日、複数の関係者が明らかにした。チームも、移籍を前提とした手続きと",
+      "link": "https://news.yahoo.co.jp/articles/8f6f4bc93644b24d122c262dc705c0f0601d28d8?source=rss",
+      "pubDate": "2026-08-23T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8f6f4bc93644b24d122c262dc705c0f0601d28d8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏 町田のFW藤尾を完全移籍で獲得 近日中に正式発表へ(スポニチアネックス)",
+      "summary": "柏が町田のFW藤尾翔太（25）を完全移籍で獲得することが23日、分かった。複数の関係者によると、既にクラブ間で合意。近日中にも正式発表される見通しという。 勝負強さと献身性を兼ね備えた点取り屋で",
+      "link": "https://news.yahoo.co.jp/articles/74be256f641791d1aed24c9d03e4b9f60a663988?source=rss",
+      "pubDate": "2026-08-23T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol",
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/74be256f641791d1aed24c9d03e4b9f60a663988?source=rss"
+        }
+      ]
+    },
     {
       "title": "【町田】日本代表FW小川航基の獲得確実に！W杯直後の欧州組復帰は初、年俸も日本人最高４億円(日刊スポーツ)",
       "summary": "W杯北中米大会で活躍した日本代表FW小川航基（29）が、オランダ1部NECナイメヘンからJ1町田に加入することが確実となった。かねて同クラブが獲得に乗り出していた中、交渉が合意に達したことが23日、",
@@ -65,6 +109,11 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d95d4e9d12e367a530206661e4d76978388b4386?source=rss"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/03bb58dc3cde060ed6f0907d7443e83d0323d045?source=rss"
         }
       ]
     },
