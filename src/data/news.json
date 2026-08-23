@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-08-23T15:12:00.056Z",
-  "count": 2042,
+  "generatedAt": "2026-08-23T15:43:44.681Z",
+  "count": 2043,
   "items": [
+    {
+      "title": "【町田】日本代表FW小川航基の獲得確実に！W杯直後の欧州組復帰は初、年俸も日本人最高４億円(日刊スポーツ)",
+      "summary": "W杯北中米大会で活躍した日本代表FW小川航基（29）が、オランダ1部NECナイメヘンからJ1町田に加入することが確実となった。かねて同クラブが獲得に乗り出していた中、交渉が合意に達したことが23日、",
+      "link": "https://news.yahoo.co.jp/articles/c1a9d957e288d3a6d263fb2de68ea9087dc5958d?source=rss",
+      "pubDate": "2026-08-23T15:30:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "contract",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c1a9d957e288d3a6d263fb2de68ea9087dc5958d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田、日本代表ＦＷ小川航基の獲得が決定的に 年俸３億円超を提示し、ラブコール実る…北中米Ｗ杯オランダ戦同点弾演出のストライカー(スポーツ報知)",
+      "summary": "Ｊ１町田が日本代表ＦＷ小川航基（２９）＝オランダ１部ＮＥＣ＝を獲得することが２３日、決定的になった。近日中にも発表される見込み。複数の関係者によると、クラブは小川サイドに年俸３億円（推定）を超える好",
+      "link": "https://news.yahoo.co.jp/articles/ac8f6b6cf5279b1c80034b73c3c41382ab1afa43?source=rss",
+      "pubDate": "2026-08-23T15:11:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "contract",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ac8f6b6cf5279b1c80034b73c3c41382ab1afa43?source=rss"
+        }
+      ]
+    },
     {
       "title": "柏、町田ＦＷ藤尾翔太の獲得が決定的に 昨年の天皇杯は得点王で優勝に貢献…既にチームからは離脱(スポーツ報知)",
       "summary": "Ｊ１柏が町田のＦＷ藤尾翔太（２５）を獲得することが２３日、決定的になった。近日中にも発表される見込み。藤尾は同日の浦和戦直前に、クラブから移籍を前提とした手続きと準備のために離脱することが発表されて",
@@ -49,7 +93,7 @@
     },
     {
       "title": "町田 日本代表FW小川航基の獲得決定的に! 蘭1部NECから3年ぶりJリーグ復帰へ(スポニチアネックス)",
-      "summary": "町田が、オランダ1部NECナイメヘンから日本代表FW小川航基（29）を完全移籍で獲得することが23日、決定的となった。 関係者によると、デンマーク1部ミッティラントの韓国代表FWチョ・ギュソン（",
+      "summary": "FC町田ゼルビアが、オランダ1部NECナイメヘンから日本代表FW小川航基（29）を完全移籍で獲得することが23日、決定的となった。 関係者によると、デンマーク1部ミッティラントの韓国代表FWチョ",
       "link": "https://news.yahoo.co.jp/articles/2021e26d920d8d4c70b517cf0efd176f76509902?source=rss",
       "pubDate": "2026-08-23T15:00:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
@@ -173,16 +217,16 @@
       "summary": "58歳の誕生日を迎えた日本代表の森保一監督が、MUFG国立で開催された明治安田J1のFC町田ゼルビア－浦和レッズ戦を視察した。 試合後の囲み取材の後には、反対に報道陣に1人1人にお菓子をプレゼン",
       "link": "https://news.yahoo.co.jp/articles/c56c2c23491a9cfadd8830ae06a51adcda1c1ab6?source=rss",
       "pubDate": "2026-08-23T14:11:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [],
       "topics": [
         "national-team"
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c56c2c23491a9cfadd8830ae06a51adcda1c1ab6?source=rss"
         }
       ]
@@ -39624,25 +39668,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b689e5b813ab515239882ade73e839acde3063bd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪DF中谷進之介「少しはおばあちゃん孝行ができたのかな」縁深い石川県で2アシスト＆無失点(スポニチアネックス)",
-      "summary": "◇プレシーズンマッチ G大阪6-0金沢（2026年7月24日 西部緑地公園陸上競技場） G大阪がJ3金沢を6発粉砕した。7月に急きょコーチから昇格した明神智和監督の国内初陣。リーグ開幕・浦和戦（",
-      "link": "https://news.yahoo.co.jp/articles/c07d3fe4e1544b913cc7f068d5a5e74e948fd785?source=rss",
-      "pubDate": "2026-07-24T15:17:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c07d3fe4e1544b913cc7f068d5a5e74e948fd785?source=rss"
         }
       ]
     }
