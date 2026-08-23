@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-23T06:22:15.559Z",
-  "count": 2004,
+  "generatedAt": "2026-08-23T07:08:53.554Z",
+  "count": 2005,
   "items": [
+    {
+      "title": "【広島】22イニングぶり得点の喜びつかの間…先発の森翔平が４回裏、坂本勇人に同点弾浴びる(日刊スポーツ)",
+      "summary": "＜巨人－広島＞◇23日◇東京ドーム 広島があっさり追いつかれた。4回表1死満塁から佐々木泰内野手（23）が放った遊ゴロ併殺崩れの間に1点を先制。22イニングぶりの得点、ビジターに限れば45イニング",
+      "link": "https://news.yahoo.co.jp/articles/ac2b0648479e6995b40bf38d6f2f0f062ae3e3ca?source=rss",
+      "pubDate": "2026-08-23T06:53:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ac2b0648479e6995b40bf38d6f2f0f062ae3e3ca?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J2での豪快弾が「月間ベストゴールある」 J1名門の弟より先に“今季初”を達成…フォームが「教科書や」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/669944",
+      "pubDate": "2026-08-23T06:40:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/669944"
+        }
+      ]
+    },
     {
       "title": "開幕３連勝も鹿島らしくない失点が続く背景。裏にあるバージョンアップへの挑戦と鬼木達監督の愛情と覚悟(SOCCER DIGEST Web)",
       "summary": "［J１第３節］鹿島 ３－２ 福岡／８月22日／メルカリスタジアム 開幕から３連勝。 連覇を狙う鹿島が改めて勝負強さを見せている。 ３－４－２－１で組織的な守備と機動力を活かした攻撃を見せた",
@@ -2810,9 +2846,9 @@
       ]
     },
     {
-      "title": "柏MF小泉佳穂が開幕3連勝を呼び込む1G1A(20枚)",
+      "title": "柏MF瀬川祐輔が逆転V弾! 途中出場から2戦連続ゴール(23枚)",
       "summary": "J1第3節が21日に行われ、三協フロンテア柏スタジアムでは柏レイソルがV・ファーレン長崎に4-2で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457285-457285-pn",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457286-457286-pn",
       "pubDate": "2026-08-22T09:55:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -2824,7 +2860,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457285-457285-pn"
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457286-457286-pn"
         }
       ]
     },
@@ -38831,23 +38867,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b68dc8edd786efef45ce5be5c92c5615e7c7a4bb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグが広告を出したまさかの場所「これまでと違う動き」 広がる賛否「投資ってそういうもん」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/665237",
-      "pubDate": "2026-07-24T06:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/665237"
         }
       ]
     }
