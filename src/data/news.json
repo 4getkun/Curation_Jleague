@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-23T11:11:36.378Z",
-  "count": 2023,
+  "generatedAt": "2026-08-23T11:42:26.715Z",
+  "count": 2020,
   "items": [
+    {
+      "title": "【U21Ｊリーグ】神戸が４－０で長崎下し白星発進 手倉森監督「プロを意識できるのは良い」(日刊スポーツ)",
+      "summary": "若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21Jリーグの第1節が神戸市内のいぶきの森球技場で行われ、U－21神戸がU－21長崎を4－0で下",
+      "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss",
+      "pubDate": "2026-08-23T11:31:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "v-varen"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss"
+        }
+      ]
+    },
     {
       "title": "G大阪がスペイン人MFファンペを獲得「ガンバのゲームも見させてもらいましたが、本当にいいサッカーをするチーム」(ゲキサカ)",
       "summary": "ガンバ大阪は23日、マラガ(スペイン1部)からMFファンペ(30)が完全移籍で加入することを発表した。 スペイン出身のファンペはカディスBでキャリアを始め、アトレティコ・マンチャ・レアル、セビー",
@@ -2720,17 +2740,23 @@
       ]
     },
     {
-      "title": "岡山が優勢の展開を生かせず東京Vとスコアレスドロー…木山隆之監督「これをしっかり勝ちにつなげるチームになれるように」(ゲキサカ)",
-      "summary": "[8.22 J1第3節 岡山 0-0 東京V JFEス] J1第3節が22日に行われ、JFE晴れの国スタジアムでは9位ファジアーノ岡山と16位東京ヴェルディが0-0で引き分けた。 岡山は前半か",
-      "link": "https://news.yahoo.co.jp/articles/d1d0446bf3e5b5f185658be8bfe7829e1391d231?source=rss",
-      "pubDate": "2026-08-22T12:05:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "岡山が優勢の展開を生かせず東京Vとスコアレスドロー…木山隆之監督「これをしっかり勝ちにつなげるチームになれるように」",
+      "summary": "[8.22 J1第3節 岡山 0-0 東京V JFEス] J1第3節が22日に行われ、JFE晴れの国スタジアムでは9位ファジアーノ岡山と16位東京ヴェルディが0-0で引き分けた。 岡山は前半から何度もゴールへ迫ったが、決め切ることはできず。…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457319-457319-fl",
+      "pubDate": "2026-08-22T12:04:27.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
+        "fagiano",
         "verdy"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457319-457319-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -2891,26 +2917,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/11ed4513935dedfa664c6f16a90a4f2d67567dcf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "16歳MF三井寺眞がまた決めた!! “王者キラー”の強烈左足ボレー弾、プロ3試合で早くも2ゴール目",
-      "summary": "[8.22 J1第3節 横浜FM-神戸 日産ス] 横浜F・マリノスの16歳MF三井寺眞が22日、J1第3節・神戸戦に先発出場し、前半9分に浮き球に合わせる強烈な左足ボレーシュートで今季2ゴール目を決めた。昨季王者の鹿島相手に決めたプロ初ゴー…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457295-457295-fl",
-      "pubDate": "2026-08-22T11:40:05.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457295-457295-fl"
         }
       ]
     },
@@ -39197,61 +39203,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b009834bf6592fe3c522ce930cc9168877b4ef4b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート G3ウエスタンヤング】中亮太が当地初優勝 定松の捲りを受け止めて押し切った(スポニチアネックス)",
-      "summary": "ボートレース福岡G3「第13回ウエスタンヤング」は24日、第12Rで優勝戦が行われ、中亮太（29＝福岡）がインから定松勇樹の捲りを受け止めて押し切り勝ち。当地初優勝を飾った。24年11月の芦屋一般戦",
-      "link": "https://news.yahoo.co.jp/articles/893ab45c1b50f2ce52e2a33db20de05fd56fdb85?source=rss",
-      "pubDate": "2026-07-24T11:40:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/893ab45c1b50f2ce52e2a33db20de05fd56fdb85?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "川淵三郎氏「スッキリしないW杯だった」「FIFAは審判を再教育すべき」(ゲキサカ)",
-      "summary": "Jリーグ初代チェアマンの川淵三郎氏がX(@jtl_President)を更新し、「最後まで何ともスッキリしないW杯だった。素晴らしいプレーに感動する反面、酷いプレーが多すぎた」と問題提起した。",
-      "link": "https://news.yahoo.co.jp/articles/c052506c6747efb3905bfd5827d279ff17833973?source=rss",
-      "pubDate": "2026-07-24T11:33:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c052506c6747efb3905bfd5827d279ff17833973?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】ファビアンが先制犠飛「走者を返すことができて良かった」(日刊スポーツ)",
-      "summary": "＜ヤクルト－広島＞◇24日◇神宮 7月打撃好調の広島サンドロ・ファビアン外野手（28）が先制犠飛を放った。3回1死二、三塁からヤクルト高橋のチェンジアップをたたいて左翼に飛球を打ち上げた。三走アド",
-      "link": "https://news.yahoo.co.jp/articles/96d5b83dd226b87a0a49e7907e8b77f53ed4922f?source=rss",
-      "pubDate": "2026-07-24T11:26:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/96d5b83dd226b87a0a49e7907e8b77f53ed4922f?source=rss"
         }
       ]
     }
