@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-08-23T13:51:01.581Z",
-  "count": 2039,
+  "generatedAt": "2026-08-23T14:12:56.513Z",
+  "count": 2040,
   "items": [
+    {
+      "title": "森保監督、58歳誕生日にJ1町田－浦和を視察「刺激ある人生を送らせてもらっている」と感謝(日刊スポーツ)",
+      "summary": "58歳の誕生日を迎えた日本代表の森保一監督が、MUFG国立で開催された明治安田J1のFC町田ゼルビア－浦和レッズ戦を視察した。 試合後の囲み取材の後には、反対に報道陣に1人1人にお菓子をプレゼント",
+      "link": "https://news.yahoo.co.jp/articles/c56c2c23491a9cfadd8830ae06a51adcda1c1ab6?source=rss",
+      "pubDate": "2026-08-23T14:11:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c56c2c23491a9cfadd8830ae06a51adcda1c1ab6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和レッズ・曺貴裁監督「どうしてこうなっちゃったのだろうと…」開幕3連敗にも攻撃面では改善の兆し「試合の進み方は非常に進歩」(中日スポーツ)",
+      "summary": "◇２３日 Ｊ１第３節 町田３―１浦和（ＭＵＦＧスタジアム） 浦和が東京・国立競技場開催のアウェーで町田に敗れ、２００２年シーズン以来、２４年ぶりの開幕３連敗を喫した。 前半終了間際に追いついて",
+      "link": "https://news.yahoo.co.jp/articles/54a354d28758a385cccbd058cc347c30bb31e9bd?source=rss",
+      "pubDate": "2026-08-23T14:08:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/54a354d28758a385cccbd058cc347c30bb31e9bd?source=rss"
+        }
+      ]
+    },
     {
       "title": "森保監督が58歳誕生日「すごく刺激のある人生を過ごさせてもらっている」【サッカー日本代表】(中日スポーツ)",
       "summary": "◇２３日 Ｊ１第３節 町田３―１浦和（ＭＵＦＧスタジアム） サッカー日本代表の森保一監督が２３日、５８歳の誕生日を迎えた。 東京・国立競技場で行われた町田―浦和戦を視察後、報道陣の取材に応じた",
@@ -64,8 +102,8 @@
       "summary": "ガンバ大阪は23日、スペイン1部マラガから、MFファンペ（30）が完全移籍加入すると発表した。 スペイン出身のファンペは、184センチ77キロのセントラルMF。15年に母国のカディスU19からカ",
       "link": "https://news.yahoo.co.jp/articles/c93a93184ea31c8307e3fde9e43b560eb1142321?source=rss",
       "pubDate": "2026-08-23T13:28:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
@@ -74,8 +112,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c93a93184ea31c8307e3fde9e43b560eb1142321?source=rss"
         }
       ]
@@ -2808,11 +2846,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?457328-457328-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/03fc33842c6039edfa70f6cb5cf77bb9982be4db?source=rss"
         }
       ]
     },
@@ -39561,25 +39594,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a3c784ddda41935feb34f865741637f3e9a8a91d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】３点リード守れず悪夢のサヨナラ負け 借金１５で最下位・中日と１ゲーム差(東スポWEB)",
-      "summary": "広島が24日のヤクルト戦（神宮）に延長12回の末、3―5でサヨナラ負けを喫した。最大3点のリードを守れず、今季6度目のサヨナラ負け。借金は今季ワーストタイの15となり、最下位・中日との差は1ゲームに",
-      "link": "https://news.yahoo.co.jp/articles/9d1a393dceea2943be657799f6ebd091e958f545?source=rss",
-      "pubDate": "2026-07-24T14:10:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9d1a393dceea2943be657799f6ebd091e958f545?source=rss"
         }
       ]
     }
