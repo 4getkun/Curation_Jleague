@@ -1,7 +1,74 @@
 {
-  "generatedAt": "2026-08-23T14:46:02.980Z",
-  "count": 2039,
+  "generatedAt": "2026-08-23T15:12:00.056Z",
+  "count": 2042,
   "items": [
+    {
+      "title": "柏、町田ＦＷ藤尾翔太の獲得が決定的に 昨年の天皇杯は得点王で優勝に貢献…既にチームからは離脱(スポーツ報知)",
+      "summary": "Ｊ１柏が町田のＦＷ藤尾翔太（２５）を獲得することが２３日、決定的になった。近日中にも発表される見込み。藤尾は同日の浦和戦直前に、クラブから移籍を前提とした手続きと準備のために離脱することが発表されて",
+      "link": "https://news.yahoo.co.jp/articles/d95d4e9d12e367a530206661e4d76978388b4386?source=rss",
+      "pubDate": "2026-08-23T15:11:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol",
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d95d4e9d12e367a530206661e4d76978388b4386?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和デビューの元日本代表ＤＦ山根視来 開幕３連敗に「迷ったら一番よくない」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第３節 町田３―１浦和（２３日・ＭＵＦＪ国立） 浦和は町田に１―３と敗れ、２００２年以来、２４年ぶり開幕３連敗を喫した。曺貴裁新監督（５７）を迎えた今季、開幕から３試合で計１",
+      "link": "https://news.yahoo.co.jp/articles/24385d3d5db21d55fbf7d1f5910c6b6a9f13dfba?source=rss",
+      "pubDate": "2026-08-23T15:01:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds",
+        "zelvia"
+      ],
+      "topics": [
+        "national-team",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/24385d3d5db21d55fbf7d1f5910c6b6a9f13dfba?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田 日本代表FW小川航基の獲得決定的に! 蘭1部NECから3年ぶりJリーグ復帰へ(スポニチアネックス)",
+      "summary": "町田が、オランダ1部NECナイメヘンから日本代表FW小川航基（29）を完全移籍で獲得することが23日、決定的となった。 関係者によると、デンマーク1部ミッティラントの韓国代表FWチョ・ギュソン（",
+      "link": "https://news.yahoo.co.jp/articles/2021e26d920d8d4c70b517cf0efd176f76509902?source=rss",
+      "pubDate": "2026-08-23T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2021e26d920d8d4c70b517cf0efd176f76509902?source=rss"
+        }
+      ]
+    },
     {
       "title": "町田3連勝で首位！ 中村帆高、西村拓真、ネタ・ラヴィが決めて突き放す。浦和は渡邊凌磨の得点で一度は追いつくも力尽き3連敗◎J1第3節(サッカーマガジンWeb)",
       "summary": "8月23日の明治安田J1リーグ第3節で、FC町田ゼルビアと浦和レッズがMUFGスタジアム（国立競技場）で対戦した。中村帆高が先制、渡邊凌磨が同点とともに譲らなかったが、後半に西村拓真とネタ・ラヴィが",
@@ -2614,11 +2681,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?457333-457333-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f48af26c9d8c0a14998717525ba24c0b31226db8?source=rss"
         }
       ]
     },
