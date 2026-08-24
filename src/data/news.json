@@ -1,7 +1,104 @@
 {
-  "generatedAt": "2026-08-24T05:08:07.109Z",
-  "count": 2093,
+  "generatedAt": "2026-08-24T06:00:10.396Z",
+  "count": 2096,
   "items": [
+    {
+      "title": "【川崎Ｆ】宮城天に悪夢…左もも裏肉離れで全治５カ月半 度重なるケガに苦しむ(日刊スポーツ)",
+      "summary": "川崎フロンターレは24日、FW宮城天（25）が左太もも裏肉離れを負ったと発表した。全治は5カ月半程度としている。 8月15日の第2節京都サンガFC戦に途中出場した宮城は試合終了間際に右サイド深く",
+      "link": "https://news.yahoo.co.jp/articles/04a710efeebe1bd396ef72d705e5bbad119fbd78?source=rss",
+      "pubDate": "2026-08-24T05:52:35.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/04a710efeebe1bd396ef72d705e5bbad119fbd78?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U19日本代表、神戸の濱崎健斗を招集することを発表。また中野陽斗が怪我のため不参加となり藤川虎三を追加招集 ｜ AFC U20アジアカップ予選(DAZN News)",
+      "summary": "【国内サッカーニュース】日本サッカー協会（JFA）は24日、8月末から始まるAFC U20アジアカップ予選のU-19日本代表メンバーにヴィッセル神戸のMF濱崎健斗を招集することを発表。また、いわきFC",
+      "link": "https://news.yahoo.co.jp/articles/0fbb9b62fbfeaef64f4f205324ec0e337e7d5b7e?source=rss",
+      "pubDate": "2026-08-24T05:51:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0fbb9b62fbfeaef64f4f205324ec0e337e7d5b7e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島JrユースFW駒野友春が第41回クラセンU-15得点王!! 2位の2人を1点差で上回る大会9得点(ゲキサカ)",
+      "summary": "第41回日本クラブユースサッカー選手権(U-15)大会は24日に決勝を開催し、横浜F・マリノスジュニアユースが優勝した。得点王にはサンフレッチェ広島ジュニアユースのFW駒野友春(3年)が9得点で輝い",
+      "link": "https://news.yahoo.co.jp/articles/48f7077ebb0d54800359427cfa4ded94d00675dc?source=rss",
+      "pubDate": "2026-08-24T05:48:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/48f7077ebb0d54800359427cfa4ded94d00675dc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-15 Jリーグ選抜がブラジル遠征へ…15クラブから18選手、日伯友好カップに出場(ゲキサカ)",
+      "summary": "Jリーグは24日、U-15 Jリーグ選抜を結成し、8月29日から9月3日までブラジル・リオデジャネイロで開催される「第26回 日伯友好カップ」に参加すると発表した。 同選抜は国際試合を通じた競技",
+      "link": "https://news.yahoo.co.jp/articles/3167488ee15c1c47a8f0ec0190751ea658d7a247?source=rss",
+      "pubDate": "2026-08-24T05:26:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3167488ee15c1c47a8f0ec0190751ea658d7a247?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「目が痛くなりそう」J1清水エスパルス、先着1万4000人に無料配布の“パルちゃんまみれ”法被にファン騒然!「こうきたか…」「ある意味、派手すぎる」「すげーな笑」(サッカー批評Web)",
+      "summary": "J1リーグ発足時から参画する「オリジナル10」の一角として、日本のサッカー史に深く名を刻んできた清水エスパルス。そんな名門クラブが、年に1度のスペシャルデーに向けて発表した“ある来場者プレゼント”の",
+      "link": "https://news.yahoo.co.jp/articles/e98d09601afbe63c6ffafde46a73c24dbe97fe0c?source=rss",
+      "pubDate": "2026-08-24T05:21:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e98d09601afbe63c6ffafde46a73c24dbe97fe0c?source=rss"
+        }
+      ]
+    },
     {
       "title": "首位・町田で一触即発の事態…？ カメラが捉えた“口論”にファン絶賛のワケ「強いわけだよ！」(THE ANSWER)",
       "summary": "サッカーのJリーグ・町田は23日、MUFGスタジアムで浦和に3-1で勝利し、首位に浮上した。試合中には、町田のセンターバック同士が“口論”になるシーンが中継にも映った。ヒートアップしながらも、忌憚な",
@@ -3781,18 +3878,23 @@
       ]
     },
     {
-      "title": "スーパー決勝弾の16歳MF三井寺眞「ボレーは得意じゃない」守備でもJ1適応「自分としても意識している」(ゲキサカ)",
-      "summary": "[8.22 J1第3節 横浜FM 1-0 神戸 日産ス] 注目の16歳が止まらない。横浜F・マリノスのMF三井寺眞は22日、J1第3節・神戸戦で開幕3試合連続の先発出場を勝ち取ると、前半7分にボレ",
-      "link": "https://news.yahoo.co.jp/articles/200e20dc7b88a18dd6f2d057c4e82b8d0818aa5a?source=rss",
-      "pubDate": "2026-08-22T14:58:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "スーパー決勝弾の16歳MF三井寺眞「ボレーは得意じゃない」守備でもJ1適応「自分としても意識している」",
+      "summary": "[8.22 J1第3節 横浜FM 1-0 神戸 日産ス] 注目の16歳が止まらない。横浜F・マリノスのMF三井寺眞は22日、J1第3節・神戸戦で開幕3試合連続の先発出場を勝ち取ると、前半7分にボレーシュートで先制点。これが両チーム唯一のゴー…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457336-457336-fl",
+      "pubDate": "2026-08-22T14:57:16.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "marinos",
         "vissel"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457336-457336-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -3818,23 +3920,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7ef642eba2eaedd585c10a9b1301c42706d71a71?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "磐田vs徳島 試合記録",
-      "summary": "【J2第3節】(ヤマハ)磐田 2-1(前半1-1)徳島[磐]イアゴ・テレス(13分)、太田龍之介(90分+2)[徳]山越康平(43分)観衆:14,235人主審:御厨貴文[ジュビロ磐田]先発GK 16 牲川歩見DF 2 ダニーロDF 15 ユ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457307-457307-fl",
-      "pubDate": "2026-08-22T14:20:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457307-457307-fl"
         }
       ]
     },
@@ -40654,25 +40739,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/8641d81ab037c71014ecec471e471ae6f54a08a4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪、新マスコットの名前を発表 13855件の応募から…「ハーチモ」に決定",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/665352",
-      "pubDate": "2026-07-25T05:23:17.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/665352"
         }
       ]
     }
