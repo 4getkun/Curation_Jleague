@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-08-24T21:19:03.677Z",
-  "count": 2119,
+  "generatedAt": "2026-08-24T21:50:45.619Z",
+  "count": 2120,
   "items": [
+    {
+      "title": "【26/27J2「第3節」磐田VS徳島「徹底分析」】秋葉忠宏監督就任の磐田を初勝利に導いた乾貴士の圧倒的存在感 つかまえられない38歳MF（1）(サッカー批評Web)",
+      "summary": "【J2リーグ第3節 8月22日 19時00分キックオフ 磐田 2-1 徳島 ヤマハスタジアム】 2シーズンぶりのJ1昇格を狙うジュビロ磐田が、シーズン初勝利をあげた。 26/27J2リーグは8",
+      "link": "https://news.yahoo.co.jp/articles/4a5ac7c81be3d6f82c2aabafd9f41e0d2400c4a0?source=rss",
+      "pubDate": "2026-08-24T21:45:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4a5ac7c81be3d6f82c2aabafd9f41e0d2400c4a0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "三井寺眞は「ただの16歳じゃない」 数字以上のインパクト…代表OBが注目する「久保建英との共通点」(FOOTBALL ZONE)",
+      "summary": "横浜F・マリノスは8月22日にJ1リーグ第3節でヴィッセル神戸と対戦し、1-0で勝利を収めた。今季最初の日産スタジアムでのゲームで決勝点を挙げたのが注目を集めている16歳MF三井寺眞だ。若手特有の「",
+      "link": "https://news.yahoo.co.jp/articles/aecdfcd3067352fc4c2e526d2e1674b654658ee8?source=rss",
+      "pubDate": "2026-08-24T21:20:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/aecdfcd3067352fc4c2e526d2e1674b654658ee8?source=rss"
+        }
+      ]
+    },
     {
       "title": "横浜Ｍの16歳新星・三井寺眞 「テクニックもアイデアもある」武田修宏氏がイメージ重ねる〝10番の代表OB〟(東スポWEB)",
       "summary": "日本サッカー界に彗星のごとく現れた〝新ワンダーボーイ〟J1横浜MのMF三井寺眞（16）が、新シーズン開幕から3試合2得点と活躍中だ。16歳の誕生日だった今年4月2日に、プロ契約を締結したばかり。だが",
@@ -41,16 +80,16 @@
       "summary": "その年齢差、なんと43歳。59歳5カ月になるカズこと三浦知良のJ3福島ユナイテッドFCが、16歳4カ月の三井寺眞の所属するJ1横浜F・マリノスと26日に天皇杯全日本選手権2回戦で対戦する。 ■「",
       "link": "https://news.yahoo.co.jp/articles/a1f8eef1ebe022a8a0d7264d9da3dff8e2aabb14?source=rss",
       "pubDate": "2026-08-24T21:00:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marinos"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a1f8eef1ebe022a8a0d7264d9da3dff8e2aabb14?source=rss"
         }
       ]
@@ -41212,23 +41251,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/24f5d0f59551cc4a95fd2af196c01203eb984f86?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "関東3部→J1内定「迷いはなかった」 無名の高校時代…歴史を塗り替えた20歳の覚悟",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/665390",
-      "pubDate": "2026-07-25T21:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/665390"
         }
       ]
     }
