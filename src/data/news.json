@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-08-24T10:08:23.253Z",
-  "count": 2104,
+  "generatedAt": "2026-08-24T10:59:51.261Z",
+  "count": 2106,
   "items": [
+    {
+      "title": "【ボートレース】川崎智稔は４日目に準優勝負駆け 先輩に教わった伸び試して正解／常滑(日刊スポーツ)",
+      "summary": "＜常滑ボート＞◇3日目◇24日 川崎智稔（27＝岡山）は前半1Rを5枠から3着、後半11Rは6枠から2着にまとめ、得点率を5・60で19位タイにつけた。 後半11Rはチルトを1・5度に上げて臨",
+      "link": "https://news.yahoo.co.jp/articles/e2f3543efb886fe864b0210f15def160d91f40a9?source=rss",
+      "pubDate": "2026-08-24T10:50:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e2f3543efb886fe864b0210f15def160d91f40a9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "小川航基、FC町田ゼルビア加入へオランダメディアが合意報道！ クラブ公式Xも「欧州から到着」と匂わせ",
+      "summary": "FC町田ゼルビアが24日、クラブ公式Xを更新。「Heading for MACHIDA」と綴り、飛行機と砂時計の絵文字を添えた画像を公開した。そんななか、オランダメディア『Voetbal International』は同日、NECナイメヘン…",
+      "link": "https://www.footballchannel.jp/2026/08/24/post995082/",
+      "pubDate": "2026-08-24T10:30:55.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/24/post995082/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/12a1edf97cf7162ca81ae609304229e2f67158a6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【福岡ボート】常盤海心が今節初勝利「本体は悪くないと思っている」(東スポWEB)",
+      "summary": "ボートレース福岡の「ライジングゼファーフクオカ杯」は24日、予選3日目が行われた。 常盤海心（25＝徳島）は4年1か月ぶりの博多参戦。序盤2日間は5、4、4着と苦戦。1日早い勝負駆けとなったこの",
+      "link": "https://news.yahoo.co.jp/articles/f0fe083e3c70a5d267df518032fa63b88ee7d8c3?source=rss",
+      "pubDate": "2026-08-24T10:30:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f0fe083e3c70a5d267df518032fa63b88ee7d8c3?source=rss"
+        }
+      ]
+    },
     {
       "title": "名古屋戦で一発退場のG大阪MF安部柊斗、処分内容が決定「反スポーツ的な行為に該当すると判断」(ゲキサカ)",
       "summary": "Jリーグは24日、J1リーグ第3節で退場を命じられたガンバ大阪MF安部柊斗に対し、1試合の出場停止処分を決定した。 安部は22日にアウェーで開催された名古屋戦に先発出場。しかし、後半41分にFW",
@@ -26,16 +88,16 @@
       "summary": "＜江戸川ボート＞◇4日目◇24日 前田将太（38＝福岡）が予選12Rも逃げ、得点率9・33で予選トップ通過を決めた。準優12Rは絶好枠から戦う。 今節は福岡勢がシリーズをリードしている。準優に",
       "link": "https://news.yahoo.co.jp/articles/fa58c861541756d8d61118ccf7d3a011daf1763f?source=rss",
       "pubDate": "2026-08-24T09:45:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "avispa"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fa58c861541756d8d61118ccf7d3a011daf1763f?source=rss"
         }
       ]
@@ -4125,6 +4187,25 @@
       ]
     },
     {
+      "title": "奈良vs山口 試合記録",
+      "summary": "【J3第3節】(ロートF)奈良 3-1(前半1-1)山口[奈]富樫佑太(27分)、川崎修平(90分+2)、安藤陸登(90分+6)[山]田邉光平(22分)[奈]石井大生(72分)、川崎修平(81分)[山]菊地脩太(45分)観衆:2,319人主…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457299-457299-fl",
+      "pubDate": "2026-08-22T16:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457299-457299-fl"
+        }
+      ]
+    },
+    {
       "title": "16歳・三井寺眞がＶ弾！ Ｊ１横浜Ｍが強敵・神戸撃破「何をできるかが、今日は試されると思った」(東スポWEB)",
       "summary": "J1横浜Mは22日、明治安田J1リーグ第3節神戸戦（日産）に1―0で勝利した。 リーグ開幕第1号弾を決めた16歳のMF三井寺眞が、自身初のホーム戦で再び大活躍。開始9分、こぼれ球に反応して左足で",
       "link": "https://news.yahoo.co.jp/articles/d3c1e111429adefad1f829b2bc7f7b65a1e75a7f?source=rss",
@@ -4140,25 +4221,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d3c1e111429adefad1f829b2bc7f7b65a1e75a7f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪vs琉球 試合記録",
-      "summary": "【J3第3節】(ミクスタ)FC大阪 2-2(前半0-1)琉球[F]久保吏久斗(51分)、夏川大和(90分+2)[琉]岩本翔(20分)、照内利和(62分)[F]長野星輝(88分)、森村俊太(90分+4)観衆:894人主審:酒井達矢[FC大阪]…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457298-457298-fl",
-      "pubDate": "2026-08-22T15:30:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457298-457298-fl"
         }
       ]
     },
@@ -40850,28 +40912,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/11ae93eca0cf1dce682fde403d4d9bfcc24f37e0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「予想外すぎる」「ビッグサプライズ」24年に日本代表デビューした26歳MFの“電撃復帰”にファン驚嘆！「怪我がもったいなかった」(SOCCER DIGEST Web)",
-      "summary": "７月25日、サンフレッチェ広島がオーストリア１部のレッドブル・ザルツブルクから川村拓夢が完全移籍で加入することを発表した。 現在26歳のMFは、日本代表デビューを果たした2024年の夏に広島から",
-      "link": "https://news.yahoo.co.jp/articles/b52c14c03ffc68c060c76eccf867837cd042ea49?source=rss",
-      "pubDate": "2026-07-25T10:32:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b52c14c03ffc68c060c76eccf867837cd042ea49?source=rss"
         }
       ]
     }
