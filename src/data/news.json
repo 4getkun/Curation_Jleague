@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-24T14:09:45.017Z",
+  "generatedAt": "2026-08-24T15:07:21.994Z",
   "count": 2113,
   "items": [
+    {
+      "title": "「日本人選手の時代に終止符」NECナイメヘンのクラブ幹部が小川航基の成功を祈る「メンターとしての役割にも大きな感謝」",
+      "summary": "NECナイメヘンは24日、日本代表FW小川航基がFC町田ゼルビアへ移籍し、クラブを退団することを発表した。",
+      "link": "https://www.footballchannel.jp/2026/08/24/post995109/",
+      "pubDate": "2026-08-24T14:25:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/24/post995109/"
+        }
+      ]
+    },
     {
       "title": "Ｊ１町田が日本代表ＦＷ小川航基の加入を発表「優勝に貢献できるように全力で戦います」(東スポWEB)",
       "summary": "J1町田は24日、オランダ1部NECナイメヘンの日本代表FW小川航基（29）を完全移籍で獲得したと発表した。 小川は桐光学園高から磐田入りし、横浜FCなどを経て2023年からNECナイメヘンでプ",
@@ -4656,22 +4678,19 @@
       ]
     },
     {
-      "title": "名古屋vsG大阪 試合記録",
-      "summary": "【J1第3節】(豊田ス)名古屋 3-1(前半1-1)G大阪[名]木村勇大(7分)、浅野雄也(83分)、小野雅史(90分+7)[G]食野亮太郎(11分)[G]安部柊斗(86分)[名]マテウス・カストロ(87分)[G]岸本武流(40分)、デニス…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457313-457313-fl",
-      "pubDate": "2026-08-22T17:40:02.000Z",
+      "title": "熊本vs長野 試合記録",
+      "summary": "【J3第3節】(えがおS)熊本 0-1(前半0-1)長野[長]野嶋圭人(11分)観衆:3,626人主審:小林健太朗[ロアッソ熊本]先発GK 1 佐藤史騎DF 4 薬師田澪DF 5 小林慶太(62分→DF 26 戸田峻平)DF 24 李泰河M…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457308-457308-fl",
+      "pubDate": "2026-08-22T18:50:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "grampus",
-        "gamba"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457313-457313-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457308-457308-fl"
         }
       ]
     },
@@ -41089,23 +41108,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3db481c1a6683ef9960be13afed4766bddecccfc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "決めたのは右足！59歳キング弾、ダンス封印も福島FWカズ36歳差アシストに突進フィニッシュ(日刊スポーツ)",
-      "summary": "＜サッカー天皇杯福島県代表決定戦：福島7－0いわき古河＞◇25日◇決勝◇とうほう・みんなのスタジアム 決めたのは、流れの中から右足！ J3福島ユナイテッドFCのFWカズ（三浦知良）が59歳194日",
-      "link": "https://news.yahoo.co.jp/articles/f8d3befbd647d681aa036bc01c4510e636191754?source=rss",
-      "pubDate": "2026-07-25T14:54:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f8d3befbd647d681aa036bc01c4510e636191754?source=rss"
         }
       ]
     }
