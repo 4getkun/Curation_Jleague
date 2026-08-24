@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-08-24T10:59:51.261Z",
-  "count": 2106,
+  "generatedAt": "2026-08-24T11:30:37.781Z",
+  "count": 2108,
   "items": [
+    {
+      "title": "FC町田ゼルビアDF中山雄太、セルビア王者レッドスター移籍か？ 約2億円で合意と現地報道",
+      "summary": "FC町田ゼルビアに所属するDF中山雄太が、セルビアの名門レッドスター・ベオグラードへ移籍する可能性が浮上している。セルビアメディア『TV Arena Sport』が、『Mozzart Sport』の情報として24日に報じた。",
+      "link": "https://www.footballchannel.jp/2026/08/24/post995091/",
+      "pubDate": "2026-08-24T11:12:19.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/24/post995091/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ba9cc306163764fa17e021ef4f472415c4b5b084?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「うちも見習ってほしい」J1町田のDF昌子源と岡村大八が試合中にバチバチ口論！ 勝利に貪欲な姿勢に他サポ称賛「建設的な言い合いは絶対必要」(中日スポーツ)",
+      "summary": "２３日に行われたＪ１第３節の町田―浦和戦で味方同士で激しい口論を繰り広げるシーンが町田ＤＦ陣にあり、他クラブのサポーターを含め「うらやましい」「うちも見習いたい」と話題だ。町田が３―１で快勝し開幕３",
+      "link": "https://news.yahoo.co.jp/articles/5783177987c17f393d8efbe6f4bfb704c196cd1a?source=rss",
+      "pubDate": "2026-08-24T10:58:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5783177987c17f393d8efbe6f4bfb704c196cd1a?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ボートレース】川崎智稔は４日目に準優勝負駆け 先輩に教わった伸び試して正解／常滑(日刊スポーツ)",
       "summary": "＜常滑ボート＞◇3日目◇24日 川崎智稔（27＝岡山）は前半1Rを5枠から3着、後半11Rは6枠から2着にまとめ、得点率を5・60で19位タイにつけた。 後半11Rはチルトを1・5度に上げて臨",
@@ -37,11 +82,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/24/post995082/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/12a1edf97cf7162ca81ae609304229e2f67158a6?source=rss"
         }
       ]
     },
