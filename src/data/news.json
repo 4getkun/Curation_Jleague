@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T16:01:43.595Z",
-  "count": 2114,
+  "generatedAt": "2026-08-24T17:02:36.719Z",
+  "count": 2113,
   "items": [
     {
       "title": "横浜ＦＭの１６歳・三井寺真 カズとの４３歳差対決心待ち ユニホーム交換「そこは目標にしたい」…２６日、天皇杯・福島戦(スポーツ報知)",
@@ -3604,17 +3604,22 @@
       ]
     },
     {
-      "title": "FC大阪が25歳DFの加入取り消しを発表…理由も説明(ゲキサカ)",
-      "summary": "FC大阪は23日、DF浅野崇斗(25)の加入を取り消すことになったと発表した。本人の強い意向だという。また、同選手がマレーシアスーパーリーグのマラッカFCに所属することも併せて報告している。 浅",
-      "link": "https://news.yahoo.co.jp/articles/3c29f4ec2d08ddd17b868a1f9385d452af8b5864?source=rss",
+      "title": "FC大阪が25歳DFの加入取り消しを発表…理由も説明",
+      "summary": "FC大阪は23日、DF浅野崇斗(25)の加入を取り消すことになったと発表した。本人の強い意向だという。また、同選手がマレーシアスーパーリーグのマラッカFCに所属することも併せて報告している。 浅野は柏レイソルA.A.野田から日体柏高を経て、…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457365-457365-fl",
       "pubDate": "2026-08-23T04:23:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "cerezo"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457365-457365-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -4736,23 +4741,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b32716e653ad9f1e3b42a7b32cd6fe1f0f2b31d8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "熊本vs長野 試合記録",
-      "summary": "【J3第3節】(えがおS)熊本 0-1(前半0-1)長野[長]野嶋圭人(11分)観衆:3,626人主審:小林健太朗[ロアッソ熊本]先発GK 1 佐藤史騎DF 4 薬師田澪DF 5 小林慶太(62分→DF 26 戸田峻平)DF 24 李泰河M…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457308-457308-fl",
-      "pubDate": "2026-08-22T18:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457308-457308-fl"
         }
       ]
     },
