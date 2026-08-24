@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-08-24T22:14:53.298Z",
+  "generatedAt": "2026-08-24T22:49:39.551Z",
   "count": 2121,
   "items": [
+    {
+      "title": "【ヤフコメで話題】「小川航基選手のJリーグ復帰に賛否」「ワールドカップ出場への影響を懸念」 - 町田移籍を巡るキャリア選択の是非(Yahoo!ニュース オリジナル THE PAGE)",
+      "summary": "小川航基選手のJリーグ・町田ゼルビア移籍について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、オランダ・NECナイメヘンでの出場機会減少や年齢（29歳）、移籍金や年俸などの条",
+      "link": "https://news.yahoo.co.jp/articles/cfc7a49e7a50a751196fb32dfab10999598552c3?source=rss",
+      "pubDate": "2026-08-24T22:24:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cfc7a49e7a50a751196fb32dfab10999598552c3?source=rss"
+        }
+      ]
+    },
     {
       "title": "「マジか...とんでもねぇ」北中米W杯日本代表FW、オランダからJ強豪への移籍に反響続々「エグい」「なんて贅沢な補強だ」(THE DIGEST)",
       "summary": "サッカーJ1のFC町田ゼルビアは8月24日、オランダ1部NECのFW小川航基が完全移籍で加入することを発表した。 小川は、先の北中米ワールドカップ（W杯）で日本代表として3試合に出場。グループス",
@@ -3678,6 +3700,23 @@
       ]
     },
     {
+      "title": "磐田が賞味期限切れペットボトル飲料の販売を謝罪…22日のホーム徳島戦",
+      "summary": "ジュビロ磐田は23日、ホームで22日に行われたJ2第3節・徳島ヴォルティス戦で、スタジアム場内飲食店舗「ジュビロカフェ(Café Kalon)」が賞味期限切れのペットボトル飲料を販売していたと発表した。 公式サイトによると、対象商品は「りん…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457369-457369-fl",
+      "pubDate": "2026-08-23T07:17:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457369-457369-fl"
+        }
+      ]
+    },
+    {
       "title": "【広島】22イニングぶり得点の喜びつかの間…先発の森翔平が４回裏、坂本勇人に同点弾浴びる(日刊スポーツ)",
       "summary": "＜巨人－広島＞◇23日◇東京ドーム 広島があっさり追いつかれた。4回表1死満塁から佐々木泰内野手（23）が放った遊ゴロ併殺崩れの間に1点を先制。22イニングぶりの得点、ビジターに限れば45イニング",
       "link": "https://news.yahoo.co.jp/articles/ac2b0648479e6995b40bf38d6f2f0f062ae3e3ca?source=rss",
@@ -3843,25 +3882,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/33727cb94adcb3915f59a175a4dae374880e62e5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪が25歳DFの加入取り消しを発表…理由も説明",
-      "summary": "FC大阪は23日、DF浅野崇斗(25)の加入を取り消すことになったと発表した。本人の強い意向だという。また、同選手がマレーシアスーパーリーグのマラッカFCに所属することも併せて報告している。 浅野は柏レイソルA.A.野田から日体柏高を経て、…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457365-457365-fl",
-      "pubDate": "2026-08-23T04:28:42.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457365-457365-fl"
         }
       ]
     },
@@ -41250,23 +41270,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/4af5f381172c41e85d581ed344d4e6f0b638d7f6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "59歳のキングカズが約4年ぶりに公式戦でゴール！ 天皇杯予選決勝でチームの勝利に貢献する一撃",
-      "summary": "天皇杯 JFA 第106回全日本サッカー選手権福島県代表決定戦の決勝、福島ユナイテッドFC対いわき古河FCの試合が25日に行われ、福島が7-0で勝利した。この試合では、福島のFW三浦知良がゴール前への動き出しから右足で押し込み、2022年以…",
-      "link": "https://www.footballchannel.jp/2026/07/26/post953787/",
-      "pubDate": "2026-07-25T22:36:07.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/26/post953787/"
         }
       ]
     }
