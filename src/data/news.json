@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-08-24T20:55:21.183Z",
-  "count": 2117,
+  "generatedAt": "2026-08-24T21:19:03.677Z",
+  "count": 2119,
   "items": [
+    {
+      "title": "横浜Ｍの16歳新星・三井寺眞 「テクニックもアイデアもある」武田修宏氏がイメージ重ねる〝10番の代表OB〟(東スポWEB)",
+      "summary": "日本サッカー界に彗星のごとく現れた〝新ワンダーボーイ〟J1横浜MのMF三井寺眞（16）が、新シーズン開幕から3試合2得点と活躍中だ。16歳の誕生日だった今年4月2日に、プロ契約を締結したばかり。だが",
+      "link": "https://news.yahoo.co.jp/articles/91d3c15e34972a022c491788886332e3df61d62c?source=rss",
+      "pubDate": "2026-08-24T21:15:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/91d3c15e34972a022c491788886332e3df61d62c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "海外クラブでデビューした現役Jリーガー5選。「逆輸入」組の今に迫る",
+      "summary": "日本サッカーにおけるキャリアの歩み方は多種多様だ。高校やJリーグクラブの下部組織、大学を経ずに、海外クラブでいきなりプロデビューを果たすケースも今や珍しくない。今回は、そうした経歴を経て「逆輸入」という形でJリーグに合流した現役Jリーガーを…",
+      "link": "https://www.footballchannel.jp/2026/08/25/post994734/",
+      "pubDate": "2026-08-24T21:00:46.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post994734/"
+        }
+      ]
+    },
+    {
+      "title": "16歳三井寺眞も憧れる59歳カズ「ユニホーム交換したい」26日天皇杯２回戦で対決実現なるか(日刊スポーツ)",
+      "summary": "その年齢差、なんと43歳。59歳5カ月になるカズこと三浦知良のJ3福島ユナイテッドFCが、16歳4カ月の三井寺眞の所属するJ1横浜F・マリノスと26日に天皇杯全日本選手権2回戦で対戦する。 ■「",
+      "link": "https://news.yahoo.co.jp/articles/a1f8eef1ebe022a8a0d7264d9da3dff8e2aabb14?source=rss",
+      "pubDate": "2026-08-24T21:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a1f8eef1ebe022a8a0d7264d9da3dff8e2aabb14?source=rss"
+        }
+      ]
+    },
     {
       "title": "「非常に目を惹く」Jクラブの新ユニフォーム 輝きを放つデザインの1着「藤色が入り乱れる」(FOOTBALL ZONE)",
       "summary": "2026-27シーズンから秋春制へと移行したJリーグ。8月7日に開幕しJ1は6月初旬、J2とJ3は5月末までのリーグ戦を予定している。そんななか、サッカーユニフォーム研究家である「ともさん」は藤枝M",
@@ -43,16 +96,16 @@
       "summary": "6試合連続先発出場中の広島新人勝田成内野手（23）が、貴重な経験を重ねている。 小園の2軍降格もあり、先週6試合中5試合が遊撃での先発だった。「守備はまずはミスをしないことを第一に考えています。",
       "link": "https://news.yahoo.co.jp/articles/adc9967764a9c2bb47fe9e1bec1edb390728efe6?source=rss",
       "pubDate": "2026-08-24T20:30:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanfrecce"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/adc9967764a9c2bb47fe9e1bec1edb390728efe6?source=rss"
         }
       ]
@@ -41176,25 +41229,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/665390"
-        }
-      ]
-    },
-    {
-      "title": "「少し進んだ感覚はある」名古屋グランパス・ミシャ監督、キャンプ総括 マテウスや小屋松が実戦復帰で『中央』でのコンビネーションを評価(中日スポーツ)",
-      "summary": "Ｊ１名古屋グランパスは２５日、北海道苫小牧市を拠点に２２日間に及んだ夏季キャンプを打ち上げた。２６日に愛知県に戻り、８月８日に迎えるＪ１開幕節の清水戦（豊田スタジアム）に備える。 札幌を率い２０",
-      "link": "https://news.yahoo.co.jp/articles/216b83619b3087da00e1d5c97a566e0805b669f2?source=rss",
-      "pubDate": "2026-07-25T21:00:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/216b83619b3087da00e1d5c97a566e0805b669f2?source=rss"
         }
       ]
     }
