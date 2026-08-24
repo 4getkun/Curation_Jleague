@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-08-24T09:10:30.826Z",
-  "count": 2101,
+  "generatedAt": "2026-08-24T10:08:23.253Z",
+  "count": 2104,
   "items": [
+    {
+      "title": "名古屋戦で一発退場のG大阪MF安部柊斗、処分内容が決定「反スポーツ的な行為に該当すると判断」(ゲキサカ)",
+      "summary": "Jリーグは24日、J1リーグ第3節で退場を命じられたガンバ大阪MF安部柊斗に対し、1試合の出場停止処分を決定した。 安部は22日にアウェーで開催された名古屋戦に先発出場。しかし、後半41分にFW",
+      "link": "https://news.yahoo.co.jp/articles/362a27d27b585e2f2cb851c2e7adbba6f91f289b?source=rss",
+      "pubDate": "2026-08-24T09:51:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/362a27d27b585e2f2cb851c2e7adbba6f91f289b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ボートレース】今節の主役は福岡勢！前田将太が予選トップで優勝戦も１枠照準／江戸川(日刊スポーツ)",
+      "summary": "＜江戸川ボート＞◇4日目◇24日 前田将太（38＝福岡）が予選12Rも逃げ、得点率9・33で予選トップ通過を決めた。準優12Rは絶好枠から戦う。 今節は福岡勢がシリーズをリードしている。準優に",
+      "link": "https://news.yahoo.co.jp/articles/fa58c861541756d8d61118ccf7d3a011daf1763f?source=rss",
+      "pubDate": "2026-08-24T09:45:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fa58c861541756d8d61118ccf7d3a011daf1763f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島ＤＦ津久井佳祐「ああいうのを見ちゃうと悔しい」「絶対にゴールを」天皇杯・鈴鹿戦は今季初先発有力(スポーツ報知)",
+      "summary": "鹿島は２４日、天皇杯２回戦のアトレチコ鈴鹿戦（２６日・メルスタ）に向け、茨城・鹿嶋市内で非公開トレーニングを実施した。 ＊ ＊ ＊ ＤＦ津久井佳祐は先発出場が有力。第３節福岡戦（３〇２）で",
+      "link": "https://news.yahoo.co.jp/articles/ee57bd5958df37a9b21e2ddbfbb97f4d25be5e77?source=rss",
+      "pubDate": "2026-08-24T09:45:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ee57bd5958df37a9b21e2ddbfbb97f4d25be5e77?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-19日本代表、ラスト1枠を発表「きたぁぁぁ」 アジア杯予選へ…ファン歓喜「神戸の希望」(FOOTBALL ZONE)",
+      "summary": "ヴィッセル神戸は8月24日、MF濱﨑健斗が「U-19日本代表 AFC U20アジアカップ中国2027予選」のメンバーに選出されたことを発表した。ファンからは「神戸の希望」「めちゃくちゃ暴れてきてくれ",
+      "link": "https://news.yahoo.co.jp/articles/92c634fe8587fd4e72c623d44f89372e4428722b?source=rss",
+      "pubDate": "2026-08-24T09:40:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/92c634fe8587fd4e72c623d44f89372e4428722b?source=rss"
+        }
+      ]
+    },
     {
       "title": "「だ、誰が向かってるんだ!?」「きたか」町田の“意味深投稿”にサポーターざわつく。「Heading for MACHIDA」24日21時に何らかの発表か(SOCCER DIGEST Web)",
       "summary": "FC町田ゼルビアが８月24日、クラブの公式Xを更新。「Heading for MACHIDA」と綴り、飛行機と砂時計の絵文字を添えた１枚の画像を公開した。 画像には航空券を模したデザインが採用さ",
@@ -40794,27 +40872,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b52c14c03ffc68c060c76eccf867837cd042ea49?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「悲しいだろうなと」長崎、笠柳翼が「プロにならなければと強く思った」理由。世界へ羽ばたく原点(フットボールチャンネル)",
-      "summary": "V・ファーレン長崎は7月10日、笠柳翼がベルギー2部のパトロ・アイスデン・マースメヘレンへ期限付き移籍することを発表した。2025シーズンの最終節ではJ1昇格を決める同点弾をアシストし、明治安田J1",
-      "link": "https://news.yahoo.co.jp/articles/35690f54c5e8b850a8543c3f3596d215ed91460d?source=rss",
-      "pubDate": "2026-07-25T09:10:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "v-varen"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/35690f54c5e8b850a8543c3f3596d215ed91460d?source=rss"
         }
       ]
     }
