@@ -1,14 +1,74 @@
 {
-  "generatedAt": "2026-08-25T10:59:08.546Z",
-  "count": 2178,
+  "generatedAt": "2026-08-25T11:27:09.089Z",
+  "count": 2179,
   "items": [
+    {
+      "title": "【町田】中山雄太がセルビアの名門レッドスターへ完全移籍、今季はEL参戦へ 日本代表復帰目指す(日刊スポーツ)",
+      "summary": "FC町田ゼルビアの元日本代表DF中山雄太（29）が、数々の国際タイトルを持つセルビアの名門レッドスター・ベオグラードへ完全移籍することが25日、関係者への取材で分かった。移籍金は2億円（推定）とみら",
+      "link": "https://news.yahoo.co.jp/articles/3432c416f640eab33114578c7bc7cef9af73e65c?source=rss",
+      "pubDate": "2026-08-25T11:12:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3432c416f640eab33114578c7bc7cef9af73e65c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【福岡ボート】一色凌雅 準優は不気味な存在「後半の時間帯の方が回転は合う」(東スポWEB)",
+      "summary": "ボートレース福岡の「ライジングゼファーフクオカ杯」は25日、予選最終日となる4日目の開催が行われた。 一色凌雅（27＝愛知）は3日目以降、4走オール3連対とし気配を上げてきた。4日目2Rは2コー",
+      "link": "https://news.yahoo.co.jp/articles/9b268ea7097bb0e360ac19e43fe4a9384a3a063e?source=rss",
+      "pubDate": "2026-08-25T11:10:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9b268ea7097bb0e360ac19e43fe4a9384a3a063e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "17年ぶりのJ1で開幕3連敗。ジェフ千葉・石尾陸登が感じた差「常にパスコースがある」【コラム】(フットボールチャンネル)",
+      "summary": "17年ぶりにJ1リーグの舞台を戦うジェフユナイテッド千葉は開幕3連敗。FC東京戦で2026/27シーズン初先発を果たした石尾陸登は、最終ラインならどこでもこなせるポリバレントな存在だ。セットプレーと",
+      "link": "https://news.yahoo.co.jp/articles/d3cc526129a28e97b1b01e051755e0a02b79d537?source=rss",
+      "pubDate": "2026-08-25T11:02:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d3cc526129a28e97b1b01e051755e0a02b79d537?source=rss"
+        }
+      ]
+    },
     {
       "title": "【U19日本代表】「冨安２世」藤川虎三「プレッシャーあるけど、常に意識しながらやりたい」(日刊スポーツ)",
       "summary": "U－19日本代表は25日、千葉市内で、U－20アジアカップ（杯）中国大会予選（8月24～9月7日、カンボジア）に向けてトレーニングを行った。 負傷者に代わって追加招集されたアビスパ福岡DF藤川虎",
       "link": "https://news.yahoo.co.jp/articles/a51de7be4149c3b919b3a53583df3b03d7b4179a?source=rss",
       "pubDate": "2026-08-25T10:42:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "avispa"
       ],
@@ -18,8 +78,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a51de7be4149c3b919b3a53583df3b03d7b4179a?source=rss"
         }
       ]
@@ -42395,44 +42455,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b1b78f9312c3b0c8e733dc75e12f92b3dc983419?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "難役を楽しむ新戦力。清水、須貝英大が枯渇していた右SBを自分色に染める。欧州キャンプで示した成長(フットボールチャンネル)",
-      "summary": "今夏、清水エスパルスは積極補強を敢行したが、最終ラインの新戦力は1名のみ。その1人となった須貝英大は、8日間にわたってトレーニングに打ち込んだオーストリアキャンプにて、新天地への確かな適応力を示して",
-      "link": "https://news.yahoo.co.jp/articles/4da5c42d2cb2dcacbba897944a473443eac6ee89?source=rss",
-      "pubDate": "2026-07-26T11:03:29.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4da5c42d2cb2dcacbba897944a473443eac6ee89?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「60代に突入しても…」J3福島の59歳カズ、公式戦4年ぶりゴールにフランス紙が驚きの報道「屈指の長期にわたるキャリアに新たな一章を刻む」(中日スポーツ)",
-      "summary": "サッカーのＪ３福島に所属する元日本代表ＦＷ三浦知良（５９）が２５日の天皇杯・福島県代表決定戦のいわき古河ＦＣ戦でゴールを挙げたことについて、フランスのスポーツ紙レキップ電子版が「５９歳の日本のレジェ",
-      "link": "https://news.yahoo.co.jp/articles/0c4cc58bdaee3a72b3be68e994760592ff9839b3?source=rss",
-      "pubDate": "2026-07-26T11:01:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0c4cc58bdaee3a72b3be68e994760592ff9839b3?source=rss"
         }
       ]
     }
