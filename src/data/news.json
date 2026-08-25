@@ -1,12 +1,48 @@
 {
-  "generatedAt": "2026-08-25T11:27:09.089Z",
-  "count": 2179,
+  "generatedAt": "2026-08-25T11:53:05.789Z",
+  "count": 2181,
   "items": [
     {
-      "title": "【町田】中山雄太がセルビアの名門レッドスターへ完全移籍、今季はEL参戦へ 日本代表復帰目指す(日刊スポーツ)",
-      "summary": "FC町田ゼルビアの元日本代表DF中山雄太（29）が、数々の国際タイトルを持つセルビアの名門レッドスター・ベオグラードへ完全移籍することが25日、関係者への取材で分かった。移籍金は2億円（推定）とみら",
-      "link": "https://news.yahoo.co.jp/articles/3432c416f640eab33114578c7bc7cef9af73e65c?source=rss",
-      "pubDate": "2026-08-25T11:12:03.000Z",
+      "title": "Jリーグ史「不思議すぎるPK」（3）実は違反のあのプレー。1シーズン最多で失敗したのは…？(フットボールチャンネル)",
+      "summary": "勝敗を大きく左右するPK。キッカーにとっては絶好の得点機だが、Jリーグの歴史を振り返ると、思いもよらない出来事が数多く起きている。記念すべきJリーグ最初のPKはいきなり失敗。1試合で2本のPKを外し",
+      "link": "https://news.yahoo.co.jp/articles/ad525d63940fb1d911e41ddda72912120b3d3e6a?source=rss",
+      "pubDate": "2026-08-25T11:51:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ad525d63940fb1d911e41ddda72912120b3d3e6a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「もう足を振るだけだった」後半AT突入1分前の劇的同点弾!! 横浜FM JrユースDF永井煌大は鈴木冬一を参考に攻守で成長へ(ゲキサカ)",
+      "summary": "[8.24 クラセンU-15決勝 横浜FM Jrユース 4-3(延長) 川崎F U-15生田 厚別] 横浜F・マリノスジュニアユースのDF永井煌大(3年)が劇的な同点ゴールを奪い、日本一への逆転劇",
+      "link": "https://news.yahoo.co.jp/articles/d40a56ea23f6f46fed0a43c5ed236791ffccb2a1?source=rss",
+      "pubDate": "2026-08-25T11:45:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d40a56ea23f6f46fed0a43c5ed236791ffccb2a1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "中山雄太がレッドスター移籍へ J1町田の元日本代表DF(共同通信)",
+      "summary": "サッカー元日本代表で、J1町田のDF中山雄太（29）が、セルビアの強豪レッドスターへの移籍で基本合意したことが25日、関係者の話で分かった。メディカルチェックなどを経て、正式に契約を結ぶ。 複数",
+      "link": "https://news.yahoo.co.jp/articles/3c8f7aeab773ce39bcde9978824982625c667192?source=rss",
+      "pubDate": "2026-08-25T11:31:06.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
@@ -20,6 +56,28 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3c8f7aeab773ce39bcde9978824982625c667192?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【町田】中山雄太がセルビアの名門レッドスターへ完全移籍、今季はEL参戦へ 日本代表復帰目指す(日刊スポーツ)",
+      "summary": "FC町田ゼルビアの元日本代表DF中山雄太（29）が、数々の国際タイトルを持つセルビアの名門レッドスター・ベオグラードへ完全移籍することが25日、関係者への取材で分かった。移籍金は2億円（推定）とみら",
+      "link": "https://news.yahoo.co.jp/articles/3432c416f640eab33114578c7bc7cef9af73e65c?source=rss",
+      "pubDate": "2026-08-25T11:12:03.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3432c416f640eab33114578c7bc7cef9af73e65c?source=rss"
         }
       ]
@@ -4757,25 +4815,6 @@
       ]
     },
     {
-      "title": "町田vs浦和 スタメン発表",
-      "summary": "[8.23 J1第3節](MUFG国立)※19:30開始主審:笠原寛貴[FC町田ゼルビア]先発GK 1 谷晃生DF 3 昌子源DF 19 中山雄太DF 50 岡村大八MF 7 相馬勇紀MF 15 ミッチェル・デュークMF 16 前寛之MF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457388-457388-fl",
-      "pubDate": "2026-08-23T11:34:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457388-457388-fl"
-        }
-      ]
-    },
-    {
       "title": "【U21Ｊリーグ】神戸が４－０で長崎下し白星発進 手倉森監督「プロを意識できるのは良い」(日刊スポーツ)",
       "summary": "若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21Jリーグの第1節が神戸市内のいぶきの森球技場で行われ、U－21神戸がU－21長崎を4－0で下",
       "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss",
@@ -4796,12 +4835,12 @@
       ]
     },
     {
-      "title": "G大阪がスペイン人MFファンペを獲得「ガンバのゲームも見させてもらいましたが、本当にいいサッカーをするチーム」(ゲキサカ)",
-      "summary": "ガンバ大阪は23日、マラガ(スペイン1部)からMFファンペ(30)が完全移籍で加入することを発表した。 スペイン出身のファンペはカディスBでキャリアを始め、アトレティコ・マンチャ・レアル、セビー",
-      "link": "https://news.yahoo.co.jp/articles/c730dac0fb068758dbde6e2fe6514e26807574d1?source=rss",
+      "title": "G大阪がスペイン人MFファンペを獲得「ガンバのゲームも見させてもらいましたが、本当にいいサッカーをするチーム」",
+      "summary": "ガンバ大阪は23日、マラガ(スペイン1部)からMFファンペ(30)が完全移籍で加入することを発表した。 スペイン出身のファンペはカディスBでキャリアを始め、アトレティコ・マンチャ・レアル、セビージャ・アトレティコ、クルブ・デポルティーボ・ル…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457393-457393-fl",
       "pubDate": "2026-08-23T11:02:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "gamba"
       ],
@@ -4809,6 +4848,11 @@
         "trade"
       ],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457393-457393-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
