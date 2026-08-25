@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-08-25T03:23:59.683Z",
-  "count": 2131,
+  "generatedAt": "2026-08-25T04:06:04.185Z",
+  "count": 2132,
   "items": [
+    {
+      "title": "｢今回また風間監督のもとで…｣柏レイソル退団のDF成瀬竣平が関東1部の南葛SCへ加入。名古屋グランパス時代の指揮官と再会",
+      "summary": "関東サッカーリーグ1部の南葛SCは25日、柏レイソルを6月に退団した25歳のDF成瀬竣平が加入したことを発表した。両クラブの公式サイトで伝えられている。名古屋グランパスでともに戦った指揮官との再会で、1つ上のカテゴリーであるJFL昇格を目指…",
+      "link": "https://www.footballchannel.jp/2026/08/25/post997407/",
+      "pubDate": "2026-08-25T03:25:26.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post997407/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5905bfc99ccd15ebf9678c846736ba75798258e1?source=rss"
+        }
+      ]
+    },
     {
       "title": "【移籍情報】FC大阪、エンヒ・エンドリューの完全移籍加入を発表「チームが目標を達成できるよう、全力で貢献していきます」｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー 最新ニュース＆移籍情報】FC大阪は24日、エンヒ・エンドリューの完全移籍加入を発表した。",
@@ -4120,21 +4145,21 @@
       ]
     },
     {
-      "title": "横浜FMの16歳MF三井寺眞が勝利導く鮮烈ボレー弾「うまく合わせられた」(34枚)",
+      "title": "敵地で熱い応援を繰り広げた神戸サポーター(43枚)",
       "summary": "J1第3節が22日に行われ、日産スタジアムでは横浜F・マリノスがヴィッセル神戸に1-0で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457372-457372-pn",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457375-457375-pn",
       "pubDate": "2026-08-23T08:00:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "marinos"
+        "vissel"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457372-457372-pn"
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457375-457375-pn"
         }
       ]
     },
