@@ -1,7 +1,261 @@
 {
-  "generatedAt": "2026-08-25T06:26:41.480Z",
-  "count": 2146,
+  "generatedAt": "2026-08-25T07:23:28.832Z",
+  "count": 2157,
   "items": [
+    {
+      "title": "｢とてもワクワクしています｣柏レイソル、25歳FW藤尾翔太の完全移籍での加入を発表！ 23日にFC町田ゼルビアを離脱",
+      "summary": "J1リーグの柏レイソルは25日、FC町田ゼルビアから25歳のFW藤尾翔太が完全移籍で加入することを発表した。両クラブの公式サイトで伝えられている。藤尾は、23日に移籍を前提とした手続きと準備のため、チームを離脱することが発表されていた。",
+      "link": "https://www.footballchannel.jp/2026/08/25/post997557/",
+      "pubDate": "2026-08-25T07:15:39.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol",
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post997557/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/01e78b0f5e36bbc5fca4189d3fcd9f6988531dae?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜ＦＭコリカ監督、２１年前チームメイトだった５９歳カズに驚き「試合に出て得点を取っているのは本当に信じられない」「すごく尊敬」(スポーツ報知)",
+      "summary": "Ｊ１横浜ＦＭは２５日、元日本代表ＦＷ三浦知良（５９）が所属するＪ３福島との天皇杯２回戦（２６日・日産スタジアム）に向けて横須賀市内で前日練習を行った。 ＊ ＊ ＊ コリカ監督（５３）は、元チー",
+      "link": "https://news.yahoo.co.jp/articles/ee985847821386ef6cae3b99e45f016f4a460d78?source=rss",
+      "pubDate": "2026-08-25T07:14:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ee985847821386ef6cae3b99e45f016f4a460d78?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田 FW藤尾の柏完全移籍を発表「サッカー選手としても、とても成長することができました」(スポニチアネックス)",
+      "summary": "FC町田ゼルビアは25日、FW藤尾翔太（25）が柏に完全移籍すると発表した。 勝負強さと献身性を兼ね備えた点取り屋で、20年にC大阪のアカデミーからトップ昇格。水戸や徳島で研さんを積み、23年に",
+      "link": "https://news.yahoo.co.jp/articles/cd52b81eb92abd93e704b676440ae95914bc5058?source=rss",
+      "pubDate": "2026-08-25T07:13:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/cd52b81eb92abd93e704b676440ae95914bc5058?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「本当にいる！」「早っ」加入発表の翌日、W杯戦士が早くもJ１クラブ練習合流でファン沸く！「めっちゃ馴染んでる」「青似合いすぎる」(SOCCER DIGEST Web)",
+      "summary": "J１のFC町田ゼルビアに加入した日本代表FWが、早くも新天地で始動した。 町田は８月24日、オランダ１部のNECから小川航基を完全移籍で獲得したと発表。29歳のストライカーは、横浜FCでプレーし",
+      "link": "https://news.yahoo.co.jp/articles/d60369517b18327bde87f5adc9dcc4efbbf234c8?source=rss",
+      "pubDate": "2026-08-25T07:13:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "signing",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d60369517b18327bde87f5adc9dcc4efbbf234c8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "２度のアキレス腱断裂から復帰 横浜ＦＭ遠野大弥「自分が試合に出て点を取るイメージだけは一日も忘れたことはない」完全復活見据える(スポーツ報知)",
+      "summary": "Ｊ１横浜ＦＭは２５日、元日本代表ＦＷ三浦知良（５９）が所属するＪ３福島との天皇杯２回戦（２６日・日産スタジアム）に向けて横須賀市内で前日練習を行った。 ＊ ＊ ＊ 報道陣に公開された冒頭の練習",
+      "link": "https://news.yahoo.co.jp/articles/798929048127c653b7ea8139240aba682bd94993?source=rss",
+      "pubDate": "2026-08-25T07:12:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/798929048127c653b7ea8139240aba682bd94993?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル、町田FW藤尾翔太の完全移籍加入を発表 新天地への決意「全身全霊をかけて闘います」(FOOTBALL ZONE)",
+      "summary": "J1柏レイソルは8月25日、FC町田ゼルビアからFW藤尾翔太が完全移籍で加入することを発表した。 藤尾は2001年5月2日生まれ、大阪府出身の25歳。セレッソ大阪U-18からトップチームでプレー",
+      "link": "https://news.yahoo.co.jp/articles/ac9f8cef0d984d54ad37a6fa43353e6126fcac03?source=rss",
+      "pubDate": "2026-08-25T07:06:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ac9f8cef0d984d54ad37a6fa43353e6126fcac03?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670231"
+        }
+      ]
+    },
+    {
+      "title": "【名古屋グランパス】ACL組との対戦日程がついに確定 アウェー柏戦は10月17日午後7時から、アウェー神戸戦は10月31日午後3時から(中日スポーツ)",
+      "summary": "名古屋グランパスは25日、J1第10節の柏戦（三協フロンテア柏）が10月17日午後7時開始、第13節の神戸戦（ノエスタ神戸）が10月31日午後3時開始に決定したと発表した。2026―27シーズンのA",
+      "link": "https://news.yahoo.co.jp/articles/9d6ed86dd03782cab37239d4a4078064e2690fa0?source=rss",
+      "pubDate": "2026-08-25T07:02:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9d6ed86dd03782cab37239d4a4078064e2690fa0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜FM JrユースFW山田湊斗、決勝でも3ゴールに絡む活躍でクラセンU-15MVP「まだまだここが終わりではない」(ゲキサカ)",
+      "summary": "[8.24 クラセンU-15決勝 横浜FM Jrユース 4-3(延長) 川崎F U-15生田 厚別] FW山田湊斗(3年)がチームトップの大会6得点で、横浜F・マリノスジュニアユースを11年ぶりの",
+      "link": "https://news.yahoo.co.jp/articles/43ad1cb54a8af2f002133af7c7c266c5a21ce4eb?source=rss",
+      "pubDate": "2026-08-25T07:01:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/43ad1cb54a8af2f002133af7c7c266c5a21ce4eb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「名前は聞かないで」名古屋グランパス・ミシャ監督、天皇杯・鳥取戦で高校生の抜てきあるぞ「何人かは明日試せるぐらいのところまで来ている」(中日スポーツ)",
+      "summary": "名古屋グランパスは26日、豊田スタジアムで第106回天皇杯全日本選手権2回戦のJ3鳥取戦に臨む。チームは25日、愛知県豊田市のトヨタスポーツセンターで調整。過密日程でメンバーの入れ替えも想定される中",
+      "link": "https://news.yahoo.co.jp/articles/7ba6de55adef6de07b654eea78718da42423a7e7?source=rss",
+      "pubDate": "2026-08-25T06:59:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7ba6de55adef6de07b654eea78718da42423a7e7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年8月25日時点。順位はJ1第3節終了時点。 ガンバ大阪の2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を […]",
+      "link": "https://www.footballchannel.jp/2026/08/25/post993039/",
+      "pubDate": "2026-08-25T06:38:38.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post993039/"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年8月25日時点。J1第3節終了時点の順位。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯などの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する […]",
+      "link": "https://www.footballchannel.jp/2026/08/25/post991935/",
+      "pubDate": "2026-08-25T06:36:05.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post991935/"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年8月25日時点。 柏レイソルの2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する。 J1 20 […]",
+      "link": "https://www.footballchannel.jp/2026/08/25/post992952/",
+      "pubDate": "2026-08-25T06:35:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post992952/"
+        }
+      ]
+    },
     {
       "title": "【ヴィッセル神戸】スペイン2部所属のクロアチア人MFスタンコ・ユリッチ、移籍確率は40％？(スポーティングニュース日本版)",
       "summary": "サッカー・スペイン2部レアル・バリャドリードのクロアチア人MFスタンコ・ユリッチに、J1のヴィッセル神戸への移籍可能性が浮上している。バリャドリードに関する情報を専門に扱う現地メディア「Pucela",
@@ -428,8 +682,8 @@
       ]
     },
     {
-      "title": "【天皇杯 2回戦】横浜F・マリノス対福島ユナイテッドFC 試合日程・放送・配信予定一覧",
-      "summary": "横浜F・マリノス対福島ユナイテッドFC【写真：Getty Images】 天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ […]",
+      "title": "【天皇杯 2回戦】横浜F・マリノス対福島ユナイテッドFC 試合日程・放送・配信予定一覧【三浦知良出場予定】",
+      "summary": "横浜F・マリノス（三井寺眞）対福島ユナイテッドFC（三浦知良）【写真：Getty Images】 天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下 […]",
       "link": "https://www.footballchannel.jp/2026/08/25/post993477/",
       "pubDate": "2026-08-25T02:37:29.000Z",
       "source": "フットボールチャンネル",
@@ -4277,6 +4531,23 @@
       ]
     },
     {
+      "title": "宮崎vs湘南 スタメン発表",
+      "summary": "[8.22 J2第3節](いちご)※19:00開始主審:福島孝一郎[テゲバジャーロ宮崎]先発GK 31 木村凌也DF 24 松本雄真DF 28 眞鍋旭輝DF 33 黒木謙吾DF 39 下川陽太MF 5 渡邉英祐MF 7 阿野真拓MF 8 山…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457279-457279-fl",
+      "pubDate": "2026-08-23T09:30:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457279-457279-fl"
+        }
+      ]
+    },
+    {
       "title": "【町田】藤尾翔太、移籍を前提とした手続きと準備で離脱 23日本日の試合後スタンド周回に参加(日刊スポーツ)",
       "summary": "FC町田ゼルビアは23日、FW藤尾翔太（25）が移籍前提とした⼿続きと準備のため、チームを離脱すると発表した。 今後については「正式に決定次第、改めて皆さまにお伝えさせていただきます」とした。",
       "link": "https://news.yahoo.co.jp/articles/b9e502b623e8941aaab05a534f1bf4430f2d6a6a?source=rss",
@@ -4315,27 +4586,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/da0f6005844e279681fad5cbc318f992d8467c36?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "試合前に衝撃発表…町田FW藤尾翔太、移籍前提の手続きと準備のためチームを離脱",
-      "summary": "FC町田ゼルビアは23日、FW藤尾翔太(25)が移籍を前提とした手続きと準備のため、チームを離脱することを発表した。今後に関しては正式に決定次第、改めて伝えるという。 藤尾は2023年から町田でプレーし、クラブ通算142試合に出場して28ゴ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457387-457387-fl",
-      "pubDate": "2026-08-23T09:04:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457387-457387-fl"
         }
       ]
     },
@@ -41769,25 +42019,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0c4cc58bdaee3a72b3be68e994760592ff9839b3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「Ｗ杯全然行けたよなあ」36歳元日本代表DFがトッテナム相手に躍動！「プレミアでやれたのでは？」「まだもっと上でやれるやろ笑」(SOCCER DIGEST Web)",
-      "summary": "ＡリーグのオークランドFC（ニュージーランド）に所属する酒井宏樹が、高井幸大を擁するプレミアリーグの名門トッテナムを相手に躍動した。 Ｊリーグや欧州などで活躍してきた36歳の元日本代表DFは、現",
-      "link": "https://news.yahoo.co.jp/articles/4a8980830293cf3a5ebd2cb45754f2ab5c230e62?source=rss",
-      "pubDate": "2026-07-26T07:21:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4a8980830293cf3a5ebd2cb45754f2ab5c230e62?source=rss"
         }
       ]
     }
