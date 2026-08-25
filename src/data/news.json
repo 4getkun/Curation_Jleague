@@ -1,7 +1,104 @@
 {
-  "generatedAt": "2026-08-25T04:06:04.185Z",
-  "count": 2132,
+  "generatedAt": "2026-08-25T05:01:19.854Z",
+  "count": 2135,
   "items": [
+    {
+      "title": "【Ｊ１】横浜Ｍは天皇杯でＪ３福島と対戦 コリカ監督は元同僚で現役のカズに「信じられない」(東スポWEB)",
+      "summary": "J1横浜Mは25日、横須賀市内のグラウンドでJ3福島との天皇杯2回戦（26日、日産）に向けて調整を行った。 対戦相手の福島は、大山クラブ（山形）との1回戦で、カズこと元日本代表FW三浦知良が2得",
+      "link": "https://news.yahoo.co.jp/articles/527d9ebae5b06822540452e7176dab2ee1836284?source=rss",
+      "pubDate": "2026-08-25T04:45:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/527d9ebae5b06822540452e7176dab2ee1836284?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "試合中に口論の町田DFは「次はグーでいく」 一触即発から一転…笑顔の相棒は「やられたら訴える」(FOOTBALL ZONE)",
+      "summary": "開幕3連勝、12得点2失点でJ1の首位を走るFC町田ゼルビアの雰囲気は良いようだ。3-1で勝利した第3節（8月23日）の浦和戦では、前半途中に3バックの中央に入るDF岡村大八とキャプテンのDF昌子源",
+      "link": "https://news.yahoo.co.jp/articles/882614b473f4b743c2ee8f3364d064c3858bab34?source=rss",
+      "pubDate": "2026-08-25T04:40:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/882614b473f4b743c2ee8f3364d064c3858bab34?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【J3試合結果まとめ｜第3節】連勝チームが揃って引き分け！岐阜、愛媛、鹿児島、相模原の4チームが勝ち点7で並ぶ｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー・ニュース】明治安田J3リーグ第3節は8月22日から23日にかけて開催。3連勝したチームが一つも無くなった中、FC岐阜など4チームが勝ち点7で並んでいる。",
+      "link": "https://news.yahoo.co.jp/articles/bc5c1cbd7b2eaf27ac0228235a3ddb0f1dce5c62?source=rss",
+      "pubDate": "2026-08-25T04:30:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bc5c1cbd7b2eaf27ac0228235a3ddb0f1dce5c62?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏退団の25歳DF成瀬竣平が南葛SCに加入(ゲキサカ)",
+      "summary": "柏レイソルは25日、DF成瀬竣平の新天地が南葛SC(関東リーグ1部)に決定したことを発表した。 右サイドバックを主戦場とする成瀬は、名古屋グランパス時代に複数クラブへの期限付き移籍を経験し、20",
+      "link": "https://news.yahoo.co.jp/articles/eee3f5939b25b8149a4877f920d1b8dba4ef7925?source=rss",
+      "pubDate": "2026-08-25T04:23:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol",
+        "grampus"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eee3f5939b25b8149a4877f920d1b8dba4ef7925?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "元柏DF成瀬竣平が南葛SCへ加入 名古屋時代に風間八宏監督と共闘「また風間監督のもとでサッカーができるのが楽しみです」(theWORLD（ザ・ワールドWeb）)",
+      "summary": "関東サッカーリーグ1部の南葛SCは8月25日、DF成瀬竣平が加入することを発表した。背番号は44に決まっている。 成瀬は2001年生まれの25歳。名古屋グランパスのアカデミーで育ち、U-18からトッ",
+      "link": "https://news.yahoo.co.jp/articles/f278337883530e0298211fbcafb20180616f1275?source=rss",
+      "pubDate": "2026-08-25T04:20:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f278337883530e0298211fbcafb20180616f1275?source=rss"
+        }
+      ]
+    },
     {
       "title": "｢今回また風間監督のもとで…｣柏レイソル退団のDF成瀬竣平が関東1部の南葛SCへ加入。名古屋グランパス時代の指揮官と再会",
       "summary": "関東サッカーリーグ1部の南葛SCは25日、柏レイソルを6月に退団した25歳のDF成瀬竣平が加入したことを発表した。両クラブの公式サイトで伝えられている。名古屋グランパスでともに戦った指揮官との再会で、1つ上のカテゴリーであるJFL昇格を目指…",
@@ -19,11 +116,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/25/post997407/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5905bfc99ccd15ebf9678c846736ba75798258e1?source=rss"
         }
       ]
     },
@@ -773,6 +865,26 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/aef4d4f6c6ea693a6a59ebcb7947125f5c7fcd0b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田がクラブ史上初のJ1開幕3連勝! 国立で浦和を3-1撃破(37枚)",
+      "summary": "J1第3節が23日にMUFGスタジアム(国立競技場)で行われ、FC町田ゼルビアが浦和レッズに3-1で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457469-457469-pn",
+      "pubDate": "2026-08-24T15:55:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "zelvia",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457469-457469-pn"
         }
       ]
     },
@@ -4141,25 +4253,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e0c98f22848d37a376d2e88869335bf62d109d43?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "敵地で熱い応援を繰り広げた神戸サポーター(43枚)",
-      "summary": "J1第3節が22日に行われ、日産スタジアムでは横浜F・マリノスがヴィッセル神戸に1-0で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457375-457375-pn",
-      "pubDate": "2026-08-23T08:00:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457375-457375-pn"
         }
       ]
     },
@@ -41461,42 +41554,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/4a8980830293cf3a5ebd2cb45754f2ab5c230e62?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "決めたのは右足、走り込んでズドン！59歳キング弾、ダンス封印も福島カズが36歳差パスに反応(日刊スポーツ)",
-      "summary": "＜サッカー天皇杯福島県代表決定戦：福島7－0いわき古河＞◇25日◇決勝◇とうほう・みんなのスタジアム 決めたのは、流れの中から右足！ 走り込んでズドン！ J3福島ユナイテッドFCのFWカズ（三浦知",
-      "link": "https://news.yahoo.co.jp/articles/499a5e347650cc8ed17a3f831ad7a21bb9a250df?source=rss",
-      "pubDate": "2026-07-26T04:48:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/499a5e347650cc8ed17a3f831ad7a21bb9a250df?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "レッドソックス、今季17発ブレークの三塁手ミードを獲得 若手左腕アーリーをナショナルズへ放出(ベースボールキング)",
-      "summary": "現地時間25日、ボストン・レッドソックスがワシントン・ナショナルズとのトレードを成立させたと『ESPN』のジェフ・パッサン記者が報道。カーティス・ミード内野手（25）を獲得し、対価としてコネリー・ア",
-      "link": "https://news.yahoo.co.jp/articles/918e31547b3fc9141a60902a0ede06949d86849b?source=rss",
-      "pubDate": "2026-07-26T04:13:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/918e31547b3fc9141a60902a0ede06949d86849b?source=rss"
         }
       ]
     }
