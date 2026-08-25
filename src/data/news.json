@@ -1,7 +1,258 @@
 {
-  "generatedAt": "2026-08-25T00:37:49.923Z",
-  "count": 2117,
+  "generatedAt": "2026-08-25T02:12:07.372Z",
+  "count": 2127,
   "items": [
+    {
+      "title": "FC東京が応援に関して注意喚起「クラブとして看過することのできない複数の事象を確認」(サッカーキング)",
+      "summary": "FC東京は25日、「応援に関する注意喚起」と題した声明を発表した。 クラブは『日本サッカー倫理・コンプライアンスに関する共同声明』の趣旨に則り、「日本のスポーツ団体の一員として法令や規程、規則を",
+      "link": "https://news.yahoo.co.jp/articles/5d88d4beedc27af65c771c60dfa76a2c2dcbfefe?source=rss",
+      "pubDate": "2026-08-25T02:05:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5d88d4beedc27af65c771c60dfa76a2c2dcbfefe?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "クリアソン新宿が天皇杯・横浜FC戦をYouTubeでライブ配信「平日のナイトゲームということもあり…」(ゲキサカ)",
+      "summary": "クリアソン新宿(JFL)は24日、ニッパツ三ツ沢球技場で26日に開催される天皇杯2回戦の横浜FC戦を、クラブ公式YouTubeチャンネルでライブ配信すると発表した。 クリアソン新宿は19日の1回",
+      "link": "https://news.yahoo.co.jp/articles/85fc3a8c9655de44e8ed7ff584a687f5fb064da8?source=rss",
+      "pubDate": "2026-08-25T02:05:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/85fc3a8c9655de44e8ed7ff584a687f5fb064da8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC町田ゼルビアが海外クラブから日本人選手を獲得！ FC大阪は外国人選手2名の加入を発表【24日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年8月24日に発表された最新の新加入、退団情報などは以下の通り。 【FC町田ゼルビア】 FW小",
+      "link": "https://news.yahoo.co.jp/articles/e77dfa9816ad4e6df9c356bea1851063d90a9384?source=rss",
+      "pubDate": "2026-08-25T01:48:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "cerezo"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e77dfa9816ad4e6df9c356bea1851063d90a9384?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post997362/"
+        }
+      ]
+    },
+    {
+      "title": "「えっ？」「ありえない」Jクラブの“公式発表”に中国騒然！「アジアの二流が全盛期の日本代表戦士を相手に…」(SOCCER DIGEST Web)",
+      "summary": "J１のFC町田ゼルビアは８月24日、オランダのNECから日本代表FWの小川航基を完全移籍で獲得したと発表した。 オランダで二桁得点をマークし、先の北中米ワールドカップにも出場した29歳ストライカ",
+      "link": "https://news.yahoo.co.jp/articles/97e81d789eb2bee4613422033a2498faf500bbd4?source=rss",
+      "pubDate": "2026-08-25T01:43:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/97e81d789eb2bee4613422033a2498faf500bbd4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC琉球 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるFC琉球の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/25/post822222/",
+      "pubDate": "2026-08-25T01:41:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post822222/"
+        }
+      ]
+    },
+    {
+      "title": "FC大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるFC大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/25/post822213/",
+      "pubDate": "2026-08-25T01:38:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post822213/"
+        }
+      ]
+    },
+    {
+      "title": "FC町田ゼルビア 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるFC町田ゼルビアの加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/08/25/post814167/",
+      "pubDate": "2026-08-25T01:36:13.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post814167/"
+        }
+      ]
+    },
+    {
+      "title": "誹謗中傷や特定の企業・団体名を含む侮辱的な替え歌を確認…FC東京が複数の事象について注意喚起(ゲキサカ)",
+      "summary": "FC東京は25日、特定の選手を対象としたSNS上での誹謗中傷、特定の企業・団体名を含む侮辱的な替え歌など、クラブとして看過することのできない複数の事象を確認していると公式サイトで報告し、こうした行為",
+      "link": "https://news.yahoo.co.jp/articles/fe55b2339fb0edf275e77772c6c22e318ccec02e?source=rss",
+      "pubDate": "2026-08-25T01:31:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fe55b2339fb0edf275e77772c6c22e318ccec02e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京がSNSでの誹謗中傷や侮辱的な替え歌に注意喚起 「看過することのできない複数の事象を確認」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670167",
+      "pubDate": "2026-08-25T01:16:02.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670167"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※情報は2026年8月24日時点。 ガンバ大阪の2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退団情報は随時更新する。 J1 2026/27 […]",
+      "link": "https://www.footballchannel.jp/2026/08/25/post993045/",
+      "pubDate": "2026-08-25T00:47:19.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post993045/"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※情報は2026年8月24日時点。 鹿島アントラーズの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退団情報は随時更新する。 J1 2026 […]",
+      "link": "https://www.footballchannel.jp/2026/08/25/post992244/",
+      "pubDate": "2026-08-25T00:46:06.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post992244/"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※情報は2026年8月24日時点。 柏レイソルの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退団情報は随時更新する。 J1 2026/27 […]",
+      "link": "https://www.footballchannel.jp/2026/08/25/post992970/",
+      "pubDate": "2026-08-25T00:45:53.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/25/post992970/"
+        }
+      ]
+    },
     {
       "title": "横浜FM角田涼太朗の妹・角田楓佳がクリスタル・パレスに期限付き移籍「ワクワクしています」(ゲキサカ)",
       "summary": "クリスタル・パレスの女子チームであるクリスタル・パレスウィメンは24日、ブライトンウィメンのMF角田楓佳(21)が期限付き移籍で加入することを発表した。契約期間は1シーズンとなる。 横浜F・マリ",
@@ -28,16 +279,16 @@
       "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【広島】 ＜先週のMVP＞ 4勝2敗と勝ち越した先",
       "link": "https://news.yahoo.co.jp/articles/6012b1e33fa5265046022eecca807bd61084fa57?source=rss",
       "pubDate": "2026-08-24T23:55:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanfrecce"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6012b1e33fa5265046022eecca807bd61084fa57?source=rss"
         }
       ]
@@ -3757,10 +4008,10 @@
       ]
     },
     {
-      "title": "磐田が賞味期限切れペットボトル飲料の販売を謝罪…22日のホーム徳島戦",
-      "summary": "ジュビロ磐田は23日、ホームで22日に行われたJ2第3節・徳島ヴォルティス戦で、スタジアム場内飲食店舗「ジュビロカフェ(Café Kalon)」が賞味期限切れのペットボトル飲料を販売していたと発表した。 公式サイトによると、対象商品は「りん…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457369-457369-fl",
-      "pubDate": "2026-08-23T07:17:00.000Z",
+      "title": "相模原vs金沢 スタメン発表",
+      "summary": "[8.23 J3第3節](ギオンス)※18:00開始主審:山岡良介[SC相模原]先発GK 21 金珉浩DF 2 綿引康DF 3 ピトリックDF 13 常田克人DF 19 沖田空MF 4 島川俊郎MF 10 中山陸MF 15 前田泰良MF 1…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457370-457370-fl",
+      "pubDate": "2026-08-23T07:18:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -3769,7 +4020,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457369-457369-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457370-457370-fl"
         }
       ]
     },
@@ -41147,45 +41398,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/26/post953685/"
-        }
-      ]
-    },
-    {
-      "title": "「まだ現役でゴールを決めるのか…」59歳・三浦知良が4年ぶり公式戦弾、称賛続々(スポーティングニュース日本版)",
-      "summary": "7月25日（土）に行われた天皇杯福島県予選決勝、福島ユナイテッドFC対いわき古河FCの一戦で、後半7分、福島ユナイテッドFCの三浦知良がチーム5点目となるゴールを決めた。三浦の公式戦での得点は4年ぶり",
-      "link": "https://news.yahoo.co.jp/articles/e125e88d6f0e1dd64d1877a5dc0eb798b5ad966f?source=rss",
-      "pubDate": "2026-07-26T01:01:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e125e88d6f0e1dd64d1877a5dc0eb798b5ad966f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "元日本代表26歳が古巣に電撃復帰「これはビックリ」 相次ぐ大型補強にファン歓喜「めっちゃ鳥肌たった」(FOOTBALL ZONE)",
-      "summary": "サンフレッチェ広島は7月25日、FCレッドブル・ザルツブルク（オーストリア1部）よりMF川村拓夢が完全移籍で加入することが決定したと発表した。ファンからは「今年イチサプライズ」と大きな反響を呼んでい",
-      "link": "https://news.yahoo.co.jp/articles/49abd62e5294620eca3d25f46b4c0bbfbc1d1e43?source=rss",
-      "pubDate": "2026-07-26T00:37:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/49abd62e5294620eca3d25f46b4c0bbfbc1d1e43?source=rss"
         }
       ]
     }
