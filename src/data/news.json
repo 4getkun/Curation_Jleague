@@ -1,7 +1,90 @@
 {
-  "generatedAt": "2026-08-25T20:52:15.035Z",
-  "count": 2185,
+  "generatedAt": "2026-08-25T21:17:39.538Z",
+  "count": 2187,
   "items": [
+    {
+      "title": "Ｊ１横浜Ｍ・諏訪間幸成に新たな〝異名〟 父・諏訪魔譲りのスケールと合致「急に名付けられた」(東スポWEB)",
+      "summary": "ハマの〝モンスター〟が爆誕だ。J1横浜MのDF諏訪間幸成（23）は、今年前半の百年構想リーグでは出場7試合にとどまったが、新シーズンは開幕から全3試合でフル出場。直近2試合で無失点勝利に導くなど大黒",
+      "link": "https://news.yahoo.co.jp/articles/ac7891c25f94fc7a8521d2c9e81fdec7cfc67057?source=rss",
+      "pubDate": "2026-08-25T21:15:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ac7891c25f94fc7a8521d2c9e81fdec7cfc67057?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jクラブ新ユニは「独自のストーリーを含んだ美しいデザイン」 神鹿と原生林融合…専門家も注目の1着(FOOTBALL ZONE)",
+      "summary": "2026-27シーズンから秋春制へと移行したJリーグ。8月7日に開幕しJ1は6月初旬、J2とJ3は5月末までのリーグ戦を予定している。そんななか、サッカーユニフォーム研究家である「ともさん」は奈良ク",
+      "link": "https://news.yahoo.co.jp/articles/a405fefed50a4ced06edf8753accc908a3eb6f4c?source=rss",
+      "pubDate": "2026-08-25T21:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a405fefed50a4ced06edf8753accc908a3eb6f4c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-19日本代表DF鈴木楓(FC東京)、帯同した北中米W杯で谷口彰悟に質問した“理由”(ゲキサカ)",
+      "summary": "世界で戦う先輩に、自ら教えを請うた。AFC U20アジアカップ予選に臨むU-19日本代表DF鈴木楓(FC東京)は、6月の北中米ワールドカップで日本代表のトレーニングパートナーを務めた。A代表の練習に",
+      "link": "https://news.yahoo.co.jp/articles/75f71d7e7548a6d15061f4b8aa520985428c9aba?source=rss",
+      "pubDate": "2026-08-25T21:01:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/75f71d7e7548a6d15061f4b8aa520985428c9aba?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表FW小川航基の町田加入が引き起こした「FW玉突き移籍」。藤尾翔太は柏へ、次に動くのは？(フットボールチャンネル)",
+      "summary": "Jリーグの移籍市場で、FWを巡る動きが活発になっている。FC町田ゼルビアは24日、NECナイメヘンから日本代表FW小川航基を完全移籍で獲得。翌25日には、柏レイソルが町田からFW藤尾翔太を完全移籍で",
+      "link": "https://news.yahoo.co.jp/articles/445684a25da0a8240f4b27dc5fbe0869845301a8?source=rss",
+      "pubDate": "2026-08-25T21:00:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "reysol"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/445684a25da0a8240f4b27dc5fbe0869845301a8?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/26/post997749/"
+        }
+      ]
+    },
     {
       "title": "「かっけぇ」「絶対買う」柏レイソル、超絶クールな遠征用スーツケース発表!老舗との限定コラボに「内外装スタイリッシュ」「これでACL行けるのいいなー」予約殺到か(サッカー批評Web)",
       "summary": "J1の柏レイソルが、アウェイ遠征が劇的に楽しくなる新グッズを発表した。見た目のスタイリッシュさと抜群の機能性を兼ね備えた珠玉のアイテムに、ファンの間で早くも興奮の声が上がっている。 今季の柏レイ",
@@ -42540,40 +42623,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/215731fb27dc7a814e6c4986d359e057359161ec?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｕ－15Ｊ選抜のＦＷオリベイラ・フェリペ「Ｗ杯初優勝に導ける選手になりたい」 父はＦＷパトリック(東スポWEB)",
-      "summary": "サッカーのU－15Jリーグ選抜が「Jリーグインターナショナルシリーズ2026 アカデミーマッチ」の第2戦（26日、味の素フィールド西が丘）で、リバプールU－15に1―1からPK戦（3―1）で勝利し、",
-      "link": "https://news.yahoo.co.jp/articles/9dd2d984b49ccabd6aea258b1a4a2a0a421dc0f3?source=rss",
-      "pubDate": "2026-07-26T21:15:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9dd2d984b49ccabd6aea258b1a4a2a0a421dc0f3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本の原石がプレミア強豪と真剣勝負! 決勝ゴールに吠える礒部怜夢!中村俊輔＆山田直輝、パトリックの息子…現地カメラマンの厳選ショット(サッカー批評Web)",
-      "summary": "【Jリーグインターナショナルシリーズ2026 アカデミーマッチ 2026年7月24日（金）18:30キックオフ 味の素フィールド西が丘】撮影/原壮史（Sony α-1使用）",
-      "link": "https://news.yahoo.co.jp/articles/3054c8c8f03b7ce6041aa81bd9827d2ff0cf5478?source=rss",
-      "pubDate": "2026-07-26T21:06:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3054c8c8f03b7ce6041aa81bd9827d2ff0cf5478?source=rss"
         }
       ]
     }
