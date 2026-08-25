@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-08-25T10:28:20.050Z",
-  "count": 2175,
+  "generatedAt": "2026-08-25T10:59:08.546Z",
+  "count": 2178,
   "items": [
+    {
+      "title": "【U19日本代表】「冨安２世」藤川虎三「プレッシャーあるけど、常に意識しながらやりたい」(日刊スポーツ)",
+      "summary": "U－19日本代表は25日、千葉市内で、U－20アジアカップ（杯）中国大会予選（8月24～9月7日、カンボジア）に向けてトレーニングを行った。 負傷者に代わって追加招集されたアビスパ福岡DF藤川虎",
+      "link": "https://news.yahoo.co.jp/articles/a51de7be4149c3b919b3a53583df3b03d7b4179a?source=rss",
+      "pubDate": "2026-08-25T10:42:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a51de7be4149c3b919b3a53583df3b03d7b4179a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京Vユースのカマラ・シェック・セザール、渡邉春来がトップ昇格内定! U-21ですでに先発デビュー(ゲキサカ)",
+      "summary": "東京ヴェルディは25日、東京ヴェルディユース所属のDFカマラ・シェック・セザールとDF渡邉春来が2027年1月からトップチームに昇格することが決まったと発表した。両選手はいずれも今月、新設されたU-",
+      "link": "https://news.yahoo.co.jp/articles/333cf8125acb2070502b75a72c45123ee661de4f?source=rss",
+      "pubDate": "2026-08-25T10:32:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/333cf8125acb2070502b75a72c45123ee661de4f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ＦＣ東京が応援に関する注意喚起「誹謗中傷…侮辱的な替え歌など、クラブとして看過することのできない複数の事象を確認」(スポーツ報知)",
+      "summary": "ＦＣ東京は２５日、クラブのホームページ上で「応援に関する注意喚起」を掲載した。 クラブは「ＦＣ東京では『日本サッカー倫理・コンプライアンスに関する共同声明』の趣旨に則り、日本のスポーツ団体の一員",
+      "link": "https://news.yahoo.co.jp/articles/13554dae9e13699fc5df1232a36f906aed68061f?source=rss",
+      "pubDate": "2026-08-25T10:31:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/13554dae9e13699fc5df1232a36f906aed68061f?source=rss"
+        }
+      ]
+    },
     {
       "title": "1学年上・三井寺の活躍に続け!横浜FMジュニアユース日本一決定弾は主将MF佐野翼「自分も早くプロに」(ゲキサカ)",
       "summary": "[8.24 クラセンU-15決勝 横浜FM Jrユース 4-3(延長) 川崎F U-15生田 厚別] 壮絶な打ち合いとなった決勝戦に決着をつけるゴールが生まれたのは、PK戦決着も頭を過った10分ハ",
@@ -4637,6 +4697,25 @@
       ]
     },
     {
+      "title": "町田vs浦和 スタメン発表",
+      "summary": "[8.23 J1第3節](MUFG国立)※19:30開始主審:笠原寛貴[FC町田ゼルビア]先発GK 1 谷晃生DF 3 昌子源DF 19 中山雄太DF 50 岡村大八MF 7 相馬勇紀MF 15 ミッチェル・デュークMF 16 前寛之MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457388-457388-fl",
+      "pubDate": "2026-08-23T11:34:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457388-457388-fl"
+        }
+      ]
+    },
+    {
       "title": "【U21Ｊリーグ】神戸が４－０で長崎下し白星発進 手倉森監督「プロを意識できるのは良い」(日刊スポーツ)",
       "summary": "若い選手に適正なプレー環境を確保し、日本サッカー全体の可能性を最大化することを目的として創設されたU－21Jリーグの第1節が神戸市内のいぶきの森球技場で行われ、U－21神戸がU－21長崎を4－0で下",
       "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss",
@@ -4653,25 +4732,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/bfd428690ce92a879de85e67301c614bbe977318?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「次はスタメンで…」イタリア遠征帰りの国士舘大FW本間凜が川崎FでJ1デビュー!",
-      "summary": "[8.22 J1第3節 広島1-1川崎F Eピース] この日のJリーグデビューは、本人も多少なりとも驚きがあったようだ。「練習も割と体は動いたので密かに狙ってはいたけど、こんなにも早くデビューできるとは思わなかった」。FW本間凜は後半28分…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457394-457394-fl",
-      "pubDate": "2026-08-23T11:13:53.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457394-457394-fl"
         }
       ]
     },
