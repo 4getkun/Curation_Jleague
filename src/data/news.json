@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-25T13:26:31.124Z",
-  "count": 2179,
+  "generatedAt": "2026-08-25T14:11:40.953Z",
+  "count": 2176,
   "items": [
     {
       "title": "口論騒動から2日後、J1町田選手の近影が「最高なんだが」「仲いいんですね」 和むファン続出(THE ANSWER)",
@@ -4812,6 +4812,26 @@
       ]
     },
     {
+      "title": "町田は3戦合計12得点で初のJ1開幕3連勝! 浦和は24年ぶりの開幕3連敗…3戦合計11失点に",
+      "summary": "[8.23 J1第3節 町田 3-1 浦和 MUFG国立] J1リーグは23日に第3節を行った。FC町田ゼルビアと浦和レッズの対戦は、町田が3-1で勝利。3試合12得点の破壊力で、24シーズンのJ1昇格からクラブ初となる開幕3連勝を果たした…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457401-457401-fl",
+      "pubDate": "2026-08-23T12:30:11.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "zelvia",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457401-457401-fl"
+        }
+      ]
+    },
+    {
       "title": "Ｇ大阪が完全移籍でスペイン出身のＭＦファンぺ獲得「本当にいいサッカーをするチーム」「みんなでたくさん勝ちを積み重ねていきます」(スポーツ報知)",
       "summary": "サッカー・Ｊ１のＧ大阪は２３日、スペイン出身のＭＦファンぺが完全移籍で加入すると発表した。 １８４センチ、７７キロで３０歳のＭＦは、同国のセビリアやマラガなどでプレー経験がある。クラブを通じて「",
       "link": "https://news.yahoo.co.jp/articles/2c519e199b018c4a09fc4802b478d99deb009499?source=rss",
@@ -4849,27 +4869,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e266af25f2c764444c057ebeebe11dd8fa54cfa5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪がスペイン人MFファンペを獲得「ガンバのゲームも見させてもらいましたが、本当にいいサッカーをするチーム」",
-      "summary": "ガンバ大阪は23日、マラガ(スペイン1部)からMFファンペ(30)が完全移籍で加入することを発表した。 スペイン出身のファンペはカディスBでキャリアを始め、アトレティコ・マンチャ・レアル、セビージャ・アトレティコ、クルブ・デポルティーボ・ル…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457393-457393-fl",
-      "pubDate": "2026-08-23T11:51:40.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457393-457393-fl"
         }
       ]
     },
@@ -42400,64 +42399,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3054c8c8f03b7ce6041aa81bd9827d2ff0cf5478?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【相撲編集部が選ぶ名古屋場所千秋楽の一番】「やり切った」安青錦が巴戦を制し、３場所ぶり３回目の優勝(BBM Sports)",
-      "summary": "安青錦（寄り切り）霧島 「安青錦には、熱海富士の突進を止める力は、もう残っていないのではないか……」 安青錦には失礼ながら、そんな気がした。熱海富士が初優勝するのではないか、そんな予感は、かなり",
-      "link": "https://news.yahoo.co.jp/articles/29797c4b19ad6f58e3fe2d434a914714aabfc4a7?source=rss",
-      "pubDate": "2026-07-26T14:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/29797c4b19ad6f58e3fe2d434a914714aabfc4a7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムント、今夏の来日メンバー最終28名を発表！ 山本天翔やW杯出場組も一部帯同…C大阪＆FC東京と対戦(サッカーキング)",
-      "summary": "ドルトムントは26日、今夏に日本で開催されるプレシーズンツアーに参加する最終メンバー28名を発表した。 ブンデスリーガの強豪クラブであるドルトムントは、今夏に2024年以来2年ぶりとなる来日ツア",
-      "link": "https://news.yahoo.co.jp/articles/183c30d5e901890e63b07a3bac70c0e2346abca5?source=rss",
-      "pubDate": "2026-07-26T13:44:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo",
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/183c30d5e901890e63b07a3bac70c0e2346abca5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】新井監督、７回無死満塁から投入し３失点の鈴木健矢に「内容的には良かった」／一問一答(日刊スポーツ)",
-      "summary": "＜ヤクルト3－4広島＞◇26日◇神宮 一時は3点リードを追いつかれながらも、9回にヤクルト抑えのキハダを攻略し、連敗を止めて最下位転落を回避した。9回に先頭坂倉の二塁打から1死三塁とし、佐々木一塁",
-      "link": "https://news.yahoo.co.jp/articles/09bf7fbbfcd0e8b4069b34019edbc77fe51e3098?source=rss",
-      "pubDate": "2026-07-26T13:32:10.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/09bf7fbbfcd0e8b4069b34019edbc77fe51e3098?source=rss"
         }
       ]
     }
