@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-08-26T05:56:48.841Z",
+  "generatedAt": "2026-08-26T06:37:05.015Z",
   "count": 2187,
   "items": [
+    {
+      "title": "【天皇杯】九州リーグ・Ｖ都濃が神戸に挑戦 神戸育ちの曽我部慶太がコーチとしてノエスタへ(日刊スポーツ)",
+      "summary": "ヴィッセル神戸は26日、天皇杯2回戦で九州リーグのヴェロスクロノス都濃（つの）と対戦する。 宮崎県代表として出場している都濃は、19日の1回戦でJ3カマタマーレ讃岐を延長の末に3－1で撃破。J3",
+      "link": "https://news.yahoo.co.jp/articles/fc49ad2a442f1e78c157753dd2c197534dd20c54?source=rss",
+      "pubDate": "2026-08-26T06:10:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fc49ad2a442f1e78c157753dd2c197534dd20c54?source=rss"
+        }
+      ]
+    },
     {
       "title": "W杯出場→J1初先発で「普通にすごない？」 勝利に導く絶妙スルーパスが「良すぎる」「凄みが増していく」(FOOTBALL ZONE)",
       "summary": "セレッソ大阪は今季に向けオーストラリア代表主将のMFジャクソン・アーバインを獲得した。代表86試合出場で北中米共催ワールドカップ（W杯）のピッチにも立ったベテランは、初の先発でいきなり質の高いプレー",
@@ -62,16 +81,16 @@
       "summary": "ガンバ大阪は26日、天皇杯2回戦で、J3のレイラック滋賀と対戦する。 G大阪は24年に準優勝に輝いているが、前回はJ2モンテディオ山形と対戦し、4－4からのPK負け（3－4）で3回戦敗退し、23",
       "link": "https://news.yahoo.co.jp/articles/e9256c240aa0f757f4998417f6c611bd30f3d857?source=rss",
       "pubDate": "2026-08-26T05:36:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e9256c240aa0f757f4998417f6c611bd30f3d857?source=rss"
         }
       ]
@@ -42608,28 +42627,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f3e611135e4c9b57362b51431a3ead62c2379467?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "10年ぶり復帰も離脱の浅野拓磨にSNS悲鳴「いざ！という時にこれはツライ」「痛すぎる」(日刊スポーツ)",
-      "summary": "J1サンフレッチェ広島は今季から10年ぶりに復帰した元日本代表FW浅野拓磨（31）が負傷離脱したことを27日、発表した。 25日の非公開のトレーニングマッチで左ふくらはぎを負傷。26日に広島県内",
-      "link": "https://news.yahoo.co.jp/articles/d80ef55b7a952e180a649382196edcba9cd0c3a8?source=rss",
-      "pubDate": "2026-07-27T06:30:15.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "injury",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d80ef55b7a952e180a649382196edcba9cd0c3a8?source=rss"
         }
       ]
     }
