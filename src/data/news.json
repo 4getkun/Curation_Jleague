@@ -1,7 +1,106 @@
 {
-  "generatedAt": "2026-08-26T11:26:14.144Z",
-  "count": 2212,
+  "generatedAt": "2026-08-26T11:54:01.538Z",
+  "count": 2216,
   "items": [
+    {
+      "title": "【天皇杯】FC東京が長野に大勝 39歳・長友佑都は今季公式戦初先発で後半18分までプレー(スポニチアネックス)",
+      "summary": "◇サッカー天皇杯2回戦 FC東京ー長野（2026年8月26日 味スタ） 天皇杯は各地で2回戦を行い、FC東京は長野と対戦。快勝で3回戦進出を決めた。日本代表DF長友佑都（39）は今季公式戦初先発",
+      "link": "https://news.yahoo.co.jp/articles/4fe56cdbb48c1895d406df996a5957a7cc478dcf?source=rss",
+      "pubDate": "2026-08-26T11:51:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4fe56cdbb48c1895d406df996a5957a7cc478dcf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】横浜16歳三井寺眞が後半途中出場 福島カズがピッチに立てば43歳差の対決実現(日刊スポーツ)",
+      "summary": "＜天皇杯：横浜－福島＞◇26日◇2回戦◇日産スタジアム J1横浜F・マリノスの超新星、三井寺眞（16）が、後半18分から途中出場した。 この日はベンチスタートで、1－0とリードした段階で投入さ",
+      "link": "https://news.yahoo.co.jp/articles/c881a76a9b2076fa5e2cce931ad054092a38d3e9?source=rss",
+      "pubDate": "2026-08-26T11:36:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c881a76a9b2076fa5e2cce931ad054092a38d3e9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜ＦＭの１６歳三井寺真、後半１８分から出場 ５９歳三浦知良はベンチから出番を待つ(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 横浜ＦＭ―福島（２６日・日産スタジアム） Ｊ１横浜ＦＭが天皇杯２回戦で元日本代表ＦＷ三浦知良（５９）が所属するＪ３福島と対戦した。 Ｊ１開幕戦で年少２位タイの１６歳４か月５",
+      "link": "https://news.yahoo.co.jp/articles/8bc77d2d7f06bec578bf8769aa8985cc775603f3?source=rss",
+      "pubDate": "2026-08-26T11:34:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8bc77d2d7f06bec578bf8769aa8985cc775603f3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "大ブーイング！名古屋グランパス、まさかの”ジャイキリ”で天皇杯初戦敗退 後半に一挙3失点(中日スポーツ)",
+      "summary": "◇26日 天皇杯全日本選手権 名古屋1―3鳥取（豊田スタジアム） 名古屋はJ1第3節のG大阪戦（22日、豊田スタジアム）からスタメンのフィールドプレーヤー全員を入れ替え、ベンチにも2種登録の高校年",
+      "link": "https://news.yahoo.co.jp/articles/e661fb75e00da210c9fa744f290eb1ae3216e799?source=rss",
+      "pubDate": "2026-08-26T11:31:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e661fb75e00da210c9fa744f290eb1ae3216e799?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】横浜M16歳MF三井寺眞、福島戦で途中出場(スポニチアネックス)",
+      "summary": "◇サッカー天皇杯2回戦 横浜M―福島（2026年8月26日 日産スタジアム） 2回戦からJ1勢が登場し、横浜F・マリノスの超新星16歳MF三井寺眞（みいでら・しん）が1―0の後半18分から途中出",
+      "link": "https://news.yahoo.co.jp/articles/c094619dcf0839ffd59fe1cf296b94f49be8d5a5?source=rss",
+      "pubDate": "2026-08-26T11:29:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c094619dcf0839ffd59fe1cf296b94f49be8d5a5?source=rss"
+        }
+      ]
+    },
     {
       "title": "「マジか」「勘弁してくれ」ガンバ宇佐美貴史が負傷か。前半で途中交代。ファン心配「大丈夫かな...」【天皇杯２回戦】(SOCCER DIGEST Web)",
       "summary": "J１のガンバ大阪は８月26日、天皇杯２回戦でJ３のレイラック滋賀FCとパナソニックスタジアム吹田で対戦している。 G大阪は開始２分に宇佐美貴史のゴールで先制。さらに17分に宇佐美のFKで追加点を",
@@ -288,6 +387,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/266c01c3561a1afee2835f71a6c7836c8d5ed08c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "C大阪vs岐阜 スタメン発表",
+      "summary": "[8.26 天皇杯2回戦](ハナサカ)※18:30開始主審:池内明彦副審:武部陽介、井手本瞭[セレッソ大阪]先発GK 31 阿部航斗DF 6 登里享平DF 27 ディオン・クールズDF 97 鷹啄トラビスMF 8 香川真司MF 11 チアゴ…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457539-457539-fl",
+      "pubDate": "2026-08-26T08:47:58.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457539-457539-fl"
         }
       ]
     },
@@ -2510,25 +2628,6 @@
       ]
     },
     {
-      "title": "[U-21 Jリーグ]18歳のネオ・ストライカーが新リーグで躍動!U-21川崎F FW廣瀬寧生が途中出場から圧巻の2ゴールで勝利の主役を鮮やかにさらう!",
-      "summary": "[8.23 U-21 Jリーグ 東西リーグラウンドEAST第1節 U-21磐田 2-3 U-21川崎F ヤマハ] 点取り屋としての本能は、いつだって研ぎ澄まされている。今季から創設された新しいリーグの、記念すべきオープニングマッチであり、自…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457485-457485-fl",
-      "pubDate": "2026-08-25T03:15:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457485-457485-fl"
-        }
-      ]
-    },
-    {
       "title": "高卒→即オランダ！怪我に泣いたスピードスター（2）海外クラブでデビューした現役Jリーガー(フットボールチャンネル)",
       "summary": "日本サッカーにおけるキャリアの歩み方は多種多様だ。高校やJリーグクラブの下部組織、大学を経ずに、海外クラブでいきなりプロデビューを果たすケースも今や珍しくない。今回は、そうした経歴を経て「逆輸入」と",
       "link": "https://news.yahoo.co.jp/articles/b385dfb88807d0d41451a08e20083cbfb3148963?source=rss",
@@ -2618,23 +2717,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/85fc3a8c9655de44e8ed7ff584a687f5fb064da8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "クリアソン新宿が天皇杯・横浜FC戦をYouTubeでライブ配信「平日のナイトゲームということもあり…」",
-      "summary": "クリアソン新宿(JFL)は24日、ニッパツ三ツ沢球技場で26日に開催される天皇杯2回戦の横浜FC戦を、クラブ公式YouTubeチャンネルでライブ配信すると発表した。 クリアソン新宿は19日の1回戦で流通経済大と対戦し、延長戦の末に2-1で勝…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457483-457483-fl",
-      "pubDate": "2026-08-25T02:05:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457483-457483-fl"
         }
       ]
     },
@@ -2753,17 +2835,22 @@
       ]
     },
     {
-      "title": "誹謗中傷や特定の企業・団体名を含む侮辱的な替え歌を確認…FC東京が複数の事象について注意喚起(ゲキサカ)",
-      "summary": "FC東京は25日、特定の選手を対象としたSNS上での誹謗中傷、特定の企業・団体名を含む侮辱的な替え歌など、クラブとして看過することのできない複数の事象を確認していると公式サイトで報告し、こうした行為",
-      "link": "https://news.yahoo.co.jp/articles/fe55b2339fb0edf275e77772c6c22e318ccec02e?source=rss",
+      "title": "誹謗中傷や特定の企業・団体名を含む侮辱的な替え歌を確認…FC東京が複数の事象について注意喚起",
+      "summary": "FC東京は25日、特定の選手を対象としたSNS上での誹謗中傷、特定の企業・団体名を含む侮辱的な替え歌など、クラブとして看過することのできない複数の事象を確認していると公式サイトで報告し、こうした行為を控えるよう呼びかけた。 クラブは日本サッ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457482-457482-fl",
       "pubDate": "2026-08-25T01:31:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "fc-tokyo"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457482-457482-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
