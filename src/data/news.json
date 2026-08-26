@@ -1,7 +1,382 @@
 {
-  "generatedAt": "2026-08-26T11:54:01.538Z",
-  "count": 2216,
+  "generatedAt": "2026-08-26T12:28:39.292Z",
+  "count": 2235,
   "items": [
+    {
+      "title": "前回王者の町田など快勝 サッカー天皇杯2回戦(共同通信)",
+      "summary": "サッカーの第106回天皇杯全日本選手権（日本サッカー協会、Jリーグ主催、共同通信社、NHK共催）は26日、東京都の町田GIONスタジアムなどで2回戦が行われ、前回王者のJ1町田はいわてグルージャ盛岡",
+      "link": "https://news.yahoo.co.jp/articles/13ccd5d1849204016b54161e8638890cd21ba918?source=rss",
+      "pubDate": "2026-08-26T12:24:54.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/13ccd5d1849204016b54161e8638890cd21ba918?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "１６歳の目標かなう ５９歳キング・カズと１６歳三井寺真が試合後に公開ユニホーム交換！ スタンドからは拍手とどよめき(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 横浜ＦＭ１―０福島（２６日・日産スタジアム） Ｊ１横浜ＦＭが天皇杯２回戦で元日本代表ＦＷ三浦知良（５９）が所属するＪ３福島と対戦し、ＤＦ諏訪間の決勝ゴールで１―０で勝利し、３回",
+      "link": "https://news.yahoo.co.jp/articles/67669ca6443591aec111065f80ee72c3457c1e05?source=rss",
+      "pubDate": "2026-08-26T12:24:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/67669ca6443591aec111065f80ee72c3457c1e05?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】浦和、山梨学院大に３－０で曺貴裁監督初勝利 今季公式戦初白星 オナイウ阿道２発(日刊スポーツ)",
+      "summary": "＜天皇杯：浦和3－0山梨学院大＞◇26日◇2回戦◇浦和駒場 J1で19位に沈む浦和レッズが初出場の山梨学院大を3－0で完勝し、3回戦進出を決めた。 FWオナイウ阿道（30）が2ゴールを奪い、曺",
+      "link": "https://news.yahoo.co.jp/articles/d8276036112ae83cafad148d590c1898af2ca117?source=rss",
+      "pubDate": "2026-08-26T12:24:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d8276036112ae83cafad148d590c1898af2ca117?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】京産大がJ1水戸にジャイキリ 名古屋はJ3鳥取に逆転負け 前回王者町田は快勝(日刊スポーツ)",
+      "summary": "サッカーの第106回天皇杯全日本選手権は26日に2回戦の32試合が行われ、J1、J2勢が登場した。 前回王者のJ1FC町田ゼルビアはJFLのいわてグルージャ盛岡（岩手）に3－0で快勝。J1勢は東",
+      "link": "https://news.yahoo.co.jp/articles/47a34dc2711cf870b94f63bf93d0406adc80b0f5?source=rss",
+      "pubDate": "2026-08-26T12:21:58.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "grampus",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/47a34dc2711cf870b94f63bf93d0406adc80b0f5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】福島59歳カズと横浜M16歳三井寺がユニホーム交換 43歳差対決は実現せずもサポーター拍手(スポニチアネックス)",
+      "summary": "◇サッカー天皇杯2回戦 福島0―1横浜M（2026年8月26日 日産スタジアム） 天皇杯2回戦は26日、日産スタジアムでJ3福島がJ1横浜F・マリノスと対戦。福島の元日本代表FW三浦知良（59）",
+      "link": "https://news.yahoo.co.jp/articles/6acf63c56d442daf09b6870bdde16481c21e7566?source=rss",
+      "pubDate": "2026-08-26T12:21:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6acf63c56d442daf09b6870bdde16481c21e7566?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1水戸が“ジャイキリ”許し天皇杯初戦で敗退…京都産業大学が完封勝利で3回戦進出(サッカーキング)",
+      "summary": "水戸ホーリーホックが26日に行われた天皇杯 JFA 第106回全日本サッカー選手権大会・2回戦で“ジャイアントキリング”を許した。 本拠地『ケーズデンキスタジアム水戸』に京都産業大学（京都府代表",
+      "link": "https://news.yahoo.co.jp/articles/5c1af2c411d6a32db2dbc9f9d2afa6fb70b21a4c?source=rss",
+      "pubDate": "2026-08-26T12:19:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5c1af2c411d6a32db2dbc9f9d2afa6fb70b21a4c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】G大阪 FW宇佐美貴史2発で順調勝ち 課題の守備も改善傾向(スポニチアネックス)",
+      "summary": "◇天皇杯2回戦 G大阪2―0滋賀（2026年8月26日 パナスタ） G大阪はFW宇佐美貴史が今季初得点を含む2発を挙げ、順当に3回戦進出を決めた。 前半2分にJ3滋賀守備陣のクリアミスを突",
+      "link": "https://news.yahoo.co.jp/articles/5424620084f3b7fff1636a251cd1324ab3369134?source=rss",
+      "pubDate": "2026-08-26T12:17:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5424620084f3b7fff1636a251cd1324ab3369134?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "59歳・三浦知良と16歳・三井寺眞の43歳差対決は実現せず。横浜F・マリノスが天皇杯3回戦進出",
+      "summary": "天皇杯JFA全日本サッカー選手権大会2回戦、横浜F・マリノス対福島ユナイテッドFCが8月7日に日産スタジアムで行われた。マリノスの16歳、三井寺眞と福島の59歳、三浦知良の43歳差対決に注目が集まったが、三浦は出場せず。試合はマリノスが1-…",
+      "link": "https://www.footballchannel.jp/2026/08/26/post998733/",
+      "pubDate": "2026-08-26T12:15:09.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/26/post998733/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/55640dd5c4dd921ad5a463b537833eec9e0b159b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】京産大、J1水戸を2―0撃破！ FW妹尾颯斗が2発 ジャイアントキリング達成）(スポニチアネックス)",
+      "summary": "◇天皇杯2回戦 京産大2―0水戸（2026年8月26日 ケーズデンキスタジアム水戸） 京産大は2回戦でJ1の水戸と対戦し、2―0で下して3回戦に進んだ。 前半11分にFW妹尾颯斗が先制点をマ",
+      "link": "https://news.yahoo.co.jp/articles/522fc68aaa26acf007d8c6070dd5818018701e1b?source=rss",
+      "pubDate": "2026-08-26T12:14:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/522fc68aaa26acf007d8c6070dd5818018701e1b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】４３歳差対決は実現せず ５９歳カズは出場なし 横浜ＦＭの新星・１６歳三井寺真は途中出場で福島に１―０勝利(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 横浜ＦＭ１―０福島（２６日・日産スタジアム） Ｊ１横浜ＦＭが天皇杯２回戦で元日本代表ＦＷ三浦知良（５９）が所属するＪ３福島と対戦し、ＤＦ諏訪間の決勝ゴールで１―０で勝利し、３回",
+      "link": "https://news.yahoo.co.jp/articles/31bac16f8b82b1231c6cd9e7aff5acf711e7b686?source=rss",
+      "pubDate": "2026-08-26T12:10:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/31bac16f8b82b1231c6cd9e7aff5acf711e7b686?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】絶好調カズが出番なし終戦で物議「使うのは必須だろ」「ＮＨＫ大失敗だな」(東スポWEB)",
+      "summary": "カズことJ3福島の元日本代表FW三浦知良（59）が、26日に行われた天皇杯2回戦のJ1横浜M戦（日産）で出場機会がないままチームは0―1で敗退した。 カズは9日の1回戦大山クラブ（山形）戦（福島",
+      "link": "https://news.yahoo.co.jp/articles/81b431bf3412a4553bf164da9f921f52d2dd06b4?source=rss",
+      "pubDate": "2026-08-26T12:10:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/81b431bf3412a4553bf164da9f921f52d2dd06b4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１開幕３連敗の浦和が天皇杯で今季公式戦初勝利 山梨学院大に３得点 曺貴裁監督は就任後の初勝利に(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 浦和―山梨学院大（２６日・浦和駒場スタジアム） Ｊ１で２４年ぶり開幕３連敗を喫した浦和は、天皇杯２回戦で山梨学院大に３－０と勝利し、曺貴裁監督（５７）が就任後の公式戦初勝利を挙",
+      "link": "https://news.yahoo.co.jp/articles/5425edc27b0b92ecef18193913262111b0ad6e7f?source=rss",
+      "pubDate": "2026-08-26T12:08:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5425edc27b0b92ecef18193913262111b0ad6e7f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "まさか！ J１名古屋が終盤のわずか９分間で３失点。J３鳥取に１－３逆転負け【天皇杯２回戦】(SOCCER DIGEST Web)",
+      "summary": "J１の名古屋グランパスは８月26日、天皇杯２回戦でJ３のガイナーレ鳥取と豊田スタジアムで対戦した。 28分に藤井陽也のゴールで先制し、前半を１点リードで終える。 迎えた後半、追加点を狙いに",
+      "link": "https://news.yahoo.co.jp/articles/00c3ee7ed789f268d24d3b0b6bc952606f179eb2?source=rss",
+      "pubDate": "2026-08-26T12:08:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/00c3ee7ed789f268d24d3b0b6bc952606f179eb2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】J3福島の59歳・三浦知良は出番なし、J1横浜Mの16歳・三井寺真は途中出場も『43歳差』対決は実現せず(中日スポーツ)",
+      "summary": "◇２６日 サッカー天皇杯全日本選手権２回戦 横浜Ｍ１―０福島（日産スタジアム） Ｊ１の横浜ＭがＪ３の福島ユナイテッドに競り勝ち、３回戦へ駒を進めた。前半３５分にＤＦ諏訪間幸成が左ＣＫをヘディングで",
+      "link": "https://news.yahoo.co.jp/articles/daea2e3317669ffd85702b90ad520e904bab6af4?source=rss",
+      "pubDate": "2026-08-26T12:07:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/daea2e3317669ffd85702b90ad520e904bab6af4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸が“５部相当”のヴェロスクロノス都農に苦戦も初戦突破 郷家友太が先制点 小松蓮が決勝点 新井章太は約１年ぶり出場で好セーブ(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 神戸２―１ヴェロスクロノス都農（２６日・ノエビアスタジアム） 神戸が、２０２４年度以来、２季ぶりの優勝に向けて、“５部相当”のヴェロスクロノス都農（つの）を下して初戦を突破した",
+      "link": "https://news.yahoo.co.jp/articles/d792ba6d7030164f7082c3510cb515a49de46634?source=rss",
+      "pubDate": "2026-08-26T12:05:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d792ba6d7030164f7082c3510cb515a49de46634?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "川崎Fが天皇杯2回戦で栃木SCに逆転勝ち 大関2得点に紺野が加入初ゴール(スポニチアネックス)",
+      "summary": "◇天皇杯2回戦 川崎F3―1栃木SC（2026年8月26日 U等々力） J1川崎フロンターレがホームでJ3栃木SCを3―1で退け、3回戦に進出した。先制を許したが、MF大関が2得点するなど逆転勝",
+      "link": "https://news.yahoo.co.jp/articles/c8c58b703f1a532c2ff7fcaa7a7d02968abd5951?source=rss",
+      "pubDate": "2026-08-26T12:03:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c8c58b703f1a532c2ff7fcaa7a7d02968abd5951?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和、曺貴裁体制初白星!! オナイウ2発&移籍後初出場の片山が1G2A!! 山梨学院大に3発完封勝利で天皇杯3回戦進出(ゲキサカ)",
+      "summary": "[8.26 天皇杯2回戦 浦和 3-0 山梨学院大 浦和駒場] 天皇杯は26日、各地で2回戦を開催し、浦和駒場スタジアムでは浦和レッズ(J1)と山梨学院大(山梨県代表)が対戦し、浦和が3-0の完封",
+      "link": "https://news.yahoo.co.jp/articles/4bd2ff55b7784779cfab96597347f79acb8d4e45?source=rss",
+      "pubDate": "2026-08-26T12:03:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4bd2ff55b7784779cfab96597347f79acb8d4e45?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】横浜M、福島下し3回戦進出 超新星MF三井寺と59歳FWカズの“43歳差”対決は実現せず(スポニチアネックス)",
+      "summary": "◇サッカー天皇杯2回戦 横浜M1―0福島（2026年8月26日 日産スタジアム） 2回戦がJ1勢が登場し、横浜F・マリノスがJ3福島を1―0で下し、3回戦進出を決めた。 決勝点は前半35分、",
+      "link": "https://news.yahoo.co.jp/articles/f3a02a5e563535fc9102eaf2954b5ee87cde2db9?source=rss",
+      "pubDate": "2026-08-26T12:01:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f3a02a5e563535fc9102eaf2954b5ee87cde2db9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】柏の１７歳新星・長南開史が天皇杯で１得点１アシストデビュー クラブの公式戦最年少得点を更新…専大に勝利で３回戦に進出(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 柏２―１専大（２６日・三協Ｆ柏） 柏は関東大学２部の専大（神奈川）に２―１で勝利し、３回戦に進出した。昨年は東洋大にジャイアントキリングを許したが、今季は意地を見せた。 柏",
+      "link": "https://news.yahoo.co.jp/articles/d3c8712f164b58499c170e2da8a385d90d4a7529?source=rss",
+      "pubDate": "2026-08-26T12:01:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d3c8712f164b58499c170e2da8a385d90d4a7529?source=rss"
+        }
+      ]
+    },
     {
       "title": "【天皇杯】FC東京が長野に大勝 39歳・長友佑都は今季公式戦初先発で後半18分までプレー(スポニチアネックス)",
       "summary": "◇サッカー天皇杯2回戦 FC東京ー長野（2026年8月26日 味スタ） 天皇杯は各地で2回戦を行い、FC東京は長野と対戦。快勝で3回戦進出を決めた。日本代表DF長友佑都（39）は今季公式戦初先発",
@@ -28,16 +403,16 @@
       "summary": "＜天皇杯：横浜－福島＞◇26日◇2回戦◇日産スタジアム J1横浜F・マリノスの超新星、三井寺眞（16）が、後半18分から途中出場した。 この日はベンチスタートで、1－0とリードした段階で投入さ",
       "link": "https://news.yahoo.co.jp/articles/c881a76a9b2076fa5e2cce931ad054092a38d3e9?source=rss",
       "pubDate": "2026-08-26T11:36:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marinos"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c881a76a9b2076fa5e2cce931ad054092a38d3e9?source=rss"
         }
       ]
@@ -2587,6 +2962,25 @@
       ]
     },
     {
+      "title": "誹謗中傷や特定の企業・団体名を含む侮辱的な替え歌を確認…FC東京が複数の事象について注意喚起",
+      "summary": "FC東京は25日、特定の選手を対象としたSNS上での誹謗中傷、特定の企業・団体名を含む侮辱的な替え歌など、クラブとして看過することのできない複数の事象を確認していると公式サイトで報告し、こうした行為を控えるよう呼びかけた。 クラブは日本サッ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457482-457482-fl",
+      "pubDate": "2026-08-25T04:04:19.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457482-457482-fl"
+        }
+      ]
+    },
+    {
       "title": "｢今回また風間監督のもとで…｣柏レイソル退団のDF成瀬竣平が関東1部の南葛SCへ加入。名古屋グランパス時代の指揮官と再会",
       "summary": "関東サッカーリーグ1部の南葛SCは25日、柏レイソルを6月に退団した25歳のDF成瀬竣平が加入したことを発表した。両クラブの公式サイトで伝えられている。名古屋グランパスでともに戦った指揮官との再会で、1つ上のカテゴリーであるJFL昇格を目指…",
       "link": "https://www.footballchannel.jp/2026/08/25/post997407/",
@@ -2831,30 +3225,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/25/post814167/"
-        }
-      ]
-    },
-    {
-      "title": "誹謗中傷や特定の企業・団体名を含む侮辱的な替え歌を確認…FC東京が複数の事象について注意喚起",
-      "summary": "FC東京は25日、特定の選手を対象としたSNS上での誹謗中傷、特定の企業・団体名を含む侮辱的な替え歌など、クラブとして看過することのできない複数の事象を確認していると公式サイトで報告し、こうした行為を控えるよう呼びかけた。 クラブは日本サッ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457482-457482-fl",
-      "pubDate": "2026-08-25T01:31:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457482-457482-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fe55b2339fb0edf275e77772c6c22e318ccec02e?source=rss"
         }
       ]
     },
