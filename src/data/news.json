@@ -1,22 +1,102 @@
 {
-  "generatedAt": "2026-08-26T10:58:03.433Z",
-  "count": 2209,
+  "generatedAt": "2026-08-26T11:26:14.144Z",
+  "count": 2212,
   "items": [
     {
-      "title": "【天皇杯】浦和FWオナイウ阿道が２点 山梨学院大からリード(日刊スポーツ)",
-      "summary": "＜天皇杯：浦和－山梨学院大＞◇26日◇2回戦◇浦和駒場 J1で19位に沈む浦和レッズが初出場の山梨学院大から先制点を奪った。 前半18分、相手陣に押し込むと、左クロスにFWオナイウ阿道（30）",
-      "link": "https://news.yahoo.co.jp/articles/c07fe16a9717bc4b171a8ed1a63f0dc80cf6288b?source=rss",
-      "pubDate": "2026-08-26T10:50:19.000Z",
+      "title": "「マジか」「勘弁してくれ」ガンバ宇佐美貴史が負傷か。前半で途中交代。ファン心配「大丈夫かな...」【天皇杯２回戦】(SOCCER DIGEST Web)",
+      "summary": "J１のガンバ大阪は８月26日、天皇杯２回戦でJ３のレイラック滋賀FCとパナソニックスタジアム吹田で対戦している。 G大阪は開始２分に宇佐美貴史のゴールで先制。さらに17分に宇佐美のFKで追加点を",
+      "link": "https://news.yahoo.co.jp/articles/bdd02544dce97049b8c36364e862e22928ba1770?source=rss",
+      "pubDate": "2026-08-26T11:21:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "reds"
+        "gamba"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bdd02544dce97049b8c36364e862e22928ba1770?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【福岡ボート】大沢風葵 難条件克服し優出「仕上がりはまあまあって感じ」(東スポWEB)",
+      "summary": "ボートレース福岡の「ライジングゼファーフクオカ杯」は26日、準優勝戦が行われた。 大沢風葵（25＝群馬）は10R、イン高野哲史がスリットで後手に回る展開で3コースからまくり攻勢。1Mで抵抗された",
+      "link": "https://news.yahoo.co.jp/articles/0b38152620a1875805ec3c5ad9121274a7560a03?source=rss",
+      "pubDate": "2026-08-26T11:15:29.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0b38152620a1875805ec3c5ad9121274a7560a03?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋グランパス、2種登録の16歳MF深谷朔共を投入 父は大分で08年ナビスコ杯制した元DF・深谷友基さん【天皇杯】(中日スポーツ)",
+      "summary": "◇26日 サッカー天皇杯全日本選手権2回戦 名古屋―鳥取（豊田スタジアム） 2回戦にJ1勢が登場し、27大会ぶりの天皇杯優勝を目指す名古屋グランパスが1点をリードして前半を折り返した。先制点は前半",
+      "link": "https://news.yahoo.co.jp/articles/d45d981c69c660ce05057b610b686793983ad333?source=rss",
+      "pubDate": "2026-08-26T11:12:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d45d981c69c660ce05057b610b686793983ad333?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜ＦＭ諏訪間幸成が公式戦プロ初ゴール 父はプロレスラー・諏訪魔 Ｊ３福島と天皇杯２回戦(スポーツ報知)",
+      "summary": "◆天皇杯 ▽２回戦 横浜ＦＭ―福島（２６日・日産スタジアム） Ｊ１横浜ＦＭが天皇杯２回戦で元日本代表ＦＷ三浦知良（５９）が所属するＪ３福島と対戦し、前半を１―０で折り返した。 横浜ＦＭは開幕か",
+      "link": "https://news.yahoo.co.jp/articles/d870069bcd8356ec6fcbcb05f3bc431cb79b71f4?source=rss",
+      "pubDate": "2026-08-26T11:01:59.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d870069bcd8356ec6fcbcb05f3bc431cb79b71f4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】浦和FWオナイウ阿道が２点 山梨学院大からリード(日刊スポーツ)",
+      "summary": "＜天皇杯：浦和－山梨学院大＞◇26日◇2回戦◇浦和駒場 J1で19位に沈む浦和レッズが初出場の山梨学院大から先制点を奪った。 前半18分、相手陣に押し込むと、左クロスにFWオナイウ阿道（30）",
+      "link": "https://news.yahoo.co.jp/articles/c07fe16a9717bc4b171a8ed1a63f0dc80cf6288b?source=rss",
+      "pubDate": "2026-08-26T10:50:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/c07fe16a9717bc4b171a8ed1a63f0dc80cf6288b?source=rss"
         }
       ]
@@ -26,16 +106,16 @@
       "summary": "＜天皇杯：G大阪－滋賀＞◇26日◇2回戦◇パナスタ ガンバ大阪が、J3レイラック滋賀から早くも2点目を奪った。 前半17分、ゴール前25メートル以上あるとみられる距離でFKを獲得すると、FW宇",
       "link": "https://news.yahoo.co.jp/articles/7eb7d1378a5271db6a0627443507ea55e458fe79?source=rss",
       "pubDate": "2026-08-26T10:42:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/7eb7d1378a5271db6a0627443507ea55e458fe79?source=rss"
         }
       ]
@@ -2445,11 +2525,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?457485-457485-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0441d379684087af559e5c83748bff19ed988f99?source=rss"
         }
       ]
     },
@@ -43048,25 +43123,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/bd673f792a8abb6fffb0efb332bee678f5938429?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪、元韓国代表MFのアジア戦略アンバサダー就任を発表「アジア、世界へと新たな価値を創造するクラブでありたい」",
-      "summary": "FC大阪は27日、元韓国代表のノ・ジュンユン（盧廷潤）氏が、アジア戦略アンバサダーに就任したことを発表した。",
-      "link": "https://www.footballchannel.jp/2026/07/27/post954375/",
-      "pubDate": "2026-07-27T10:58:59.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/27/post954375/"
         }
       ]
     }
