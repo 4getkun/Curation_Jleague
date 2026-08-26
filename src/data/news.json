@@ -1,7 +1,100 @@
 {
-  "generatedAt": "2026-08-26T10:03:48.437Z",
-  "count": 2206,
+  "generatedAt": "2026-08-26T10:58:03.433Z",
+  "count": 2209,
   "items": [
+    {
+      "title": "【天皇杯】浦和FWオナイウ阿道が２点 山梨学院大からリード(日刊スポーツ)",
+      "summary": "＜天皇杯：浦和－山梨学院大＞◇26日◇2回戦◇浦和駒場 J1で19位に沈む浦和レッズが初出場の山梨学院大から先制点を奪った。 前半18分、相手陣に押し込むと、左クロスにFWオナイウ阿道（30）",
+      "link": "https://news.yahoo.co.jp/articles/c07fe16a9717bc4b171a8ed1a63f0dc80cf6288b?source=rss",
+      "pubDate": "2026-08-26T10:50:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c07fe16a9717bc4b171a8ed1a63f0dc80cf6288b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】G大阪・宇佐美貴史が17分で２ゴール 先制弾に続き精密FK弾でJ3滋賀から２点目(日刊スポーツ)",
+      "summary": "＜天皇杯：G大阪－滋賀＞◇26日◇2回戦◇パナスタ ガンバ大阪が、J3レイラック滋賀から早くも2点目を奪った。 前半17分、ゴール前25メートル以上あるとみられる距離でFKを獲得すると、FW宇",
+      "link": "https://news.yahoo.co.jp/articles/7eb7d1378a5271db6a0627443507ea55e458fe79?source=rss",
+      "pubDate": "2026-08-26T10:42:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7eb7d1378a5271db6a0627443507ea55e458fe79?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "天皇杯2回戦 J1アビスパ福岡―JFLヴェルスパ大分が開始遅延(西スポWEB OTTO!)",
+      "summary": "◆天皇杯2回戦・J1福岡―JFLヴェルスパ大分（26日・ベスト電器スタジアム） スタジアム上空の雷雨のため、試合開始が午後7時から同8時5分に変更となった。",
+      "link": "https://news.yahoo.co.jp/articles/50a21b802c04c312ef1af203848fd9c33d81d2c3?source=rss",
+      "pubDate": "2026-08-26T10:34:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/50a21b802c04c312ef1af203848fd9c33d81d2c3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯】Ｇ大阪がJ3滋賀から先制 前半２分にミス逃さず宇佐美貴史が先制弾(日刊スポーツ)",
+      "summary": "＜天皇杯：G大阪－滋賀＞◇26日◇2回戦◇パナスタ J3レイラック滋賀と対戦しているガンバ大阪が、FW宇佐美貴史のゴールで早々に先制した。 前半2分、右サイドバックのDF池谷銀姿郎がアーリーク",
+      "link": "https://news.yahoo.co.jp/articles/ae986e7929a1522389bdd05253698d2296068e65?source=rss",
+      "pubDate": "2026-08-26T10:17:45.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/ae986e7929a1522389bdd05253698d2296068e65?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1ファンが悲痛「まじだったのか」 好調スタートも…クラブ発表に「いや、きつい」「なんで！」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670397",
+      "pubDate": "2026-08-26T10:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670397"
+        }
+      ]
+    },
     {
       "title": "低迷する広島の次期監督は？ 金本知憲氏や緒方孝市氏を推す声も…「打診しても断られそう」(AERA DIGITAL)",
       "summary": "広島は8月25日のDeNA戦（マツダ）で6点差を追いかける5回に一挙8得点の猛攻で逆転勝利。借金15を抱えて最下位に低迷しているが、セ・リーグは3位・DeNAから広島まで2.5ゲーム差に4チームがひ",
@@ -2337,17 +2430,22 @@
       ]
     },
     {
-      "title": "[U-21 Jリーグ]18歳のネオ・ストライカーが新リーグで躍動!U-21川崎F FW廣瀬寧生が途中出場から圧巻の2ゴールで勝利の主役を鮮やかにさらう!(ゲキサカ)",
-      "summary": "[8.23 U-21 Jリーグ 東西リーグラウンドEAST第1節 U-21磐田 2-3 U-21川崎F ヤマハ] 点取り屋としての本能は、いつだって研ぎ澄まされている。今季から創設された新しいリー",
-      "link": "https://news.yahoo.co.jp/articles/0441d379684087af559e5c83748bff19ed988f99?source=rss",
-      "pubDate": "2026-08-25T03:15:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "[U-21 Jリーグ]18歳のネオ・ストライカーが新リーグで躍動!U-21川崎F FW廣瀬寧生が途中出場から圧巻の2ゴールで勝利の主役を鮮やかにさらう!",
+      "summary": "[8.23 U-21 Jリーグ 東西リーグラウンドEAST第1節 U-21磐田 2-3 U-21川崎F ヤマハ] 点取り屋としての本能は、いつだって研ぎ澄まされている。今季から創設された新しいリーグの、記念すべきオープニングマッチであり、自…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457485-457485-fl",
+      "pubDate": "2026-08-25T03:15:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "frontale"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457485-457485-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -3678,23 +3776,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f0fe083e3c70a5d267df518032fa63b88ee7d8c3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鳥栖vs栃木C 試合記録",
-      "summary": "【J2第3節】(駅スタ)鳥栖 1-3(前半1-0)栃木C[鳥]阿部海大(14分)[栃]トクマック・チョル・グエン2(56分、60分)、小池裕太(85分)観衆:8,243人主審:上原直人[サガン鳥栖]先発GK 1 泉森涼太DF 5 長澤シヴァ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457317-457317-fl",
-      "pubDate": "2026-08-24T10:30:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457317-457317-fl"
         }
       ]
     },
@@ -42986,25 +43067,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/07/27/post954375/"
-        }
-      ]
-    },
-    {
-      "title": "【Ｃ大阪】ドルトムント歓迎イベントで道頓堀クルーズ 両クラブでプレーの香川真司も乗船(日刊スポーツ)",
-      "summary": "セレッソ大阪は27日、親善試合で来日したドイツ1部ドルトムントの歓迎イベントとして、道頓堀クルーズを実施した。 C大阪からは両クラブに所属した香川真司と畠中槙之輔、上門知樹が乗船。ドルトムントか",
-      "link": "https://news.yahoo.co.jp/articles/362f88e342d29dcab4bf8b969a83cdca776639d0?source=rss",
-      "pubDate": "2026-07-27T10:38:15.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/362f88e342d29dcab4bf8b969a83cdca776639d0?source=rss"
         }
       ]
     }
