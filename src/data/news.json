@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T16:09:23.490Z",
+  "generatedAt": "2026-08-26T18:10:35.671Z",
   "count": 2275,
   "items": [
     {
@@ -390,16 +390,16 @@
       "summary": "＜天皇杯：浦和3－0山梨学院大＞◇26日◇2回戦◇浦和駒場 山梨学院大は、J1浦和レッズ相手に下克上を狙うも、0－3で敗れて2回戦敗退となった。1年生エースのFWオノボフランシス日華（18）は、背",
       "link": "https://news.yahoo.co.jp/articles/431174efea6d03bcad07947d80f472b74c9760dd?source=rss",
       "pubDate": "2026-08-26T13:59:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reds"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/431174efea6d03bcad07947d80f472b74c9760dd?source=rss"
         }
       ]
@@ -1453,22 +1453,21 @@
       ]
     },
     {
-      "title": "清水vsFC大阪 スタメン発表",
-      "summary": "[8.26 天皇杯2回戦](アイスタ)※19:00開始主審:上村篤史副審:聳城巧、中山友希[清水エスパルス]先発GK 1 沖悠哉DF 70 高木践DF 3 高橋祐治DF 4 蓮川壮大DF 28 吉田豊MF 2 ディエギーニョMF 37 小泉…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457566-457566-fl",
-      "pubDate": "2026-08-26T10:14:49.000Z",
+      "title": "京都vsマルヤス岡崎 スタメン発表",
+      "summary": "[8.26 天皇杯2回戦](たけびし)※19:00開始主審:上田益也副審:若宮健治、鈴木渓[京都サンガF.C.]先発GK 90 ハウスDF 5 アピアタウィア久DF 15 永田倖大DF 40 石田侑資DF 60 山中亮輔MF 10 福岡慎平…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457567-457567-fl",
+      "pubDate": "2026-08-26T10:16:33.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "s-pulse",
-        "cerezo"
+        "sanga"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457566-457566-fl"
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457567-457567-fl"
         }
       ]
     },
