@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26T04:29:32.754Z",
-  "count": 2188,
+  "generatedAt": "2026-08-26T05:05:32.723Z",
+  "count": 2184,
   "items": [
     {
       "title": "柏レイソル｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
@@ -28,16 +28,16 @@
       "summary": "サッカーの第106回天皇杯全日本選手権は26日に2回戦の32試合が行われ、J1、J2勢が登場する。 J1横浜F・マリノスは日産スタジアムでJ3福島ユナイテッドFCを迎え撃つ。横浜の16歳MF三井",
       "link": "https://news.yahoo.co.jp/articles/5e59d1880719abaa56dc051bd797b3fd188b8db5?source=rss",
       "pubDate": "2026-08-26T03:58:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marinos"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5e59d1880719abaa56dc051bd797b3fd188b8db5?source=rss"
         }
       ]
@@ -4896,17 +4896,22 @@
       ]
     },
     {
-      "title": "浦和は24年ぶり開幕3連敗…曺貴裁監督「非常に責任を感じている」「38試合終わったときに逆転できるように」(ゲキサカ)",
-      "summary": "[8.23 J1第3節 町田 3-1 浦和 MUFG国立] 浦和レッズが泥沼の開幕3連敗を喫した。FC町田ゼルビアに1-3で敗れ、3試合で計11失点。2002シーズン以来24年ぶりとなる厳しいスタ",
-      "link": "https://news.yahoo.co.jp/articles/824ab7f47adf39e98c3b6cf2e7f9dd750b8650c7?source=rss",
-      "pubDate": "2026-08-23T14:13:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "浦和は24年ぶり開幕3連敗…曺貴裁監督「非常に責任を感じている」「38試合終わったときに逆転できるように」",
+      "summary": "[8.23 J1第3節 町田 3-1 浦和 MUFG国立] 浦和レッズが泥沼の開幕3連敗を喫した。FC町田ゼルビアに1-3で敗れ、3試合で計11失点。2002シーズン以来24年ぶりとなる厳しいスタートに、今シーズンから就任した曺貴裁監督は「…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457405-457405-fl",
+      "pubDate": "2026-08-23T14:12:10.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "reds"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457405-457405-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -5142,25 +5147,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a0f0edc60f65e463b61020c3221251d3284014ff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "山口退団の24歳MF水口飛呂が海外移籍",
-      "summary": "レノファ山口FCは23日、J2・J3百年構想リーグで契約満了となっていたMF水口飛呂(24)がバレスティア・カルサFC(シンガポール)へ移籍することが決まったと発表した。 水口は履正社高からIPU・環太平洋大を経て、2024年に山口へ加入。…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457400-457400-fl",
-      "pubDate": "2026-08-23T12:55:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457400-457400-fl"
         }
       ]
     },
@@ -42595,66 +42581,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/665683"
-        }
-      ]
-    },
-    {
-      "title": "広島・元日本代表ＦＷ浅野拓磨が負傷 左ヒラメ筋肉離れ ８・８Ｊ１開幕節出場へ暗雲(スポーツ報知)",
-      "summary": "Ｊ１の広島は２７日、所属する元日本代表ＦＷ浅野拓磨が２５日のトレーニングマッチ（非公開）で負傷し、２６日に広島県内の病院で検査を受けた結果、左ヒラメ筋肉離れと診断されたことを発表した。全治は発表され",
-      "link": "https://news.yahoo.co.jp/articles/fdfbd7b0c8a2eee0619044ee4855214ce553122a?source=rss",
-      "pubDate": "2026-07-27T04:47:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "injury",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fdfbd7b0c8a2eee0619044ee4855214ce553122a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【陸上】女子200mジェファーソン・ウッデン21秒69でV、男子800mは17歳ルッケンハウスが初制覇 ライルズは200m9位／全米選手権(月刊陸上競技)",
-      "summary": "全米選手権の4日目が7月26日（現地時間）に米国・ニューヨークで行われ、女子200mは東京世界選手権金メダルのM.ジェファーソン・ウッデンが今季ベストの21秒69（＋1.0）で優勝した。 ジェファー",
-      "link": "https://news.yahoo.co.jp/articles/f8bbc22757258fb1f2c5e578ebc521bd6ec04dac?source=rss",
-      "pubDate": "2026-07-27T04:45:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f8bbc22757258fb1f2c5e578ebc521bd6ec04dac?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ベリンガム弟来日決定「ジョーブ来てくれるのまじうれしい！」「これは熱い」ドルトムントツアー(日刊スポーツ)",
-      "summary": "ドイツ1部の強豪ドルトムントは26日、ジャパンツアーの来日メンバー28人を発表した。 24年以来の来日ツアーで、29日に大阪・ヤンマーハナサカスタジアムでセレッソ大阪と、8月1日に東京・MUFG",
-      "link": "https://news.yahoo.co.jp/articles/398f4eab8e4763302747368fb185f398eb7b1a05?source=rss",
-      "pubDate": "2026-07-27T04:30:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/398f4eab8e4763302747368fb185f398eb7b1a05?source=rss"
         }
       ]
     }
