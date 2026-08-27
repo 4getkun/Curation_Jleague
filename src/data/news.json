@@ -1,7 +1,215 @@
 {
-  "generatedAt": "2026-08-27T05:39:43.892Z",
-  "count": 2282,
+  "generatedAt": "2026-08-27T17:03:04.600Z",
+  "count": 2274,
   "items": [
+    {
+      "title": "町田 DF中山雄太の後釜候補 小川航基とNECナイメヘンで同僚DFウーワイアンら補強も(スポニチアネックス)",
+      "summary": "FC町田ゼルビアが、新たな補強候補にオランダ1部NECナイメヘンのDFトーマス・ウーワイアン（30）、韓国1部江原のDFイ・ギヒョク（26）を挙げていることが27日、分かった。 複数の関係者によ",
+      "link": "https://news.yahoo.co.jp/articles/734dfabaf873bae18be8326a9d6e13a70b49ac59?source=rss",
+      "pubDate": "2026-08-27T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/734dfabaf873bae18be8326a9d6e13a70b49ac59?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "C大阪 スペイン1部リーグ通算86試合4得点の大型DF獲りへ(スポニチアネックス)",
+      "summary": "C大阪がスペイン2部レガネスのDFハビ・エルナンデス（28）獲りに動いていることが27日までに分かった。関係者によると、すでに正式オファーを提示。交渉は順調に進んでいる模様だ。 世界屈指の名門レ",
+      "link": "https://news.yahoo.co.jp/articles/ae117987365167b867eec54aef85a2b84c1f2c93?source=rss",
+      "pubDate": "2026-08-27T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ae117987365167b867eec54aef85a2b84c1f2c93?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "水戸ホーリーホック、サンパウロからウーゴを期限付き移籍で獲得！「たくさんのタイトルをこれから獲得できるように」",
+      "summary": "水戸ホーリーホックは27日、ブラジルのサンパウロFCからMFウーゴ・レオナルドが期限付き移籍で加入することを発表した。背番号は「38」に決定した。",
+      "link": "https://www.footballchannel.jp/2026/08/27/post999411/",
+      "pubDate": "2026-08-27T13:15:09.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/27/post999411/"
+        }
+      ]
+    },
+    {
+      "title": "J1昇格クラブが南米名門から22歳MFを獲得 守備力に定評…キャリア初の海外挑戦",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670286",
+      "pubDate": "2026-08-27T13:15:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670286"
+        }
+      ]
+    },
+    {
+      "title": "横浜FMが天皇杯3回戦へ進出! 諏訪間幸成のプロ初ゴールで福島を退ける(27枚)",
+      "summary": "天皇杯2回戦が26日に行われ、日産スタジアムでは横浜F・マリノスが福島ユナイテッドFCに1-0で勝利した。●第106回天皇杯特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
+      "link": "https://web.gekisaka.jp/photonews/emperorscup/detail/?457667-457667-pn",
+      "pubDate": "2026-08-27T12:30:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/photonews/emperorscup/detail/?457667-457667-pn"
+        }
+      ]
+    },
+    {
+      "title": "小川航基がW杯後にJリーグ復帰を決断した理由「W杯に出るため、活躍するために…」4年後を見据えたFC町田ゼルビアへの移籍",
+      "summary": "FC町田ゼルビアは8月27日、日本代表FW小川航基の加入会見を行った。オランダ1部のNECナイメヘンから完全移籍で加入し、約3年ぶりにJリーグへ復帰。小川は「ワールドカップに出るため、活躍するために帰ってきた」と語り、4年後のFIFAワール…",
+      "link": "https://www.footballchannel.jp/2026/08/27/post999210/",
+      "pubDate": "2026-08-27T12:00:31.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/27/post999210/"
+        }
+      ]
+    },
+    {
+      "title": "豪州代表27歳が「J1復帰の可能性」 現地紙報道…期限付きで「日本への移籍が近づく」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670550",
+      "pubDate": "2026-08-27T10:00:35.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670550"
+        }
+      ]
+    },
+    {
+      "title": "久保瑛史、セレッソ大阪からJ3レイラック滋賀FCへ育成型期限付き移籍「チームの勝利に貢献できるよう全力を尽くします」",
+      "summary": "J3のレイラック滋賀FCは27日、セレッソ大阪からMF久保瑛史が育成型期限付き移籍で加入することを発表した。移籍期間は2027年6月30日までとなる。",
+      "link": "https://www.footballchannel.jp/2026/08/27/post999360/",
+      "pubDate": "2026-08-27T10:00:31.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/27/post999360/"
+        }
+      ]
+    },
+    {
+      "title": "天皇杯3回戦の対戦カード決定「どこも面白い」 J1vs大学も…ファン反響「ダービー爆誕」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670548",
+      "pubDate": "2026-08-27T09:44:56.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670548"
+        }
+      ]
+    },
+    {
+      "title": "J1クラブが匂わせ投稿「まさか！」 飛行機の絵文字も…ファン騒然「大型選手襲来か？」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670523",
+      "pubDate": "2026-08-27T08:16:46.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670523"
+        }
+      ]
+    },
+    {
+      "title": "Jファン仰天「なにがあった？」 J1クラブの2チーム…まさかの光景に「普通に凄いな」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/670500",
+      "pubDate": "2026-08-27T08:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/670500"
+        }
+      ]
+    },
     {
       "title": "「7年間育てていただいた愛するクラブ」立命館大DF木村誠之輔、アカデミー時代を過ごしたC大阪への加入内定(ゲキサカ)",
       "summary": "セレッソ大阪は27日、立命館大のDF木村誠之輔(22)が2026-27シーズン(2027年1月)に加入することが内定したと発表した。また、「2026/27シーズン JFA・Jリーグ特別指定選手」とし",
@@ -971,6 +1179,23 @@
       ]
     },
     {
+      "title": "今治vs秋田 試合記録",
+      "summary": "【天皇杯2回戦】(アシさと)今治 4-1(前半2-0)秋田[今]持井響太(9分)、古山兼悟(33分)、ウェズレイ・タンキ(87分)、森晃太(90分+3)[秋]飯泉涼矢(83分)[今]古山兼悟(38分)、ガブリエル・ゴメス(74分)[秋]石田…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457600-457600-fl",
+      "pubDate": "2026-08-26T13:55:24.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457600-457600-fl"
+        }
+      ]
+    },
+    {
       "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
       "summary": "※情報は2026年8月26日時点。J1第3節終了時点の順位。天皇杯2回戦終了時点。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯などの試合日程と結果をまとめる。試合終了後はスコア、得点 […]",
       "link": "https://www.footballchannel.jp/2026/08/26/post991935/",
@@ -1318,25 +1543,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/429cc198729eb11acca5c6636295c41597ca1fa8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田vs岩手 試合記録",
-      "summary": "【天皇杯2回戦】(Gスタ)町田 3-0(前半1-0)岩手[町]松尾佑介(37分)、テテ・イェンギ(69分)、中村帆高(84分)[岩]柳世根(80分)主審:荒木友輔副審:長谷川雅、西尾英朗[FC町田ゼルビア]先発GK 13 守田達弥DF 5…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457585-457585-fl",
-      "pubDate": "2026-08-26T12:33:14.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457585-457585-fl"
         }
       ]
     },
@@ -44137,372 +44343,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/8c5d97b592de72fe8e1b592abc051e41a2e91456?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１浦和・清水社長 大量退団問題にアンサー「たくさん保有していたが使いきれなかった」(東スポWEB)",
-      "summary": "J1浦和の清水稔代表取締役社長と堀之内聖スポーツダイレクター（SD）が28日、埼玉会館で行われた「浦和レッズTalk on Together 2026/27」に登壇し、選手の大量退団問題に言及した。",
-      "link": "https://news.yahoo.co.jp/articles/96d48fed8b391536cdccfd324337d85cd8cc2497?source=rss",
-      "pubDate": "2026-07-28T14:50:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds",
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/96d48fed8b391536cdccfd324337d85cd8cc2497?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1川崎・長谷部監督、新シーズンこそ「もちろん優勝」「いろんな形でゴールに迫れるように」(サンケイスポーツ)",
-      "summary": "J1川崎は28日、麻生グラウンドでの練習を公開した。長谷部茂利監督が取材に応じ、今季の目標に「もちろん優勝です。クラブとしてはアジア制覇を目指しているので。アジアの大会への出場権も獲得する。そこに尽き",
-      "link": "https://news.yahoo.co.jp/articles/1ec6869b30efdc13b6989f5f3cc2ef16228db848?source=rss",
-      "pubDate": "2026-07-28T14:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1ec6869b30efdc13b6989f5f3cc2ef16228db848?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート】黒野元基 今年〝猛爆ペース〟で好走中…今節の調整は「まずは伸び寄りに」(東スポWEB)",
-      "summary": "ボートレース福岡では29日から、6日間の日程で「西部ボートレース記者クラブ杯」がスタートする。 博多の前検特訓は14時前後に行われる。もっとも気温の上がる時間帯と重なるため、競技棟もうだるような",
-      "link": "https://news.yahoo.co.jp/articles/f66d4faaa4b43f65510ada18a0d8915103390ff6?source=rss",
-      "pubDate": "2026-07-28T14:05:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f66d4faaa4b43f65510ada18a0d8915103390ff6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１浦和・清水社長 曺貴裁氏招へいの理由と〝対策〟をサポーターに説明(東スポWEB)",
-      "summary": "J1浦和の清水稔代表取締役社長と堀之内聖スポーツダイレクター（SD）が28日、埼玉会館で行われた「浦和レッズTalk on Together 2026/27」に登壇し、サポーターからの新監督に関する",
-      "link": "https://news.yahoo.co.jp/articles/5cbb48d3b8ff8ec63615aa718b5c1fcc7b56e313?source=rss",
-      "pubDate": "2026-07-28T14:00:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds",
-        "s-pulse"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5cbb48d3b8ff8ec63615aa718b5c1fcc7b56e313?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "新たなJリーグ開幕へ「準備はできた」…欧州クラブとの交流も実施、野々村芳和チェアマン「世界のトップ水準が当たり前に」(サッカーキング)",
-      "summary": "28日、2026年第7回理事会が行われ、メディアブリーフィングが行われた。 8月7日に新シーズンの開幕を迎えるJリーグ。欧州の主要リーグなど、世界基準に合わせ、8月開幕、5月閉幕へとシーズン移行",
-      "link": "https://news.yahoo.co.jp/articles/00fe547e452c0d747cd83fb5190712a8ca74c257?source=rss",
-      "pubDate": "2026-07-28T11:50:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/00fe547e452c0d747cd83fb5190712a8ca74c257?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "橋本愛、１カ月ぶりSNS更新「熊本での地震の知らせに胸が痛みます」(日刊スポーツ)",
-      "summary": "橋本愛（30）が28日、スレッズを更新し「熊本での地震の知らせに胸が痛みます。皆さんの安全を心から祈っています」と故郷・熊本で発生した震度7の地震に心を痛めた。 橋本のSNSへの投稿は、インスタ",
-      "link": "https://news.yahoo.co.jp/articles/ca2afecc0660a015bb4b2e8e8625c7c2379e2cf4?source=rss",
-      "pubDate": "2026-07-28T11:33:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ca2afecc0660a015bb4b2e8e8625c7c2379e2cf4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【移籍情報】神戸、千葉から高橋壱晟を獲得「強い覚悟を持って日々の努力を積み重ねていきます」｜Jリーグ(DAZN News)",
-      "summary": "【国内サッカー 最新ニュース】ヴィッセル神戸は28日、ジェフユナイテッド千葉から高橋壱晟を獲得することが決まったと発表した。",
-      "link": "https://news.yahoo.co.jp/articles/65fc0ca8d05f343b1ff24abb3770096985b7a9f2?source=rss",
-      "pubDate": "2026-07-28T10:16:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel",
-        "jef-chiba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/65fc0ca8d05f343b1ff24abb3770096985b7a9f2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ＪリーグがACLサポート 分配金総額5.5億円増額「中３日を可能な限り確保」明文化(日刊スポーツ)",
-      "summary": "Jリーグは28日、都内で理事会を行い、2026／27シーズンにAFCカップ戦出場クラブへのサポート概要を取りまとめた。 ACLサポート分配金として、アジア・チャンピオンズリーグ・エリート（ACL",
-      "link": "https://news.yahoo.co.jp/articles/d581caf0d2a99276327ad973cf82c356a334e4b5?source=rss",
-      "pubDate": "2026-07-28T09:32:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d581caf0d2a99276327ad973cf82c356a334e4b5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表9・28広島でベネズエラ代表と対戦 森保一監督「日本の皆さんに恩返しをしたい」(日刊スポーツ)",
-      "summary": "日本サッカー協会(JFA)は28日、日本代表(FIFAランキング17位)が9月28日に、広島・Eピースでベネズエラ代表(同47位)と国際親善試合を行うと発表した。 史上初の3期目に突入する森保監",
-      "link": "https://news.yahoo.co.jp/articles/a5039fadfb8fb145cb5af9ab6be451784060ae4a?source=rss",
-      "pubDate": "2026-07-28T09:31:48.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a5039fadfb8fb145cb5af9ab6be451784060ae4a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪の異例の“北九州開催ホームゲーム” Jリーグが見解「スタジアム確保はクラブの責務」",
-      "summary": "Jリーグは28日、明治安田J3リーグ第3節・FC琉球戦の開催地が決まらず、最終的にミクニワールドスタジアム北九州で開催されることになったFC大阪の対応について見解を示した。",
-      "link": "https://www.footballchannel.jp/2026/07/28/post954612/",
-      "pubDate": "2026-07-28T09:00:02.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/28/post954612/"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪の“異例ホーム試合”にJリーグが見解 琉球戦を北九州で開催「努力してもらいたい」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/665923",
-      "pubDate": "2026-07-28T08:09:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/665923"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、ACL出場クラブへの支援を大幅拡充。配分金は総額5.5億円、ACLE出場クラブに1億円",
-      "summary": "Jリーグは28日、日本サッカー協会（JFA）と共同で、2026/27シーズンのAFCチャンピオンズリーグエリート（ACLE）およびAFCチャンピオンズリーグ2（ACL2）に出場するクラブへのサポート概要を決定したと発表した。",
-      "link": "https://www.footballchannel.jp/2026/07/28/post954588/",
-      "pubDate": "2026-07-28T08:00:06.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/28/post954588/"
-        }
-      ]
-    },
-    {
-      "title": "191cmのブラジル人ストライカーが加入！ 川崎フロンターレ、FWデリキ・ラセルダを完全移籍で獲得",
-      "summary": "J1リーグの川崎フロンターレは28日、ブラジルのクイアバECから26歳のブラジル人FWデリキ・ラセルダが完全移籍で加入することを発表した。191cmの大型ストライカーがJリーグ初挑戦となる。2021年以来のリーグ優勝を目指すチームに強力な助…",
-      "link": "https://www.footballchannel.jp/2026/07/28/post954585/",
-      "pubDate": "2026-07-28T07:56:24.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/28/post954585/"
-        }
-      ]
-    },
-    {
-      "title": "ジェフ千葉MF髙橋壱晟がヴィッセル神戸へ完全移籍！ 約10年過ごしたクラブに別れ「変化が必要だと感じた」",
-      "summary": "ジェフユナイテッド市原・千葉は28日、MF髙橋壱晟がヴィッセル神戸へ完全移籍することを発表した。",
-      "link": "https://www.footballchannel.jp/2026/07/28/post954579/",
-      "pubDate": "2026-07-28T07:42:23.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "jef-chiba",
-        "vissel"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/28/post954579/"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、配分金規程を改定。キャンプ支援配分金と U-21 Jリーグ配分金を新設。均等配分金は6.5億円増",
-      "summary": "Jリーグは28日、理事会で2026/27シーズンに向けてJリーグ配分金規程を改定し、キャンプ支援配分金と U-21 Jリーグ配分金を新設したことを発表した。今季のカテゴリーや大会別の賞金やファン指標配布金などについても伝えられている。",
-      "link": "https://www.footballchannel.jp/2026/07/28/post954570/",
-      "pubDate": "2026-07-28T07:31:37.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/07/28/post954570/"
-        }
-      ]
-    },
-    {
-      "title": "「変化が必要」DF高橋壱晟が神戸に電撃移籍!! 千葉一筋10年目で一大決心「ジェフのあるこの街が大好き」(ゲキサカ)",
-      "summary": "ヴィッセル神戸は28日、ジェフユナイテッド千葉からDF高橋壱晟(28)を獲得することが決まったと発表した。千葉加入から9年半、今年上半期で初めてJ1挑戦を果たした28歳がビッグクラブ移籍を決断した。",
-      "link": "https://news.yahoo.co.jp/articles/200d3bb0c799d086483fbf784626639358b476ab?source=rss",
-      "pubDate": "2026-07-28T07:19:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/200d3bb0c799d086483fbf784626639358b476ab?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "JリーグがACL出場クラブへのサポート拡大! 配分金は5千万→5.5億円、日程面も「中3日を可能な限り確保」(ゲキサカ)",
-      "summary": "Jリーグは28日、理事会を行い、2026-27シーズンにAFCチャンピオンズリーグエリート(ACLE)とAFCチャンピオンズリーグ2(ACL2)のアジア競技大会に出場するクラブに金銭面、日程面のサポ",
-      "link": "https://news.yahoo.co.jp/articles/5d5bfb93c1870ee1a047d3bcfad1acf4f61f4105?source=rss",
-      "pubDate": "2026-07-28T07:09:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5d5bfb93c1870ee1a047d3bcfad1acf4f61f4105?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "香川も絶賛した18歳「トップに絶対上がって」 古巣ドルトムントで台頭の日本人は「素晴らしい」(FOOTBALL ZONE)",
-      "summary": "ドイツ・ブンデスリーガのボルシア・ドルトムントは7月28日、大阪市内でセレッソ大阪戦の前日会見を行い、ニコ・コヴァチ監督とMF山本天翔が出席した。山本は「僕はガンバで育ったので、セレッソさんには絶対",
-      "link": "https://news.yahoo.co.jp/articles/2d29efd27d018b04cb4e2a7e9c41964fbb7f14d3?source=rss",
-      "pubDate": "2026-07-28T06:57:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo",
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2d29efd27d018b04cb4e2a7e9c41964fbb7f14d3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、26/27シーズンの配分金改定を発表 降雪エリア対象クラブに5年間で総額40億円が配分",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/665902",
-      "pubDate": "2026-07-28T06:52:12.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/665902"
         }
       ]
     }
