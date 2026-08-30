@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-08-30T17:50:04.619Z",
-  "count": 2230,
+  "generatedAt": "2026-08-30T20:15:39.508Z",
+  "count": 2232,
   "items": [
+    {
+      "title": "熱血指揮官が確信「日本サッカー界に風穴を」 堅守速攻→超攻撃的スタイル…地元帰還は「やり残したことが」(FOOTBALL ZONE)",
+      "summary": "2020年のJ1再昇格の後、3度のJ2降格と2度のJ1昇格を繰り返してきた横浜FC。26-27シーズンからは再びJ2に挑んでいるが、エレベーター状態に歯止めをかけるべく、2026年頭からチームを指揮",
+      "link": "https://news.yahoo.co.jp/articles/4e233a21d2710f51f2196d493fb7e50f118f0876?source=rss",
+      "pubDate": "2026-08-30T20:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4e233a21d2710f51f2196d493fb7e50f118f0876?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「コロコロPKきたああああ」叩き上げ27歳FWが大迫＆武藤不在の神戸を救う大仕事!遠藤保仁ばりのPKに「上手すぎて笑った」「コマレン最高」J1初ゴール!(サッカー批評Web)",
+      "summary": "8月29日にノエビアスタジアム神戸で開催されたJ1リーグ第4節。ヴィッセル神戸の叩き上げストライカーが、かつて日本を沸かせた伝説の“コロコロPK”を沈め、チームを劇的な勝利に導いた。 百年構想リ",
+      "link": "https://news.yahoo.co.jp/articles/fcac3f30ca3191fce2da1c41cc64b94a52bd7a04?source=rss",
+      "pubDate": "2026-08-30T20:00:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fcac3f30ca3191fce2da1c41cc64b94a52bd7a04?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "大榎克己静岡県サッカー協会会長・特別企画インタビュー サッカー王国静岡の復権「種をまいて、肥料、水を与えて…環境づくりが大切」(スポーツ報知)",
+      "summary": "Ｊ１清水のプロ契約第１号として活躍し、監督、ＧＭも務め、現在は静岡県サッカー協会会長を務める「清水東三羽烏」の一人、大榎克己氏（６１）に地域版「しずおか報知」最後の特別企画としてインタビューを実施。",
+      "link": "https://news.yahoo.co.jp/articles/a1ec7776673ca0868fcfacfcbce9a6e889aa454b?source=rss",
+      "pubDate": "2026-08-30T20:00:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a1ec7776673ca0868fcfacfcbce9a6e889aa454b?source=rss"
+        }
+      ]
+    },
     {
       "title": "【広島】秋山翔吾が西武栗山巧の引退に「僕が入団してから一番影響の大きい人でした」(日刊スポーツ)",
       "summary": "西武栗山巧外野手（42）の引退セレモニーが試合後に行われた。 ◇ ◇ ◇ 広島秋山（西武でともにプレー）「僕が入団してから一番影響の大きい人でした。今、こうして現役を続けられて",
@@ -913,6 +968,26 @@
       ]
     },
     {
+      "title": "広島が10人G大阪とスコアレスドロー…今季初出場のGK一森純が好セーブ連発",
+      "summary": "[8.29 J1第4節 G大阪 0-0 広島 パナスタ] J1第4節が29日に行われ、パナソニックスタジアム吹田では10位ガンバ大阪と4位サンフレッチェ広島が0-0で引き分けた。 ホームのG大阪は前半39分、MFイッサム・ジェバリのスルーパ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457770-457770-fl",
+      "pubDate": "2026-08-29T11:04:47.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "sanfrecce",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457770-457770-fl"
+        }
+      ]
+    },
+    {
       "title": "Ｊ１千葉・１７年ぶりＪ１でのゴール 田中和樹が決めた！ 田中はさらにもう一発 ２―４で後半へ(スポーツ報知)",
       "summary": "◆明治安田Ｊ１リーグ▽第４節 川崎―千葉（２９日・Ｕ等々力） Ｊ１千葉は２１日、アウェーで川崎と対戦。ＭＦ田中和樹が０―１の前半２６分にゴールを決めて同点に追いついた。同３７分に勝ち越されたが、同",
       "link": "https://news.yahoo.co.jp/articles/d19ca140a9232ac2cdde24c22de85e9c97ed42ef?source=rss",
@@ -928,31 +1003,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d19ca140a9232ac2cdde24c22de85e9c97ed42ef?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島が10人G大阪とスコアレスドロー…今季初出場のGK一森純が好セーブ連発",
-      "summary": "[8.29 J1第4節 G大阪 0-0 広島 パナスタ] J1第4節が29日に行われ、パナソニックスタジアム吹田では10位ガンバ大阪と4位サンフレッチェ広島が0-0で引き分けた。 ホームのG大阪は前半39分、MFイッサム・ジェバリのスルーパ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457770-457770-fl",
-      "pubDate": "2026-08-29T11:03:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanfrecce",
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457770-457770-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dfd9a74f38045dc45ee0dd142acc57ae509da130?source=rss"
         }
       ]
     },
@@ -43451,27 +43501,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/fbbce5b1a094861f4e209192f7a345f954e731b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "川崎FのU21代表MF大関「練習もアピール」 アジア大会へ意気込み「優勝しなきゃいけない」(スポニチアネックス)",
-      "summary": "U―21日本代表メンバーに選ばれた川崎FのMF大関がオンラインで取材に対応し「日本で代表チームとして大きな大会を戦えるので凄く楽しみ。優勝しなきゃいけない」と意気込んだ。 大岩監督は来年3月から",
-      "link": "https://news.yahoo.co.jp/articles/3c1c0a97a2b8b26664d1c7e41097f1bfb76324fc?source=rss",
-      "pubDate": "2026-07-31T19:59:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3c1c0a97a2b8b26664d1c7e41097f1bfb76324fc?source=rss"
         }
       ]
     }
