@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-30T13:52:44.186Z",
-  "count": 2231,
+  "generatedAt": "2026-08-30T17:50:04.619Z",
+  "count": 2230,
   "items": [
+    {
+      "title": "【広島】秋山翔吾が西武栗山巧の引退に「僕が入団してから一番影響の大きい人でした」(日刊スポーツ)",
+      "summary": "西武栗山巧外野手（42）の引退セレモニーが試合後に行われた。 ◇ ◇ ◇ 広島秋山（西武でともにプレー）「僕が入団してから一番影響の大きい人でした。今、こうして現役を続けられて",
+      "link": "https://news.yahoo.co.jp/articles/06112c9de22bbb8f54ff7ef991c91bd4d8348e6a?source=rss",
+      "pubDate": "2026-08-30T14:05:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/06112c9de22bbb8f54ff7ef991c91bd4d8348e6a?source=rss"
+        }
+      ]
+    },
     {
       "title": "J1シーズン中に移籍も「モヤモヤがない！」 タイトル獲得貢献…”欧州再挑戦”に「応援せざるを得ない」",
       "summary": "",
@@ -911,17 +932,23 @@
       ]
     },
     {
-      "title": "広島が10人G大阪とスコアレスドロー…今季初出場のGK一森純が好セーブ連発(ゲキサカ)",
-      "summary": "[8.29 J1第4節 G大阪 0-0 広島 パナスタ] J1第4節が29日に行われ、パナソニックスタジアム吹田では10位ガンバ大阪と4位サンフレッチェ広島が0-0で引き分けた。 ホームのG大",
-      "link": "https://news.yahoo.co.jp/articles/dfd9a74f38045dc45ee0dd142acc57ae509da130?source=rss",
+      "title": "広島が10人G大阪とスコアレスドロー…今季初出場のGK一森純が好セーブ連発",
+      "summary": "[8.29 J1第4節 G大阪 0-0 広島 パナスタ] J1第4節が29日に行われ、パナソニックスタジアム吹田では10位ガンバ大阪と4位サンフレッチェ広島が0-0で引き分けた。 ホームのG大阪は前半39分、MFイッサム・ジェバリのスルーパ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457770-457770-fl",
       "pubDate": "2026-08-29T11:03:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
+        "sanfrecce",
         "gamba"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457770-457770-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -946,33 +973,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/17050456e387c6a64a94b15216dc149668685397?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "小川航基が“バットマン”スタイルで加入後初出場!! 町田は水戸とドローで開幕からの連勝ストップ",
-      "summary": "[8.29 J1第4節 水戸 1-1 町田 水戸信ス] FC町田ゼルビアは29日、J1第4節で水戸ホーリーホックと対戦して1-1の引き分けに終わり、開幕からの連勝が3で止まった。町田に加入したFW小川航基は後半途中から出場。顔を負傷している…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457771-457771-fl",
-      "pubDate": "2026-08-29T11:02:57.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia",
-        "hollyhock"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457771-457771-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8dc5f9932e91d3ebd720bd5dd7b1341d8f2a9017?source=rss"
         }
       ]
     },
@@ -43472,25 +43472,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3c1c0a97a2b8b26664d1c7e41097f1bfb76324fc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート】飯島昌弘 得点率６位タイに浮上「ペラを自分の形に叩き変えて今は出足型。乗りやすさもあります」(東スポWEB)",
-      "summary": "ボートレース福岡の「西部ボートレース記者クラブ杯」は1日、予選最終日の4日目を迎える。 ベテランの飯島昌弘（53＝埼玉）は、サバイバルが続く予選道中でジワジワと得点率を上げ、4人がひしめく6位タ",
-      "link": "https://news.yahoo.co.jp/articles/e57fffd442785f1553231238a6bc463901bde612?source=rss",
-      "pubDate": "2026-07-31T14:10:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e57fffd442785f1553231238a6bc463901bde612?source=rss"
         }
       ]
     }
