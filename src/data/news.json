@@ -1,7 +1,133 @@
 {
-  "generatedAt": "2026-08-31T06:42:05.765Z",
-  "count": 2230,
+  "generatedAt": "2026-08-31T14:34:14.628Z",
+  "count": 2201,
   "items": [
+    {
+      "title": "長崎、ボイン高MFチェ・ヘソクの27年加入内定を発表「本当の意味でのサッカー人生は、ここから始まると思っています」(ゲキサカ)",
+      "summary": "V・ファーレン長崎は31日、ボイン高MFチェ・ヘソクの26-27シーズン(27年1月)の新加入内定を発表した。 チェ・ヘソクはクラブを通じ、以下のようにコメントしている。 「幼い頃から夢見てい",
+      "link": "https://news.yahoo.co.jp/articles/a39e77453870f20995071245058f5026b1d1187c?source=rss",
+      "pubDate": "2026-08-31T13:33:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a39e77453870f20995071245058f5026b1d1187c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京】東慶悟「色々なチームから声をかけていただきました」も現役引退 大分で指導者に(日刊スポーツ)",
+      "summary": "FC東京は31日、百年構想リーグをもって契約満了となった元日本代表MF東慶悟（36）が現役引退すると発表した。今後はJ2大分トリニータでアカデミートランジションコーチを務める。 クラブを通じて「",
+      "link": "https://news.yahoo.co.jp/articles/9c7176df03a397ca8cff7f801917a5b161eca0f4?source=rss",
+      "pubDate": "2026-08-31T11:56:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9c7176df03a397ca8cff7f801917a5b161eca0f4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京】「10番」東慶悟が現役引退 431試合出場のレジェンド ロンドン五輪４位など(日刊スポーツ)",
+      "summary": "FC東京は31日、百年構想リーグをもって契約満了となった元日本代表MF東慶悟（36）が現役引退すると発表した。今後はJ2大分トリニータでアカデミートランジションコーチを務める。 大分の下部組織か",
+      "link": "https://news.yahoo.co.jp/articles/e21f519f22c26710ba05fb65894db78db0da3f7b?source=rss",
+      "pubDate": "2026-08-31T11:45:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e21f519f22c26710ba05fb65894db78db0da3f7b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】小園海斗がSNSで公表「渡辺リサさんと離婚しました」(日刊スポーツ)",
+      "summary": "広島小園海斗内野手（26）が31日、離婚したことを自身のSNSで明かした。「ご報告です。この度渡辺リサさんと離婚しました。離婚の経緯などはお控えさせていただきます。今後とも温かいご声援よろしくお願い",
+      "link": "https://news.yahoo.co.jp/articles/fad9fe8780cfa47c613f961ff08d006b8ba1b3fa?source=rss",
+      "pubDate": "2026-08-31T10:49:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/fad9fe8780cfa47c613f961ff08d006b8ba1b3fa?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東慶悟が36歳で現役引退を決断「指導者として次の世代に伝えていきたい」 大分でアカデミートランジションコーチに就任",
+      "summary": "FC東京は31日、明治安田Jリーグ百年構想リーグをもって契約満了となっていたMF東慶悟が、現役を引退することを発表した。東は今後、大分トリニータで「アカデミートランジションコーチ」に就任することも決定している。",
+      "link": "https://www.footballchannel.jp/2026/08/31/post1001484/",
+      "pubDate": "2026-08-31T09:39:03.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/31/post1001484/"
+        }
+      ]
+    },
+    {
+      "title": "サンフレッチェ広島、FWクシニ・イェンギを期限付き移籍で獲得！ 「最高の時間を共有したい」弟は町田FWテテ・イェンギ",
+      "summary": "サンフレッチェ広島は31日、アバディーンFC（スコットランド1部）に所属するオーストラリア代表FWクシニ・イェンギが、期限付き移籍で加入することが決定したと発表した。",
+      "link": "https://www.footballchannel.jp/2026/08/31/post1001427/",
+      "pubDate": "2026-08-31T08:23:18.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/08/31/post1001427/"
+        }
+      ]
+    },
     {
       "title": "Ｊ１初「茨城ダービー」９・２開催 鹿島・鬼木達監督「他の要素に惑わされることなく…」一戦必勝の姿勢強調(スポーツ報知)",
       "summary": "１９９３年のＪリーグ開幕以来、Ｊ１史上初となる「茨城ダービー」が９月２日、水戸の本拠地・水戸信用金庫スタジアムで行われる（第５節）。開幕４連勝中の鹿島が敵地に乗り込み、２０００年のＪ加盟以来、初のＪ",
@@ -1118,6 +1244,28 @@
       ]
     },
     {
+      "title": "「もうパパより大きいんですか!」「成長がすさまじい」元日本代表GK権田修一の息子に反響",
+      "summary": "ヴィッセル神戸に所属する元日本代表GK権田修一の妻でヨガインストラクターの権田裕美さんが28日、自身のインスタグラム(@yumigonda)で家族旅行を報告した。 権田裕美さんは「京都に美味しいピザを食べに 夏の京都。今年も3人で行けました…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457794-457794-fl",
+      "pubDate": "2026-08-29T12:43:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "vissel",
+        "sanga"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457794-457794-fl"
+        }
+      ]
+    },
+    {
       "title": "【J1第4節結果まとめ】鹿島アントラーズ＆柏レイソルが無傷の開幕4連勝！ 浦和レッズは逆転勝ちで今季初の3ポイント奪取",
       "summary": "FC町田ゼルビアFW小川航基【写真：Getty Images】 2026/27明治安田J1リーグ第4節が各地で行われた。 水戸ホーリーホックが首位のFC町田ゼルビアを迎えた一戦は、拮抗した展開に。28分に渡邉新太のゴ […]",
       "link": "https://www.footballchannel.jp/2026/08/29/post1000548/",
@@ -1154,26 +1302,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/670843"
-        }
-      ]
-    },
-    {
-      "title": "G大阪vs広島 試合記録",
-      "summary": "【J1第4節】(パナスタ)G大阪 0-0(前半0-0)広島[G]岸本武流(87分)[G]イッサム・ジェバリ(10分)[広]川辺駿(9分)、中島洋太朗(36分)観衆:30,075人主審:荒木友輔└広島が10人G大阪とスコアレスドロー…今季初出…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457767-457767-fl",
-      "pubDate": "2026-08-29T11:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba",
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457767-457767-fl"
         }
       ]
     },
@@ -42785,687 +42913,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/cba249e8eea06e53fbc63a9d8660d3f99dac592d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムントで修行中の山本天翔「トップチームに絡んでいきたい」 ドイツ代表バイヤーも称賛(東スポWEB)",
-      "summary": "ドイツ1部ドルトムントは1日、FC東京との国際親善試合（MUFG国立）で1―0で勝利した。 序盤からボールを保持し、相手を苦しめるが、なかなかゴールを奪えない展開が続く。前半23分には、J1G大",
-      "link": "https://news.yahoo.co.jp/articles/98f579cb48ac9eaa156f17f076eef94690c47e29?source=rss",
-      "pubDate": "2026-08-01T14:30:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/98f579cb48ac9eaa156f17f076eef94690c47e29?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和チョウ貴裁監督「ポジティブな材料は多かった」J2大宮に終盤追い付く(スポニチアネックス)",
-      "summary": "◇プレシーズンマッチ 浦和2―2大宮（2026年8月1日 埼玉スタジアム） 浦和はJ2大宮とのプレシーズンマッチに臨み、2―2で引き分けた。ビハインドの時間帯が続くも終盤にかけて畳み掛け、1―2",
-      "link": "https://news.yahoo.co.jp/articles/c455d52e1e01437ab822f39e87f46093ccd44478?source=rss",
-      "pubDate": "2026-08-01T14:25:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c455d52e1e01437ab822f39e87f46093ccd44478?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "3バック変更の千葉、指揮官が理由明かす「SBの選手がいなかった」 第1登録ウインドーは9月中旬まで「本当に何があるか分からない」(サッカーキング)",
-      "summary": "ジェフユナイテッド千葉と柏レイソルによる第31回ちばぎんカップが行われた。シーズン移行に伴い、今年2回目の開催となった伝統の“千葉ダービー”は、スコアレスで90分が終了。2019年の第24回大会以来",
-      "link": "https://news.yahoo.co.jp/articles/b3216eb87ccb4bbc540a4136191cacf14db4a34c?source=rss",
-      "pubDate": "2026-08-01T14:22:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba",
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b3216eb87ccb4bbc540a4136191cacf14db4a34c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１浦和を変化させた曺貴裁監督の言葉 ＤＦ宮本優太「バカ真面目に頑張れる」(東スポWEB)",
-      "summary": "J1浦和がプレシーズンマッチ（1日、埼スタ）でJ2大宮に2―2で引き分け、新監督と選手が手応えを語った。 浦和は立ち上がりの前半11分に先制を許す。同14分、敵陣でボールを奪ったMF渡辺凌磨がそ",
-      "link": "https://news.yahoo.co.jp/articles/1b4168878de045cf66f722f35b581a9839760ee9?source=rss",
-      "pubDate": "2026-08-01T14:00:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1b4168878de045cf66f722f35b581a9839760ee9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「ポジティブな材料は多い」埼スタで初指揮はドロー、曺貴裁監督はホームの力を後押しに「ホームでは必ず圧倒する」(サッカーキング)",
-      "summary": "浦和レッズの曺貴裁監督が、「Juiceスペシャルマッチ」のRB大宮アルディージャ戦を振り返った。 今シーズンから指揮を執る曺監督。試合は大宮がカルリーニョス・ジュニオのゴールで先制するも、渡邊凌",
-      "link": "https://news.yahoo.co.jp/articles/fb439f24abf9abc740582eb8543e2f5d674846a4?source=rss",
-      "pubDate": "2026-08-01T13:59:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fb439f24abf9abc740582eb8543e2f5d674846a4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムント・山本天翔、日本ツアーを終えて「この経験はプラスになる」今後もトップか未定も「どんどん絡んで結果を」(サンケイスポーツ)",
-      "summary": "サッカー国際親善試合（1日、FC東京0－1ドルトムント、MUFG国立）G大阪からドルトムントに期限付き移籍中のMF山本天翔（18）は、味方が負傷したことで前半23分から投入され、後半24分までプレー。",
-      "link": "https://news.yahoo.co.jp/articles/10221b11367d92b79cf11fcb1d4752c4505f4d70?source=rss",
-      "pubDate": "2026-08-01T13:53:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo",
-        "gamba"
-      ],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/10221b11367d92b79cf11fcb1d4752c4505f4d70?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムントに期限付き移籍の18歳山本天翔、好パス配給もシュートなし 新シーズンへ「トップチームに絡んで結果残したい」(中日スポーツ)",
-      "summary": "◇１日 サッカー国際親善試合 ＦＣ東京０―１ドルトムント（ＭＵＦＧスタジアム） ドイツ１部の強豪ドルトムントがＦＣ東京を１―０で破った。ドルトムントのＭＦ山本天翔（１８）は前半２３分から途中出場。",
-      "link": "https://news.yahoo.co.jp/articles/a349f7cb00c58731411ff2b3d6e104b38a046f2e?source=rss",
-      "pubDate": "2026-08-01T13:50:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a349f7cb00c58731411ff2b3d6e104b38a046f2e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京】ドルトムントに０-１敗戦 ベリンガム弟＆ヌメチャは「ちょっと違う次元」高宇洋も驚き(日刊スポーツ)",
-      "summary": "＜国際親善試合：東京0－1ドルトムント＞◇1日◇MUFG国立 FC東京は、ドイツ1部の強豪ドルトムントに0－1で惜敗した。 前半から相手に主導権を握られる展開。何度か鋭いカウンターを仕掛けたが",
-      "link": "https://news.yahoo.co.jp/articles/97b651fd7f7261317c15afd22a9c06362a5da1cb?source=rss",
-      "pubDate": "2026-08-01T13:50:20.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/97b651fd7f7261317c15afd22a9c06362a5da1cb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【大宮】泉柊椰、浦和相手に鮮やか個人技ゴール「最後のシュートブロックの足まで見えていた」(日刊スポーツ)",
-      "summary": "＜Jリーグプレシーズンマッチ：浦和2－2大宮＞◇1日◇埼玉スタジアム J2RB大宮アルディージャMF泉柊椰（25）が、格上浦和レッズを相手に鮮やかなゴールを決めた。 1－1と追いつかれた直後の",
-      "link": "https://news.yahoo.co.jp/articles/e43236847105d93b357a6f83ef6850b52769ae22?source=rss",
-      "pubDate": "2026-08-01T13:30:57.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e43236847105d93b357a6f83ef6850b52769ae22?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【浦和】曺貴裁監督「非常にポジティブ」手応え 大宮戦後は隣のピッチで異例の第２ラウンド実施(日刊スポーツ)",
-      "summary": "＜Jリーグプレシーズンマッチ：浦和2－2大宮＞◇1日◇埼玉スタジアム 新たに就任した曺貴裁監督率いる浦和レッズが、J2RB大宮アルディージャとの埼玉ダービーを2－2の引き分けで終えた。 曺監督",
-      "link": "https://news.yahoo.co.jp/articles/3f27bdaf752fe886e47f7772a9e816f8d5f76b16?source=rss",
-      "pubDate": "2026-08-01T13:26:11.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3f27bdaf752fe886e47f7772a9e816f8d5f76b16?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムント、F・シルヴァの豪快弾でFC東京を撃破！ 日本ツアー2戦目を白星で飾る(サッカーキング)",
-      "summary": "8月1日、国際親善試合でFC東京とドルトムントが対戦した。 2026/27明治安田J1リーグの開幕を1週間後に控えるFC東京と、2024年以来2年ぶりとなる日本ツアーに臨むドルトムントが、『MU",
-      "link": "https://news.yahoo.co.jp/articles/3b4afd5c01c4395c67cb59ba8a9bb5dc9b7b40b2?source=rss",
-      "pubDate": "2026-08-01T12:28:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3b4afd5c01c4395c67cb59ba8a9bb5dc9b7b40b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "“補強の目玉”はドルトムント戦で存在感を十分に示せず。不完全燃焼のデビューとなった【FC東京】(SOCCER DIGEST Web)",
-      "summary": "2026年８月１日、FC東京はMUFGスタジアム（国立競技場）でボルシア・ドルトムントとの国際親善試合に臨んだ。 ４−４−２システムでスタートさせたFC東京は、３&min",
-      "link": "https://news.yahoo.co.jp/articles/46cf6167c1198f8afee78570e41931e5d1e2202f?source=rss",
-      "pubDate": "2026-08-01T12:26:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/46cf6167c1198f8afee78570e41931e5d1e2202f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "第31回ちばぎんカップは柏レイソルに軍配！ ０－０で突入したPK戦の末にジェフ千葉を撃破、連覇達成！(SOCCER DIGEST Web)",
-      "summary": "８月１日に第31回ちばぎんカップが開催され、ジェフユナイテッド千葉と柏レイソルが前者のホームで対戦した。 リーグ開幕を前に、同じ県のライバルチーム同士が激突。立ち上がりから主導権を握ったのは柏だ",
-      "link": "https://news.yahoo.co.jp/articles/4fa0d36dd761dac6c92991a3065d6d5a6c99a160?source=rss",
-      "pubDate": "2026-08-01T12:25:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol",
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4fa0d36dd761dac6c92991a3065d6d5a6c99a160?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "国立騒然 ＦＣ東京―ドルトムント戦の試合中に近隣の神宮球場からど派手な花火が打ち上がる(スポーツ報知)",
-      "summary": "◆国際親善試合 ＦＣ東京―ドルトムント（１日・ＭＵＦＧ国立） ＦＣ東京―ドルトムントの国際親善試合の後半２８分頃、試合が行われているＭＵＦＧ国立に隣接する神宮球場から、ヤクルト―阪神戦の演出で５回",
-      "link": "https://news.yahoo.co.jp/articles/d5be6dc6dae960a694bdad172b8b01ef060e56e6?source=rss",
-      "pubDate": "2026-08-01T12:18:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d5be6dc6dae960a694bdad172b8b01ef060e56e6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムントがFC東京に1―0で勝利 雷中断を経て後半に決勝点(スポニチアネックス)",
-      "summary": "◇親善試合 ドルトムント 1―0 FC東京（2026年8月1日 MUFG国立） ドイツ1部の強豪ドルトムントがMUFG国立でFC東京と親善試合で対戦し、1―0で競り勝った。後半9分にFWファビオ",
-      "link": "https://news.yahoo.co.jp/articles/ecca92e6eb375b016d7bb747b88e1fb3457c1d22?source=rss",
-      "pubDate": "2026-08-01T12:18:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ecca92e6eb375b016d7bb747b88e1fb3457c1d22?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ＦＣ東京、ドルトムントに０―１で敗北 ベリンガム弟、Ｗ杯出場のドイツ代表トリオら先発の豪華メンバーに無得点(スポーツ報知)",
-      "summary": "◆国際親善試合 ドルトムント１―０ＦＣ東京（１日・ＭＵＦＧ国立） ＦＣ東京はドイツ１部ドルトムントに０―１で敗れた。 ＦＣ東京は韓国代表ＧＫキムスンギュら、多くの主力が先発に名を連ねた。ドルト",
-      "link": "https://news.yahoo.co.jp/articles/42b221427f2f23255249ab121b472755f617bd25?source=rss",
-      "pubDate": "2026-08-01T12:18:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/42b221427f2f23255249ab121b472755f617bd25?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムントがジャパンツアー２戦目を白星で飾る！ F・シウバの反転ショット弾で１－０勝利！ FC東京は再三のチャンス活かせず…(SOCCER DIGEST Web)",
-      "summary": "８月１日、ジャパンツアーで来日しているドイツ１部のドルトムントとFC東京が、国立競技場で国際親善試合を行なった。 FC東京はGKキム・スンギュ、DF室屋成、稲村隼翔、アレクサンダー・ショルツ、橋",
-      "link": "https://news.yahoo.co.jp/articles/8618c9bf118ddf4a54ef603fe6ef931b7c69c70f?source=rss",
-      "pubDate": "2026-08-01T12:16:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8618c9bf118ddf4a54ef603fe6ef931b7c69c70f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムント、FC東京に貫禄の勝利 雷警報が発令→約20分間の試合中断ハプニング…日本ツアー1勝1敗(FOOTBALL ZONE)",
-      "summary": "J1のFC東京は8月1日、国際親善試合でドイツ・ブンデスリーガのボルシア・ドルトムントと対戦。ドイツの名門ドルトムントが1-0で勝利し、ジャパンツアーを1勝1敗で終えた。 試合序盤からゲリラ豪雨",
-      "link": "https://news.yahoo.co.jp/articles/f795d3070bc52766a105f0fed9a34b2c40e26280?source=rss",
-      "pubDate": "2026-08-01T12:15:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f795d3070bc52766a105f0fed9a34b2c40e26280?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666550"
-        }
-      ]
-    },
-    {
-      "title": "柏、ちばぎん杯節目の２０勝目 ＰＫ戦全員成功で千葉を破る(スポーツ報知)",
-      "summary": "◆第３１回ちばぎん杯 千葉０―０（ＰＫ４―５）柏（１日・フクアリ） 国内で最も歴史の古いプレシーズンマッチ、ちばぎん杯が秋春制移行によって史上初の年２回開催、また初めてナイターで行われた。 ホ",
-      "link": "https://news.yahoo.co.jp/articles/804f33a3ea2bdff58a32bae3aaed4ac1c591ddec?source=rss",
-      "pubDate": "2026-08-01T12:14:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol",
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/804f33a3ea2bdff58a32bae3aaed4ac1c591ddec?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドルトムント先制 FWファビオ・シルバがゴール右に沈める FC東京と親善試合(日刊スポーツ)",
-      "summary": "＜国際親善試合：東京－ドルトムント＞◇1日◇MUGF国立 ドイツ1部の強豪ドルトムントがFC東京と親善試合で対戦し、先制した。 後半9分、ペナルティーエリア内で、右クロスを収めたFWファビオ・",
-      "link": "https://news.yahoo.co.jp/articles/960b56a676ade11aef1dfeb5a0699515433022d0?source=rss",
-      "pubDate": "2026-08-01T11:58:51.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/960b56a676ade11aef1dfeb5a0699515433022d0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "東京－ドルトムントは前半0－0で終了 雷で中断のアクシデントも(日刊スポーツ)",
-      "summary": "＜国際親善試合：東京－ドルトムント＞◇1日◇MUGF国立 FC東京とドルトムントが親善試合で対戦し、前半を0－0で折り返した。 ドルトムントは、ドイツ代表MFマクシミリアン・バイアーやMFフェ",
-      "link": "https://news.yahoo.co.jp/articles/8208c4af4acc7def3b592798b53995c621b5aed9?source=rss",
-      "pubDate": "2026-08-01T11:38:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8208c4af4acc7def3b592798b53995c621b5aed9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "東京－ドルトムント戦が雷警報のため前半途中で一時中断 付近は視界不良の大雨(日刊スポーツ)",
-      "summary": "＜国際親善試合：東京－ドルトムント＞◇1日◇MUGF国立 FC東京対ドルトムントが落雷の恐れがあるため、前半途中で中断となった。 0－0の前半32分、スタジアム周辺に雷警報が発令されたため、主審が",
-      "link": "https://news.yahoo.co.jp/articles/7b79683ae1ed86fc397f7bddc05af5a93aa95329?source=rss",
-      "pubDate": "2026-08-01T11:09:51.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/7b79683ae1ed86fc397f7bddc05af5a93aa95329?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "曺貴裁新監督の浦和 埼玉ダービー大宮戦で引き分け 終盤に追いつくも攻守に課題残す(スポーツ報知)",
-      "summary": "◇プレシーズンマッチ 浦和２―２大宮（１日・埼玉スタジアム） 曺貴裁新監督（５７）を迎えた浦和は、プレシーズンマッチでＪ２大宮とも埼玉ダービーに２―２と引き分けた。今オフには１５人の選手が退団して",
-      "link": "https://news.yahoo.co.jp/articles/e9f08c389e844e2f47651f42d133602c4ed6bb23?source=rss",
-      "pubDate": "2026-08-01T11:05:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e9f08c389e844e2f47651f42d133602c4ed6bb23?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京―ドルトムント、雷警報で異例の20分中断も再開 ゲリラ豪雨も過ぎ去ったか(サンケイスポーツ)",
-      "summary": "サッカー国際親善試合（1日、FC東京－ドルトムント、MUFG国立）雷警報のため試合が前半32分ほどで一時中断となったが、20分ほどの中断を経て無事に再開された。 前半序盤から豪雨となるなかでプレーと",
-      "link": "https://news.yahoo.co.jp/articles/cce50ec4d4d1cc7f1b6f00b23c65d1f4f3f12de9?source=rss",
-      "pubDate": "2026-08-01T11:03:39.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cce50ec4d4d1cc7f1b6f00b23c65d1f4f3f12de9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和 チョウ貴裁監督“初陣”はドロー 9年ぶり埼玉ダービーで大宮に2―2(スポニチアネックス)",
-      "summary": "◇プレシーズンマッチ 浦和2―2大宮（2026年8月1日 埼玉スタジアム） 浦和はホームでJ2大宮と引き分け、今夏就任したチョウ貴裁監督の“初陣”を飾れなかった。 プレシーズンマッチとして1",
-      "link": "https://news.yahoo.co.jp/articles/88fee7a030d4b70268cbb5fc623fa79b81cf5b4b?source=rss",
-      "pubDate": "2026-08-01T11:01:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/88fee7a030d4b70268cbb5fc623fa79b81cf5b4b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J開幕直前に激闘! 9年ぶり“さいたまダービー”は痛み分け…大宮リードも浦和が終盤オナイウPK弾でドロー(ゲキサカ)",
-      "summary": "[8.1 プレシーズンマッチ 浦和 2-2 大宮 埼玉] 1日にプレシーズンマッチが行われ、浦和レッズとRB大宮アルディージャが対戦した。9年ぶりとなる“さいたまダービー”は2-2のドロー。大宮が",
-      "link": "https://news.yahoo.co.jp/articles/de45ee8a7832384b736cbd58e6a9fca8555619ba?source=rss",
-      "pubDate": "2026-08-01T10:58:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/de45ee8a7832384b736cbd58e6a9fca8555619ba?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "9年ぶり実現の“さいたまダービー”はドロー決着、互いに2点ずつを取り合う熱戦に(サッカーキング)",
-      "summary": "1日、「Juiceスペシャルマッチ」の浦和レッズvsRB大宮アルディージャが埼玉スタジアム2002で行われた。 2026/27明治安田Jリーグの開幕を1週間後に控えた中、浦和と大宮の“さいたまダ",
-      "link": "https://news.yahoo.co.jp/articles/bba025079a74660941bdbbd062e106afd4b33e20?source=rss",
-      "pubDate": "2026-08-01T10:57:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bba025079a74660941bdbbd062e106afd4b33e20?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート】レース足いい森作雄大は調整に迷いなし「準優もこの状態でいきたい」(東スポWEB)",
-      "summary": "ボートレース福岡の「西部ボートレース記者クラブ杯」は1日、予選最終日の4日目を開催した。 3日目終了時点で得点率5位につけていた森作雄大（40＝東京）は準優進出へ完走当確でこの日の6Rに登場。3",
-      "link": "https://news.yahoo.co.jp/articles/34a6a6c70000b760322cb4a4f38397edc4c5dbf2?source=rss",
-      "pubDate": "2026-08-01T10:55:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/34a6a6c70000b760322cb4a4f38397edc4c5dbf2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「おい、どこいった？」FC東京の“メンバー異変”にファン・サポーターが反応「サイレント怪我離脱は嫌よ」(SOCCER DIGEST Web)",
-      "summary": "2026年８月１日、FC東京がボルシア・ドルトムントとMUFGスタジアム（国立競技場）で親善試合を行なった。 ファン・サポーターが“異変”と感じたのは、FC東京のメンバーについてだった。2026",
-      "link": "https://news.yahoo.co.jp/articles/c0ad3c2026624db1053f08d8c65922eed2d5acbb?source=rss",
-      "pubDate": "2026-08-01T10:53:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c0ad3c2026624db1053f08d8c65922eed2d5acbb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京×ドルトムント、雷警報発令で異例の試合中断 約20分後に再開…国立競技場にゲリラ豪雨が直撃",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666530",
-      "pubDate": "2026-08-01T10:37:28.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666530"
-        }
-      ]
-    },
-    {
-      "title": "【東京】ドルトムント戦の先発発表 相手はベリンガム弟、ドイツ代表MFバイア－ら名を連ねる(日刊スポーツ)",
-      "summary": "＜国際親善試合：東京－ドルトムント＞◇1日◇MUGF国立 FC東京とドルトムントが親善試合で対戦する。試合に先立って両チームの先発が発表された。ドルトムントは、ドイツ代表MFマクシミリアン・バイア",
-      "link": "https://news.yahoo.co.jp/articles/fe433a6fd10dae2062db7a78ec9009adeb7bb008?source=rss",
-      "pubDate": "2026-08-01T10:01:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fe433a6fd10dae2062db7a78ec9009adeb7bb008?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ＦＣ東京、パティーズフードグループと新ユニホームパートナー契約締結を発表 本拠地にキッチンカーも出店へ(スポーツ報知)",
-      "summary": "Ｊ１ＦＣ東京は１日、オーストラリアの食品会社「パティーズフードグループ」と、新たにユニホームパートナー契約を締結したと発表した。今後はユニホームのパンツに同社のロゴが付く。また、同グループとのコラボ",
-      "link": "https://news.yahoo.co.jp/articles/56a3d5ff244cb3c6c039b34629fc7df65adbd6fc?source=rss",
-      "pubDate": "2026-08-01T09:26:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/56a3d5ff244cb3c6c039b34629fc7df65adbd6fc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "クロップ氏の後任決定…ロジャー・シュミット氏がレッドブルサッカー部門の責任者に就任、Jリーグの活動も継続(サッカーキング)",
-      "summary": "レッドブル・グループは7月31日、ドイツ人指導者のロジャー・シュミット氏が、グローバルサッカー部門の責任者に就任することを発表した。同氏は2026年10月1日から新たな職務に就き、引き続きJリーグの",
-      "link": "https://news.yahoo.co.jp/articles/82d87355c12487f6bf89cbb278dccb5ed3f59018?source=rss",
-      "pubDate": "2026-08-01T09:23:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/82d87355c12487f6bf89cbb278dccb5ed3f59018?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「オーストラリアの観戦文化を日本へお届けしたい」FC東京が大手食品企業『パティース・フード・グループ』とユニホームパートナー契約を締結(SOCCER DIGEST Web)",
-      "summary": "2026年８月１日、FC東京はボルシア・ドルトムントとの国際親善試合を前に、オーストラリアの大手食品企業『パティース・フード・グループ』と新たにユニホームパートナー（プレミアムパートナー）契約を締結",
-      "link": "https://news.yahoo.co.jp/articles/ce81d25aba5d87f72036d9b741ead9a776a936fa?source=rss",
-      "pubDate": "2026-08-01T09:22:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ce81d25aba5d87f72036d9b741ead9a776a936fa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京が打ち出す「スポーツ観戦における新定番」 豪食品企業と新規パートナー契約を締結",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666511",
-      "pubDate": "2026-08-01T09:14:57.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666511"
         }
       ]
     }
