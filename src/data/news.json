@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-09-01T08:59:15.718Z",
+  "generatedAt": "2026-09-01T13:58:00.086Z",
   "count": 2190,
   "items": [
+    {
+      "title": "町田ゼルビアがオランダ人DFを獲得 小川航基の元チームメイトがNECナイメヘンから加入(theWORLD（ザ・ワールドWeb）)",
+      "summary": "FC町田ゼルビアは1日、オランダ1部のNECナイメヘンからDFトーマス・アウエヤンを完全移籍で獲得することが決定したと発表した。 現在29歳のアウエヤンはAZアルクマールの下部組織出身で、2015年",
+      "link": "https://news.yahoo.co.jp/articles/6a3a12b6b0a31cb00e1d29170088ef5946931cbb?source=rss",
+      "pubDate": "2026-09-01T13:41:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6a3a12b6b0a31cb00e1d29170088ef5946931cbb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【川崎競輪 ワールドシリーズ】世界のラブレイセンが完全V締め 19戦18勝「声援が力になった」(スポニチアネックス)",
+      "summary": "川崎競輪場のF1「ワールドシリーズ」は最終日。12R決勝はハリー・ラブレイセン（29＝オランダ）が力強く捲って完勝。3連勝の完全Vで日本最終戦を締めくくった。 6月の防府から参戦したワールドシリ",
+      "link": "https://news.yahoo.co.jp/articles/f57392ae84fbb1db6c5d943f5ca133008db65f77?source=rss",
+      "pubDate": "2026-09-01T13:19:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f57392ae84fbb1db6c5d943f5ca133008db65f77?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC町田ゼルビア、オランダ人DFを完全移籍で獲得！日本代表FW小川航基に続きNECナイメヘンから加入",
+      "summary": "FC町田ゼルビアは1日、オランダ1部のNECナイメヘンからDFトーマス・アウエヤンを完全移籍で獲得することが決定したと発表した。",
+      "link": "https://www.footballchannel.jp/2026/09/01/post1002105/",
+      "pubDate": "2026-09-01T10:15:17.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/01/post1002105/"
+        }
+      ]
+    },
     {
       "title": "天皇杯 JFA第106回全日本サッカー選手権大会 全試合日程・結果・放送・配信予定一覧",
       "summary": "2026年8月19日から行われる天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。",
@@ -982,22 +1044,24 @@
       ]
     },
     {
-      "title": "鹿島が18年ぶりの開幕4連勝! レオ・セアラ2発で東京Vに完封勝ち(30枚)",
+      "title": "復帰の森田晃樹が負傷交代の東京V、ホームで鹿島に敗れる…開幕4試合勝ちなし(32枚)",
       "summary": "J1第4節が29日に行われ、味の素スタジアムでは鹿島アントラーズが東京ヴェルディに2-0で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
-      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457824-457824-pn",
+      "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457827-457827-pn",
       "pubDate": "2026-08-30T04:45:00.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "antlers",
-        "verdy"
+        "verdy",
+        "antlers"
       ],
-      "topics": [],
+      "topics": [
+        "injury"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457824-457824-pn"
+          "link": "https://web.gekisaka.jp/photonews/jleague/detail/?457827-457827-pn"
         }
       ]
     },
@@ -42632,63 +42696,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/11eaa374937fb75808696e7ae532e66925f2b365?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】秋山翔吾「大雅の負けを消せてよかった」３号逆転２ランで最下位転落危機救う(東スポWEB)",
-      "summary": "広島・秋山翔吾外野手（38）が土壇場でチームを救った。2日の中日戦（マツダ）の8回に逆転3号2ランを放ち、4―3の逆転勝利へ導いた。 負ければ5月9日以来の最下位転落となる一戦。「5番・右翼」で",
-      "link": "https://news.yahoo.co.jp/articles/96cc7110ce90f3292c884f96a3ad8c4b0aa0ece4?source=rss",
-      "pubDate": "2026-08-02T13:25:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/96cc7110ce90f3292c884f96a3ad8c4b0aa0ece4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】コリカ監督、炎天下で実戦トレ「フィットネス問題ない」鹿島は「超えなきゃいけない」(日刊スポーツ)",
-      "summary": "横浜F・マリノスが、王者鹿島アントラーズとの8・7国立開幕戦に向け、チームコンディションは上々のようだ。 2日、横須賀市内の拠点でトレーニングをメディアに向けて公開した。炎天下で、ゲーム形式のメ",
-      "link": "https://news.yahoo.co.jp/articles/04e4ff449c67e1477ca11f58898fb86937f86660?source=rss",
-      "pubDate": "2026-08-02T09:40:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/04e4ff449c67e1477ca11f58898fb86937f86660?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "国立スタンドに拍手「らしい応援」 東京から届け…10文字横断幕にファン感動「ありがとう」(FOOTBALL ZONE)",
-      "summary": "J1のFC東京は8月1日、MUFGスタジアム（国立競技場）でボルシア・ドルトムントと国際親善試合で対戦した。試合前からゴール裏に掲げられた横断幕が「熊本に届け！」「東京らしい応援でいいね」など注目を",
-      "link": "https://news.yahoo.co.jp/articles/1f9e4d61facc852648bf55cea532d30c7b74760d?source=rss",
-      "pubDate": "2026-08-02T09:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1f9e4d61facc852648bf55cea532d30c7b74760d?source=rss"
         }
       ]
     }
