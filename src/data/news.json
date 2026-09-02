@@ -1,7 +1,124 @@
 {
-  "generatedAt": "2026-09-02T05:14:10.940Z",
-  "count": 2187,
+  "generatedAt": "2026-09-02T09:45:55.713Z",
+  "count": 2175,
   "items": [
+    {
+      "title": "ＦＣ東京 日本代表ＤＦ長友佑都が今季リーグ戦で初めてベンチ入り(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第５節 清水―ＦＣ東京（２日・アイスタ） Ｊ１のＦＣ東京は２日、アウェーで清水と対戦する。 メンバーが発表され、北中米Ｗ杯日本代表ＤＦ長友佑都（３９）が、今季リーグ戦で初",
+      "link": "https://news.yahoo.co.jp/articles/b3f641922ec5aee0c55c595390a9b0e55c1c0332?source=rss",
+      "pubDate": "2026-09-02T09:41:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b3f641922ec5aee0c55c595390a9b0e55c1c0332?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【J1広島】2026/27 明治安田J1リーグ 第5節。広島ー名古屋戦スターティングイレブン発表。(アスリートマガジンWEB)",
+      "summary": "9月2日、エディオンピースウイング広島で行われる2026/27明治安田J1リーグ 第5節 サンフレッチェ広島ー名古屋グランパスのスターティングイレブンが発表された。 8月7日に開幕したJ1リーグ",
+      "link": "https://news.yahoo.co.jp/articles/1a10bf1974eb6c433eb17612a286c77ba810602e?source=rss",
+      "pubDate": "2026-09-02T09:27:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1a10bf1974eb6c433eb17612a286c77ba810602e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【名古屋グランパス】広島戦ベンチ入りの16歳・深谷朔共、横浜M・三井寺超えなるか？出場なら16歳3カ月23日でJ1最年少出場記録歴代4位に(中日スポーツ)",
+      "summary": "◇２日 Ｊ１第５節 広島―名古屋（Ｅピース） 名古屋グランパスの１６歳、ＭＦ深谷朔共がベンチ入りした。１６歳３カ月２３日で迎えた広島戦で出場すれば、Ｊ１の最年少出場記録４位のＭＦ三井寺真（横浜Ｍ）",
+      "link": "https://news.yahoo.co.jp/articles/dac838e8b887908e3698cdc4ed631fbf321ed8ed?source=rss",
+      "pubDate": "2026-09-02T09:22:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dac838e8b887908e3698cdc4ed631fbf321ed8ed?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪・名和田我空、ベルギー移籍が目前か。第5節・長崎戦でメンバー外、現地では加入間近と報道",
+      "summary": "ガンバ大阪 名和田我空【写真：Getty Images】 ガンバ大阪に所属するMF名和田我空が、2日に行われる明治安田J1リーグ第5節のV・ファーレン長崎戦でメンバー外となった。20歳のアタッカーをめぐっては、ベルギー […]",
+      "link": "https://www.footballchannel.jp/2026/09/02/post1002963/",
+      "pubDate": "2026-09-02T08:22:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/02/post1002963/"
+        }
+      ]
+    },
+    {
+      "title": "八戸vs栃木C スタメン発表",
+      "summary": "[9.2 ルヴァン杯1回戦](プラスタ)※18:30開始主審:山岡良介[ヴァンラーレ八戸]先発GK 25 谷口裕介DF 4 鈴木慎之介DF 11 雪江悠人DF 14 白井陽貴MF 7 佐藤碧MF 24 栗澤陸MF 28 田中翼冴MF 30…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458038-458038-fl",
+      "pubDate": "2026-09-02T08:21:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458038-458038-fl"
+        }
+      ]
+    },
+    {
+      "title": "【柏】クラブ記録更新の開幕５連勝で首位堅持へ 直近対戦５戦無敗のＣ大阪とアウェー戦(日刊スポーツ)",
+      "summary": "＜明治安田J1：C大阪－柏＞◇2日◇第5節◇ハナサカ クラブ初の開幕4連勝で首位に立つ柏レイソルは2日、アウェーでセレッソ大阪と対戦する。 今季は水戸ホーリーホックとの開幕戦で2－1と白星発進",
+      "link": "https://news.yahoo.co.jp/articles/67e2433c273087f559bcafd48dd015f5c867833b?source=rss",
+      "pubDate": "2026-09-02T07:57:17.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reysol",
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/67e2433c273087f559bcafd48dd015f5c867833b?source=rss"
+        }
+      ]
+    },
     {
       "title": "「彼はボールで『会話』できる」指揮官が絶賛。川崎フロンターレのデリキ・ラセルダ、鮮烈J1デビュー。51分で1G2A【英国人の視点】(フットボールチャンネル)",
       "summary": "かつてジュニーニョ、レアンドロ・ダミアンら幾多のブラジル人ストライカーが躍動してきた川崎フロンターレの最前線に、新たな才能が名乗りを上げた。今季加入のデリキ・ラセルダが、ラザル・ロマニッチの負傷交代",
@@ -868,6 +985,26 @@
       ]
     },
     {
+      "title": "名古屋vs岡山 試合記録",
+      "summary": "【J1第4節】(豊田ス)名古屋 2-1(前半1-1)岡山[名]稲垣祥(43分)、中山克広(90分+1)[岡]鈴木喜丈(38分)[名]浅野雄也(66分)、山岸祐也(67分)[岡]ナ・サンホ(60分)、レオ・ガウショ(70分)、宮本英治(86分…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?457787-457787-fl",
+      "pubDate": "2026-08-31T09:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "grampus",
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?457787-457787-fl"
+        }
+      ]
+    },
+    {
       "title": "サンフレッチェ広島、FWクシニ・イェンギを期限付き移籍で獲得！ 「最高の時間を共有したい」弟は町田FWテテ・イェンギ",
       "summary": "サンフレッチェ広島は31日、アバディーンFC（スコットランド1部）に所属するオーストラリア代表FWクシニ・イェンギが、期限付き移籍で加入することが決定したと発表した。",
       "link": "https://www.footballchannel.jp/2026/08/31/post1001427/",
@@ -1286,23 +1423,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/670988"
-        }
-      ]
-    },
-    {
-      "title": "北九州vs松本 スタメン発表",
-      "summary": "[8.30 J3第4節](ミクスタ)※18:00開始主審:矢野浩平[ギラヴァンツ北九州]先発GK 31 大谷幸輝DF 3 神橋良汰DF 4 長谷川光基DF 5 奈良坂巧DF 6 星広太MF 8 吉長真優MF 17 岡野凜平MF 18 平松昇…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?457832-457832-fl",
-      "pubDate": "2026-08-30T07:37:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?457832-457832-fl"
         }
       ]
     },
@@ -21842,23 +21962,6 @@
       ]
     },
     {
-      "title": "ルヴァンカップの放送・配信が決定",
-      "summary": "Jリーグは24日、2026-27シーズンのルヴァンカップがフジテレビとスカパー!で放送・配信されることを発表した。 スカパー!は準決勝までの全試合を生中継。フジテレビは1回戦のヴァンラーレ八戸対栃木シティ、SC相模原対ジュビロ磐田、栃木SC…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?455778-455778-fl",
-      "pubDate": "2026-08-17T09:28:30.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?455778-455778-fl"
-        }
-      ]
-    },
-    {
       "title": "「きたぁー」お昼に届いたJ1名門の衝撃補強 W杯出場の元日本代表…ファン熱狂「待望のスペシャリスト」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/669110",
@@ -42319,332 +42422,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9cc7a3f97ad2e6aadf4dcbf8abc2d3271f7ea54c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京Ｖ】森田晃樹「いつまでも残留が目標ですって言っても…優勝目標ですって言った方がいい」(日刊スポーツ)",
-      "summary": "＜2026－27明治安田Jリーグ開幕イベント＞◇3日◇都内 東京ヴェルディのMF森田晃樹（25）主将が、脱「残留争い」を掲げた。 今年の半期で行われた特別大会「百年構想リーグ」はJ1全体で10",
-      "link": "https://news.yahoo.co.jp/articles/269c529b76e581288f586160b6fedac598d31899?source=rss",
-      "pubDate": "2026-08-03T09:28:27.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/269c529b76e581288f586160b6fedac598d31899?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロアッソ熊本、ホーム開幕戦開催を発表 えがお健康スタジアムの施設再開受け予定通り実施へ",
-      "summary": "Jリーグは3日、令和8年熊本地震の影響で利用を休止していた熊本県民総合運動公園内のえがお健康スタジアムが8月5日から利用再開となることを受け、ロアッソ熊本のホーム開幕戦を予定通り開催すると発表した。",
-      "link": "https://www.footballchannel.jp/2026/08/03/post970584/",
-      "pubDate": "2026-08-03T09:18:54.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/03/post970584/"
-        }
-      ]
-    },
-    {
-      "title": "緑×金のデザインが「高級感」 J1の新ユニフォーム…シンプルが好評「普段着でも」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666779",
-      "pubDate": "2026-08-03T09:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666779"
-        }
-      ]
-    },
-    {
-      "title": "【町田】相馬勇紀、個の強さ強調「インテンシティ高くボールを奪えるか、打開できるか」(日刊スポーツ)",
-      "summary": "＜2026－27明治安田Jリーグ開幕イベント＞◇3日◇都内 FC町田ゼルビアのFW相馬勇紀（29）が、個の強さを武器に初優勝を目指す。 開幕戦の相手は強敵FC東京（8日・味スタ）。その意気込み",
-      "link": "https://news.yahoo.co.jp/articles/45827958c0f3d6a0fdc68d9fd7b745f9ba820b45?source=rss",
-      "pubDate": "2026-08-03T08:18:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/45827958c0f3d6a0fdc68d9fd7b745f9ba820b45?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊリーグに電撃復帰したアンデルソンロペス「自信は１００％ある」「神戸で優勝することが夢」２３、２４年得点王が６月に神戸に加入 開幕イベントに登壇(スポーツ報知)",
-      "summary": "Ｊリーグは３日、都内のホテルで「２０２６／２７明治安田Ｊリーグ開幕イベント」を実施した。 今年６月にシンガポール１部ライオン・シティから神戸に電撃移籍したＦＷアンデルソン・ロペスも、神戸のユニホ",
-      "link": "https://news.yahoo.co.jp/articles/0387a6bad47a6123adb5e123d2d9e3da090f82c1?source=rss",
-      "pubDate": "2026-08-03T08:18:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0387a6bad47a6123adb5e123d2d9e3da090f82c1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島の早川「挑戦者の気持ちで」 シーズン移行のJリーグ(共同通信)",
-      "summary": "シーズン移行したJリーグは3日、東京都内で開幕イベントを開き、2025年シーズンからのJ1連覇を目指す鹿島のGK早川は「チャレンジャーという気持ちで新たに戦っていきたい。マリノスとは伝統ある一戦で、",
-      "link": "https://news.yahoo.co.jp/articles/b0a820dd9b6bc999f2038d7df305e5b6c5dbe9d1?source=rss",
-      "pubDate": "2026-08-03T08:12:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b0a820dd9b6bc999f2038d7df305e5b6c5dbe9d1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｇ大阪の１９５センチＧＫ荒木琉偉、日本代表入りへ鈴木彩艶から刺激「負けられない気持ちも強い」(スポーツ報知)",
-      "summary": "２０２６―２７年のＪリーグ開幕イベントが３日、都内で開催された。シーズン移行の初年度となる今季の開幕戦で、浦和と対戦するＧ大阪のＵ―２１日本代表ＧＫ荒木琉偉（１８）は、北中米Ｗ杯での日本代表ＧＫ鈴木",
-      "link": "https://news.yahoo.co.jp/articles/732f2e6cee36002b815ef700f2cbf9693606d953?source=rss",
-      "pubDate": "2026-08-03T08:10:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/732f2e6cee36002b815ef700f2cbf9693606d953?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "豪華すぎる全日本大学選抜「かなり力を」 Jリーグ内定半数以上…セリエA撃破で「有名に」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666774",
-      "pubDate": "2026-08-03T08:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666774"
-        }
-      ]
-    },
-    {
-      "title": "【鹿島】Ｗ杯経験のGK早川友基「日本サッカーを盛り上げていく意味でも重要」開幕戦へ意気込み(日刊スポーツ)",
-      "summary": "＜2026－27明治安田Jリーグ開幕イベント＞◇3日◇都内 FIFAワールドカップ（W杯）北中米大会日本代表メンバーの鹿島アントラーズGK早川友基（27）が、7日、東京・MUFG国立競技場で行われ",
-      "link": "https://news.yahoo.co.jp/articles/a05b5b51027a04a39e7f6148b8976b3bb01b128d?source=rss",
-      "pubDate": "2026-08-03T08:09:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a05b5b51027a04a39e7f6148b8976b3bb01b128d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島の日本代表ＧＫ早川友基 リーグ＆ＡＣＬＥの２冠へ Ｗ杯で得た「最高の材料」(スポーツ報知)",
-      "summary": "Jリーグ開幕イベントに登壇し握手を交わす開幕カードの横浜ＦＭ・宮市亮（左）と鹿島・早川友基（カメラ・山崎 賢人） Ｊリーグは３日、都内で「２０２６／２７明治安田Ｊリーグ 開幕イベント」を開催し、Ｊ",
-      "link": "https://news.yahoo.co.jp/articles/cd3797062258cd19a4349c606fc090adc0bf7fa7?source=rss",
-      "pubDate": "2026-08-03T08:02:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cd3797062258cd19a4349c606fc090adc0bf7fa7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】原爆投下の８・６に本拠地で３年ぶりピースナイター 広島出身の名原典彦「カープの歴史や生い立ちを知る身として」(スポーツ報知)",
-      "summary": "広島は６日の巨人戦（マツダ）を、平和を祈念する「ピースナイター」として開催する。市内に原爆が投下された「８・６」。本拠地で試合を行うのは３年ぶりだ。初めて経験する名原典彦外野手は「僕はずっと２軍だっ",
-      "link": "https://news.yahoo.co.jp/articles/98605dda3fa312f7ee6260f11f008d3fec488b57?source=rss",
-      "pubDate": "2026-08-03T08:00:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/98605dda3fa312f7ee6260f11f008d3fec488b57?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｃ大阪】柴山昌也が大ケガ「不安や怖さの毎日」腫れた左足の写真公開…１年以上長期離脱か(日刊スポーツ)",
-      "summary": "セレッソ大阪は3日、MF柴山昌也（24）の左膝複合靭帯（じんたい）損傷の大ケガを負ったと発表した。 大阪市内の病院で受けた精密検査によれば、複数回の手術が必要になり、全治未定ながら復帰まで1年以",
-      "link": "https://news.yahoo.co.jp/articles/09ddde4a9ae95b67e5c2867eb1b6477938df42e5?source=rss",
-      "pubDate": "2026-08-03T07:48:34.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/09ddde4a9ae95b67e5c2867eb1b6477938df42e5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】高信二２軍監督が４日ファーム・ヤクルト戦から復帰、脊柱管狭窄症の手術をへて(日刊スポーツ)",
-      "summary": "広島は3日、療養中だった高信二2軍監督が4日ファーム・リーグのヤクルト戦（由宇）から復帰することを発表した。 高2軍監督は、脊柱管狭窄（きょうさく）症の手術と療養のため、7月14日からチームを離",
-      "link": "https://news.yahoo.co.jp/articles/b8464c8c61e009a4fb75faba0f7735cc47e08e79?source=rss",
-      "pubDate": "2026-08-03T07:30:39.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b8464c8c61e009a4fb75faba0f7735cc47e08e79?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、新たにマカオとオーストラリアでの放映が決定！ スポーツメディアプラットフォームと動画配信サービスで放送",
-      "summary": "Jリーグは3日、2026/27明治安田J1リーグの放映が、新たにマカオとオーストラリアで決定したことを発表した。中国、タイ、ブラジル、ベトナム、香港でも放送されていたJリーグにおいて、新たな国での海外放映が決定することとなった。",
-      "link": "https://www.footballchannel.jp/2026/08/03/post970509/",
-      "pubDate": "2026-08-03T07:12:47.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/03/post970509/"
-        }
-      ]
-    },
-    {
-      "title": "【浦和】西川周作、J1歴代最多出場まであと12試合も「自分の記録よりチームの勝利が一番」(日刊スポーツ)",
-      "summary": "＜2026－27明治安田Jリーグ開幕イベント＞◇3日◇都内 史上2位のJ1通算660試合出場を誇る浦和レッズGK西川周作（40）が、自身の記録よりもチームの勝利にこだわる姿勢を強調した。 遠藤",
-      "link": "https://news.yahoo.co.jp/articles/52e489cd5d5ddfd2b0a5b60ff598a5087fc9e63d?source=rss",
-      "pubDate": "2026-08-03T06:58:24.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/52e489cd5d5ddfd2b0a5b60ff598a5087fc9e63d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1開幕直前…日本代表29歳にサウジ移籍浮上「レーダーに」 現地報道「交渉は初期段階」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666802",
-      "pubDate": "2026-08-03T06:51:18.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666802"
-        }
-      ]
-    },
-    {
-      "title": "サッカーに「幻滅を感じた人が多かったのでは」 川淵三郎氏が危惧…Jリーグ開幕に期待",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666784",
-      "pubDate": "2026-08-03T05:19:16.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666784"
         }
       ]
     }
