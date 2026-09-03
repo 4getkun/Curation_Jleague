@@ -1,7 +1,102 @@
 {
-  "generatedAt": "2026-09-03T20:17:08.098Z",
-  "count": 2189,
+  "generatedAt": "2026-09-03T22:44:14.614Z",
+  "count": 2188,
   "items": [
+    {
+      "title": "日本代表やW杯はもう諦めたのか。29歳・小川航基はなぜ、Jリーグに復帰したのか(GOETHE)",
+      "summary": "2026年北中米ワールドカップに出場した日本代表FW小川航基が、2026年夏の移籍市場でオランダ1部NECナイメヘンからJリーグのFC町田ゼルビアへ完全移籍した。29歳、選手として脂の乗った時期での国",
+      "link": "https://news.yahoo.co.jp/articles/c44f9d71d9704d5aa58fcc7ce99501df5427e37d?source=rss",
+      "pubDate": "2026-09-03T22:30:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c44f9d71d9704d5aa58fcc7ce99501df5427e37d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "シーズン移行で変化は…？ J1、ホームゲーム入場者数ランキング6位。2季連続の好カードで差なし？ 常に満員の盤石クラブ(フットボールチャンネル)",
+      "summary": "2026/27シーズンのJ1リーグが開幕して約3週間が経過し、全クラブがホーム初戦を終えた。「秋春制」への移行は、スタジアムの客足にどのような変化をもたらしているのだろうか。今回は、J1全クラブにお",
+      "link": "https://news.yahoo.co.jp/articles/b1bd7705330dcca46db9aaf7fc113cb751a27cc4?source=rss",
+      "pubDate": "2026-09-03T22:10:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b1bd7705330dcca46db9aaf7fc113cb751a27cc4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「チームとして完成」 東福岡が圧倒的強さで初の高校剣道日本一 決勝トーナメント4試合無失点で完勝(西スポWEB OTTO!)",
+      "summary": "高校剣道で、東福岡が念願の日本一をつかみ取った。8年ぶりに出場した全国高校総体（8月・奈良市）の男子団体で初優勝。5人制の点取り方式による大会で、春の全国高校選抜を制した日章学園（宮崎）との決勝を含",
+      "link": "https://news.yahoo.co.jp/articles/e26c7f00f6a4ee1c85bec578f1365bcb7b980662?source=rss",
+      "pubDate": "2026-09-03T22:10:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e26c7f00f6a4ee1c85bec578f1365bcb7b980662?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグユニに登場した「スポンサーのマスコット」 異例のデザインは「彩りを添えている」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/671641",
+      "pubDate": "2026-09-03T21:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/671641"
+        }
+      ]
+    },
+    {
+      "title": "ライバル対決直前！ 鹿島アントラーズと浦和レッズに所属した選手5人",
+      "summary": "国内外のタイトルを積み重ねてきた鹿島アントラーズと浦和レッズは、Jリーグを代表するライバル関係にある。9月6日には明治安田J1リーグ第6節で直接対決を控えており、今節屈指の注目カードだ。数々の名勝負を繰り広げてきた両クラブだが、これまでには…",
+      "link": "https://www.footballchannel.jp/2026/09/04/post1003338/",
+      "pubDate": "2026-09-03T21:00:28.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/04/post1003338/"
+        }
+      ]
+    },
     {
       "title": "ベルギーに新天地を求めた21歳日本人がさっそく躍動！あらためて体感した“Ｊリーグとの差異”「１個、２個ぐらいレベルが違ってました」【現地発】(SOCCER DIGEST Web)",
       "summary": "昨季のベルギーリーグ・プレーオフ１、シント＝トロイデン（STVV）は、後半アディショナルタイム10分に伊藤涼太郎が決めたPKが決勝ゴールとなり、２−１で勝利した。ブリュッセルの強豪ユニオ",
@@ -1407,22 +1502,22 @@
       ]
     },
     {
-      "title": "浦和が2試合連続逆転勝利!! 83分にDF林幸多郎&85分にFWオナイウ阿道、終盤2発で福岡を退ける",
-      "summary": "[9.2 J1第5節 福岡 2-3 浦和 ベススタ] J1リーグは2日、第5節を各地で開催し、ベスト電器スタジアムではアビスパ福岡と浦和レッズが対戦。浦和が3-2の逆転勝利を収め、2連勝を飾った。 2連敗中のホーム福岡は第4節京都戦(●1-…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458095-458095-fl",
-      "pubDate": "2026-09-02T12:12:52.000Z",
+      "title": "神戸が高橋壱晟&永戸勝也のゴールで公式戦3連勝! 東京VはJ1開幕5試合勝ちなし",
+      "summary": "[9.2 J1第5節 東京V 0-2 神戸 味スタ] J1第5節が2日に開催され、6位ヴィッセル神戸は敵地で19位東京ヴェルディに2-0で勝利した。 神戸は前半16分に先制。ロングスロー崩れからペナルティエリア右外のFW飯野七聖が右足でクロ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458097-458097-fl",
+      "pubDate": "2026-09-02T12:13:35.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "reds",
-        "avispa"
+        "vissel",
+        "verdy"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458095-458095-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458097-458097-fl"
         }
       ]
     },
@@ -42599,117 +42694,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a701704ce3cea51ae587f6cc70f2c336f46a26d7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【陸上】三段跳・野澤和心が12m88の自己タイで初V！ 「自分の中で良い跳躍できた」 女子4継は市柏が初優勝／滋賀IH(月刊陸上競技)",
-      "summary": "◇全国高校総体（インターハイ、7月30日～8月5日／滋賀・平和堂HATOスタジアム）6日目 高校アスリートの祭典、インターハイの6日目が行われ、女子三段跳では野澤和心（甲府南2山梨）が12m88（＋",
-      "link": "https://news.yahoo.co.jp/articles/d7f14c922b6d10178d30f53d983d421eff9243c6?source=rss",
-      "pubDate": "2026-08-04T22:00:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d7f14c922b6d10178d30f53d983d421eff9243c6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「トラジャもいいじゃんっ!」鈴木優磨ら出演、Travis Japanが歌うJリーグ応援ソングPVが評判「リトグリ最高だったけど」「何回見ても泣いちゃう」(サッカー批評Web)",
-      "summary": "Jリーグが8月3日、初の「秋春制」となる2026-27シーズンのスペシャルアンバサダーに、大人気グループ・Travis Japan（トラビス・ジャパン）が就任したことを発表した。それと同時に公開され",
-      "link": "https://news.yahoo.co.jp/articles/12d39b1404fd0c118cbbb5012c1d89a0cbd51e49?source=rss",
-      "pubDate": "2026-08-04T21:36:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/12d39b1404fd0c118cbbb5012c1d89a0cbd51e49?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "もう開幕するけど…。 8月なのにまだ所属クラブが決まっていない日本人選手5選",
-      "summary": "今夏からJリーグが、秋春制に変更したことによって欧州主要リーグと足並みをそろえた補強が可能になり、これまで以上に日本人選手の移籍が活発化することが期待されている。そんな中、移籍金なしで獲得できるフリーの選手は、各クラブにとって重要な補強候補…",
-      "link": "https://www.footballchannel.jp/2026/08/05/post971121/",
-      "pubDate": "2026-08-04T21:00:20.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/05/post971121/"
-        }
-      ]
-    },
-    {
-      "title": "【Ｊ２磐田】新加入のＦＷ太田龍之介「自分のプレーをすれば点は取れると思う」…８日・秋田と開幕戦(スポーツ報知)",
-      "summary": "Ｊ２ジュビロ磐田は８日、ホームのヤマハスタジアムで秋田とリーグ開幕戦を行う。４日は静岡・磐田市内で公開練習。Ｊ１岡山から期限付き移籍加入したＦＷ太田龍之介（２４）がゴールへの自信を見せた。 この",
-      "link": "https://news.yahoo.co.jp/articles/ad728746aa40c5cfd84d9c62a71c93dea3c45495?source=rss",
-      "pubDate": "2026-08-04T20:30:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fagiano"
-      ],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ad728746aa40c5cfd84d9c62a71c93dea3c45495?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "週末の始まりを変えた革新的な夜 J史上初の金曜開幕に2万人が熱狂…劇的同点弾で幕開けた新たな歴史(FOOTBALL ZONE)",
-      "summary": "8月7日、秋春制への移行によって新たなシーズンが開幕するJリーグ。その歴史を振り返ると、各年の「開幕戦」には数々のドラマや衝撃、あるいはハプニングが刻まれてきた。新シーズンの足音が近づくなか、ファン",
-      "link": "https://news.yahoo.co.jp/articles/08b4e78fdf1e0cf8c7834eef19a9a46f51b3e80e?source=rss",
-      "pubDate": "2026-08-04T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/08b4e78fdf1e0cf8c7834eef19a9a46f51b3e80e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jクラブの新ユニ「クラシカルな雰囲気」 専門家が絶賛…5本のライン「五都市を表現」(FOOTBALL ZONE)",
-      "summary": "Jリーグは2026-27シーズンから秋春制へと移行する。8月7日に開幕しJ1は6月初旬、J2とJ3は5月末までのリーグ戦を予定している。そんななか、サッカーユニフォーム研究家である「ともさん」はギラ",
-      "link": "https://news.yahoo.co.jp/articles/af40ad23050bc31e9ece5c467cbef81aa8b32e35?source=rss",
-      "pubDate": "2026-08-04T20:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/af40ad23050bc31e9ece5c467cbef81aa8b32e35?source=rss"
         }
       ]
     }
