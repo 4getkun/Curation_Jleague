@@ -1,7 +1,54 @@
 {
-  "generatedAt": "2026-09-03T22:44:14.614Z",
-  "count": 2188,
+  "generatedAt": "2026-09-04T00:32:55.399Z",
+  "count": 2183,
   "items": [
+    {
+      "title": "｢言葉にするのは得意ではない｣ガンバ大阪、ジュビロ磐田から24歳MF角昂志郎の完全移籍加入を発表。特別大会の主将が新天地へ",
+      "summary": "J1リーグのガンバ大阪は4日、J2のジュビロ磐田から24歳MF角昂志郎が完全移籍で加入することを発表した。両クラブの公式サイトで伝えられている。筑波大学を卒業後、2024年から磐田に所属していた角が、新天地でのプレーを選択した。",
+      "link": "https://www.footballchannel.jp/2026/09/04/post1003827/",
+      "pubDate": "2026-09-04T00:19:05.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/04/post1003827/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/319c126c63701c1058577100fc684516af9a436c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "磐田MF角昂志郎がG大阪へ完全移籍!! U-17W杯やアジア大会出場歴持つ24歳、筑波大卒2年目でJ1へ「言葉にするのは得意ではないので…」(ゲキサカ)",
+      "summary": "ガンバ大阪は4日、ジュビロ磐田からMF角昂志郎(24)が完全移籍加入することを発表した。 角はFC東京U-18出身で2019年のU-17ワールドカップに出場した。その後は筑波大に進学し、23年に",
+      "link": "https://news.yahoo.co.jp/articles/b33f673980f6cef8bc88ab9346c6c71ab3703f80?source=rss",
+      "pubDate": "2026-09-04T00:13:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b33f673980f6cef8bc88ab9346c6c71ab3703f80?source=rss"
+        }
+      ]
+    },
     {
       "title": "日本代表やW杯はもう諦めたのか。29歳・小川航基はなぜ、Jリーグに復帰したのか(GOETHE)",
       "summary": "2026年北中米ワールドカップに出場した日本代表FW小川航基が、2026年夏の移籍市場でオランダ1部NECナイメヘンからJリーグのFC町田ゼルビアへ完全移籍した。29歳、選手として脂の乗った時期での国",
@@ -1485,6 +1532,26 @@
       ]
     },
     {
+      "title": "長崎vsG大阪 試合記録",
+      "summary": "【J1第5節】(ピースタ)長崎 2-2(前半0-0)G大阪[長]保田堅心(79分)、マテウス・ジェズス(84分)[G]デニス・ヒュメット(90分)、イッサム・ジェバリ(90分+4)[長]山口蛍(61分)、土肥幹太(66分)[G]初瀬亮(36…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458077-458077-fl",
+      "pubDate": "2026-09-02T12:30:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "v-varen",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458077-458077-fl"
+        }
+      ]
+    },
+    {
       "title": "八戸vs栃木C 試合記録",
       "summary": "【ルヴァン杯1回戦】(プラスタ)八戸 0-2(前半0-1)栃木C[栃]バスケス・バイロン(11分)、トクマック・チョル・グエン(88分)[栃]乾貴哉(83分)[八]高吉正真(76分)[栃]乾貴哉2(49分、83分)、西村朋倭(72分)観衆:…",
       "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458066-458066-fl",
@@ -1498,26 +1565,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458066-458066-fl"
-        }
-      ]
-    },
-    {
-      "title": "神戸が高橋壱晟&永戸勝也のゴールで公式戦3連勝! 東京VはJ1開幕5試合勝ちなし",
-      "summary": "[9.2 J1第5節 東京V 0-2 神戸 味スタ] J1第5節が2日に開催され、6位ヴィッセル神戸は敵地で19位東京ヴェルディに2-0で勝利した。 神戸は前半16分に先制。ロングスロー崩れからペナルティエリア右外のFW飯野七聖が右足でクロ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458097-458097-fl",
-      "pubDate": "2026-09-02T12:13:35.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel",
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458097-458097-fl"
         }
       ]
     },
@@ -42550,150 +42597,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f97b85d173f924e96bdd2b8d5942d38348a9a9e0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島、日本代表GK大迫敬介の再合流を発表…海外クラブ移籍のために離脱も現地では破談と報道(ゲキサカ)",
-      "summary": "サンフレッチェ広島は5日、7月末よりチームを離脱していた日本代表GK大迫敬介が同日のトレーニングより再合流することを発表した。 1999年7月28日生まれの27歳は広島の下部組織から18年にトッ",
-      "link": "https://news.yahoo.co.jp/articles/5f2ea76f62d1c1781bbbac574b5b910a90b1327a?source=rss",
-      "pubDate": "2026-08-05T00:19:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5f2ea76f62d1c1781bbbac574b5b910a90b1327a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブが強力助っ人を補強へ 海外ベスト11入り…移籍金は2.3億円と現地報道「別れを告げた」(FOOTBALL ZONE)",
-      "summary": "韓国1部全北現代に所属するブラジル人MFオベルダンは、J1ファジアーノ岡山へ移籍する可能性が高まっていると韓国紙「スポーツ東亜」が報じた。 記事によると、Kリーグの夏季移籍市場が佳境を迎えるなか",
-      "link": "https://news.yahoo.co.jp/articles/58f4b30e9a28d36869ed27e58cb8d399146e341a?source=rss",
-      "pubDate": "2026-08-05T00:19:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fagiano"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/58f4b30e9a28d36869ed27e58cb8d399146e341a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブが強力助っ人を補強へ 海外ベスト11入り…移籍金は2.3億円と現地報道「別れを告げた」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666997",
-      "pubDate": "2026-08-05T00:19:01.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666997"
-        }
-      ]
-    },
-    {
-      "title": "サンフレッチェ広島GK大迫敬介、海外移籍準備からチームに再合流 5日のトレーニングから復帰へ",
-      "summary": "J1のサンフレッチェ広島は5日、日本代表GK大迫敬介が同日のトレーニングからチームに再合流すると発表した。大迫は海外クラブへの移籍を前提とした手続きと準備のため、7月末からチームを離れていた。",
-      "link": "https://www.footballchannel.jp/2026/08/05/post971298/",
-      "pubDate": "2026-08-05T00:10:37.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/05/post971298/"
-        }
-      ]
-    },
-    {
-      "title": "広島の日本代表GK大迫敬介がチームに再合流 海外移籍のため離脱も…現地では破談と報道",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/666987",
-      "pubDate": "2026-08-04T23:32:26.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/666987"
-        }
-      ]
-    },
-    {
-      "title": "J3奈良クラブ 天皇杯へ イコマFCと初対戦 新加入・安藤選手が決勝点 (産経新聞)",
-      "summary": "サッカー天皇杯の奈良県代表を決める第31回県サッカー選手権大会の決勝が1日、橿原市の鞄工房山本アスレチックフィールド橿原で行われた。J3奈良クラブが今季から関西サッカーリーグ1部（J5相当）に参戦した",
-      "link": "https://news.yahoo.co.jp/articles/a31a8f1a8af4ed94d69d0165cadea2e1199e26af?source=rss",
-      "pubDate": "2026-08-04T23:13:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a31a8f1a8af4ed94d69d0165cadea2e1199e26af?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "まだ所属クラブが決まっていない日本人選手（1）怪我さえなければ能力は一線級…プレミア復帰濃厚な代表DF(フットボールチャンネル)",
-      "summary": "今夏からJリーグが、秋春制に変更したことによって欧州主要リーグと足並みをそろえた補強が可能になり、これまで以上に日本人選手の移籍が活発化することが期待されている。そんな中、移籍金なしで獲得できるフリー",
-      "link": "https://news.yahoo.co.jp/articles/a701704ce3cea51ae587f6cc70f2c336f46a26d7?source=rss",
-      "pubDate": "2026-08-04T22:50:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a701704ce3cea51ae587f6cc70f2c336f46a26d7?source=rss"
         }
       ]
     }
