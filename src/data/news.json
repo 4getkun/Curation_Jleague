@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-04T13:51:43.165Z",
+  "generatedAt": "2026-09-04T17:15:33.186Z",
   "count": 2159,
   "items": [
+    {
+      "title": "J1水戸 J2新潟からMF奥村仁を獲得へ(スポニチアネックス)",
+      "summary": "J1水戸がJ2新潟のMF奥村仁（25）を獲得することが4日、決定的となった。関係者によると近日中に正式発表される見通しという。 奥村は俊敏性と技術に優れたドリブラー。C大阪の育成組織、関西福祉大",
+      "link": "https://news.yahoo.co.jp/articles/f5201a63d817a921040e4fa1c84e870ad48bf84e?source=rss",
+      "pubDate": "2026-09-04T15:00:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f5201a63d817a921040e4fa1c84e870ad48bf84e?source=rss"
+        }
+      ]
+    },
     {
       "title": "【横浜】GKルベン・ブランコが左膝内側側副靱帯損傷で全治４週間(日刊スポーツ)",
       "summary": "横浜F・マリノスは4日、スペイン出身のGKルベン・ブランコ（31）が神奈川県内の病院で検査を受け、左膝内側側副靱帯損傷で全治4週間と診断されたことを発表した。 8月31日の練習中に負傷した。",
@@ -1161,11 +1180,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?458102-458102-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a6c63ecdb06b485dca7455fef3d3d38464687618?source=rss"
         }
       ]
     },
@@ -42132,27 +42146,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/667074"
-        }
-      ]
-    },
-    {
-      "title": "岡山が“Kリーグ屈指のファイター”全北MFオベルタンを獲得へ (スポニチアネックス)",
-      "summary": "岡山が全北（韓国）所属のブラジル人MFオベルタン（31）を完全移籍で獲得することが5日までに分かった。関係者によるとすでに契約を締結し、Jリーグへの選手登録も申請済み。コンディションや連係面を考慮す",
-      "link": "https://news.yahoo.co.jp/articles/296167d9a42da07372be999233160ae74b729919?source=rss",
-      "pubDate": "2026-08-05T15:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fagiano"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/296167d9a42da07372be999233160ae74b729919?source=rss"
         }
       ]
     }
