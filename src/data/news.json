@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T09:53:49.039Z",
-  "count": 2165,
+  "generatedAt": "2026-09-04T13:51:43.165Z",
+  "count": 2159,
   "items": [
     {
       "title": "【横浜】GKルベン・ブランコが左膝内側側副靱帯損傷で全治４週間(日刊スポーツ)",
@@ -1146,17 +1146,22 @@
       ]
     },
     {
-      "title": "異例のJ復帰…町田FW小川航基が本拠地デビューで逆転2発! 得点センスの秘訣は「味方を知ること」(ゲキサカ)",
-      "summary": "[9.2 J1第5節 町田 2-1 川崎F Gスタ] Jリーグ復帰2試合目、圧巻の本拠地デビューだった。FC町田ゼルビアに電撃加入したFW小川航基はJ1第5節・川崎F戦、先制された直後の後半15分",
-      "link": "https://news.yahoo.co.jp/articles/a6c63ecdb06b485dca7455fef3d3d38464687618?source=rss",
-      "pubDate": "2026-09-02T15:11:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "title": "異例のJ復帰…町田FW小川航基が本拠地デビューで逆転2発! 得点センスの秘訣は「味方を知ること」",
+      "summary": "[9.2 J1第5節 町田 2-1 川崎F Gスタ] Jリーグ復帰2試合目、圧巻の本拠地デビューだった。FC町田ゼルビアに電撃加入したFW小川航基はJ1第5節・川崎F戦、先制された直後の後半15分から途中出場すると、同30分にCKからのヘデ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458102-458102-fl",
+      "pubDate": "2026-09-02T15:10:47.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
       "teams": [
         "zelvia"
       ],
       "topics": [],
       "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458102-458102-fl"
+        },
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
@@ -1294,6 +1299,26 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fe564a2b85a0616599e5a8d683c7f02bb49f68fa?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "相模原vs磐田 試合記録",
+      "summary": "【ルヴァン杯1回戦】(ギオンス)相模原 0-3(前半0-3)磐田[磐]渡邉りょう(35分)、山崎浩介(39分)、川崎一輝(45分+3)[相]神戸康輔(38分)観衆:2,297人主審:窪田陽輔[SC相模原]先発GK 1 三浦基瑛DF 5 山内…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458067-458067-fl",
+      "pubDate": "2026-09-02T14:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "frontale",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458067-458067-fl"
         }
       ]
     },
@@ -1588,45 +1613,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/671540"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪vs甲府 試合記録",
-      "summary": "【ルヴァン杯1回戦】(たけびし)FC大阪 3-0(前半1-0)甲府[F]長野星輝(6分)、木匠貴大(67分)、福井和樹(69分)[F]舘野俊祐(33分)、水口湧斗(64分)観衆:627人主審:Kai Oto[FC大阪]先発GK 30 韓峻領…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458074-458074-fl",
-      "pubDate": "2026-09-02T13:10:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458074-458074-fl"
-        }
-      ]
-    },
-    {
-      "title": "広島vs名古屋 試合記録",
-      "summary": "【J1第5節】(Eピース)広島 3-0(前半0-0)名古屋[広]加藤陸次樹(71分)、鈴木章斗(80分)、セバスチャン・アレ(90分+1)[広]松本泰志(87分)[名]稲垣祥(17分)、佐藤瑶大(90分+5)観衆:26,892人主審:木村博…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458076-458076-fl",
-      "pubDate": "2026-09-02T13:10:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanfrecce",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458076-458076-fl"
         }
       ]
     },
@@ -42167,105 +42153,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/296167d9a42da07372be999233160ae74b729919?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ハノーバー横田大祐がレンジャーズ移籍 フロンターレ下部組織で宮代大聖や山田新と同期(スポニチアネックス)",
-      "summary": "サッカーのスコットランド・プレミアリーグで優勝55回を誇る名門レンジャーズは5日、ドイツ2部ハノーバーからMF横田大祐（26）を獲得したと発表した。3年契約で1年延長のオプションが付く。英スカイスポ",
-      "link": "https://news.yahoo.co.jp/articles/72901c92658e0b1826380f2aaaa647af74650b81?source=rss",
-      "pubDate": "2026-08-05T11:30:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/72901c92658e0b1826380f2aaaa647af74650b81?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1昇格へ追い風 RB大宮 開幕を前に新ユニホームやチケットの売り上げが過去最多を達成(スポニチアネックス)",
-      "summary": "RB大宮が26―27シーズンの開幕を直前に控え、J1昇格に向けた機運が高まりつつある。きょう5日時点で、シーズンチケットの売上額は2025年シーズンと比較して1億円以上を増枠。販売枚数は4900枚を",
-      "link": "https://news.yahoo.co.jp/articles/0b8f299782ee188a4aada9f21be257a78e4f69e7?source=rss",
-      "pubDate": "2026-08-05T11:23:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0b8f299782ee188a4aada9f21be257a78e4f69e7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【セレッソ大阪】「大物キター!!」豪州代表ジャクソン・アーバインが電撃加入「ピンクが似合い過ぎてる」(スポーティングニュース日本版)",
-      "summary": "サッカーJ1のセレッソ大阪は5日、FCザンクトパウリ（ドイツ）からオーストラリア代表MFジャクソン・アーバインが完全移籍で加入すると発表した。同日午前の“補強予告からわずか半日後での正式発表に、SNS",
-      "link": "https://news.yahoo.co.jp/articles/b2c40b8647f11a577eb0f0842d9c049b948c6512?source=rss",
-      "pubDate": "2026-08-05T11:11:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b2c40b8647f11a577eb0f0842d9c049b948c6512?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【北九州】天皇杯で乱暴疑惑…35歳FWが騒動後、初発信「強く否定させてください」(日刊スポーツ)",
-      "summary": "J3ギラヴァンツ北九州は5日、天皇杯の福岡県代表決定戦・福岡大戦（1日）の試合終盤に発生した小競り合いを巡り、FW永井龍（35）への懲罰とクラブ内部調査結果について公式ホームページで発表した。",
-      "link": "https://news.yahoo.co.jp/articles/d00b3f5757fbd0a52b225b17699fce4bc42c7af2?source=rss",
-      "pubDate": "2026-08-05T11:10:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d00b3f5757fbd0a52b225b17699fce4bc42c7af2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "セレッソ大阪、オーストラリア代表MFジャクソン・アーバインを獲得！ ザンクトパウリから完全移籍「さらに良くなる手助けをしたい」",
-      "summary": "セレッソ大阪は5日、ドイツのFCザンクトパウリからオーストラリア代表MFジャクソン・アーバインが完全移籍で加入することを発表した。なお、ビザ取得後に正式契約となる。",
-      "link": "https://www.footballchannel.jp/2026/08/05/post971991/",
-      "pubDate": "2026-08-05T10:05:10.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/05/post971991/"
         }
       ]
     }
