@@ -1,7 +1,101 @@
 {
-  "generatedAt": "2026-09-04T17:15:33.186Z",
-  "count": 2159,
+  "generatedAt": "2026-09-04T19:43:21.370Z",
+  "count": 2164,
   "items": [
+    {
+      "title": "カオスな“魔境”J2は「異種格闘技戦」 指揮官が燃やす闘争心…選手任せでは「J1に届かない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/671745",
+      "pubDate": "2026-09-04T19:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/671745"
+        }
+      ]
+    },
+    {
+      "title": "カオスな“魔境”J2は「異種格闘技戦」 指揮官が燃やす闘争心…選手任せでは「J1に届かない」(FOOTBALL ZONE)",
+      "summary": "近年、“魔境”と称されることの多いJ2だが、2026-27シーズンも混沌としている。2026年J2・J3百年構想リーグで圧倒的な強さを誇ったベガルタ仙台が足踏み状態を強いられる中、逆に百年構想リーグ",
+      "link": "https://news.yahoo.co.jp/articles/0e1c918bf8d66aa645c5172dd7483a2b4958a471?source=rss",
+      "pubDate": "2026-09-04T19:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0e1c918bf8d66aa645c5172dd7483a2b4958a471?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田 航基元同僚DFアウエヤン合流 Jデビューへ意気込み「自分を出す!!」(スポニチアネックス)",
+      "summary": "FC町田ゼルビアはオランダ1部NECナイメヘンから完全移籍で新加入したDFトーマス・アウエヤンが練習に合流。初取材にも応じ「監督、チームのやり方を理解して慣れていきたい」と意気込んだ。 本職のセ",
+      "link": "https://news.yahoo.co.jp/articles/fd6b373364172c73b20cf603dd14a3f8931bea49?source=rss",
+      "pubDate": "2026-09-04T19:15:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fd6b373364172c73b20cf603dd14a3f8931bea49?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和・チョウ監督 鬼門突破へ意欲 敵地での鹿島戦「正直、楽しみ」(スポニチアネックス)",
+      "summary": "浦和を今季から指揮するチョウ貴裁（チョウ・キジェ）監督が4日の非公開練習後に取材に応じ、鬼門突破を誓った。 チームはリーグ3連勝を懸け6日に敵地で鹿島と対戦するが、11戦勝利なし（7分け4敗）と",
+      "link": "https://news.yahoo.co.jp/articles/50417bb8faac02132a60ab7492c6355e1121394c?source=rss",
+      "pubDate": "2026-09-04T19:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/50417bb8faac02132a60ab7492c6355e1121394c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏・ロドリゲス監督 横浜M戦は16歳三井寺警戒「とても魅力的な選手だ」(スポニチアネックス)",
+      "summary": "柏のロドリゲス監督は6日の横浜M戦に向け、16歳の若き才能を警戒した。 指揮官は開幕から5戦2発のMF三井寺を「開幕からインパクトのある素晴らしいパフォーマンスをしている。とても魅力的な選手だ」",
+      "link": "https://news.yahoo.co.jp/articles/8a04861e148d14ac466e77779b74e3ce465de5ad?source=rss",
+      "pubDate": "2026-09-04T19:05:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8a04861e148d14ac466e77779b74e3ce465de5ad?source=rss"
+        }
+      ]
+    },
     {
       "title": "J1水戸 J2新潟からMF奥村仁を獲得へ(スポニチアネックス)",
       "summary": "J1水戸がJ2新潟のMF奥村仁（25）を獲得することが4日、決定的となった。関係者によると近日中に正式発表される見通しという。 奥村は俊敏性と技術に優れたドリブラー。C大阪の育成組織、関西福祉大",
