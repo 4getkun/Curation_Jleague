@@ -1,7 +1,175 @@
 {
-  "generatedAt": "2026-09-04T23:34:30.557Z",
-  "count": 2156,
+  "generatedAt": "2026-09-05T01:55:18.509Z",
+  "count": 2158,
   "items": [
+    {
+      "title": "ガンバ大阪がJ2から選手を獲得。アルビレックス新潟は選手の引退を発表【4日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
+      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年9月4日に発表された最新の新加入、退団情報などは以下の通り。 【ガンバ大阪】 MF角昂志郎",
+      "link": "https://news.yahoo.co.jp/articles/6b6e48517388cddade3e8de904ac3a62bea0482b?source=rss",
+      "pubDate": "2026-09-05T01:52:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade",
+        "signing",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6b6e48517388cddade3e8de904ac3a62bea0482b?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/05/post1004565/"
+        }
+      ]
+    },
+    {
+      "title": "アルビレックス新潟 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるアルビレックス新潟の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/09/05/post814656/",
+      "pubDate": "2026-09-05T01:46:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/05/post814656/"
+        }
+      ]
+    },
+    {
+      "title": "ジュビロ磐田 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるジュビロ磐田の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/09/05/post815448/",
+      "pubDate": "2026-09-05T01:43:46.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/05/post815448/"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
+      "summary": "2026/27シーズンにおけるガンバ大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
+      "link": "https://www.footballchannel.jp/2026/09/05/post814764/",
+      "pubDate": "2026-09-05T01:41:08.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade",
+        "retirement"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/05/post814764/"
+        }
+      ]
+    },
+    {
+      "title": "「我々にとって素晴らしいニュース」欧州名門が26歳日本人DFを期限付き移籍で獲得！ クラブSDの期待大「非常にポジティブな影響を与えてくれる」(SOCCER DIGEST Web)",
+      "summary": "ポーランド１部の名門レギア・ワルシャワは現地９月４日、J１の京都サンガF.C.から福田心之助を2026-27シーズン終了までのレンタル移籍で獲得したと発表。背番号は「２」に決まった。 同日に26",
+      "link": "https://news.yahoo.co.jp/articles/63a5d511ecf3d89ac78bf4ca8ad9d083b6dc4770?source=rss",
+      "pubDate": "2026-09-05T01:23:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/63a5d511ecf3d89ac78bf4ca8ad9d083b6dc4770?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【京都】福田心之助、レギア・ワルシャワへ期限付き移籍「皆さんの活力になるよう頑張ります」(日刊スポーツ)",
+      "summary": "京都サンガF.C.は5日、DF福田心之助（26）がレギア・ワルシャワ（ポーランド）へ期限付き移籍すると発表した。移籍期間は27年6月30日まで。 北海道出身の福田は、北海道コンサドーレ札幌U－1",
+      "link": "https://news.yahoo.co.jp/articles/578469412c315160e242b2d333bcd596c08458b0?source=rss",
+      "pubDate": "2026-09-05T01:18:35.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/578469412c315160e242b2d333bcd596c08458b0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【見どころ解説】両先発ともに自身の連敗ストップをかけて登板 広島打線はチーム打撃も絡めG田中攻略目指す(J SPORTS)",
+      "summary": "初回の好機を逃し、守備にもミスが出て、巨人との3連戦初戦を落とした。優勝争いするチーム相手にミスは命取りとなる。凡事徹底は勝利への最低条件だ。",
+      "link": "https://news.yahoo.co.jp/articles/503254da2bf63087ccab4a1b3c98d68e4eea0d49?source=rss",
+      "pubDate": "2026-09-05T01:10:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/503254da2bf63087ccab4a1b3c98d68e4eea0d49?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【今日のJリーグ】9月5日 2026/27明治安田Jリーグのキックオフ時間・放送予定・対戦カードは？",
+      "summary": "明治安田Jリーグは5日、J1が1試合、J2が5試合、J3が9試合開催される。キックオフ時間や放送予定、対戦カードなどは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/09/05/post1004097/",
+      "pubDate": "2026-09-05T00:00:40.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/05/post1004097/"
+        }
+      ]
+    },
     {
       "title": "京都DF福田心之助、ポーランド随一の名門レギア・ワルシャワに期限付き移籍が決定！(サッカーキング)",
       "summary": "レギア・ワルシャワは現地時間4日、京都サンガF.C.からDF福田心之助が2026/27シーズン終了までの期限付き移籍で加入することをクラブ公式サイトで発表した。 現地メディア『iGol.pl』な",
@@ -1428,6 +1596,23 @@
       ]
     },
     {
+      "title": "愛媛vs秋田 試合記録",
+      "summary": "【ルヴァン杯1回戦】(ニンスタ)愛媛 1-0(前半1-0)秋田[愛]林誠道(10分)[愛]石尾崚雅(19分)観衆:2,060人主審:北沢倫章[愛媛FC]先発GK 45 牧口一真DF 4 金沢一矢DF 16 細谷航平DF 37 石尾崚雅(74…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458080-458080-fl",
+      "pubDate": "2026-09-02T14:40:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458080-458080-fl"
+        }
+      ]
+    },
+    {
       "title": "J1C大阪・桜川ソロモンが2得点「少しずつ自信出てきた」 香川とアーバインの両ベテランに感謝(サンケイスポーツ)",
       "summary": "明治安田J1リーグ第5節（2日、C大阪2－0柏、ハナサカ）C大阪は開幕からリーグ戦で4戦全勝だった柏に快勝した。FW桜川ソロモン（25）が2得点で勝利に貢献し「４連勝している相手でチームも気合いが入っ",
       "link": "https://news.yahoo.co.jp/articles/c18df403f5cbc28433091ffda2cac2290f1eb22f?source=rss",
@@ -1465,26 +1650,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fe564a2b85a0616599e5a8d683c7f02bb49f68fa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "相模原vs磐田 試合記録",
-      "summary": "【ルヴァン杯1回戦】(ギオンス)相模原 0-3(前半0-3)磐田[磐]渡邉りょう(35分)、山崎浩介(39分)、川崎一輝(45分+3)[相]神戸康輔(38分)観衆:2,297人主審:窪田陽輔[SC相模原]先発GK 1 三浦基瑛DF 5 山内…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458067-458067-fl",
-      "pubDate": "2026-09-02T14:10:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale",
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458067-458067-fl"
         }
       ]
     },
@@ -41969,128 +42134,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/06/post972261/"
-        }
-      ]
-    },
-    {
-      "title": "FC東京新10番の誓い…佐藤恵允「10ゴール10アシストを目指して」その先のA代表入りも視野(ゲキサカ)",
-      "summary": "今季よりFC東京の10番を背負うプレッシャーについて質問した時だった。「プレッシャーには強い方なので」。そう話して一蹴したMF佐藤恵允に、横から鋭い視線が刺さる。開幕戦の対戦相手同士で区切られたブー",
-      "link": "https://news.yahoo.co.jp/articles/c2e30f4bd1f2bf7503d0a8f1db9fd444130ff877?source=rss",
-      "pubDate": "2026-08-06T01:23:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c2e30f4bd1f2bf7503d0a8f1db9fd444130ff877?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1全順位予想 識者５人が推す優勝候補筆頭は？ J2降格の憂き目に遭いそうな３クラブとは？(webスポルティーバ)",
-      "summary": "J1リーグ2026－27シーズン全順位予想（前編） Jリーグ2026－27シーズン――秋春制へと移行した最初のシーズンがいよいよ開幕する。J1、J2、J3といずれのカテゴリーも激戦が予想されるが、最",
-      "link": "https://news.yahoo.co.jp/articles/5babffea27e8cc6e17fc4f3f6a7288f8cc1b0db4?source=rss",
-      "pubDate": "2026-08-06T01:13:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5babffea27e8cc6e17fc4f3f6a7288f8cc1b0db4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、高2以下でプロ2種登録の選手（5）6月にプロ契約！ヌーノ・メンデス彷彿の攻撃的SB(フットボールチャンネル)",
-      "summary": "「09世代」は逸材の宝庫である。J1最年少出場記録を塗り替えた北原槙や、横浜F・マリノス史上最年少でプロ契約を結んだ三井寺眞など、将来の日本代表が確実視される逸材がさらなる大舞台への道を歩み始めている",
-      "link": "https://news.yahoo.co.jp/articles/430abe01cc8f6a3c304a3652ef95e8a66802b60b?source=rss",
-      "pubDate": "2026-08-06T01:03:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/430abe01cc8f6a3c304a3652ef95e8a66802b60b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表“１キャップ”で終わる選手ではない。24歳DFが明かす「怖さがないわけではない」胸中(SOCCER DIGEST Web)",
-      "summary": "記念すべきA代表デビュー戦（2023年３月28日のコロンビア戦）で負傷して以降、度重なる怪我に苦しんできた選手がいる。FC東京のバングーナガンデ佳史扶だ。 そのコロンビア戦で右足を痛めると、右膝",
-      "link": "https://news.yahoo.co.jp/articles/3088b39cc740b196e2063b991c3738bb6e103a1c?source=rss",
-      "pubDate": "2026-08-06T01:03:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "injury",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3088b39cc740b196e2063b991c3738bb6e103a1c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "セレッソ大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるセレッソ大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/06/post814773/",
-      "pubDate": "2026-08-06T01:00:32.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/06/post814773/"
-        }
-      ]
-    },
-    {
-      "title": "マリノス公式「びっくりした～！」。“国立”鹿島戦でチケット完売「SOLD OUTって書いてあるのかと思った」と投稿(SOCCER DIGEST Web)",
-      "summary": "いよいよ幕を開けるＪリーグの2026-27シーズン。J１開幕戦は８月７日、MUFGスタジアム（国立競技場）で横浜F・マリノスvs.鹿島アントラーズが行なわれる。 多くの注目を集める“The CL",
-      "link": "https://news.yahoo.co.jp/articles/1bafd288a2e505cf45915b6784a43422c0e2f163?source=rss",
-      "pubDate": "2026-08-06T00:53:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1bafd288a2e505cf45915b6784a43422c0e2f163?source=rss"
         }
       ]
     }
