@@ -1,7 +1,359 @@
 {
-  "generatedAt": "2026-09-06T09:01:56.283Z",
-  "count": 2122,
+  "generatedAt": "2026-09-06T12:58:39.006Z",
+  "count": 2094,
   "items": [
+    {
+      "title": "【速報】京都サンガ、FC東京に0－2の完敗 後半に相次ぎ失点、順位は15位のまま(京都新聞)",
+      "summary": "J1京都サンガFCは6日、味の素スタジアムで第6節のFC東京戦に臨み、0-2で完敗して3試合ぶりに黒星を喫した。勝ち点は5、順位も15位のまま。 サンガは前節横浜M戦から中3日ながら同じ先発メン",
+      "link": "https://news.yahoo.co.jp/articles/4d311adb408373b591d9386a90e9133438fb92f2?source=rss",
+      "pubDate": "2026-09-06T12:57:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4d311adb408373b591d9386a90e9133438fb92f2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島ＧＫ田川亨介にアクシデント…途中投入から５分後に無念の負傷退場 苦悶の表情でピッチを去る(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第６節 鹿島０―１浦和（６日・メルスタ） 鹿島は浦和に０―１で敗れ、痛恨の２連敗となった。前半２０分にＣＫからオウンゴールで失点し、これが決勝点となった。 ＊ ＊ ＊",
+      "link": "https://news.yahoo.co.jp/articles/4d8664561a578565a2d2aa0dc32227a4b4aafe99?source=rss",
+      "pubDate": "2026-09-06T12:53:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4d8664561a578565a2d2aa0dc32227a4b4aafe99?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1横浜M・コリカ監督、前節から3人入れ替えの起用ズバリ「大事にしていたのはハイプレスでどう前に行くか」(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第6節（6日、柏0－2横浜M、三協F柏）横浜Mが快勝した。コリカ監督は「素晴らしいパフォーマンスだった。3人フレッシュな選手を入れて、そのうちの2人が大事な得点を取ってくれた。守備の",
+      "link": "https://news.yahoo.co.jp/articles/eba7dcdc79aeb49ef6e36c8191b120250c886aa9?source=rss",
+      "pubDate": "2026-09-06T12:51:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eba7dcdc79aeb49ef6e36c8191b120250c886aa9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
+      "summary": "※試合スコアは2026年9月6日21:05時点。順位・個人成績等は9月5日時点。J1第6節開催中。第21〜38節（2027年開催分）のキックオフ時刻など詳細は未発表。 Jリーグ2026/27シーズンの最新順位、試合日程・ […]",
+      "link": "https://www.footballchannel.jp/2026/09/06/post1003398/",
+      "pubDate": "2026-09-06T12:50:27.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/06/post1003398/"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】森保一監督「素晴らしい。点取り続けて」仏デビュー戦でゴールの上田綺世を評価(日刊スポーツ)",
+      "summary": "日本代表の森保監督が、今夏フランス1部リールに移籍し、デビュー弾を決めたFW上田綺世を評価した。 6日にJ1神戸－長崎戦の視察に訪れ「フランスで活躍することは簡単ではない。その基準の中で日本人の",
+      "link": "https://news.yahoo.co.jp/articles/f428a74028ca5474a74f724d3f245a7fcd5ed721?source=rss",
+      "pubDate": "2026-09-06T12:47:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f428a74028ca5474a74f724d3f245a7fcd5ed721?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表・森保一監督、大岩剛監督とのJ1神戸―長崎〝W視察〟振り返る「（若手の）情報をもらいながら」「サッカー談義しました」(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第6節最終日（6日、神戸3－1長崎、ノエスタ）日本代表の森保一監督（58）が視察に訪れ、試合後の取材対応で同じくこの試合を視察したU―21日本代表の大岩剛監督（54）とのやり取りを明",
+      "link": "https://news.yahoo.co.jp/articles/4c0a55096fdc9c07c07d8fd607475b458fad7018?source=rss",
+      "pubDate": "2026-09-06T12:46:11.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c0a55096fdc9c07c07d8fd607475b458fad7018?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "[プレミアリーグEAST]青森山田が4連勝、帝京長岡は3連勝…FC東京U-18は2位浮上の好機を逃す:第12節(ゲキサカ)",
+      "summary": "高円宮杯 JFA U-18サッカープレミアリーグ 2026 EASTは6日に第12節を行った。 青森山田高とFC東京U-18による一戦は、前半3分にMF藤原優人がネットを揺らして青森山田が先手を",
+      "link": "https://news.yahoo.co.jp/articles/129be13e599c0d23ec986c509777f8760b574e4d?source=rss",
+      "pubDate": "2026-09-06T12:44:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/129be13e599c0d23ec986c509777f8760b574e4d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京2発快勝、公式戦6試合負けなし マルセロヒアン先制ヘッド＆長倉幹樹2点目、長友佑都リーグ戦初投入で京都を攻守に圧倒(中日スポーツ)",
+      "summary": "◇6日 J1リーグ第6節 FC東京2―0京都（味の素スタジアム） FC東京がホームで京都サンガに2―0で快勝した。 後半25分、DF室屋成が敵陣右サイドから絶好のクロスを送ると、ゴール前のFW",
+      "link": "https://news.yahoo.co.jp/articles/b2e2c4698ff123c656f5335143bd8bfc4b8a975e?source=rss",
+      "pubDate": "2026-09-06T12:43:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b2e2c4698ff123c656f5335143bd8bfc4b8a975e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜ＦＭ・コリカ監督 躍動した今季初先発の３人を称賛「要求している水準を完璧にこなしてくれた」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ ▽第６節 横浜ＦＭ２―０柏（６日・三協Ｆ柏） 横浜ＦＭは敵地で柏に２―０で勝利した。試合を通じて雨が降る中、粘り強く守り抜いて、３戦ぶりの白星をつかんだ。コリカ監督は「素晴ら",
+      "link": "https://news.yahoo.co.jp/articles/f57804e330384eab03db968881f8275411d4a277?source=rss",
+      "pubDate": "2026-09-06T12:42:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f57804e330384eab03db968881f8275411d4a277?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「待ってました！」「泣けます」ジェフ千葉が17年ぶりJ1勝利 G大阪を2-0撃破、雨のフクアリ歓喜(スポーティングニュース日本版)",
+      "summary": "長く止まっていた時計が、ついに動いた。 ジェフユナイテッド市原・千葉が、実に17年ぶりとなるJ1での勝利を手にした。 9月6日にフクダ電子アリーナで行われた2026/27明治安田J1リーグ第6節、",
+      "link": "https://news.yahoo.co.jp/articles/61920e442f41197ed1e6cf61f16db248ac87b200?source=rss",
+      "pubDate": "2026-09-06T12:40:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/61920e442f41197ed1e6cf61f16db248ac87b200?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【千葉】J1最長ブランク6132日ぶり白星！開幕からの連敗５で止める 開始20秒ほどで先制(日刊スポーツ)",
+      "summary": "＜明治安田J1：千葉2－0G大阪＞◇6日◇第6節◇フクアリ 開幕5連敗を喫していたジェフユナイテッド市原・千葉はガンバ大阪を2－0で破り、今季初白星を挙げた。 前半1分にFW矢村健（29）の加",
+      "link": "https://news.yahoo.co.jp/articles/97fc3e99b46f5230393453aea1035691dff522f9?source=rss",
+      "pubDate": "2026-09-06T12:37:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/97fc3e99b46f5230393453aea1035691dff522f9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸が3連勝で2位浮上！ 千葉がJ1で17年ぶり勝利…東京Vは未勝利が続く/J1第6節(サッカーキング)",
+      "summary": "2026/27明治安田J1リーグ第6節の9試合が6日に行われた。 首位のFC町田ゼルビアは名古屋グランパスを3－1で撃破で無敗継続。柏レイソルと鹿島アントラーズが連敗を喫し、3－0の快勝で3連勝",
+      "link": "https://news.yahoo.co.jp/articles/4c16e906868e5b2e9bf6b68a0cbdd7664afa989a?source=rss",
+      "pubDate": "2026-09-06T12:36:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "jef-chiba",
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c16e906868e5b2e9bf6b68a0cbdd7664afa989a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【川崎Ｆ】ウレモビッチのパスにだまされる「いないいないばあパス」「すごいノールック」(日刊スポーツ)",
+      "summary": "＜明治安田J1：川崎F3－1清水＞◇第6節◇6日◇MUFG国立 川崎フロンターレは清水エスパルスに3－1で競り勝ち、今季2勝目を挙げた。新人FW持山匡佑（23）の開始22秒弾で先制。相手に退場者が",
+      "link": "https://news.yahoo.co.jp/articles/95af777eb41acb345ecc1e2fc6d68bbb53e4703f?source=rss",
+      "pubDate": "2026-09-06T12:36:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/95af777eb41acb345ecc1e2fc6d68bbb53e4703f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】宮市亮が２年２カ月ぶりゴール！二田も続いた！苦手柏に２発快勝 公式戦連敗７で止めた(日刊スポーツ)",
+      "summary": "＜明治安田J1：柏0－2横浜＞◇6日◇第6節◇三協F柏 横浜F・マリノスが、アウェーで苦手の柏レイソルを2－0で下した。 前半19分、右から流れてきたボールを拾ったFW宮市亮が中央へのカットイ",
+      "link": "https://news.yahoo.co.jp/articles/baf43c9e4c66abc1d4c46a461c058a1daabf6eba?source=rss",
+      "pubDate": "2026-09-06T12:21:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/baf43c9e4c66abc1d4c46a461c058a1daabf6eba?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "川崎が数的有利を活かして3発快勝 雨中の国立決戦…清水は主将DF住吉がDOGSOで一発退場",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/672017",
+      "pubDate": "2026-09-06T12:01:25.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "frontale",
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/672017"
+        }
+      ]
+    },
+    {
+      "title": "【浦和】鹿島に競り勝ち３連勝 今季就任の曺貴裁監督は史上13人目のJ1通算100勝に王手(日刊スポーツ)",
+      "summary": "＜明治安田J1：鹿島0－1浦和＞◇6日◇第6節◇メルスタ 浦和レッズがアウェーで鹿島アントラーズを1－0で下し、3連勝とした。曺貴裁監督の就任初戦から3連敗を喫したが、立て直して3勝3敗と五分の星",
+      "link": "https://news.yahoo.co.jp/articles/b391e3b2383cd2b1649fa931e59ecdd30c118053?source=rss",
+      "pubDate": "2026-09-06T11:51:28.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reds",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b391e3b2383cd2b1649fa931e59ecdd30c118053?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "清水にアクシデント DF住吉ジェラニレショーンがDOGSOで一発退場…1点を追う展開で数的不利に",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/672020",
+      "pubDate": "2026-09-06T11:00:05.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/672020"
+        }
+      ]
+    },
+    {
+      "title": "浦和が今季初の無失点で3連勝 リーグ戦で鹿島に約5年半ぶり勝利…3バック変更で昨季王者を完封",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/672014",
+      "pubDate": "2026-09-06T10:58:54.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/672014"
+        }
+      ]
+    },
     {
       "title": "ガンバ大阪｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
       "summary": "※個人成績は2026年9月3日更新のJリーグ公式データを反映。 ガンバ大阪の2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退団情報は随時更新 […]",
@@ -62,6 +414,26 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/06/post992244/"
+        }
+      ]
+    },
+    {
+      "title": "相模原vs磐田 試合記録",
+      "summary": "【ルヴァン杯1回戦】(ギオンス)相模原 0-3(前半0-3)磐田[磐]渡邉りょう(35分)、山崎浩介(39分)、川崎一輝(45分+3)[相]神戸康輔(38分)観衆:2,297人主審:窪田陽輔[SC相模原]先発GK 1 三浦基瑛DF 5 山内…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458067-458067-fl",
+      "pubDate": "2026-09-06T07:40:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "frontale",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458067-458067-fl"
         }
       ]
     },
@@ -356,6 +728,25 @@
       ]
     },
     {
+      "title": "松本vsFC大阪 試合記録",
+      "summary": "【J3第5節】(サンアル)松本 0-0(前半0-0)FC大阪[F]森村俊太(38分)観衆:7,568人主審:本多文哉[松本山雅FC]先発GK 21 富澤雅也DF 6 野田裕喜DF 16 宮部大己DF 43 金子光汰MF 8 澤崎凌大(73分…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458258-458258-fl",
+      "pubDate": "2026-09-05T17:00:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458258-458258-fl"
+        }
+      ]
+    },
+    {
       "title": "【福岡ボート】福来剛 Ｆ２で予選突破「事故できない状態を思えば、納得の仕上がり」(東スポWEB)",
       "summary": "ボートレース福岡の「三都市対抗戦 福岡観光コンベンションビューロー杯」は5日、予選最終日となる4日目が行われた。 福来剛（45＝東京）は予選ラストの7R、インからコンマ12と互角のスタートを決め",
       "link": "https://news.yahoo.co.jp/articles/e35a23dd48c2cfc09a11899194e72d8aa5b87117?source=rss",
@@ -411,23 +802,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/05/post1003398/"
-        }
-      ]
-    },
-    {
-      "title": "鳥取vs大宮 試合記録",
-      "summary": "【ルヴァン杯1回戦】(Axis)鳥取 3-1(前半2-0)大宮[鳥]藤田一途(2分)、山本颯太2(45分、57分)[大]小林柚希(68分)観衆:1,241人主審:酒井達矢└「イケメン」「背が高い!」“ジャイキリ”見届けた美女タレントが元日本…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458083-458083-fl",
-      "pubDate": "2026-09-05T09:30:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458083-458083-fl"
         }
       ]
     },
@@ -822,25 +1196,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f5201a63d817a921040e4fa1c84e870ad48bf84e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1第20節京都vs岡山、J3第9節滋賀vs熊本&第10節FC大阪vs金沢の試合日程が決定",
-      "summary": "Jリーグは4日、J1リーグ第20節の京都サンガF.C.対ファジアーノ岡山、J3リーグ第9節のレイラック滋賀FC対ロアッソ熊本、同第10節のFC大阪対ツエーゲン金沢の試合日程が決定したことを発表した。 京都対岡山は12月19日(土)13時キッ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458203-458203-fl",
-      "pubDate": "2026-09-04T11:36:50.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458203-458203-fl"
         }
       ]
     },
@@ -40548,894 +40903,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/667563"
-        }
-      ]
-    },
-    {
-      "title": "森保監督、横浜FMの16歳を絶賛「本当に素晴らしい」 3ゴール演出の圧巻パフォ「注目して見ていた」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/667535",
-      "pubDate": "2026-08-07T12:52:14.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667535"
-        }
-      ]
-    },
-    {
-      "title": "【広島】新井監督、復帰登板で７回２失点の森下暢仁に「本人も手応えがあったと思う」／一問一答(日刊スポーツ)",
-      "summary": "＜DeNA2－1広島＞◇7日◇横浜 広島が好投の先発森下暢仁を援護できず、DeNAに競り負けた。3連敗で借金は今季最多タイの16に膨らんだ。 森下は1回に筒香に先制ソロを許し、同点の6回1死二",
-      "link": "https://news.yahoo.co.jp/articles/0c68986d5ac02cacc5e3801864cbc6e5e5deb1ec?source=rss",
-      "pubDate": "2026-08-07T12:50:55.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/0c68986d5ac02cacc5e3801864cbc6e5e5deb1ec?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
-      "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
-      "link": "https://www.footballchannel.jp/2026/08/07/post969138/",
-      "pubDate": "2026-08-07T12:47:44.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/07/post969138/"
-        }
-      ]
-    },
-    {
-      "title": "【順位表】明治安田J1リーグ2026/27 サッカー 最新情報",
-      "summary": "明治安田J1リーグ2026/27の最新順位表は下記の通り。勝点が同じ場合は得失点差→総得点数→当該チーム間の対戦成績（イ：勝点、ロ：得失点差、ハ：総得点数）→抽選の順で順位を決定する。",
-      "link": "https://www.footballchannel.jp/2026/08/07/post969132/",
-      "pubDate": "2026-08-07T12:47:34.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/07/post969132/"
-        }
-      ]
-    },
-    {
-      "title": "前年王者・鹿島、開幕戦で執念の逆転勝利 横浜FMは16歳三井寺が圧巻パフォも…痛恨の逆転負け",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/667537",
-      "pubDate": "2026-08-07T12:43:37.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667537"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】三井寺眞16歳４カ月５日ゴールなどで勝利目前も…土壇場で２点奪われ開幕戦敗れる(日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜3－4鹿島＞◇7日◇東京・MUFG国立 秋春制へのシーズン移行元年の日本サッカー界に新星が現れた。史上最年少となる16歳4カ月5日でJ1開幕戦に先発デビューした横浜F・マリノス",
-      "link": "https://news.yahoo.co.jp/articles/6081ec94732bb84fa838436011f6b0460d60db8b?source=rss",
-      "pubDate": "2026-08-07T12:43:28.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers",
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6081ec94732bb84fa838436011f6b0460d60db8b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【J1】国立開幕戦に６万3960人！J1最多入場者数を106人上回る(日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 秋春制へのシーズン移行の開幕戦となった横浜－鹿島戦は、聖地・国立に6万3960人の大観衆を記録し、J1最多入場者数を更新した。 これまで",
-      "link": "https://news.yahoo.co.jp/articles/f5e25a3cc6fc87cd777946897860b833c621b008?source=rss",
-      "pubDate": "2026-08-07T12:39:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f5e25a3cc6fc87cd777946897860b833c621b008?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪が浦和に大逆転勝利 終盤に4ゴール波乱の展開…サヴィオ退場など警告5枚で大荒れの一戦に",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/667529",
-      "pubDate": "2026-08-07T12:33:09.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667529"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ開幕戦、史上最多の6万3960人 2019年の日産スタジアムを”106人”超え…シーズン移行で注目の一戦",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/667526",
-      "pubDate": "2026-08-07T12:19:32.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667526"
-        }
-      ]
-    },
-    {
-      "title": "「まじ何者？」「上手すぎる…」横浜FMの16歳超逸材が開幕Jデビュー戦で魅せた“衝撃プレー”にSNS騒然！「すごい才能」「４年後のW杯全然あり得るだろ」(SOCCER DIGEST Web)",
-      "summary": "2026/27シーズンのJ１リーグが８月７日に開幕し、横浜F・マリノスはMUFGスタジアム（国立競技場）で鹿島アントラーズと対戦。16歳MF三井寺眞が、ゴールだけでなく衝撃的なプレーでも大きなインパ",
-      "link": "https://news.yahoo.co.jp/articles/a6c684cd78fdeabab7411a0d2a45a7fec1b5e768?source=rss",
-      "pubDate": "2026-08-07T12:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a6c684cd78fdeabab7411a0d2a45a7fec1b5e768?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「逸材の宝庫」Jリーグ、高2以下でプロ2種登録の選手5選(フットボールチャンネル)",
-      "summary": "「09世代」は逸材の宝庫である。J1最年少出場記録を塗り替えた北原槙や、横浜F・マリノス史上最年少でプロ契約を結んだ三井寺眞など、将来の日本代表が確実視される逸材がさらなる大舞台への道を歩み始めている",
-      "link": "https://news.yahoo.co.jp/articles/81a6c316fc04758ab857b69cbaf5a11d6095d519?source=rss",
-      "pubDate": "2026-08-07T11:50:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/81a6c316fc04758ab857b69cbaf5a11d6095d519?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島 3連敗で借金ワーストタイの16 森下暢仁は7回2失点の粘投も白星には届かず(スポニチアネックス)",
-      "summary": "◇セ・リーグ 広島1-2DeNA（2026年8月7日 横浜スタジアム） 広島先発の森下が復調した姿を披露した。初回２死から筒香に左越えに先制ソロを浴びたものの、２回から５回まではきれいに３人ずつ",
-      "link": "https://news.yahoo.co.jp/articles/0d94a7ebfcc5729b14094b4d8fbae6d13baf01e9?source=rss",
-      "pubDate": "2026-08-07T11:50:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0d94a7ebfcc5729b14094b4d8fbae6d13baf01e9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】最下位脱出ならず…ＤｅＮＡに競り負けて３連敗 森下暢仁は７回２失点で７敗目 ２軍再調整から復帰戦を白星で飾れず ２戦ぶり４番復帰の坂倉将吾が初回と８回の得点機で凡退(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ ＤｅＮＡ２―１広島（７日・横浜） 広島は、ＤｅＮＡとの１点差ゲームに敗れて３連敗となった。前夜６日に５月９日以来の最下位に転落した翌日に、意地を見せることはできなかった。成績",
-      "link": "https://news.yahoo.co.jp/articles/10efee6de13cab4ec42f042c0bc91f8fad70406e?source=rss",
-      "pubDate": "2026-08-07T11:47:55.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/10efee6de13cab4ec42f042c0bc91f8fad70406e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【DeNA】度会隆輝の決勝打で広島に競り勝ち８月は５勝１敗 平良拳太郎は７回１失点で４勝目(日刊スポーツ)",
-      "summary": "＜DeNA2－1広島＞◇7日◇横浜 DeNAが、広島に競り勝ち、大事なカード初戦を白星で飾った。筒香嘉智内野手（34）が0－0の1回2死、カウント2－1からの4球目を左翼席へたたき込み、先制の9号",
-      "link": "https://news.yahoo.co.jp/articles/b1a9c95033ef5628f0c668a524c9ee1fbf2aa8dc?source=rss",
-      "pubDate": "2026-08-07T11:47:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b1a9c95033ef5628f0c668a524c9ee1fbf2aa8dc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Travis Japan、歴史的なJ1開幕戦でハーフタイムショー「僕らが届けたい応援」(日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 Travis JapanがJ1開幕戦「横浜F・マリノス対鹿島アントラーズ」のハーフタイムショーを行った。 同グループはJリーグ 2026",
-      "link": "https://news.yahoo.co.jp/articles/da700c2882d88dc1dc39939904d983cc050e4f3a?source=rss",
-      "pubDate": "2026-08-07T11:43:42.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/da700c2882d88dc1dc39939904d983cc050e4f3a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ開幕戦で衝撃「化け物すぎる」 デビューの16歳に日本ファン騒然「この前まで中学生」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/667514",
-      "pubDate": "2026-08-07T11:28:48.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667514"
-        }
-      ]
-    },
-    {
-      "title": "【鹿島】鬼木監督「狙うのは誰も成し遂げたことのない…」２冠目指し歴史的シーズン開幕 (日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 欧州にカレンダーを合わせた夏開幕のJリーグが始まった。その歴史的な開幕戦で激突したのは横浜と鹿島。鹿島は、93年のリーグ発足からどこも成し得",
-      "link": "https://news.yahoo.co.jp/articles/8d2485cc80f60f44731cb768635a71496a290257?source=rss",
-      "pubDate": "2026-08-07T11:25:57.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8d2485cc80f60f44731cb768635a71496a290257?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】16歳MF三井寺眞が２点目演出 絶妙トラップからお膳立て (日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 横浜F・マリノスの16歳プロのMF三井寺眞（みいでら・しん）がチーム2点目を演出した。 前半18分、DF諏訪間幸成からのロングフィードを",
-      "link": "https://news.yahoo.co.jp/articles/2ed536c158ceacfe3aa284a69c7fc309cd696863?source=rss",
-      "pubDate": "2026-08-07T11:17:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers",
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/2ed536c158ceacfe3aa284a69c7fc309cd696863?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊリーグ新シーズン開幕花火2500発「ここから、世界だ」ド派手演出で第２の誕生を告げる(日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 横浜F・マリノス対鹿島アントラーズの開幕戦前に、大規模演出のセレモニーが実施された。 約2500発の花火が打ち上がり、国立の夜空を彩った",
-      "link": "https://news.yahoo.co.jp/articles/8b829a12b164a45ec5a21e18387e312ca7ccc8be?source=rss",
-      "pubDate": "2026-08-07T11:14:11.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8b829a12b164a45ec5a21e18387e312ca7ccc8be?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｇ大阪】荒木琉偉が18歳297日で開幕先発GKの最年少記録更新 99年南雄太を上回る(日刊スポーツ)",
-      "summary": "＜明治安田J1：G大阪－浦和＞◇第1節◇7日◇パナスタ ガンバ大阪のU－21日本代表GK荒木琉偉（18）が、J1での開幕先発GKの最年少記録を更新した。 浦和レッズとの開幕戦でスタメンを任され",
-      "link": "https://news.yahoo.co.jp/articles/61e7e89f591bfed66384ab7852e31cb6b68f5298?source=rss",
-      "pubDate": "2026-08-07T11:13:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/61e7e89f591bfed66384ab7852e31cb6b68f5298?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【浦和】Mサヴィオが前半22分で退場 曺貴裁監督にもイエローカードで前半から場内騒然(日刊スポーツ)",
-      "summary": "＜明治安田J1：G大阪－浦和＞◇第1節◇7日◇パナスタ 浦和レッズのMFマテウス・サヴィオが、ガンバ大阪との開幕戦の前半で退場処分を受けた。 前半17分にアウェーで先制に成功した浦和だったが、",
-      "link": "https://news.yahoo.co.jp/articles/8a75af2557fdd5ac234d46762aa37c4cfb3a7090?source=rss",
-      "pubDate": "2026-08-07T11:11:40.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8a75af2557fdd5ac234d46762aa37c4cfb3a7090?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1開幕戦史上最年少スタメンの横浜Mの16歳三井寺真が衝撃のデビュー弾 歴代2位の年少得点記録(中日スポーツ)",
-      "summary": "◇７日 Ｊ１リーグ開幕節 横浜Ｍ―鹿島（ＭＵＦＧスタジアム） ８月開幕にシーズンを移行した２０２６―２７年シーズンのＪリーグは７日にＪ１の第１節を迎え、横浜Ｍと昨季王者の鹿島が東京・ＭＵＦＧスタジ",
-      "link": "https://news.yahoo.co.jp/articles/88f7bd0ee24d03ed54126d5f9ddee03b1309a181?source=rss",
-      "pubDate": "2026-08-07T11:06:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/88f7bd0ee24d03ed54126d5f9ddee03b1309a181?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "開幕戦で衝撃ゴールの三井寺眞とは？ 16歳4か月5日でデビュー、クラブ史上最年少で昇格の新星(FOOTBALL ZONE)",
-      "summary": "横浜F・マリノスの16歳MF三井寺眞（みいでら・しん）が8月7日、MUFGスタジアム（国立競技場）で行われたJ1リーグ開幕節の鹿島アントラーズ戦で前半7分に衝撃のデビューゴールを決めた。今季Jリーグ",
-      "link": "https://news.yahoo.co.jp/articles/844dee36c111413670056c7d75e6234dd17531ed?source=rss",
-      "pubDate": "2026-08-07T11:06:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/844dee36c111413670056c7d75e6234dd17531ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏レイソルは引いた相手をどう崩すのか。「左サイドには左サイドなりの形を」遠藤渓太を活かす新たな攻撃像【コラム】(フットボールチャンネル)",
-      "summary": "8月1日に行われた第31回ちばぎんカップは、PK戦の末に柏レイソルがジェフユナイテッド千葉を下した。一方で、5バックでゴール前を固める相手から90分間で得点を奪えず、リカルド・ロドリゲス体制発足以降",
-      "link": "https://news.yahoo.co.jp/articles/db1b68b78b8a52cb880d091418242c91227b0a6c?source=rss",
-      "pubDate": "2026-08-07T11:03:21.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/db1b68b78b8a52cb880d091418242c91227b0a6c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和のマテウス・サヴィオ、開幕戦の前半20分で退場処分 イエロー2枚で今季初のレッドカード(FOOTBALL ZONE)",
-      "summary": "浦和レッズのMFマテウス・サヴィオが、8月7日のJ1開幕戦ガンバ大阪戦の前半22分に1試合2枚目のイエローカードを受け、シーズンで第1号の退場処分となった。 サヴィオは前半11分にG大阪のカウン",
-      "link": "https://news.yahoo.co.jp/articles/33217597ab54e4b6448a18eb17ef9db294b01d2e?source=rss",
-      "pubDate": "2026-08-07T11:03:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/33217597ab54e4b6448a18eb17ef9db294b01d2e?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667500"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１リーグ新シーズンの退場者１号は浦和ＭＦサビオ 相手突き飛ばし前半で２枚目イエロー(スポーツ報知)",
-      "summary": "◆２０２６／２７明治安田Ｊ１▽第１節 Ｇ大阪―浦和（７日・パナスタ） 曺貴裁新監督を迎えた浦和は、Ｇ大阪との開幕戦で前半２２分にＭＦサビオが２枚目のイエローで退場となった。 浦和は前半１７分、",
-      "link": "https://news.yahoo.co.jp/articles/86e5deb2f4736f93bae43b5664dafe7725f6f6a1?source=rss",
-      "pubDate": "2026-08-07T11:01:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/86e5deb2f4736f93bae43b5664dafe7725f6f6a1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "なんと！ 横浜FMの16歳が歴史的一撃！ 開幕戦最年少出場でいきなりゴール、超新星が衝撃デビュー！(SOCCER DIGEST Web)",
-      "summary": "2026/27シーズンのJ１リーグが８月７日に開幕し、横浜F・マリノスはMUFGスタジアム（国立競技場）で鹿島アントラーズと対戦。16歳MF三井寺眞が歴史に名を刻む衝撃のデビューを飾った。 今季",
-      "link": "https://news.yahoo.co.jp/articles/959edf9532610949814d4f76cc785856ae61a136?source=rss",
-      "pubDate": "2026-08-07T11:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/959edf9532610949814d4f76cc785856ae61a136?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「16歳でこれは凄すぎる」横浜FMの三井寺眞が開幕戦で衝撃ゴール！ J1今季第1号にSNS騒然(スポーティングニュース日本版)",
-      "summary": "8月7日（金）、2026/27明治安田J1リーグ第1節、横浜F・マリノス（横浜FM）対鹿島アントラーズ（鹿島）の試合がMUFGスタジアム（国立競技場）で行われている。 横浜FMは7分、この日がJ1初",
-      "link": "https://news.yahoo.co.jp/articles/0fe147217b40fe8f6e7a460ab68978c6792aeba8?source=rss",
-      "pubDate": "2026-08-07T10:57:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0fe147217b40fe8f6e7a460ab68978c6792aeba8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "シーズン移行元年のＪ１第１号は横浜ＦＭ１６歳の新星 三井寺真が衝撃デビュー弾…直近１０シーズンのＪ１初ゴール一覧(スポーツ報知)",
-      "summary": "◆明治安田Ｊ１リーグ▽第１節 横浜ＦＭ―鹿島（７日・ＭＵＦＧ国立）、Ｇ大阪―浦和（７日・パナスタ） シーズン移行後の初年度なるＪ１の２６～２７年シーズン開幕戦が行われ、横浜ＦＭの１６歳三井寺真が前",
-      "link": "https://news.yahoo.co.jp/articles/94bda9a3ab491ea3eca474afee2c3aeaf1dad4c5?source=rss",
-      "pubDate": "2026-08-07T10:55:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/94bda9a3ab491ea3eca474afee2c3aeaf1dad4c5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【コンサドーレ】5年ぶりの開幕戦勝利へ！川井監督「これが本当に『ホーム開幕戦』、かっこいい素晴らしいファン・サポーターが声援を送ってくれる」(STVニュース北海道)",
-      "summary": "シーズン移行に伴い、8日(土)開幕するJ2リーグ。 2021年以来のJ1復帰を目指す北海道コンサドーレ札幌は、 きょう、開幕戦前最後の練習に臨んだ。 選手達の表情は自信にあふれ、適度な緊張感も持ちな",
-      "link": "https://news.yahoo.co.jp/articles/a7c0479bc0a6b5f1dd31884e7f066d3150fac7b8?source=rss",
-      "pubDate": "2026-08-07T10:55:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a7c0479bc0a6b5f1dd31884e7f066d3150fac7b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】知念慶 王者鹿島から移籍決めた心意気「これから伸びていくクラブでチャレンジ」(日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 欧州にカレンダーを合わせた夏開幕のJリーグが始まった。その歴史的な開幕戦で激突したのは横浜と鹿島。新章を迎えたJリーグにあって心機一転、王者",
-      "link": "https://news.yahoo.co.jp/articles/b840642a7215a56e15bf109827e084445e4e6c0c?source=rss",
-      "pubDate": "2026-08-07T10:46:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b840642a7215a56e15bf109827e084445e4e6c0c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】三井寺眞16歳４カ月５日、J1史上最年少の開幕スタメン(日刊スポーツ)",
-      "summary": "＜明治安田J1：横浜－鹿島＞◇7日◇東京・MUFG国立 横浜の16歳MF三井寺眞が、鹿島とのJ1開幕戦でスタメンに名を連ねた。J1開幕節で16歳4カ月5日での出場は、04年にFW森本貴幸（東京V）",
-      "link": "https://news.yahoo.co.jp/articles/08c0db573ceecc60b259a85cbbfdd21ad691d78c?source=rss",
-      "pubDate": "2026-08-07T10:38:52.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers",
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/08c0db573ceecc60b259a85cbbfdd21ad691d78c?source=rss"
-        },
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ebbf626d5899f6b63fc40ea7373d04226152c62c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「絶対に世界に負けていない」森保一監督がJリーグ開幕戦で断言！ 日本サッカー最大の強みとは？「育てて、ピックアップしていくシステムがある」(SOCCER DIGEST Web)",
-      "summary": "2026/27シーズンのJ１リーグが８月７日、ついに開幕を迎える。開幕戦では横浜F・マリノスと鹿島アントラーズがMUFGスタジアム（国立競技場）で激突。そのゲームを配信するDAZNの中継に試合前、日",
-      "link": "https://news.yahoo.co.jp/articles/8ad0110ea74562e50d7c12e7d9dfa69bf248a113?source=rss",
-      "pubDate": "2026-08-07T10:18:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8ad0110ea74562e50d7c12e7d9dfa69bf248a113?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ開幕戦、国立で超豪華演出 シーズン移行の初年度…花火は約2500発、最新テクノロジーを駆使(FOOTBALL ZONE)",
-      "summary": "Jリーグは8月7日、2026-27シーズンの開幕節を迎え、MUFGスタジアム（国立競技場）で横浜F・マリノスと鹿島アントラーズが対戦。シーズン移行後、初年度のファーストゲームが行われ、試合前にド派手",
-      "link": "https://news.yahoo.co.jp/articles/a33757ad4684812b25fd003edc52d86fe36f009f?source=rss",
-      "pubDate": "2026-08-07T10:17:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a33757ad4684812b25fd003edc52d86fe36f009f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ開幕戦、国立で超豪華演出 「秋春制」移行の初年度…花火は約2500発、最新テクノロジーを駆使",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/667463",
-      "pubDate": "2026-08-07T10:17:41.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/667463"
-        }
-      ]
-    },
-    {
-      "title": "Ｊリーグ 歴史的な「秋春制」移行で、外国籍選手の質に変化…元バルセロナ、豪州代表ら欧州で実績ある実力選手が加入(スポーツ報知)",
-      "summary": "Ｊリーグは２０２６年８月７日、歴史的な転換点を迎えた。１９９３年の開幕以来、日本サッカーの標準だった２月開幕～１２月閉幕の「春秋制」に幕が下ろされ、今季より欧州主要リーグと同じ「秋春制（８月開幕～翌",
-      "link": "https://news.yahoo.co.jp/articles/43061e200458f64536b56c1825be2601f6a9734f?source=rss",
-      "pubDate": "2026-08-07T10:09:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/43061e200458f64536b56c1825be2601f6a9734f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "３シーズンぶりのJ1昇格へ コンサドーレが“前日練習” シーズン移行で８日に開幕 北海道(STVニュース北海道)",
-      "summary": "シーズン移行に伴い、８月８日に開幕するＪ２リーグ。 開幕戦を５年ぶりにホームで迎えるコンサドーレが、７日に本番前最後の練習をしました。 ８日の開幕戦の舞台・大和ハウスプレミストドームのピッチで前日",
-      "link": "https://news.yahoo.co.jp/articles/870c31c14c041db49cc0d4d87ab50e2d09d4b053?source=rss",
-      "pubDate": "2026-08-07T10:09:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/870c31c14c041db49cc0d4d87ab50e2d09d4b053?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】秋山翔吾が海外FA権取得「シーズン中なので何かを考えるとかはない」１番中堅で先発(日刊スポーツ)",
-      "summary": "＜DeNA－広島＞◇6日◇横浜 広島秋山翔吾外野手（38）が海外FA（フリーエージェント）権を取得した。 DeNA戦前の練習後「それぐらいの年齢やってきたというのもある。本当はあと数日早く（登",
-      "link": "https://news.yahoo.co.jp/articles/f49c35fc9e3115486ea01cd81ab08a260cbe7d19?source=rss",
-      "pubDate": "2026-08-07T10:00:27.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f49c35fc9e3115486ea01cd81ab08a260cbe7d19?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜F・マリノスの16歳、三井寺眞がスタメン抜擢！ J1開幕戦の最年少記録を更新「16歳4か月5日」で鹿島アントラーズ戦へ",
-      "summary": "横浜F・マリノスは8月7日、2026/27シーズンの明治安田J1リーグ開幕戦で鹿島アントラーズと対戦する。試合に先立って両チームの先発メンバーが発表され、マリノスでは16歳のMF三井寺眞がスタメンに名を連ねた。J1開幕戦の最年少先発記録を更…",
-      "link": "https://www.footballchannel.jp/2026/08/07/post973221/",
-      "pubDate": "2026-08-07T09:37:55.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/07/post973221/"
-        }
-      ]
-    },
-    {
-      "title": "大宮MF山本桜大「世界で戦うなら絶対できたほうがいい」新境地ポジションで目指すJ1昇格(ゲキサカ)",
-      "summary": "新たな武器を手にJリーグの開幕戦へ。RB大宮アルディージャは8日のJ2リーグ開幕節でアルビレックス新潟と対戦する。MF山本桜大は1日のプレシーズンマッチ・浦和レッズ戦では4-3-3のインサイドハーフ",
-      "link": "https://news.yahoo.co.jp/articles/296bdaf5c392a72487d2e5877c805fe5e0bd3f9f?source=rss",
-      "pubDate": "2026-08-07T09:22:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/296bdaf5c392a72487d2e5877c805fe5e0bd3f9f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ガンバ大阪】明神智和監督&遠藤保仁HC体制で挑む新シーズン｜試合日程・選手一覧・注目選手・移籍・補強｜2026/27 Jリーグ選手名鑑(DAZN News)",
-      "summary": "2026/27シーズンの明治安田J1リーグが、8月7日にいよいよ幕を開ける。秋春制に移行して行われる初めてのシーズン。新時代の到来を前に、ガンバ大阪の選手一覧や今夏の新戦力などをまとめて紹介する。※情",
-      "link": "https://news.yahoo.co.jp/articles/d1067b2d17d8fb0bd60e28ed8f45bf2b523d938b?source=rss",
-      "pubDate": "2026-08-07T09:20:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d1067b2d17d8fb0bd60e28ed8f45bf2b523d938b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「Jリーグもこんな時代に…」「アツすぎる」開幕戦で16歳MFが更新する“歴史的記録”にファン興奮！「ワクワク止まらん」(SOCCER DIGEST Web)",
-      "summary": "ついに幕を開ける2026-27シーズン。その開幕戦で、日本サッカー界の未来を担う逸材が歴史に名を刻む。 横浜F・マリノスは８月７日、J１リーグ開幕戦で鹿島アントラーズとMUFGスタジアム（国立競",
-      "link": "https://news.yahoo.co.jp/articles/442119508ffcc941c9102ff7817ede15748a3f31?source=rss",
-      "pubDate": "2026-08-07T09:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/442119508ffcc941c9102ff7817ede15748a3f31?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｇ大阪】浦和戦メンバー発表 Ｇ大阪は18歳GK荒木琉偉、浦和は19歳MF笹修大が先発(日刊スポーツ)",
-      "summary": "＜明治安田J1：G大阪－浦和＞◇第1節◇7日◇パナスタ 新シーズンの開幕戦で、ガンバ大阪が浦和レッズと対戦する。キックオフを前に両チームのメンバーが発表。G大阪は18歳のU－21日本代表GK荒木琉",
-      "link": "https://news.yahoo.co.jp/articles/6398771881cd5cd33c6c516f969efa182cea7693?source=rss",
-      "pubDate": "2026-08-07T09:14:21.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6398771881cd5cd33c6c516f969efa182cea7693?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜Mの16歳FW三井寺真が初先発！J1開幕戦史上最年少スタメン記録更新へ(中日スポーツ)",
-      "summary": "◇７日 Ｊ１リーグ開幕節 横浜Ｍ―鹿島（ＭＵＦＧスタジアム） ８月開幕にシーズンを移行したＪリーグは７日にＪ１の第１節を迎え、横浜Ｍと昨季王者の鹿島が東京・ＭＵＦＧスタジアムで対戦する。 両チ",
-      "link": "https://news.yahoo.co.jp/articles/62e135aa953aa8e6f84a78bcba56121a58b4cd96?source=rss",
-      "pubDate": "2026-08-07T09:12:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/62e135aa953aa8e6f84a78bcba56121a58b4cd96?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "C大阪パブロ・マチン監督が初陣・岡山戦へ「ドルトムント戦以上の活躍を」新加入MFアーバインは欠場(スポニチアネックス)",
-      "summary": "C大阪は8日にホームで岡山とのリーグ開幕戦を行う。今季から指揮を執るパブロ・マチン監督は「ワクワクしている。ドルトムント戦で見せたような活躍…それ以上の活躍を見せたい」と高揚感を隠さなかった。",
-      "link": "https://news.yahoo.co.jp/articles/bd70869d81ae61014b59fc978ca71dd67d5b1a7f?source=rss",
-      "pubDate": "2026-08-07T09:11:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bd70869d81ae61014b59fc978ca71dd67d5b1a7f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【神戸】下部組織育ちの中京大MF岩本悠庵 29－30シーズンからの加入発表(日刊スポーツ)",
-      "summary": "ヴィッセル神戸は7日、29－30シーズンから中京大MF岩本悠庵（ゆあん、2年＝神戸U－18）が加入すると発表した。同時に、今季の特別指定選手として登録されたことも発表している。 大阪・堺市出身の",
-      "link": "https://news.yahoo.co.jp/articles/384fd1d22cf4664d956d6ecf6652b962b46f2504?source=rss",
-      "pubDate": "2026-08-07T09:04:45.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/384fd1d22cf4664d956d6ecf6652b962b46f2504?source=rss"
         }
       ]
     }
