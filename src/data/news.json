@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-06T15:58:55.954Z",
-  "count": 2065,
+  "generatedAt": "2026-09-06T18:02:28.658Z",
+  "count": 2066,
   "items": [
+    {
+      "title": "強すぎる！ロドリ初先発のバルサが今季３度目のマニータ達成、開幕４連勝！初めてスタメン落ちの佐藤龍之介が63分から出場も…惨敗のバレンシアは４戦未勝利(SOCCER DIGEST Web)",
+      "summary": "現地９月６日に開催されたラ・リーガの第４節で、昨季王者のバルセロナが、今夏にFC東京から佐藤龍之介が加入したバレンシアと敵地で対戦した。 開幕から３試合は先発だった佐藤が初めてベンチスタートとな",
+      "link": "https://news.yahoo.co.jp/articles/e8ed2440f167f55564572e2891ee3291ead68e37?source=rss",
+      "pubDate": "2026-09-06T16:17:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e8ed2440f167f55564572e2891ee3291ead68e37?source=rss"
+        }
+      ]
+    },
     {
       "title": "『J.LEAGUE WEEKEND 日曜のやべサカ』スタジオに水戸のGK松原修平選手登場。試合直後の浦和GK西川周作選手にも独占取材！｜ Jリーグ(DAZN News)",
       "summary": "【国内サッカー 最新ニュース】矢部浩之さんが番組リーダーを務めるスポーツ・チャンネル『DAZN（ダゾーン）』のJリーグ・ハイライト番組『J.LEAGUE WEEKEND 日曜のやべサカ Present",
@@ -27,16 +46,16 @@
       "summary": "＜明治安田J1：神戸3－1長崎＞◇6日◇第6節◇ノエスタ V・ファーレン長崎はアウェーでヴィッセル神戸に敗れ、今季4敗目を喫した。 19年から6シーズン神戸でプレーしたMF山口蛍（35）は、古",
       "link": "https://news.yahoo.co.jp/articles/e1e5f84241eabd05d281c307df51c0280dd18b98?source=rss",
       "pubDate": "2026-09-06T15:12:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "v-varen"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e1e5f84241eabd05d281c307df51c0280dd18b98?source=rss"
         }
       ]
@@ -46,16 +65,16 @@
       "summary": "＜明治安田J1：神戸3－1長崎＞◇6日◇第6節◇ノエスタ ヴィッセル神戸が3ゴールでV・ファーレン長崎を下し、公式戦4連勝を飾った。 この試合ではMF郷家友太（27）が2得点で勝利の立役者とな",
       "link": "https://news.yahoo.co.jp/articles/6b0d70ad2a2bfc854cc30044a0e33553d0413047?source=rss",
       "pubDate": "2026-09-06T15:10:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "vissel"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6b0d70ad2a2bfc854cc30044a0e33553d0413047?source=rss"
         }
       ]
@@ -65,8 +84,8 @@
       "summary": "＜明治安田J1：柏0－2横浜＞◇6日◇第6節◇三協F柏 横浜F・マリノスの超新星、16歳MF三井寺眞は開幕から6試合目にして初のベンチスタートとなった。ここまで5試合連続先発出場で2得点を挙げてい",
       "link": "https://news.yahoo.co.jp/articles/b491aa838c8887c463962d34a877eeb59837c491?source=rss",
       "pubDate": "2026-09-06T14:59:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "reysol",
         "marinos"
@@ -74,8 +93,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/b491aa838c8887c463962d34a877eeb59837c491?source=rss"
         }
       ]
