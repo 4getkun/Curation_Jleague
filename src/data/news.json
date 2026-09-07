@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-07T16:11:15.217Z",
-  "count": 1927,
+  "generatedAt": "2026-09-07T20:02:31.303Z",
+  "count": 1919,
   "items": [
+    {
+      "title": "J1千葉・小林監督 原点回帰の姿勢 J1最長ブランク6132日ぶり勝利から一夜明け(スポニチアネックス)",
+      "summary": "J1最長ブランクとなる6132日ぶりの勝利を挙げたG大阪戦から一夜明け、小林監督が原点回帰の姿勢を鮮明にした。 前夜の会見では「一概にこの勝利で何かを踏み出せたとは思えない。最適解が見極められな",
+      "link": "https://news.yahoo.co.jp/articles/0cbe91a1b43d802a1ae1333d85757ee82a1400f4?source=rss",
+      "pubDate": "2026-09-07T19:35:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0cbe91a1b43d802a1ae1333d85757ee82a1400f4?source=rss"
+        }
+      ]
+    },
     {
       "title": "東京V 岡山FW一美和成獲り 開幕から低迷続き…得点力不足解消へ長身ストライカー補強(スポニチアネックス)",
       "summary": "開幕から低迷が続く東京Vが、新戦力として岡山のFW一美和成（28）を獲得することが7日、分かった。複数の関係者が明かしたもの。ここまで6試合で2得点と得点力不足は深刻で、FW染野と並ぶストライカーの",
@@ -1157,21 +1176,22 @@
       ]
     },
     {
-      "title": "柏vs横浜FM スタメン発表",
-      "summary": "[9.6 J1第6節](三協F柏)※19:00開始主審:大橋侑祐[柏レイソル]先発GK 25 小島亨介DF 2 三丸拡DF 4 古賀太陽DF 88 馬場晴也MF 5 遠藤渓太MF 8 小泉佳穂MF 11 渡井理己MF 21 小西雄大MF 3…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458349-458349-fl",
-      "pubDate": "2026-09-06T10:10:00.000Z",
+      "title": "開幕5連敗の千葉、待望の17年ぶりJ1リーグ戦勝利! G大阪は5戦勝ちなし、昇格組に苦戦相次ぐ",
+      "summary": "[9.6 J1第6節 千葉 2-0 G大阪 フクアリ] J1リーグ戦は6日、第6節を各地で行い、開幕5連敗だったジェフユナイテッド千葉がガンバ大阪を2-0で破った。昇格1年目の千葉は最後にJ1在籍していた2009年11月22日以来、6132…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458355-458355-fl",
+      "pubDate": "2026-09-06T10:58:53.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "reysol"
+        "jef-chiba",
+        "gamba"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458349-458349-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458355-458355-fl"
         }
       ]
     },
@@ -37366,181 +37386,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/1ba46c7b349dbc0037219b8cec261bc7e1311695?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "明治安田J1 水戸、開幕戦黒星 柏に1-2(茨城新聞クロスアイ)",
-      "summary": "明治安田J1第1節第2日は8日、千葉県の三協フロンテア柏スタジアムなどで行われ、初昇格の水戸は柏に1-2で敗れ、開幕戦を飾れなかった。 水戸は前半5分に先制され、同36分にはミドルシュートを決められ",
-      "link": "https://news.yahoo.co.jp/articles/099f40c967aa2bd24b01001e2ea11b17dee16a29?source=rss",
-      "pubDate": "2026-08-08T20:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hollyhock",
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/099f40c967aa2bd24b01001e2ea11b17dee16a29?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏 J1通算400勝! 2点絡んだ小泉は“純国産ラインアップ”に手応え「イメージ共有できてる」(スポニチアネックス)",
-      "summary": "◇明治安田J1第1節 柏 2―1 水戸（2026年8月8日 三協F柏） 明治安田J1リーグは8日に6試合が行われ、柏が水戸を2―1で破ってJ1通算400勝を達成した。MF小泉佳穂（29）が前半3",
-      "link": "https://news.yahoo.co.jp/articles/e3dea3a8581aa7e59fbd40023420fbc78cc54181?source=rss",
-      "pubDate": "2026-08-08T19:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e3dea3a8581aa7e59fbd40023420fbc78cc54181?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "千葉 17年ぶりのJ1白星お預け…シュート数も完敗 小林監督「早急に改善しないと」(スポニチアネックス)",
-      "summary": "◇明治安田J1第1節 千葉 0―3 広島（2026年8月8日 Eピース） 千葉は最長ブランクとなる17年ぶりのJ1リーグ白星がお預けとなった。 開始3分、後半34分にともにセットプレーから失",
-      "link": "https://news.yahoo.co.jp/articles/fb59f860f6faeb3c033879f3b9d44fbe91198bca?source=rss",
-      "pubDate": "2026-08-08T19:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fb59f860f6faeb3c033879f3b9d44fbe91198bca?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田5発完勝!DF中山＆MF相馬が躍動 日本代表復帰へ気合「Jリーグ組で頑張りたい」(スポニチアネックス)",
-      "summary": "◇明治安田J1第1節 町田 5―1 FC東京（2026年8月8日 味スタ） 町田は日本代表復帰を狙う2人が、チーム計5発の猛攻を呼び込んだ。まずは0―1の前半27分、DF中山がペナルティーエリア",
-      "link": "https://news.yahoo.co.jp/articles/76235a4ded1d4621b7c4ac18bc76de123bbcf5ac?source=rss",
-      "pubDate": "2026-08-08T19:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/76235a4ded1d4621b7c4ac18bc76de123bbcf5ac?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京 橋本健が痛い退場…1―5大敗で黒星発進も室屋「どう立ち直るか見せたい」(スポニチアネックス)",
-      "summary": "◇明治安田J1第1節 FC東京 1―5 町田（2026年8月8日 味スタ） FC東京は1―5と大敗を喫し、黒星発進となった。前半5分に幸先良く先制したが、落とし穴は1―1の同38分に待っていた。",
-      "link": "https://news.yahoo.co.jp/articles/5856ec0178262bef60abcade9d85c459e75cb83c?source=rss",
-      "pubDate": "2026-08-08T19:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5856ec0178262bef60abcade9d85c459e75cb83c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "長友 FC東京と契約延長発表「シャーレ掲げたい」 来月40歳も「選手である以上は代表目指す」(スポニチアネックス)",
-      "summary": "日本代表DF長友佑都（39）が8日、FC東京と契約を延長して現役を続行すると発表した。町田との開幕戦の開始前にホームの味の素スタジアムで、今季も青赤のユニホームに袖を通すことをサポーターに伝えた。9",
-      "link": "https://news.yahoo.co.jp/articles/ad92eb97af296ba38e10beff033d48d3f5e39c13?source=rss",
-      "pubDate": "2026-08-08T19:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "contract",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ad92eb97af296ba38e10beff033d48d3f5e39c13?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "韓国サッカー協会 日本人含む外国人審判員に性接待疑惑 W杯予選なども含むと現地テレビ報道(スポニチアネックス)",
-      "summary": "韓国のMBCテレビは7日、サッカー協会が過去に外国人審判員約10人に性接待をして日本人も含まれるとの疑惑を報じた。日本人について「Jリーグの審判を統括する人物も含まれる」としている。16年に作成され",
-      "link": "https://news.yahoo.co.jp/articles/f1ef8dee49c4de6e628843ba41b66861498067bf?source=rss",
-      "pubDate": "2026-08-08T18:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f1ef8dee49c4de6e628843ba41b66861498067bf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ストーク所属の瀬古樹、2年ぶりのJリーグ復帰か…クラブ間で合意と現地報道(サッカーキング)",
-      "summary": "ストークに所属するMF瀬古樹が、今夏に同クラブを退団する見込みのようだ。8日、地元メディア『センチネル』が報じている。 報道によると、ストークはすでに瀬古の移籍をめぐり、Jリーグのクラブと合意に",
-      "link": "https://news.yahoo.co.jp/articles/bf85bb0610b08f43a9513cf9db5e9d34207830c1?source=rss",
-      "pubDate": "2026-08-08T16:56:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bf85bb0610b08f43a9513cf9db5e9d34207830c1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【町田】中山雄太＆明本考浩＆相馬勇紀の左サイドが面白い！ 同点弾が「理想通りで再現性もある」と自画自賛！(サッカーマガジンWeb)",
-      "summary": "8月8日の明治安田J1リーグ第1節で、FC東京とのアウェーゲームを逆転で制したのがFC町田ゼルビアだ。輝いたのは左サイド。中山雄太、明本考浩、相馬勇紀が5ゴールすべてに関与して、その破壊力を見せつけ",
-      "link": "https://news.yahoo.co.jp/articles/eca1e262bb82cd398f6678edfdb41f3a95b6c789?source=rss",
-      "pubDate": "2026-08-08T16:38:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/eca1e262bb82cd398f6678edfdb41f3a95b6c789?source=rss"
         }
       ]
     }
