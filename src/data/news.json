@@ -1,7 +1,84 @@
 {
-  "generatedAt": "2026-09-08T13:58:39.965Z",
-  "count": 1846,
+  "generatedAt": "2026-09-08T17:45:36.662Z",
+  "count": 1842,
   "items": [
+    {
+      "title": "岡山 J2磐田FW佐藤凌我を獲得へ 東京Vへ移籍のFW一美和成の後釜として期待(スポニチアネックス)",
+      "summary": "J1岡山がJ2磐田FW佐藤凌我（27）を獲得することが8日、決定的となった。近日中に正式発表される。 豊富な運動量と泥臭くゴールへ向かう姿勢を併せ持つストライカー。明治大から21年に東京V（当時",
+      "link": "https://news.yahoo.co.jp/articles/b0916402c938c1ba73978965818037e584c915a1?source=rss",
+      "pubDate": "2026-09-08T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b0916402c938c1ba73978965818037e584c915a1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "G大阪 J2宮崎FW土信田悠生を獲得へ 空中戦など多彩な得点パターン持つストライカー(スポニチアネックス)",
+      "summary": "G大阪がJ2宮崎FW土信田悠生（27）を獲得することが8日、決定的となった。近日中に正式発表される。 1メートル82の長身ストライカーで空中戦の強さやクロスへの入り方を武器に持つ。多彩なゴールパ",
+      "link": "https://news.yahoo.co.jp/articles/82c6d3577df7ee7d47cf262ac2aeb23fc9386e20?source=rss",
+      "pubDate": "2026-09-08T15:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/82c6d3577df7ee7d47cf262ac2aeb23fc9386e20?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸 町田FWエリキ獲得が決定的に J1王者奪回＆悲願ACLE制覇へ追い風(スポニチアネックス)",
+      "summary": "神戸が町田FWエリキ（32）を再獲得することが8日までに決定的となった。複数の関係者によると、近日中にチームに合流するという。 25年シーズンに期限付きで在籍したアタッカーに対して、神戸は7月か",
+      "link": "https://news.yahoo.co.jp/articles/6075892c334f8568d14558f5d2e23401c84a40b3?source=rss",
+      "pubDate": "2026-09-08T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6075892c334f8568d14558f5d2e23401c84a40b3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "女子バロンドールに日本人史上最多3人がノミネート!! 長谷川唯は2年ぶり3度目の30傑入り",
+      "summary": "フランスフットボール主催の年間表彰『バロンドール』のノミネート選手が8日、発表され、女子部門ではMF長谷川唯(マンチェスター・C)、MF谷川萌々子(バイエルン)、FW松窪真心(チェルシー)が30人の候補入りした。 長谷川は2023年、24年…",
+      "link": "https://web.gekisaka.jp/news/women/detail/?458499-458499-fl",
+      "pubDate": "2026-09-08T14:08:47.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/women/detail/?458499-458499-fl"
+        }
+      ]
+    },
     {
       "title": "欧州での1か月間で成長して流経大柏に合流。進路も注目のDFメンディ・サイモン友は一からのチーム作りと将来への努力(ゲキサカ)",
       "summary": "高校年代の最注目ストッパーが、欧州で一回り成長して帰ってきている。流通経済大柏高(千葉)の日本高校選抜CBメンディ・サイモン友主将(3年=川崎フロンターレU-15生田出身)が、約1か月間の欧州武者修",
@@ -682,6 +759,27 @@
       ]
     },
     {
+      "title": "G大阪FW植中朝日が左膝内側半月板損傷を再発",
+      "summary": "[故障者情報] ガンバ大阪は7日、FW植中朝日が8月26日の天皇杯・レイラック滋賀戦で負傷し、左膝内側半月板損傷と診断されたことを発表した。全治期間は公表していない。 植中は百年構想リーグから横浜F・マリノスより加わったが、今年1月にも左膝…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458405-458405-fl",
+      "pubDate": "2026-09-07T01:15:24.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458405-458405-fl"
+        }
+      ]
+    },
+    {
       "title": "「“3”以上のものがある」横浜FM宮市亮が柏撃破の決勝弾…33歳ベテランが起用に応える(ゲキサカ)",
       "summary": "[9.6 J1第6節 柏 0-2 横浜FM 三協F柏] 起用に応えたベテランが決勝点をあげた。公式戦で7連敗中と柏レイソルを苦手としている横浜F・マリノスは、連戦ということもあって開幕から固定して",
       "link": "https://news.yahoo.co.jp/articles/fae5a56185d5fe7703301620e9a2eac947f8954c?source=rss",
@@ -1166,25 +1264,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/61c72a81d70c5f0b3f1636e89e71ca7cf55169cf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "意図的? 偶然? 顔面に足裏直撃も決勝弾演出パス、川崎Fウレモビッチ「ノールックパスだったかもしれない」",
-      "summary": "[9.6 J1第6節 川崎F 3-1 清水 MUFG国立] 顔面に相手の足裏を受けながら、決勝点の起点となった。川崎フロンターレのDFフィリプ・ウレモビッチは倒れ込みながらもボールを前線につなぎ、勝ち越しゴールを呼び込んだ。 思わぬ形でゴー…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458383-458383-fl",
-      "pubDate": "2026-09-06T13:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458383-458383-fl"
         }
       ]
     },
@@ -2840,25 +2919,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/b5442dee809826b8fc1deb53c9c4c9e022662bec?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "女子ACLのGL組み合わせが決定、唯一の日本勢INAC神戸レオネッサはA組に",
-      "summary": "日本サッカー協会(JFA)は3日、AFC女子チャンピオンズリーグ(女子ACL)2026-27のグループリーグ組み合わせを発表した。日本からはINAC神戸レオネッサが出場する。 I神戸はグループAに入り、ネゴヒャン女子蹴球団(北朝鮮)、バム・…",
-      "link": "https://web.gekisaka.jp/news/women/detail/?458145-458145-fl",
-      "pubDate": "2026-09-03T10:22:10.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/women/detail/?458145-458145-fl"
         }
       ]
     },
@@ -35852,140 +35912,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0ac159989896215bce9bd6afdbfa3df6267fc358?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和 MF瀬古樹を獲得決定的! イングランド2部ストークからJリーグ復帰へ(スポニチアネックス)",
-      "summary": "浦和が、イングランド2部ストークのMF瀬古樹（たつき）を獲得することが9日までに決定的となった。複数の関係者が明かした。 高い技術を誇るボランチで20年に明大から横浜FCに正式加入。22年に川崎",
-      "link": "https://news.yahoo.co.jp/articles/d998d8499f57a2778c5e39fddaa19cfa6f8d091c?source=rss",
-      "pubDate": "2026-08-09T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d998d8499f57a2778c5e39fddaa19cfa6f8d091c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "チアゴ・サンタナが2ゴール！ 『平和の日』にアグレッシブなプレーを見せ続けた長崎が京都を下し、白星スタート◎J1第1戦(サッカーマガジンWeb)",
-      "summary": "9日、J1リーグ第1節、残りの2試合が開催された。長崎・PEACE STADIUMではV・ファーレン長崎対京都サンガF.C.が対戦。前半2ゴールを奪った長崎が京都の反撃を1点に抑え、勝ち点3を手にした",
-      "link": "https://news.yahoo.co.jp/articles/805552a24574e7a1b9d948028cdf32ead2de41c9?source=rss",
-      "pubDate": "2026-08-09T15:46:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "v-varen",
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/805552a24574e7a1b9d948028cdf32ead2de41c9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京V】「気づいたらあそこにいた」溝口修平がプロ初ゴールで手にしたもの「ゴールはより多く見えてくる」(サッカーマガジンWeb)",
-      "summary": "8月9日の明治安田J1リーグ第1節で、東京ヴェルディは先制しながら土壇場でゴールを許して川崎フロンターレと引き分けた。悔しいが、溝口修平にとっては、鹿島アントラーズから期限付き移籍してきていきなりプ",
-      "link": "https://news.yahoo.co.jp/articles/1d92fc844535c6c238bf35f4ed5304c472ebf8e5?source=rss",
-      "pubDate": "2026-08-09T14:21:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1d92fc844535c6c238bf35f4ed5304c472ebf8e5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京V】城福監督「やりきった上で勝ち点１は危機的状況」勝利目前の悔しいドローに表情厳しく(日刊スポーツ)",
-      "summary": "＜明治安田J1：東京V1－1川崎F＞◇9日◇第1節◇味スタ 東京ヴェルディが、開幕戦勝利を目前で逃した。 鋭い出足とチーム一体となった組織的な守備。後半開始早々に鹿島から移籍したMF溝口修平が",
-      "link": "https://news.yahoo.co.jp/articles/3bd946b8f4842de0e8aa8c5a998556dc08d88bdf?source=rss",
-      "pubDate": "2026-08-09T14:15:13.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3bd946b8f4842de0e8aa8c5a998556dc08d88bdf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ開幕節で過去最多の動員数を更新！ J1で30万人超、全カテゴリー合計47万人超を記録",
-      "summary": "2026/27シーズンの明治安田Jリーグは9日、開幕節（J1・J2・J3第1節）の入場者数を発表した。8月7日から9日に開催された29試合で、3カテゴリー合計476,112人を記録。1節あたりの最多入場者数を更新した。",
-      "link": "https://www.footballchannel.jp/2026/08/09/post974082/",
-      "pubDate": "2026-08-09T14:14:45.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/09/post974082/"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ開幕節で過去最多の動員数を更新！ J1で30万人超、全カテゴリー合計47万人超を記録(フットボールチャンネル)",
-      "summary": "2026/27シーズンの明治安田Jリーグは9日、開幕節（J1・J2・J3第1節）の入場者数を発表した。8月7日から9日に開催された29試合で、3カテゴリー合計476,112人を記録。1節あたりの最多",
-      "link": "https://news.yahoo.co.jp/articles/9adeb7a2ee73fdbf9286634244eb43501d36454d?source=rss",
-      "pubDate": "2026-08-09T14:14:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9adeb7a2ee73fdbf9286634244eb43501d36454d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "京都FWラファエル・エリアスは前半30分までの戦い悔やむ「本当に悪い入り方だった」(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ 京都1―2長崎（2026年8月9日 ピースタ） 今季主将を務める京都FWラファエル・エリアスは試合の入り方を猛省した。後半9分に巧みな反転から1点差に迫る得点を決めたが「本",
-      "link": "https://news.yahoo.co.jp/articles/7de41f454538cbcade85e238a59e1397270b26b1?source=rss",
-      "pubDate": "2026-08-09T14:01:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7de41f454538cbcade85e238a59e1397270b26b1?source=rss"
         }
       ]
     }
