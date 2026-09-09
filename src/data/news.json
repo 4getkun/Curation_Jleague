@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2026-09-09T14:41:27.232Z",
-  "count": 1818,
+  "generatedAt": "2026-09-09T18:08:34.867Z",
+  "count": 1820,
   "items": [
+    {
+      "title": "【ルヴァンカップ トーナメント表】2026/27 Jリーグ ヤマザキビスケット ルヴァンカップ 組み合わせ一覧",
+      "summary": "2026/27 JリーグYBCルヴァンカップのトーナメント組み合わせ一覧。J1・J2・J3の全60クラブが参加し、1stラウンドを勝ち上がったクラブが次のステージへ進出する。",
+      "link": "https://www.footballchannel.jp/2026/09/10/post999093/",
+      "pubDate": "2026-09-09T16:18:59.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/10/post999093/"
+        }
+      ]
+    },
+    {
+      "title": "ルヴァンカップ2026/27 全試合日程・結果・放送・配信予定一覧",
+      "summary": "2026/27シーズンのJリーグYBCルヴァンカップの試合日程・対戦カード・会場・テレビ放送予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。※本記事のデータはJリーグ公式サイトを参照しています。",
+      "link": "https://www.footballchannel.jp/2026/09/10/post999006/",
+      "pubDate": "2026-09-09T15:01:52.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/10/post999006/"
+        }
+      ]
+    },
     {
       "title": "『化け物すぎる…』デラクルーズが止まらない！170キロの衝撃送球＆4試合連続弾、球団史上2人目の大記録も視野に！(スポーティングニュース日本版)",
       "summary": "現地時間8日に行われたシンシナティ・レッズ対ロサンゼルス・ドジャースの一戦はドジャースが3-2と、1点差で勝利を収めた。 ドジャース先発タリク・スクーバルの粘り強い投球などが印象に残る試合となったが",
@@ -56,11 +90,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/09/post1007784/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ea65d0dca4f3bb376ae341d9ff309a9e2554349d?source=rss"
         }
       ]
     },
@@ -840,19 +869,22 @@
       ]
     },
     {
-      "title": "愛媛vs北九州 試合記録",
-      "summary": "【J3第5節】(ニンスタ)愛媛 4-2(前半2-1)北九州[愛]田村翔太(7分)、上村周平(13分)、藤本佳希(86分)、阿部稜汰(90分+6)[北]奈良坂巧(20分)、高橋大悟(54分)[愛]日野翔太(68分)[北]奈良坂巧(83分)、高…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458273-458273-fl",
-      "pubDate": "2026-09-08T13:20:02.000Z",
+      "title": "福岡vs水戸 試合記録",
+      "summary": "【J1第6節】(ベススタ)福岡 1-1(前半0-0)水戸[福]師岡柊生(53分)[水]木本恭生(86分)[福]前田快(50分)、師岡柊生(57分)[水]渡邉新太(45分+1)、鳥海芳樹(70分)、木本恭生(82分)観衆:6,501人主審:笠…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458274-458274-fl",
+      "pubDate": "2026-09-08T13:30:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "avispa",
+        "hollyhock"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458273-458273-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458274-458274-fl"
         }
       ]
     },
