@@ -1,7 +1,374 @@
 {
-  "generatedAt": "2026-09-11T11:35:54.367Z",
-  "count": 1774,
+  "generatedAt": "2026-09-11T15:28:57.519Z",
+  "count": 1792,
   "items": [
+    {
+      "title": "神戸MFエリキ「早く戻ってきて、このスタジアムでプレーしたかった」約9カ月ぶりのノエスタ噛み締める(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 神戸 2―1 鹿島（2026年9月11日 ノエスタ） 神戸は鹿島との上位対決を制し、リーグ4連勝を手にした。9日に町田からの完全移籍が発表されたMFエリキは後半27分から出",
+      "link": "https://news.yahoo.co.jp/articles/e6e9db2edd3bc9c7c53897f8b60ae2fe82bd154c?source=rss",
+      "pubDate": "2026-09-11T14:52:16.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "antlers",
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e6e9db2edd3bc9c7c53897f8b60ae2fe82bd154c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】DF山川哲史が２得点に関わって上位対決勝利に貢献「ボールを枠に飛ばせて良かった」(日刊スポーツ)",
+      "summary": "＜明治安田J1：神戸2－1鹿島＞◇11日◇第7節◇ノエスタ ヴィッセル神戸DF山川哲史（28）が、鹿島アントラーズとの上位対決で2得点を生み出し、攻撃面でも貢献した。 後半11分にDFジエゴの",
+      "link": "https://news.yahoo.co.jp/articles/e1d65768efc002e48ef997f8e2db2784d6a4a97c?source=rss",
+      "pubDate": "2026-09-11T14:46:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e1d65768efc002e48ef997f8e2db2784d6a4a97c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】マテウス・ブエノがトップ下出場「特長出た」と手応えも３連敗に「流れ止めないと」(日刊スポーツ)",
+      "summary": "＜明治安田J1：神戸2－1鹿島＞◇11日◇第7節◇ノエスタ＞ 鹿島アントラーズMFマテウス・ブエノ（28）が、ヴィッセル神戸戦で4－2－3－1のトップ下で先発し、チームに変化をもたらした。 こ",
+      "link": "https://news.yahoo.co.jp/articles/78caf0ccf35b57c28a04b5a1d8885231a56b230b?source=rss",
+      "pubDate": "2026-09-11T14:37:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/78caf0ccf35b57c28a04b5a1d8885231a56b230b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸DF山川哲史はV弾よりも1失点猛省「勝てて良かったですけど…後悔が強い」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 神戸 2―1 鹿島（2026年9月11日 ノエスタ） 神戸が鹿島との上位対決を制し、リーグ4連勝を手にした。後半32分に勝ち越し弾を挙げたDF山川哲史は「結果、勝てて良かっ",
+      "link": "https://news.yahoo.co.jp/articles/80d5478cebaf601d608887eacaebfe0b5ff0bfdd?source=rss",
+      "pubDate": "2026-09-11T14:26:22.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/80d5478cebaf601d608887eacaebfe0b5ff0bfdd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "実に11分の6…脅威の飛び道具に神戸FW大迫勇也「使わない手はないですよね」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 神戸 2―1 鹿島（2026年9月11日 ノエスタ） 神戸の“宝刀”が鹿島の牙城を崩した。後半11分のFW大迫勇也の先制PKも同32分のDF山川哲史の勝ち越しヘッドも、DF",
+      "link": "https://news.yahoo.co.jp/articles/b8df73793a0fed07d0b25696d86abcca2cb43e77?source=rss",
+      "pubDate": "2026-09-11T14:26:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b8df73793a0fed07d0b25696d86abcca2cb43e77?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】大迫勇也が鹿島相手にPKで今季３点目「もっといいプレーを出せる」と完全復活宣言(日刊スポーツ)",
+      "summary": "＜明治安田J1：神戸2－1鹿島＞◇11日◇第7節◇ノエスタ＞ ヴィッセル神戸FW大迫勇也（36）がPKで今季3点目を決め、リーグ4連勝に導いた。 主導権を握りながらも得点が奪えない時間が続いた",
+      "link": "https://news.yahoo.co.jp/articles/54b5a30c0bf9459631189dd0d7225538e1ff0d5e?source=rss",
+      "pubDate": "2026-09-11T14:19:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/54b5a30c0bf9459631189dd0d7225538e1ff0d5e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "白熱の攻防はロングスローを起点に決着！山川哲史の決勝弾で神戸が鹿島を破って4連勝 ｜ Jリーグ(DAZN News)",
+      "summary": "【国内サッカー レビュー】明治安田J1リーグは9月11日から13日にかけて第7節が開催。 ノエビアスタジアム神戸で開催されたヴィッセル神戸と鹿島アントラーズの一戦は白熱した激闘となった。",
+      "link": "https://news.yahoo.co.jp/articles/27a771728bd709ffcdfc4dd8de715e0a39873e00?source=rss",
+      "pubDate": "2026-09-11T14:13:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/27a771728bd709ffcdfc4dd8de715e0a39873e00?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１鹿島 開幕４連勝から急失速３連敗 鬼木達監督「すべては頂点に立つためのもの」(東スポWEB)",
+      "summary": "明治安田J1リーグ第7節（11日）、昨季王者・鹿島が、アウェー神戸戦に1―2で敗れ、リーグ戦3連敗となった。 後半11分にFW大迫勇也のPKで先制を許すと、同28分に途中出場のFWチャブリッチが",
+      "link": "https://news.yahoo.co.jp/articles/27f2ff5c48b7668c1b4df9add848cced11691cd1?source=rss",
+      "pubDate": "2026-09-11T14:05:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/27f2ff5c48b7668c1b4df9add848cced11691cd1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】鹿島に勝ち“王者対決”制す ２得点に絡んだDF山川「ベースはずっと変わらない」(日刊スポーツ)",
+      "summary": "＜明治安田J1：神戸2－1鹿島＞◇11日◇第7節◇ノエスタ＞ ヴィッセル神戸が25年リーグ覇者の鹿島アントラーズとの“王者対決”を制し、2位を守った。 シーズン移行に伴う特別大会の百年構想リー",
+      "link": "https://news.yahoo.co.jp/articles/8df770f01c5e6f9304ca7ce9fe571f4e747df5e4?source=rss",
+      "pubDate": "2026-09-11T13:46:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8df770f01c5e6f9304ca7ce9fe571f4e747df5e4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
+      "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
+      "link": "https://www.footballchannel.jp/2026/09/11/post969138/",
+      "pubDate": "2026-09-11T13:20:44.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post969138/"
+        }
+      ]
+    },
+    {
+      "title": "【順位表】明治安田J1リーグ2026/27 サッカー 最新情報",
+      "summary": "明治安田J1リーグ2026/27の最新順位表は下記の通り。勝点が同じ場合は得失点差→総得点数→当該チーム間の対戦成績（イ：勝点、ロ：得失点差、ハ：総得点数）→抽選の順で順位を決定する。",
+      "link": "https://www.footballchannel.jp/2026/09/11/post969132/",
+      "pubDate": "2026-09-11T13:18:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post969132/"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
+      "summary": "※情報は2026年9月11日21:30時点。J1第7節は2試合終了時点の暫定順位・結果。得点ランキングは9月11日21:30時点、アシストランキングはJリーグ公式9月7日更新データ。第21〜38節（2027年開催分）のキ […]",
+      "link": "https://www.footballchannel.jp/2026/09/11/post1003398/",
+      "pubDate": "2026-09-11T13:18:27.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post1003398/"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※得点・アシストは2026年9月11日J1第7節終了時点の確認済み数値を反映。 柏レイソルの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退 […]",
+      "link": "https://www.footballchannel.jp/2026/09/11/post992970/",
+      "pubDate": "2026-09-11T13:03:53.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post992970/"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※得点・アシストは2026年9月11日J1第7節終了時点の確認済み数値を反映。 柏レイソルの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退 […]",
+      "link": "https://www.footballchannel.jp/2026/09/11/post992952/",
+      "pubDate": "2026-09-11T13:02:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post992952/"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※個人成績はJ1リーグ戦のみ。得点は2026年9月11日の第7節・神戸戦まで反映。アシストはJリーグ公式2026年9月7日更新値を掲載。 鹿島アントラーズの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フ […]",
+      "link": "https://www.footballchannel.jp/2026/09/11/post992244/",
+      "pubDate": "2026-09-11T13:01:06.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post992244/"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年9月11日21:09時点。J1第7節の9月11日開催分終了時点（順位は暫定）。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯などの試合日程と結果をまとめる。試合終了後 […]",
+      "link": "https://www.footballchannel.jp/2026/09/11/post991935/",
+      "pubDate": "2026-09-11T13:00:05.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/11/post991935/"
+        }
+      ]
+    },
+    {
+      "title": "金曜開催のJ1リーグ最新順位表 昨季王者がまさかの〇〇〇〇→●●●…1〜3位が勝ち点1差と混戦",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/672825",
+      "pubDate": "2026-09-11T12:59:59.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/672825"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】あぁ３連敗…終盤猛攻も決めきれずレオセアラ不在響くも鬼木監督「次につながる」前向き(日刊スポーツ)",
+      "summary": "＜明治安田J1：神戸2－1鹿島＞◇11日◇第7節◇ノエスタ＞ 鹿島アントラーズは3連敗を喫した。ヴィッセル神戸にボールを握られる時間が増える中、PKで失点。交代で入ったFWチャブリッチのゴールで追",
+      "link": "https://news.yahoo.co.jp/articles/b6d883f44381ce2f99539d5ccf71c36250441e0b?source=rss",
+      "pubDate": "2026-09-11T12:49:33.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b6d883f44381ce2f99539d5ccf71c36250441e0b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【柏】「切り札」瀬川祐輔が２発で京都に３ー２逆転勝ち 今季の5ゴールは全て途中出場でマーク(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都2－3柏＞◇11日◇第7節◇サンガS 柏レイソルがアウェーで京都サンガFCに3－2で逆転勝ちし、3試合ぶりの白星を手にした。 後半から途中出場のFW瀬川祐輔（32）が2ゴー",
+      "link": "https://news.yahoo.co.jp/articles/9b2507cdb1d48b6f2ee5d38151b055765abc6fbe?source=rss",
+      "pubDate": "2026-09-11T12:49:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9b2507cdb1d48b6f2ee5d38151b055765abc6fbe?source=rss"
+        }
+      ]
+    },
     {
       "title": "【プレビュー】中以から抜け出すのは。好調の昇格組・水戸と今季初の連勝を狙う川﨑Fが激突 ｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー プレビュー】明治安田J1リーグは9月11日から13日にかけて第7節が開催。水戸信用金庫スタジアムでは水戸ホーリーホックと川崎フロンターレが激突する。",
@@ -1139,6 +1506,25 @@
       ]
     },
     {
+      "title": "長野vs水戸 スタメン発表",
+      "summary": "[9.9 ルヴァン杯1回戦](長野U)※19:00開始主審:瀬田貴仁[AC長野パルセイロ]先発GK 31 牧野虎太郎DF 3 冨田康平DF 16 石井光輝DF 25 田中康介DF 26 中田舜貴MF 10 山中麗央MF 14 忽那喬司MF…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458536-458536-fl",
+      "pubDate": "2026-09-09T09:54:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458536-458536-fl"
+        }
+      ]
+    },
+    {
       "title": "横浜FMvs京都 試合記録",
       "summary": "【J1第5節】(日産ス)横浜FM 1-1(前半0-0)京都[横]谷村海那(73分)[京]中野瑠馬(64分)[横]ジェイソン・キニョーネス(9分)、諏訪間幸成(83分)[京]佐藤響(71分)観衆:17,521人主審:飯田淳平├京都は中野瑠馬の…",
       "link": "https://web.gekisaka.jp/news/jleague/detail/?458094-458094-fl",
@@ -1155,23 +1541,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleague/detail/?458094-458094-fl"
-        }
-      ]
-    },
-    {
-      "title": "栃木SCvs山形 スタメン発表",
-      "summary": "[9.9 ルヴァン杯1回戦](カンセキ)※19:00開始主審:田邉裕樹[栃木SC]先発GK 1 川田修平DF 3 東廉太DF 4 佐藤祥DF 37 木邨優人MF 2 櫻井稜MF 7 大迫塁MF 16 名願斗哉MF 23 世瀬啓人MF 39…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458540-458540-fl",
-      "pubDate": "2026-09-09T08:55:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458540-458540-fl"
         }
       ]
     },
@@ -34652,23 +35021,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d6fe646dc1216a53f78410a0b5463c37ce77c60c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本協会・宮本会長、韓国サッカー協会からの審判の性接待疑惑に「その事実を確認している状況」(サンケイスポーツ)",
-      "summary": "日本サッカー協会の宮本恒靖会長が12日、東京都内で「第106回天皇杯・夏休み子ども体験型イベント」に出席した。イベント後に取材に応じ、韓国サッカー協会が過去に日本を含む外国人審判員に性接待をした疑いが",
-      "link": "https://news.yahoo.co.jp/articles/5901194e31429f88717aa325ea63cf46e464c131?source=rss",
-      "pubDate": "2026-08-12T13:46:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5901194e31429f88717aa325ea63cf46e464c131?source=rss"
         }
       ]
     }
