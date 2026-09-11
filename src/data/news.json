@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-09-11T06:12:53.893Z",
-  "count": 1789,
+  "generatedAt": "2026-09-11T07:53:02.765Z",
+  "count": 1779,
   "items": [
+    {
+      "title": "25年に日本代表デビューの22歳ボランチ、ドイツ古豪に移籍もベンチ外が続く…クラブ公式が現状を報告「U-23チームでの出場を検討」(SOCCER DIGEST Web)",
+      "summary": "今夏に清水エスパルスからブンデスリーガの古豪ボルシアMGに移籍した宇野禅斗は、怪我の影響で出遅れ、開幕からベンチ外が続いている。 クラブの公式SNSは９月９日、そんな22歳のMFがミニゲームでゴ",
+      "link": "https://news.yahoo.co.jp/articles/c9ea8d0e586d106d995448200d5ba84595a16d62?source=rss",
+      "pubDate": "2026-09-11T07:47:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [
+        "trade",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c9ea8d0e586d106d995448200d5ba84595a16d62?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京V】城福監督「僕ら、空気感に惑わされちゃいけない」チーム状況が芳しくない？に反骨回答(日刊スポーツ)",
+      "summary": "東京ヴェルディは今季初勝利をかけ、次節13日にジェフユナイテッド千葉戦（味スタ）に臨む。現在19位にして相手は最下位20位。どちらも勝ち点奪取へ力が入る“裏天王山”だ。 11日、東京・稲城市のク",
+      "link": "https://news.yahoo.co.jp/articles/8987302f568ab8408e7c03b032d45ce767db68a1?source=rss",
+      "pubDate": "2026-09-11T06:58:11.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8987302f568ab8408e7c03b032d45ce767db68a1?source=rss"
+        }
+      ]
+    },
     {
       "title": "G大阪は“原点回帰”でリーグ6試合ぶり勝ち点3つかむ あす12日・FC東京戦(スポニチアネックス)",
       "summary": "G大阪はあす12日のホームFC東京戦へ向けて、吹田市内の練習場で非公開調整を行った。現在リーグ戦5試合勝ちなし。苦境に立つチームは、高い位置からのプレスと強度をベースとした“原点回帰”を目指す。",
@@ -26,8 +67,8 @@
       "summary": "東京ヴェルディに新加入したFW一美（いちみ）和成（28）が11日、即戦力として「自分に求められるものはゴール」と覚悟を口にした。 前日の10日にファジアーノ岡山からの完全移籍が発表されたばかり。",
       "link": "https://news.yahoo.co.jp/articles/49888d47afa2fb0957964889a34de55b11c794f4?source=rss",
       "pubDate": "2026-09-11T06:03:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "verdy"
       ],
@@ -37,8 +78,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/49888d47afa2fb0957964889a34de55b11c794f4?source=rss"
         }
       ]
@@ -69,8 +110,8 @@
       "summary": "ガンバ大阪に加入したFW土信田（としだ）悠生（27）が、自身初となるJ1舞台での活躍に向けて意欲を語った。 9日にJ2テゲバジャーロ宮崎からの完全移籍加入が発表され、11日は新天地で3日目のトレ",
       "link": "https://news.yahoo.co.jp/articles/9794e8401eae98b38342a054713b1bb0b487871a?source=rss",
       "pubDate": "2026-09-11T06:01:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
@@ -79,8 +120,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9794e8401eae98b38342a054713b1bb0b487871a?source=rss"
         }
       ]
@@ -1005,6 +1046,23 @@
       ]
     },
     {
+      "title": "四千頭身が相模原のホーム戦にスペシャルゲストとして来場へ",
+      "summary": "SC相模原は8日、お笑いトリオ『四千頭身』の後藤拓実さん、石橋遼大さんがホームゲームにスペシャルゲストとして来場することを発表した。 当該試合は、20日に相模原ギオンスタジアムで行われるJ3第7節・ギラヴァンツ北九州戦。当日の詳しいスケジュ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458533-458533-fl",
+      "pubDate": "2026-09-09T07:53:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458533-458533-fl"
+        }
+      ]
+    },
+    {
       "title": "岐阜vs徳島 試合記録",
       "summary": "【ルヴァン杯1回戦】(ヒマスタ)岐阜 0-0(PK3-1)徳島[岐]平瀬大(33分)、鈴木陽人(71分)、萩野滉大(96分)[徳]山口竜弥(82分)、田中隼人(98分)観衆:1,607人主審:Ryu Mashio[FC岐阜]先発GK 51…",
       "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458099-458099-fl",
@@ -1018,26 +1076,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?458099-458099-fl"
-        }
-      ]
-    },
-    {
-      "title": "広島vs川崎Fの塩谷DOGSO可能性は審判員でも見解分かれる…JFA審判委「静止画だけで勝負するのは非常に危険」",
-      "summary": "日本サッカー協会(JFA)審判委員会は9日、都内でレフェリーブリーフィングを開催した。J1第3節のサンフレッチェ広島対川崎フロンターレで決定的な得点機会の阻止(DOGSO)の可能性でVARが介入するもイエローカードが最終判定になった事象の説…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458534-458534-fl",
-      "pubDate": "2026-09-09T07:38:16.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanfrecce",
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458534-458534-fl"
         }
       ]
     },
@@ -34734,232 +34772,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/04165abb1044a20728eed715cdfc5c0b542c2124?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｊ１清水】エスパルスＵ―１２清水Ｕ―１１監督の太田貴光さんが死去 ５６歳 クラブが発表 (スポーツ報知)",
-      "summary": "Ｊ１清水は１２日、元所属選手で現Ｕ―１２清水Ｕ―１１監督を務める太田貴光さん（享年５６）が同日死去したと発表した。 太田さんは静岡県清水市で生まれ、清水商高を経て、富士通沼津、トヨタ自動車でプレ",
-      "link": "https://news.yahoo.co.jp/articles/fcd677998c8c4042b2c4f3b7d9ed142a9c7082d3?source=rss",
-      "pubDate": "2026-08-12T07:51:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fcd677998c8c4042b2c4f3b7d9ed142a9c7082d3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【日本代表】名波浩氏「ポイチさんが僕を選んでくれるかも分からない」自身の去就に言及(日刊スポーツ)",
-      "summary": "FIFAワールドカップ（W杯）北中米大会に出場した日本代表のコーチを務めた名波浩氏（53）が12日、都内で、天皇杯の子ども向けトークイベントに日本サッカー協会（JFA）の宮本恒靖会長（49）とともに",
-      "link": "https://news.yahoo.co.jp/articles/a27113c38dd42d20bec8818e78e0eff858fe51bd?source=rss",
-      "pubDate": "2026-08-12T07:40:55.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/a27113c38dd42d20bec8818e78e0eff858fe51bd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "名波浩氏「どうだろう…」ガチ回答「ブラジル戦に三笘、南野、遠藤いたら？」子ども記者から(日刊スポーツ)",
-      "summary": "FIFAワールドカップ（W杯）北中米大会に出場した日本代表のコーチを務めた名波浩氏（53）が12日、都内で、天皇杯の子ども向けトークイベントに日本サッカー協会（JFA）の宮本恒靖会長（49）とともに",
-      "link": "https://news.yahoo.co.jp/articles/aebbe66a0b7de93d58a659771344c3640add731e?source=rss",
-      "pubDate": "2026-08-12T07:37:38.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/aebbe66a0b7de93d58a659771344c3640add731e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京Ｖ】城福監督「ミスした当事者を晒し者にしたって何の意味もない」課題はロジカルに共有(日刊スポーツ)",
-      "summary": "東京ヴェルディの城福浩監督（65）が、失敗を血肉にする。 12日、次節の柏レイソル戦（14日、東京・MUFG国立）に向けたメディア取材に応じた。開幕戦の川崎フロンターレ戦（1－1）で後半51分に",
-      "link": "https://news.yahoo.co.jp/articles/095a4ebd14701c0372423802fbb6bbc592a53249?source=rss",
-      "pubDate": "2026-08-12T07:37:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/095a4ebd14701c0372423802fbb6bbc592a53249?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪がACLエリート出場権獲得!! 敵地日韓戦で名和田が延長決勝弾(14枚)",
-      "summary": "ガンバ大阪は11日にAFCチャンピオンズリーグエリート(ACLE)プレーオフで江原FC(韓国)と対戦し、延長戦の末に1-0で勝利した。●ACLE2025-26特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」…",
-      "link": "https://web.gekisaka.jp/photonews/acl/detail/?456723-456723-pn",
-      "pubDate": "2026-08-12T07:15:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/photonews/acl/detail/?456723-456723-pn"
-        }
-      ]
-    },
-    {
-      "title": "【ACLE】Ｇ大阪、延長戦の末PO制しＪから５クラブ目の出場権「ボール来いと」Ｖ弾の名和田(日刊スポーツ)",
-      "summary": "＜アジア・チャンピオンズリーグ・エリート（ACLE）：江原（韓国）0－1G大阪＞◇11日◇プレーオフ◇韓国・江陵総合競技場 G大阪がACLE本戦出場をかけたプレーオフで江原（韓国）を延長戦の末に下",
-      "link": "https://news.yahoo.co.jp/articles/35c5a8652d54d96f98dc0206e299de3ecc8eefb1?source=rss",
-      "pubDate": "2026-08-12T07:06:30.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/35c5a8652d54d96f98dc0206e299de3ecc8eefb1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和開幕戦は「スペシャルステージ」 先着5万2000名にポケモンバッグ…引退直後の山田直輝氏、カカロニも来場",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/668368",
-      "pubDate": "2026-08-12T07:06:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/668368"
-        }
-      ]
-    },
-    {
-      "title": "8月22日開幕のU-21 Jリーグ、DAZNで全試合ライブ配信へ(ゲキサカ)",
-      "summary": "Jリーグは12日、今月22日に開幕する2026-27 U-21 Jリーグ(呼称:U-21 Jリーグ)の全試合を、DAZNでライブ配信することが決定したと発表した。 U-21 Jリーグは若手選手に",
-      "link": "https://news.yahoo.co.jp/articles/4b877292cbfe57e449e896590e1c1627b9738e1c?source=rss",
-      "pubDate": "2026-08-12T06:48:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4b877292cbfe57e449e896590e1c1627b9738e1c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【京都】今季初勝利へポポビッチ監督「トライしながらやることが完成形への近道」15日川崎Ｆ戦(日刊スポーツ)",
-      "summary": "京都サンガF.C.は12日、京都・城陽市内のサンガタウンで公開練習を行った。 オフ明けのこの日はミーティングからスタートし、ピッチに出てからはパス＆コントロールのメニューからフルコートのゲームま",
-      "link": "https://news.yahoo.co.jp/articles/5d219903ae669caab0817dccc74aae30b857f0cc?source=rss",
-      "pubDate": "2026-08-12T06:44:49.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5d219903ae669caab0817dccc74aae30b857f0cc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ACLエリート2026/27の出場32クラブが出揃う｜リーグステージの抽選日や抽選方法は？(スポーティングニュース日本版)",
-      "summary": "アジア最高峰のクラブ決定戦「AFCチャンピオンズリーグエリート（ACLエリート）2026/27」のプレリミナリーステージ（プレーオフ）が終了し、本大会となるリーグステージに臨む全32クラブが出揃った。",
-      "link": "https://news.yahoo.co.jp/articles/e05cf509acec656c20ddadd864712486e37bb276?source=rss",
-      "pubDate": "2026-08-12T06:37:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e05cf509acec656c20ddadd864712486e37bb276?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「元気な様子が見れて良かった」元韓国代表DF、かつてJリーグで共闘した旧友とのショットに反響続々！「どの写真をみても涙が出てきます…」(SOCCER DIGEST Web)",
-      "summary": "元韓国代表DFが、旧友らとの再会を喜んだ。 J１のガンバ大阪は８月11日、アジア・チャンピオンズリーグエリート（ACLE）のプレリミナリーステージで韓国の江原FCと敵地で対戦。スコアレスで突入し",
-      "link": "https://news.yahoo.co.jp/articles/cdf9c3ec7ca3959041f59810dbeddf02a520c85f?source=rss",
-      "pubDate": "2026-08-12T06:36:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cdf9c3ec7ca3959041f59810dbeddf02a520c85f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "東京Vの城福監督 柏戦へ向け「リスペクトしすぎず、軸を自分たちにおいてやる事が大事」(スポニチアネックス)",
-      "summary": "東京Vの城福浩監督（65）が14日の柏戦（MUFG国立）へ向けて取材対応。「柏のやり方は一貫している。リスペクトに値するチームだが、リスペクトしすぎず、どういう守備をしたいか、どういう奪い方をしたい",
-      "link": "https://news.yahoo.co.jp/articles/514e3f274645c230c9ed71d1b86f52a5fc8d551f?source=rss",
-      "pubDate": "2026-08-12T06:25:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/514e3f274645c230c9ed71d1b86f52a5fc8d551f?source=rss"
         }
       ]
     }
