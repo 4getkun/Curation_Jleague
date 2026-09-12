@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-09-12T16:36:39.545Z",
+  "generatedAt": "2026-09-12T18:51:50.690Z",
   "count": 1786,
   "items": [
+    {
+      "title": "DF町田浩樹が約1年1カ月ぶりの公式戦復帰！ 長期離脱を経て、ホッフェンハイムの今季リーグ戦勝利に貢献 (サッカーキング)",
+      "summary": "ブンデスリーガ第3節が12日に行われ、ホッフェンハイムはシュトゥットガルトと対戦。日本代表DF町田浩樹が待望の公式戦復帰を果たした。 開幕連敗スタートとなっていたホッフェンハイムは、昨季4位のシ",
+      "link": "https://news.yahoo.co.jp/articles/78434207baf8b4fafae35fed707a7fd927609882?source=rss",
+      "pubDate": "2026-09-12T16:38:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/78434207baf8b4fafae35fed707a7fd927609882?source=rss"
+        }
+      ]
+    },
     {
       "title": "日本代表DF町田浩樹が約１年ぶりにブンデス復帰！シュツットガルト戦で途中出場、前十字靭帯断裂の大怪我から復活(SOCCER DIGEST Web)",
       "summary": "現地９月12日に開催されたブンデスリーガの第３節で、町田浩樹が所属するホッフェンハイムがシュツットガルトとホームで対戦。２－１で勝利を収めた。 この一戦で、昨年８月23日に行われたレバークーゼン",
@@ -48,16 +69,16 @@
       "summary": "＜明治安田J1：町田1－1横浜＞◇11日◇第7節◇MUFG国立 FC町田ゼルビアのDF望月ヘンリー海輝（24）が、チームを救う同点ゴールを決めた。 0－1の後半36分、MF明本考浩（28）がこ",
       "link": "https://news.yahoo.co.jp/articles/a84334acd3532af47587f23b2fbcaad8e7930be2?source=rss",
       "pubDate": "2026-09-12T14:54:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "zelvia"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/a84334acd3532af47587f23b2fbcaad8e7930be2?source=rss"
         }
       ]
@@ -34881,27 +34902,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/66e87f29f7513af412620b990d99932cf0a77701?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "村上宗隆 右太腿裏肉離れから復帰後、初のベンチスタート 前日まで27試合連続先発&出塁(スポニチアネックス)",
-      "summary": "◇インターリーグ ホワイトソックス―レッズ（2026年8月13日 シカゴ） ホワイトソックスの村上宗隆内野手（30）は13日（日本時間14日）、本拠地でのレッズ戦でスタメンから外れた。 村上",
-      "link": "https://news.yahoo.co.jp/articles/13741f97a50511dcb205c96bdebffadb1513fbe4?source=rss",
-      "pubDate": "2026-08-13T18:12:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/13741f97a50511dcb205c96bdebffadb1513fbe4?source=rss"
         }
       ]
     }
