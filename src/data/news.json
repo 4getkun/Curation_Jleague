@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-14T14:47:20.504Z",
-  "count": 1656,
+  "generatedAt": "2026-09-14T19:40:24.751Z",
+  "count": 1651,
   "items": [
+    {
+      "title": "【Ｇ大阪】J2新潟から藤原奏哉を獲得へ、右サイドバックや中盤こなせる31歳(日刊スポーツ)",
+      "summary": "ガンバ大阪がJ2アルビレックス新潟からDF藤原奏哉（31）を獲得することが、14日までにわかった。関係者によると、すでに合意に達しており、近日中に発表される見込み。 山口出身の藤原は18年に阪南",
+      "link": "https://news.yahoo.co.jp/articles/64bccf7310278096af20cc6134a6df45c1ce49ea?source=rss",
+      "pubDate": "2026-09-14T15:32:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/64bccf7310278096af20cc6134a6df45c1ce49ea?source=rss"
+        }
+      ]
+    },
     {
       "title": "ヴィッセル神戸の18歳MF瀬口大翔、スロバキアへ期限付き移籍「僕にとって大きな心残りです」",
       "summary": "ヴィッセル神戸は14日、MF瀬口大翔がスロバキアのFCコシツェへ期限付き移籍することを発表した。期限付き移籍期間は2027年6月14日までとなる。",
@@ -1087,10 +1106,10 @@
       ]
     },
     {
-      "title": "いわきvs横浜FC 試合記録",
-      "summary": "【J2第6節】(ハワスタ)いわき 2-0(前半0-0)横浜FC[い]山中惇希(52分)、山口大輝(80分)[い]岩下航(35分)、高橋勇利也(41分)[横]ルキアン(31分)、村田透馬(33分)観衆:4,368人主審:大橋侑祐[いわきFC]…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458681-458681-fl",
-      "pubDate": "2026-09-12T17:10:02.000Z",
+      "title": "山口vs群馬 試合記録",
+      "summary": "【J3第6節】(みらスタ)山口 2-0(前半2-0)群馬[山]渡邉颯太(15分)、山本龍平(24分)[山]輪笠祐士(35分)[群]山原康太郎(84分)観衆:4,312人主審:鶴岡将樹[レノファ山口FC]先発GK 35 内山圭DF 2 小澤亮…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458687-458687-fl",
+      "pubDate": "2026-09-12T17:40:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -1099,7 +1118,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458681-458681-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458687-458687-fl"
         }
       ]
     },
@@ -32221,127 +32240,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/aeab1cb0a29179872e1e7a469351b98580d6cce9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "川崎Fはシュート17本も2点止まり 途中出場で好機演出の大関「決めていかないと信頼を勝ち取れない」(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ第2節 川崎F2―2京都（2026年8月15日 U等々力） 川崎Fは開幕から2試合連続で引き分けに終わった。京都とのホーム開幕戦でFWロマニッチの開幕2戦連発弾で先制したが、",
-      "link": "https://news.yahoo.co.jp/articles/2c0c940ef8b31062ed074a8cd409e41e7a09a3ce?source=rss",
-      "pubDate": "2026-08-15T15:23:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2c0c940ef8b31062ed074a8cd409e41e7a09a3ce?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "神戸DF髙橋壱晟がJ1デビュー「緊張する暇もなかった」(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ 神戸 2―2 FC東京（2026年8月16日 ノエスタ） 千葉から完全移籍で加入した神戸DF髙橋壱晟（28）がJ1デビューを果たした。DF酒井高徳の負傷を受けて、後半4分か",
-      "link": "https://news.yahoo.co.jp/articles/7683aa8323eb49a4296122e163d5a1428088ed8c?source=rss",
-      "pubDate": "2026-08-15T15:18:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7683aa8323eb49a4296122e163d5a1428088ed8c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「空く傾向にあると…」広島FW鈴木章斗が“ニア抜き”圧巻2発! 開幕2戦3発も謙虚に「4点目が毎年遠いので」(ゲキサカ)",
-      "summary": "[8.15 J1第2節 浦和 1-4 広島 埼玉] ニアポスト際を撃ち抜くスーパーボレーと、意表を突いた右足ダイレクト弾。サンフレッチェ広島FW鈴木章斗が圧巻の2ゴールで今季3点目を挙げ、J1リー",
-      "link": "https://news.yahoo.co.jp/articles/4bfa0b8b7efbc2b348be1978791eaa3593c46df2?source=rss",
-      "pubDate": "2026-08-15T15:08:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds",
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4bfa0b8b7efbc2b348be1978791eaa3593c46df2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１町田 韓国代表イケメンＦＷ獲得へ チョ・ギュソン獲得で得点力アップを狙う(スポーツ報知)",
-      "summary": "町田が、北中米Ｗ杯に出場したデンマーク１部ミッティラントの韓国代表ＦＷチョ圭成（チョ・ギュソン、２８）の獲得に動いていることが１５日、分かった。１８８センチの長身を誇る大型ＦＷで、２２年に全北で韓国",
-      "link": "https://news.yahoo.co.jp/articles/cb0da71dd07a262e52c62676f8bd7c3bba5dbb79?source=rss",
-      "pubDate": "2026-08-15T15:05:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cb0da71dd07a262e52c62676f8bd7c3bba5dbb79?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１町田がＦＷ小川航基獲得へ 年俸３億円超の条件提示か Ｗ杯で活躍もオランダ・ＮＥＣでは出場減(スポーツ報知)",
-      "summary": "Ｊ１町田がオランダ１部ＮＥＣに所属する日本代表ＦＷ小川航基（２９）の獲得に動いていることが１５日、分かった。複数の関係者によると、既に年俸３億円（推定）を超える条件を小川サイドに提示したという。目標",
-      "link": "https://news.yahoo.co.jp/articles/fc6d02e9e13c411389fb314be01fc150bd301ab4?source=rss",
-      "pubDate": "2026-08-15T15:05:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "contract",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fc6d02e9e13c411389fb314be01fc150bd301ab4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】鈴木章斗が2戦連発＆2ゴール！ W豪快フィニッシュは「感覚的に、チャレンジして打ってみよう」(サッカーマガジンWeb)",
-      "summary": "サンフレッチェ広島が充実の開幕2連勝だ。明治安田J1リーグ開幕戦の3ゴールに続いて、8月15日の第2節、浦和レッズ戦では4ゴールと攻撃が好調。鈴木章斗は2試合連発で、しかも浦和戦はマルチゴール。より",
-      "link": "https://news.yahoo.co.jp/articles/800f47b78e838584eb6ac63fb896ac5b22d94601?source=rss",
-      "pubDate": "2026-08-15T14:47:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/800f47b78e838584eb6ac63fb896ac5b22d94601?source=rss"
         }
       ]
     }
