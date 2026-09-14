@@ -1,22 +1,61 @@
 {
-  "generatedAt": "2026-09-14T19:40:24.751Z",
-  "count": 1651,
+  "generatedAt": "2026-09-14T22:50:35.146Z",
+  "count": 1623,
   "items": [
+    {
+      "title": "まだやれる！もう一度日本代表で観たいJリーガー5選",
+      "summary": "FIFAワールドカップ2026（北中米大会）を経て世代交代が進む日本代表。だがJリーグには、古巣で覚醒した男、けがを越え得点を重ねる男、鉄人主将、無所属を経て復活したGK、37歳の\"何でも屋\"など、まだまだ気を吐く実力者たちがいる。今回は、…",
+      "link": "https://www.footballchannel.jp/2026/09/15/post1011099/",
+      "pubDate": "2026-09-14T22:00:37.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/15/post1011099/"
+        }
+      ]
+    },
+    {
+      "title": "救世主到来？Jリーグ、加入直後から輝きを放つ新加入選手5人",
+      "summary": "明治安田Jリーグの移籍市場が間もなく閉幕する。今夏は秋春制に移行したこともあり、例年以上に多くのクラブが積極的な補強を見せた。新加入選手の中には早速即戦力として結果を残す選手もいる。今回は、リーグ開幕直後に輝きを放った新加入選手をピックアッ…",
+      "link": "https://www.footballchannel.jp/2026/09/15/post1010646/",
+      "pubDate": "2026-09-14T21:00:24.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade",
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/15/post1010646/"
+        }
+      ]
+    },
     {
       "title": "【Ｇ大阪】J2新潟から藤原奏哉を獲得へ、右サイドバックや中盤こなせる31歳(日刊スポーツ)",
       "summary": "ガンバ大阪がJ2アルビレックス新潟からDF藤原奏哉（31）を獲得することが、14日までにわかった。関係者によると、すでに合意に達しており、近日中に発表される見込み。 山口出身の藤原は18年に阪南",
       "link": "https://news.yahoo.co.jp/articles/64bccf7310278096af20cc6134a6df45c1ce49ea?source=rss",
       "pubDate": "2026-09-14T15:32:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "gamba"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/64bccf7310278096af20cc6134a6df45c1ce49ea?source=rss"
         }
       ]
@@ -1106,10 +1145,10 @@
       ]
     },
     {
-      "title": "山口vs群馬 試合記録",
-      "summary": "【J3第6節】(みらスタ)山口 2-0(前半2-0)群馬[山]渡邉颯太(15分)、山本龍平(24分)[山]輪笠祐士(35分)[群]山原康太郎(84分)観衆:4,312人主審:鶴岡将樹[レノファ山口FC]先発GK 35 内山圭DF 2 小澤亮…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458687-458687-fl",
-      "pubDate": "2026-09-12T17:40:01.000Z",
+      "title": "奈良vs岐阜 試合記録",
+      "summary": "【J3第6節】(ロートF)奈良 2-1(前半1-0)岐阜[奈]吉田新(45分)、望月想空(86分)[岐]横山智也(49分)[岐]甲斐健太郎(7分)[岐]ジョルダン・テル(90分+1)観衆:1,987人主審:窪田陽輔[奈良クラブ]先発GK 9…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458682-458682-fl",
+      "pubDate": "2026-09-12T18:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -1118,7 +1157,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458687-458687-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458682-458682-fl"
         }
       ]
     },
@@ -31639,607 +31678,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3ea240d95a0a64fdfb69b6996239502db18d6bf2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "昨年の悔しい経験を経て培った自信「自分の実力だったら点を取れる」C大阪U-15FW足立匠輝が鮮烈ミドル弾!!(ゲキサカ)",
-      "summary": "[8.15 クラセンU-15 E組第2節 名古屋FC EAST 0-1 C大阪U-15 小樽A] 昨年に味わった悔しさから奮起し、成長を重ねてきたエースが今大会初ゴールを奪った。セレッソ大阪U-1",
-      "link": "https://news.yahoo.co.jp/articles/4cc1b4decc53eb08808a7aab8d0d7627ca758431?source=rss",
-      "pubDate": "2026-08-15T22:36:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4cc1b4decc53eb08808a7aab8d0d7627ca758431?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表・森保一監督、強力外国人がJデビューも「アビスパにも同等の選手がいる」J1福岡―C大阪戦を視察、目に留まったポイントは(西スポWEB OTTO!)",
-      "summary": "◆明治安田J1リーグ第2節 福岡3―0C大阪（15日・ベスト電器スタジアム） 日本代表の森保一監督が視察し、快勝のアビスパ福岡をたたえた。 福岡は序盤から主導権を握り、3得点以上は昨年8月9日",
-      "link": "https://news.yahoo.co.jp/articles/8ce72846e5f7f397b26edb631fdb857a5261689e?source=rss",
-      "pubDate": "2026-08-15T22:20:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8ce72846e5f7f397b26edb631fdb857a5261689e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｊ１清水】横浜ＦＭの三井寺真から刺激 ＦＣフォーリクラッセ仙台の先輩・針生涼太「自分も頑張らないといけない」…２３日・Ｕ―２１Ｊリーグ浦和戦(スポーツ報知)",
-      "summary": "Ｊ１清水は２３日、新設されたＵ―２１Ｊリーグの初戦・浦和戦をホームのアイスタで迎える。ＭＦ針生涼太（１８）は、中学時代に所属したＦＣフォーリクラッセ仙台の後輩、横浜ＭのＭＦ三井寺真（みいでら・しん、",
-      "link": "https://news.yahoo.co.jp/articles/3af5daf564d295120a11c52055ac3d564b243e4c?source=rss",
-      "pubDate": "2026-08-15T22:00:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse",
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3af5daf564d295120a11c52055ac3d564b243e4c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｊ１清水】１２日死去した太田貴光さんへの弔い星ならず 選手は喪章つけ臨むも横浜ＦＭに０―１ 吉田孝行監督「もったいないゲーム」(スポーツ報知)",
-      "summary": "◆明治安田Ｊ１リーグ▽第２節 横浜ＦＭ１―０清水（１５日、静岡・ＩＡＩスタジアム日本平） 清水エスパルスは、ホーム開幕戦で横浜ＦＭと対戦し、０―１で敗れた。両チーム無得点で迎えた後半３４分に失点。",
-      "link": "https://news.yahoo.co.jp/articles/31b4c59479e82edece0943c4aae30e2d304add45?source=rss",
-      "pubDate": "2026-08-15T21:50:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse",
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/31b4c59479e82edece0943c4aae30e2d304add45?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "今季チーム初得点にも「もう少しボールに触りたかった」指揮官も感じるアビスパ福岡のドリブラー 藤本一輝の進化への姿勢(西スポWEB OTTO!)",
-      "summary": "◆明治安田J1リーグ第2節 福岡3―0C大阪（15日・ベスト電器スタジアム） ホームで味わう勝利の喜びはやはり格別だ。開幕2戦目での今季初勝利に塚原監督は「今日に関しては完璧だった」と自賛した。3",
-      "link": "https://news.yahoo.co.jp/articles/cab3ae0bc43c313ade50ec07d175a6e6d3394d0c?source=rss",
-      "pubDate": "2026-08-15T21:30:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cab3ae0bc43c313ade50ec07d175a6e6d3394d0c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "斜めストライプの新ユニが「歴代でもトップクラス」 アジア制覇へ…“2008年”デザインに歓喜「素晴らしい」(FOOTBALL ZONE)",
-      "summary": "ガンバ大阪は今季のAFCチャンピオンズリーグで「斜めストライプ」で構成したユニフォームが反響を呼んでいる。優勝した2008年大会を思い起こさせるデザインに、ファンは「歴代でもトップクラスに好き」と反",
-      "link": "https://news.yahoo.co.jp/articles/fefaf3db9f3e7cde41e0b6e3ee3cbe6fe905dd84?source=rss",
-      "pubDate": "2026-08-15T21:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fefaf3db9f3e7cde41e0b6e3ee3cbe6fe905dd84?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "右足一本で神セーブ「全部止める」 20歳GKが躍動も…王者に及ばず開幕2連敗「勝たなきゃ」(FOOTBALL ZONE)",
-      "summary": "名古屋グランパスは8月15日、J1リーグ第2節で鹿島アントラーズと対戦し、1-2で敗れた。第1節清水エスパルス戦（0-1）に続いて2連敗。A代表経験を持つGKピサノ・アレックス幸冬堀尾が神がかったセ",
-      "link": "https://news.yahoo.co.jp/articles/8fa14f55e5b66babe19bba399d18ca5096787991?source=rss",
-      "pubDate": "2026-08-15T21:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus",
-        "antlers"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8fa14f55e5b66babe19bba399d18ca5096787991?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１浦和 開幕連敗で本拠地ブーイング 曺貴裁監督が意識する修正点「戦術の問題というよりも…」(東スポWEB)",
-      "summary": "J1浦和の曺貴裁監督（57）が、急ピッチでの立て直しを目指している。 浦和は15日、ホーム開幕の広島戦に1―4で大敗。G大阪との開幕戦（パナスタ）に続いて2連敗スタートとなってしまった。待ちに待",
-      "link": "https://news.yahoo.co.jp/articles/f51eed83e682ad5a0365bc8982d64f6f098e830b?source=rss",
-      "pubDate": "2026-08-15T21:15:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f51eed83e682ad5a0365bc8982d64f6f098e830b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】知念慶、攻守にハードワークで存在感「ゼロで終えられたのは自信になる」(日刊スポーツ)",
-      "summary": "＜明治安田J1：清水0－1横浜＞◇15日◇第2節◇アイスタ 横浜F・マリノスがアウェーで清水エスパルスを1－0で下し、今季2戦目で初勝利を挙げた。 鹿島アントラーズから移籍してきたMF知念慶（",
-      "link": "https://news.yahoo.co.jp/articles/b5001c6a555999a4e38f0dd54636afe7a18cf49e?source=rss",
-      "pubDate": "2026-08-15T21:13:49.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marinos",
-        "s-pulse",
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b5001c6a555999a4e38f0dd54636afe7a18cf49e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「スパイダーマンやんな?」G大阪を救った熱き闘将の豪快ヘッド! 直後の必死すぎる新作パフォに大反響「キャップがやるとダサかわ」「お子さんに頼まれた?」(サッカー批評Web)",
-      "summary": "8月15日に行われたJ1リーグ第2節。敵地に乗り込んだガンバ大阪は、水戸ホーリーホックと1-1のドローに終わった。過密日程で疲労困憊のチームを敗戦の危機から救い出した頼れるキャプテンの同点ゴールと、",
-      "link": "https://news.yahoo.co.jp/articles/c70e03d8650241679b7621f94d54b2e0cac82801?source=rss",
-      "pubDate": "2026-08-15T21:06:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c70e03d8650241679b7621f94d54b2e0cac82801?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "継続する広島と迷走する浦和…必要なのは監督が代わっても揺るがない明確な”チームの方向性”(中日スポーツ)",
-      "summary": "◇１５日 Ｊ１第２節 浦和１―４広島（埼玉スタジアム） 曺貴裁（チョウ・キジェ）新監督を迎えた浦和が、いきなり２試合連続４失点で２連敗とあえいでいる。Ｇ大阪との開幕戦は退場者を出して打ち合いの末の",
-      "link": "https://news.yahoo.co.jp/articles/39728c821c87395472892b6a4b32b1ed934be943?source=rss",
-      "pubDate": "2026-08-15T21:03:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce",
-        "reds"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/39728c821c87395472892b6a4b32b1ed934be943?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "千葉DFダニエル・ホール、同郷のW杯出場FW相手に奮闘も課題を口に「テテに対して守れたかというと…」(GOAL)",
-      "summary": "2026/27明治安田J1リーグ第2節が15日に千葉県のフクダ電子アリーナで行われ、ジェフユナイテッド千葉はFC町田ゼルビアに0-4で敗れた。千葉DFダニエル・ホールはスリーバックの中央で先発出場。同",
-      "link": "https://news.yahoo.co.jp/articles/0cd2a1d7fd7b0499c59cf3b936f7b827b82c3f98?source=rss",
-      "pubDate": "2026-08-15T21:02:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba",
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0cd2a1d7fd7b0499c59cf3b936f7b827b82c3f98?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】川辺駿が示した前へ後ろへの大車輪の活躍を見たか！「自分たちはそれだけじゃない」という清々しいプライド(サッカーマガジンWeb)",
-      "summary": "8月15日の明治安田J1リーグ第2節で浦和レッズから4ゴールを奪って完勝したサンフレッチェ広島。その中心に、川辺駿がいた。ボランチの位置で試合をコントロールするとともに、先制ゴールもアシストしてみせ",
-      "link": "https://news.yahoo.co.jp/articles/f041fe985a3f69608d7885faf4915b9f4f8203b6?source=rss",
-      "pubDate": "2026-08-15T21:02:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f041fe985a3f69608d7885faf4915b9f4f8203b6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "繰り返した負傷離脱も「競争がある」 5か月ぶりフル出場…エースが2発で完全復活「うまく刺さった」(FOOTBALL ZONE)",
-      "summary": "FC東京は8月15日、アウェーで行われたJ1リーグ第2節・ヴィッセル神戸戦で2-2の引き分けに終わった。負傷に苦しんだFW長倉幹樹が百年構想リーグ3月22日東京ヴェルディ戦以来のフル出場で2ゴールの",
-      "link": "https://news.yahoo.co.jp/articles/5df41efa765fca3413cb96ae0a24c1327774a8c3?source=rss",
-      "pubDate": "2026-08-15T21:01:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo",
-        "vissel"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5df41efa765fca3413cb96ae0a24c1327774a8c3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１神戸、ホーム開幕戦で空調設備試験稼働もＦＷ武藤「蒸し暑すぎて感じなかった。怒られちゃうかな」苦笑い 試合はドロー(スポーツ報知)",
-      "summary": "◆明治安田Ｊ１リーグ▽第２節 神戸２―２ＦＣ東京（１５日・ノエスタ） Ｊ１百年構想リーグの王者が、土壇場で底力を見せた。１―２の後半アディショナルタイム３分、ロングスローからのこぼれ球をＦＷ武藤が",
-      "link": "https://news.yahoo.co.jp/articles/67f2a6cea7c677c68894d9e8e4e13d00074a9ad0?source=rss",
-      "pubDate": "2026-08-15T21:00:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/67f2a6cea7c677c68894d9e8e4e13d00074a9ad0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【神戸】今夏加入の高橋壱晟が神戸デビュー 「僕が出ることで違ったヴィッセルを見せられれば」(日刊スポーツ)",
-      "summary": "＜明治安田J1：神戸2－2東京＞◇第2節◇15日◇ノエスタ ヴィッセル神戸に今夏加入したDF高橋壱晟（28）が、途中出場で神戸デビューした。 後半4分に右サイドバックのDF酒井高徳が相手との競",
-      "link": "https://news.yahoo.co.jp/articles/5da07e32787bd2916fc91c11f3a7a15558f47440?source=rss",
-      "pubDate": "2026-08-15T21:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5da07e32787bd2916fc91c11f3a7a15558f47440?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】井上太聖のミドルシュートが決勝点「1年半前の自分では考えられなかったこと」(日刊スポーツ)",
-      "summary": "＜明治安田J1：清水0－1横浜＞◇15日◇第2節◇アイスタ 横浜F・マリノスがアウェーで清水エスパルスを1－0で下し、今季2戦目で初勝利を挙げた。 一進一退の攻防で迎えた後半34分、右FW近藤",
-      "link": "https://news.yahoo.co.jp/articles/c51158cb4b420c97b2faa8afd77a8ed2c0c3d72f?source=rss",
-      "pubDate": "2026-08-15T21:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marinos",
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c51158cb4b420c97b2faa8afd77a8ed2c0c3d72f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "明治安田J1 水戸、ホーム開幕戦ドロー G大阪と1-1(茨城新聞クロスアイ)",
-      "summary": "明治安田J1第2節最終日の水戸は15日、水戸信用金庫スタジアムでG大阪とのホーム開幕戦に臨み、1-1で引き分けた。 水戸は前半18分に鳥海が先制点を挙げ、1-0で折り返した。しかし、後半30分に同点",
-      "link": "https://news.yahoo.co.jp/articles/5cfbf551bd5cf38be60a0e28497dcf4a74887d56?source=rss",
-      "pubDate": "2026-08-15T21:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hollyhock",
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5cfbf551bd5cf38be60a0e28497dcf4a74887d56?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1千葉、町田に完敗 MF姫野「絶対に街のためにも勝つというところを共有して試合に入ったけど、申し訳ない」(サンケイスポーツ)",
-      "summary": "明治安田J1リーグ第2節最終日（15日、千葉0－4町田、フクアリ）昨季の天皇杯王者・町田の力に屈し、開幕2連敗となった千葉。2009年以来17シーズンぶりのJ1は、2戦無得点7失点といきなりの壁にぶち",
-      "link": "https://news.yahoo.co.jp/articles/8ba1a83bdcf6f81ca638c22fc6e78c6d9c99acf7?source=rss",
-      "pubDate": "2026-08-15T21:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba",
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8ba1a83bdcf6f81ca638c22fc6e78c6d9c99acf7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1町田は開幕2連勝 途中出場のFW西村が約1年ぶりのリーグ戦ゴール(サンケイスポーツ)",
-      "summary": "明治安田J1リーグ第2節最終日（15日、千葉0－4町田、フクアリ）町田が2試合連続の複数得点で開幕2連勝。前半18分にMF中山の左足FKで先制すると、2点リードで迎えた後半25分に途中出場のFW西村が",
-      "link": "https://news.yahoo.co.jp/articles/8f078e3e58a71afddce729033201aa7117d3a98c?source=rss",
-      "pubDate": "2026-08-15T21:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8f078e3e58a71afddce729033201aa7117d3a98c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1→J3移籍決断も「覚悟が甘かった」 かけ離れた理想…25歳が「考えさせられた半年」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/668785",
-      "pubDate": "2026-08-15T20:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/668785"
-        }
-      ]
-    },
-    {
-      "title": "歓喜の移籍後初ゴールも「申し訳ない」 重なった“あの時”…よぎった「ヴェルディだけは倒して」(FOOTBALL ZONE)",
-      "summary": "柏レイソルのMF遠藤渓太は8月14日、アウェーのMUFGスタジアム（国立競技場）で行われた明治安田J1リーグ第2節の東京ヴェルディ戦で移籍後初ゴールを挙げた。今夏にFC東京から加入した28歳のアタッ",
-      "link": "https://news.yahoo.co.jp/articles/45edf16bccc39b57336f7ca406e487f8ad10a51d?source=rss",
-      "pubDate": "2026-08-15T20:40:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/45edf16bccc39b57336f7ca406e487f8ad10a51d?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/668830"
-        }
-      ]
-    },
-    {
-      "title": "名古屋グランパス・内田宅哉、「初めて」の『2列目の右』で今季初先発！ 相手ボランチ徹底マークで存在感「自分にとってすごくプラス」(中日スポーツ)",
-      "summary": "◇１５日 Ｊ１第２節 鹿島２―１名古屋（メルスタ） 名古屋グランパスはＭＦ内田宅哉が今季Ｊ１初先発で初出場し、２列目の右で存在感を発揮した。 ３バックの一角やボランチ、ウイングバックをこなす多",
-      "link": "https://news.yahoo.co.jp/articles/ce71ae10f18c253746663f50c1acfc3b34887f5e?source=rss",
-      "pubDate": "2026-08-15T20:05:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ce71ae10f18c253746663f50c1acfc3b34887f5e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "悔しい開幕連敗にも「魅力あるサッカーが展開できた」「早く勝ち点3をとって自信を」【名古屋グランパス・ミシャ監督語録】(中日スポーツ)",
-      "summary": "【名古屋・ミシャ監督語録】◇15日 J1第2節 鹿島2―1名古屋（メルスタ） 名古屋グランパスは後半アディショナルタイムの決勝被弾で痛恨の敗戦となり開幕から連敗となった。名古屋の今季初ゴールは後半",
-      "link": "https://news.yahoo.co.jp/articles/d4e76cdc9861ef7bca61d5cb6dee895184345244?source=rss",
-      "pubDate": "2026-08-15T20:00:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d4e76cdc9861ef7bca61d5cb6dee895184345244?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "明治安田J1 鹿島、開幕2連勝 名古屋に2-1(茨城新聞クロスアイ)",
-      "summary": "明治安田J1第2節最終日の鹿島は15日、メルカリスタジアムで名古屋とのホーム開幕戦に臨み、2-1で競り勝った。2016年以来10季ぶりの開幕2連勝とした。 鹿島は前半22分、レオセアラの2試合連続得",
-      "link": "https://news.yahoo.co.jp/articles/a3de18dfa42c6f188847d3be14ae7a1b3b253683?source=rss",
-      "pubDate": "2026-08-15T20:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a3de18dfa42c6f188847d3be14ae7a1b3b253683?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "名古屋 開幕2連敗もペトロヴィッチ監督「あと36キロ残っている」シーズンをマラソンに例える(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ第2節 名古屋 1―2 鹿島（2026年8月15日 メルカリスタジアム） 名古屋は敵地で鹿島に敗れた。試合終了間際にセットプレーから決勝点を献上。DF原輝綺のゴールで追い付い",
-      "link": "https://news.yahoo.co.jp/articles/3355895da90eed168ec8646fa19dc4802f71345d?source=rss",
-      "pubDate": "2026-08-15T20:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3355895da90eed168ec8646fa19dc4802f71345d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島 10年ぶり開幕2連勝!また後半AT決勝弾 関川殊勲「決めたというか、いいところにいた」(スポニチアネックス)",
-      "summary": "◇明治安田J1第2節 鹿島 2―1 名古屋（2026年8月15日 メルスタ） 明治安田J1リーグは各地で9試合が行われ、鹿島はホームで名古屋に2―1で競り勝ち、16年以来10年ぶりの開幕2連勝を",
-      "link": "https://news.yahoo.co.jp/articles/c2935856dd599697f6c45eca21a9a674730bd536?source=rss",
-      "pubDate": "2026-08-15T20:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c2935856dd599697f6c45eca21a9a674730bd536?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【京都】DF福田心之助１Ｇ１Ａ「イメージと全部のモーションが全てあった」敵将も脱帽(日刊スポーツ)",
-      "summary": "＜明治安田J1：川崎F2－2京都＞◇第2節◇15日 京都サンガF．C．は敵地で川崎フロンターレと2－2で引き分けて勝ち点1を獲得した。 前半に1点先行を許すも、後半9分にDF福田心之助（25）",
-      "link": "https://news.yahoo.co.jp/articles/bb4efdb16e7005848190ccaf0bced254e1787bf7?source=rss",
-      "pubDate": "2026-08-15T19:55:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bb4efdb16e7005848190ccaf0bced254e1787bf7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【神戸】武藤嘉紀が劇的同点弾「足をつって、腰もいい状態じゃなくて逆に力が抜けた」(日刊スポーツ)",
-      "summary": "＜明治安田J1：神戸2－2東京＞◇第2節◇15日◇ノエスタ ヴィッセル神戸のFW武藤嘉紀（34）が、後半アディショナルタイムの劇的弾でチームに勝ち点をもたらした。 0－1の前半40分にFW大迫",
-      "link": "https://news.yahoo.co.jp/articles/adf69896f4bbd9066abc31f382242f3c006fe182?source=rss",
-      "pubDate": "2026-08-15T19:55:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/adf69896f4bbd9066abc31f382242f3c006fe182?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京】長倉幹樹が自身J1初の１戦２発 復活印象づけるプレーも「結果を出さなきゃいけない」(日刊スポーツ)",
-      "summary": "＜明治安田J1：神戸2－2東京＞◇第2節◇15日◇ノエスタ FC東京FW長倉幹樹（26）が2ゴールを決めて、百年構想リーグ王者のヴィッセル神戸を苦しめた。 前半35分、カウンターの起点となって",
-      "link": "https://news.yahoo.co.jp/articles/aeab1cb0a29179872e1e7a469351b98580d6cce9?source=rss",
-      "pubDate": "2026-08-15T19:55:00.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo",
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/aeab1cb0a29179872e1e7a469351b98580d6cce9?source=rss"
         }
       ]
     }
