@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-09-16T21:51:55.714Z",
-  "count": 1618,
+  "generatedAt": "2026-09-16T23:57:31.743Z",
+  "count": 1616,
   "items": [
+    {
+      "title": "勝てば地区5連覇のドジャースが先制！スミスが3回に適時打 先発スネル緊急降板の暗雲吹き飛ばす(スポニチアネックス)",
+      "summary": "◇ナ・リーグ ドジャースーレッズ（2026年9月16日 シンシナティ） ドジャースは16日（日本時間17日）、敵地でのレッズ戦で3回に先制。ウィル・スミス捕手（31）が適時打を放った。 両軍",
+      "link": "https://news.yahoo.co.jp/articles/a88a79997d206a5c4770be680fba4a9bed845cef?source=rss",
+      "pubDate": "2026-09-16T23:36:17.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a88a79997d206a5c4770be680fba4a9bed845cef?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸新聞杯】追って一言(サンケイスポーツ)",
+      "summary": "◆グリーンエナジー・上原佑師「前向きさがあるなかでも力みがなく、ちょうどいい感じ。17日に輸送します」 ◆ゴーラッキー・黒岩師「先週までにしっかりやって整っているが、今週も長めから追った。落ち着きの",
+      "link": "https://news.yahoo.co.jp/articles/197eb2cb464704ead3428dc7a026b1a91d6dd626?source=rss",
+      "pubDate": "2026-09-16T23:16:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/197eb2cb464704ead3428dc7a026b1a91d6dd626?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ドジャース優勝決定の条件は…地区５連覇へ「1番中堅」エドマン、先発スネル／スタメン(日刊スポーツ)",
+      "summary": "＜レッズ－ドジャース＞◇16日（日本時間17日）◇グレートアメリカンボールパーク ドジャースがマジック「1」で5年連続の地区制覇へ王手をかけている。この日のレッズ戦に勝利すれば、地区優勝が決まる。",
+      "link": "https://news.yahoo.co.jp/articles/536ddb51057b76a8fccdb3dde82f4e85db017a69?source=rss",
+      "pubDate": "2026-09-16T22:44:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/536ddb51057b76a8fccdb3dde82f4e85db017a69?source=rss"
+        }
+      ]
+    },
     {
       "title": "「徹夜組が出るな…」J3新規参入の滋賀、新オフィシャルグッズが「可愛さ爆発してる」と発売前から大評判!「絶対買う」「他サポですが一目惚れ」(サッカー批評Web)",
       "summary": "J3新規参入のレイラック滋賀FCが9月20日に新発売するオフィシャルグッズが、大きな話題を集めている。 秋春制の新シーズンが始まった中、Jリーグ各クラブからは新しいオフィシャルグッズが次々と発売",
@@ -1698,6 +1755,27 @@
       ]
     },
     {
+      "title": "背番号10に決定! 水戸FWマテウス・レイリアが大分に完全移籍「クラブから聞いたプロジェクトにも大きな魅力を感じ…」",
+      "summary": "大分トリニータは15日、水戸ホーリーホックからFWマテウス・レイリア(31)が完全移籍で加入することを発表した。背番号は「10」となる。 ブラジル出身の同選手は過去にカターレ富山やヴァンフォーレ甲府でプレー。今年2月に水戸へ加入し、今季はJ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458888-458888-fl",
+      "pubDate": "2026-09-15T02:40:21.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458888-458888-fl"
+        }
+      ]
+    },
+    {
       "title": "J2大分、水戸からFWマテウス・レイリアを完全移籍で獲得 背番号は「10」…エース番号で「再びJ1へ」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/673390",
@@ -1839,23 +1917,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/848556968a49ee9aff6ccdc1f7a57ce1288380a4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "山口vs群馬 試合記録",
-      "summary": "【J3第6節】(みらスタ)山口 2-0(前半2-0)群馬[山]渡邉颯太(15分)、山本龍平(24分)[山]輪笠祐士(35分)[群]山原康太郎(84分)観衆:4,312人主審:鶴岡将樹[レノファ山口FC]先発GK 35 内山圭DF 2 小澤亮…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458687-458687-fl",
-      "pubDate": "2026-09-15T00:40:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458687-458687-fl"
         }
       ]
     },
@@ -31474,108 +31535,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/18/post813000/"
-        }
-      ]
-    },
-    {
-      "title": "【広島】床田寛樹、森下暢仁の先発２本柱が６週間ぶりそろい踏み 反攻の旗手となれるか(日刊スポーツ)",
-      "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【広島】 ＜先週のMVP＞ 14日阪神戦に先発した森下",
-      "link": "https://news.yahoo.co.jp/articles/c2dc7a60aa908041d908f3f72b58c55749cda85e?source=rss",
-      "pubDate": "2026-08-17T23:55:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c2dc7a60aa908041d908f3f72b58c55749cda85e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「誰やこれ」浦和レッズ加入の元日本代表DF、「金髪髭面」に騒然! 「なんか別人」「似合ってる」“優勝将請負人”が恩師と再タッグで猛反撃へ(サッカー批評Web)",
-      "summary": "J1の浦和レッズが、元サッカー日本代表DF山根視来の完全移籍加入を発表した。実績十分な実力者のJリーグ復帰はもちろんのこと、これまでのイメージを大きく覆す“現在の姿”に、ファンからは驚きの声が広がっ",
-      "link": "https://news.yahoo.co.jp/articles/604cfb3e7399fd50507b3d54c5bb3a4ba403c414?source=rss",
-      "pubDate": "2026-08-17T23:36:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/604cfb3e7399fd50507b3d54c5bb3a4ba403c414?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "バレンシア佐藤龍之介の登録手続き問題を解決、22日のスペインリーグ初戦セルタ戦の出場可能に(日刊スポーツ)",
-      "summary": "今季、FC東京から移籍金400万ユーロ（約7億4000万円）でバレンシアに加入したMF佐藤龍之介（19）が、スペインリーグ開幕戦に出場できるとスペイン紙マルカ電子版が17日に報じた。 バレンシア",
-      "link": "https://news.yahoo.co.jp/articles/e75a382252744755e0508e09e7f806d83d3af7cd?source=rss",
-      "pubDate": "2026-08-17T23:09:29.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e75a382252744755e0508e09e7f806d83d3af7cd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「名古屋から直行！？」 11-0圧勝→巨人監督の行動に衝撃 教え子のため…相次ぐ称賛「マジ良い人」(THE ANSWER)",
-      "summary": "まさかのサプライズ登場だった。16日に東京・ジャイアンツタウンスタジアムで行われたファームリーグの巨人―オイシックスの試合後に、今季限りで引退するオイシックスの陽岱鋼外野手の引退セレモニーが行なわれ",
-      "link": "https://news.yahoo.co.jp/articles/710596a990fbe0a1a59766b19c170274b32baaed?source=rss",
-      "pubDate": "2026-08-17T22:13:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/710596a990fbe0a1a59766b19c170274b32baaed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「千葉のためにも、街のためにも」困難な状況に立ち向かったジェフ千葉・姫野誠。それでも本人は「結果がすべて」【コラム】",
-      "summary": "想定外のシステム変更の中で、松村拓実が存在感を示した。柏レイソルとのちばぎんカップでは慣れないシャドーを任されると、背後への抜け出しやチャンスメイクで攻撃面に持ち味を発揮。得点こそなかったものの、J1で戦うための可能性を示した。一方で、プロ…",
-      "link": "https://www.footballchannel.jp/2026/08/18/post990798/",
-      "pubDate": "2026-08-17T22:00:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/18/post990798/"
         }
       ]
     }
