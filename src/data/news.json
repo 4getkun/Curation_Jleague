@@ -1,7 +1,235 @@
 {
-  "generatedAt": "2026-09-17T03:09:10.555Z",
-  "count": 1621,
+  "generatedAt": "2026-09-17T08:47:22.601Z",
+  "count": 1614,
   "items": [
+    {
+      "title": "水戸ホーリーホック、モンテディオ山形からDF岡本一真が完全移籍で獲得！「真摯に取り組み、全力を尽くします」(フットボールチャンネル)",
+      "summary": "水戸ホーリーホックは17日、モンテディオ山形からDF岡本一真が完全移籍で加入することを発表した。 岡本は2003年9月19日生まれの22歳。神奈川県出身で、バディSC、横浜F・マリノスジュ",
+      "link": "https://news.yahoo.co.jp/articles/354e9ece7d571cb30a922f0dd7a1788a481f83d5?source=rss",
+      "pubDate": "2026-09-17T08:34:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/354e9ece7d571cb30a922f0dd7a1788a481f83d5?source=rss"
+        },
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/17/post1013604/"
+        }
+      ]
+    },
+    {
+      "title": "JFL→J3→J2→J1→日本代表――横浜F・マリノス谷村海那が28歳で初招集。かつて同じ道を歩んだもう一人とは",
+      "summary": "日本時間17日、9、10月に行われるキリンチャレンジカップ2026とキリンカップサッカー2026に臨むサッカー日本代表のメンバー発表会見が行われた。4連戦ということもあり、普段よりも多くの選手が呼ばれるなか、初招集として横浜F・マリノスの谷…",
+      "link": "https://www.footballchannel.jp/2026/09/17/post1013589/",
+      "pubDate": "2026-09-17T08:33:44.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/17/post1013589/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/804bf2d0cf44f9d0e5c4ada65822495416895a57?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サッカー日本代表、W杯後初陣に冨安健洋、安藤智哉ら31人を選出 J1アビスパ福岡OB〝初共演〟なるか 初招集は松木玖生ら4人(西スポWEB OTTO!)",
+      "summary": "日本サッカー協会（JFA）は9、10月の国際親善試合に臨む男子日本代表を発表し、J1アビスパ福岡のOBでもある冨安健洋（クリスタルパレス）、安藤智哉（ザンクトパウリ）の両DFら31人が選出された。",
+      "link": "https://news.yahoo.co.jp/articles/ace94239a278190d2db0c1039dfb26fda3621c36?source=rss",
+      "pubDate": "2026-09-17T08:31:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ace94239a278190d2db0c1039dfb26fda3621c36?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "世界で話題…J助っ人の”日本紹介”が「面白すぎる」 海外ファンが大注目「これすごい好き」(FOOTBALL ZONE)",
+      "summary": "サンフレッチェ広島のFWセバスティアン・アレーが自身のSNSに投稿している日本紹介動画が大きな反響を呼んでいる。国外のファンからも「最高のコンテンツだ」と注目が集まっている。 32歳のアレーは今",
+      "link": "https://news.yahoo.co.jp/articles/1304206dfdf01ee31b33feaabcf84e116dac4a1e?source=rss",
+      "pubDate": "2026-09-17T08:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1304206dfdf01ee31b33feaabcf84e116dac4a1e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "水戸 山形DF岡本一真の加入を正式発表 J1初挑戦へ「全力を尽くします」(スポニチアネックス)",
+      "summary": "J1水戸は17日、J2山形からDF岡本一真（22）が完全移籍で加入すると発表した。背番号は6。自身初のJ1挑戦となる。クラブを通じ「少しでも早くチームの勝利に貢献できるよう、サッカーへ真摯に取り組み",
+      "link": "https://news.yahoo.co.jp/articles/84126213b103a53f98bbee97c974fd02070490ed?source=rss",
+      "pubDate": "2026-09-17T08:28:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/84126213b103a53f98bbee97c974fd02070490ed?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "浦和監督「まだ予断を許さない状況」 体調不良者が続出→回復傾向も「準備せざるを得ない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/673814",
+      "pubDate": "2026-09-17T08:01:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/673814"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】初選出の谷村海那に「今Ｊリーグで一番点を取っている」と森保一監督(日刊スポーツ)",
+      "summary": "日本サッカー協会（JFA）は17日、千葉市内で9、10月の国際親善試合に臨む日本代表メンバーを発表し、FW谷村海那（28＝横浜F・マリノス）を初選出した。 今季7試合6得点と大ブレーク中のストラ",
+      "link": "https://news.yahoo.co.jp/articles/87af03610769f9ce446a6585e4b299e3c634b94c?source=rss",
+      "pubDate": "2026-09-17T07:12:08.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "jef-chiba",
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/87af03610769f9ce446a6585e4b299e3c634b94c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】初選出の中野就斗に「地上戦、空中戦も国際レベルで戦える」と森保一監督(日刊スポーツ)",
+      "summary": "日本サッカー協会（JFA）は17日、千葉市内で9、10月の国際親善試合に臨む日本代表メンバーを発表し、DF中野就斗（26＝サンフレッチェ広島）が初選出された。 森保一監督（58）は中野について「",
+      "link": "https://news.yahoo.co.jp/articles/471ec070ad0021c7cbbb14573ff819f8fa0d8086?source=rss",
+      "pubDate": "2026-09-17T07:04:56.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/471ec070ad0021c7cbbb14573ff819f8fa0d8086?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "JFL→J3→J2→J1→A代表入り「泣ける」 28歳の苦労人が駆け上がった5年「ビッグサプライズ！」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/673801",
+      "pubDate": "2026-09-17T05:48:04.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/673801"
+        }
+      ]
+    },
+    {
+      "title": "森保監督、谷村招集の理由を説明 今季J1で圧巻の7戦6発「勝たせてくれるプレーをしてくれる」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/673774",
+      "pubDate": "2026-09-17T04:32:26.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/673774"
+        }
+      ]
+    },
+    {
+      "title": "第3次森保ジャパン、Jリーグから5人がメンバー入り 今季7戦6発の谷村海那＆中野就斗が初選出",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/673762",
+      "pubDate": "2026-09-17T04:10:46.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/673762"
+        }
+      ]
+    },
     {
       "title": "【移籍情報】清水が京都からMF平戸太貴を完全移籍で獲得…反町康治GMは得点力不足解消やセットプレーキッカーとしても期待 ｜ Jリーグ(DAZN News)",
       "summary": "【国内サッカー 最新ニュース＆移籍情報】清水エスパルスは9月17日、MF平戸太貴が京都サンガF.C.より完全移籍で加入することをクラブ公式サイト上で発表した。 清水のクラブ公式サイトは「このたび、京",
@@ -1854,6 +2082,27 @@
       ]
     },
     {
+      "title": "長崎、ポーランド2部から27歳のブラジル人FWを獲得「毎⽇全⼒を尽くします」",
+      "summary": "V・ファーレン長崎は15日、FWジョナタン・ジュニオール(27)が完全移籍で加入することが決まったと発表した。 ブラジル出身のジョナタンは2023年夏からポーランドに渡り、2〜3部リーグを主戦場に戦ってきたFW。今季は2部のスタル・ジェシュ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458902-458902-fl",
+      "pubDate": "2026-09-15T09:34:05.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458902-458902-fl"
+        }
+      ]
+    },
+    {
       "title": "「自分は決める気で打った」ジェフ千葉・矢村健、ライバル・エリソンのゴールでも喜びを爆発させた理由。「2点目、3点目を取って突き放す」【コラム】",
       "summary": "前節、開幕5連敗からようやく初勝利をつかんだジェフユナイテッド千葉。18シーズンぶりとなるJ1連勝を目指した東京ヴェルディ戦で、矢村健は先制点につながるシュートを放った。土壇場で勝利を逃した一戦の後、ストライカーの口から出てきたのは、悔しさ…",
       "link": "https://www.footballchannel.jp/2026/09/15/post1011312/",
@@ -1948,27 +2197,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/cb2ecc50e77b4d41c635a9212b86f40a18415f95?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "秋田FW西村真祈が北九州に期限付き移籍「1日1日を全身全霊で生きていきます」",
-      "summary": "ギラヴァンツ北九州は15日、ブラウブリッツ秋田のFW西村真祈(24)が期限付き移籍加入することを発表した。移籍期間は2027年6月30日まで。期間中は秋田と対戦する全ての公式戦に出場できない。 西村はセレッソ大阪U-18から関西大を経て、2…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458893-458893-fl",
-      "pubDate": "2026-09-15T05:13:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458893-458893-fl"
         }
       ]
     },
@@ -31286,352 +31514,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/18/post991761/"
-        }
-      ]
-    },
-    {
-      "title": "ACLEの組み合わせが決定 J1から鹿島、柏、京都、神戸、G大阪が参戦…中国勢との対戦はなし",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669232",
-      "pubDate": "2026-08-18T08:39:33.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669232"
-        }
-      ]
-    },
-    {
-      "title": "G大阪DF池谷銀姿郎「練習からもっとやっていく」水戸戦での失点直結ミスを糧に(スポニチアネックス)",
-      "summary": "G大阪は18日、吹田市内の練習場で公開トレーニングを行った。22日には敵地・名古屋戦。前節・水戸戦で縦パスを相手に渡してしまい、失点に直結するミスをしたDF池谷銀姿郎は「望ましくない選択だったと思う",
-      "link": "https://news.yahoo.co.jp/articles/50981d700c413e52de9d731653000d91e15b1844?source=rss",
-      "pubDate": "2026-08-18T08:32:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/50981d700c413e52de9d731653000d91e15b1844?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京Ｖ】斎藤功佑「６割くらい」柴戸海、森田晃樹と揃ってチーム練習に部分合流(日刊スポーツ)",
-      "summary": "負傷者が続出している東京ヴェルディにあって、離脱していた主力MFの斎藤功佑（29）、柴戸海（30）、森田晃樹（26）が18日、東京・稲城市でのチーム練習に部分合流した。 主将の森田は7月に左鎖骨",
-      "link": "https://news.yahoo.co.jp/articles/6c29c2b93bea423b54c0500fa6ac231e86768c8d?source=rss",
-      "pubDate": "2026-08-18T08:05:25.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6c29c2b93bea423b54c0500fa6ac231e86768c8d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯 JFA第106回全日本サッカー選手権大会 全試合日程・結果・放送・配信予定一覧",
-      "summary": "2026年8月19日から行われる天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。",
-      "link": "https://www.footballchannel.jp/2026/08/18/post991491/",
-      "pubDate": "2026-08-18T07:59:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/18/post991491/"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
-      "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
-      "link": "https://www.footballchannel.jp/2026/08/18/post991494/",
-      "pubDate": "2026-08-18T07:59:14.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/18/post991494/"
-        }
-      ]
-    },
-    {
-      "title": "広島・新井監督 小園海斗の1軍登録抹消を説明「今のままじゃショートでは」 16日阪神戦で精彩欠く守備(スポニチアネックス)",
-      "summary": "広島・小園海斗内野手（26）が18日、1軍登録を抹消された。同日の広島―中日戦の試合前、新井貴浩監督が本人に理由を説明。報道陣に対しても、決断に至った経緯などを明かした。 「（本人と）話をして、",
-      "link": "https://news.yahoo.co.jp/articles/9f0b3861e51f90e4818f81cfa2c9f38822b2173a?source=rss",
-      "pubDate": "2026-08-18T07:55:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9f0b3861e51f90e4818f81cfa2c9f38822b2173a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ACL2グループステージの組み合わせが決定！ FC町田ゼルビアは、日本人選手多数在籍のタンピネス・ローバースらと同組に(フットボールチャンネル)",
-      "summary": "AFCチャンピオンズリーグ2（ACL2）の組み合わせ抽選会が18日にマレーシア・クアラルンプールで行われ、参加32チームのグループ分けが決定した。 昨シーズンはガンバ大阪が制したACL2。2",
-      "link": "https://news.yahoo.co.jp/articles/704e6c158bb26dce698fcb8338d4dd5465c32418?source=rss",
-      "pubDate": "2026-08-18T07:54:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/704e6c158bb26dce698fcb8338d4dd5465c32418?source=rss"
-        },
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/18/post991737/"
-        }
-      ]
-    },
-    {
-      "title": "東京V平尾勇人、大学選抜イタリア遠征から合流「フィジカルやスピードは相手が上だったが判断は日本が上」(スポニチアネックス)",
-      "summary": "全日本大学選抜に選出されて、イタリアに遠征していた東京Vの平尾勇人（21）がチームに合流した。来年から加入が決まっているが、日大に在学中で、特別指定選手として東京Vでもプレーしている。 遠征につ",
-      "link": "https://news.yahoo.co.jp/articles/e2840da29db8d7ce61ada8d443ba823cff9bc2b4?source=rss",
-      "pubDate": "2026-08-18T07:47:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e2840da29db8d7ce61ada8d443ba823cff9bc2b4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島好き】辰見鴻之介が20盗塁、そこでカープのシーズン20盗塁以上を記録した選手を調べてみた(J SPORTS)",
-      "summary": "8月14日の阪神戦で代走出場した辰見 鴻之介が二盗を決め、シーズン20盗塁に到達しました。",
-      "link": "https://news.yahoo.co.jp/articles/02870412c6092fc930f912fd55e89e7937d50f84?source=rss",
-      "pubDate": "2026-08-18T07:46:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/02870412c6092fc930f912fd55e89e7937d50f84?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC町田ゼルビアはグループGに AFCチャンピオンズリーグ2 2026/27のグループ分けが決定(スポーティングニュース日本版)",
-      "summary": "AFCチャンピオンズリーグ（ACL）2の組み合わせ抽選会が2026年8月18日（火）15:00からマレーシア・クアラルンプールのグランドハイアット・クアラルンプールで行われ、参加32チームのグループ分",
-      "link": "https://news.yahoo.co.jp/articles/cd103881ed748ada84e38b6a2ed040c0d7d4d6d3?source=rss",
-      "pubDate": "2026-08-18T07:06:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cd103881ed748ada84e38b6a2ed040c0d7d4d6d3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "クラセンU-15決勝トーナメントが開幕!! 鹿島“同門対決”は劇的な逆転決着、広島FW駒野友春2発で得点ランク首位タイ浮上:ラウンド32全結果(ゲキサカ)",
-      "summary": "中学年代のクラブチームの頂点を争う第41回日本クラブユースサッカー選手権(U-15)大会は18日、決勝トーナメント1回戦(ラウンド32)を行い、前回王者のヴィッセル神戸U-15や鹿島アントラーズジュ",
-      "link": "https://news.yahoo.co.jp/articles/851f196ffcf3e73800b51c800d0d3dbc409024ba?source=rss",
-      "pubDate": "2026-08-18T06:58:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers",
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/851f196ffcf3e73800b51c800d0d3dbc409024ba?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "U―20女子W杯に板村や真城ら 日本代表21人、9月開幕(共同通信)",
-      "summary": "日本サッカー協会は18日、U―20（20歳以下）女子ワールドカップ（W杯）ポーランド大会（9月開幕）に臨む日本代表に、ただ一人の海外組となる板村（リバプール）や、真城（日テレ東京V）ら21人を選んだ",
-      "link": "https://news.yahoo.co.jp/articles/4910d0761623a6c0da7688f9aba3e3007503e5e3?source=rss",
-      "pubDate": "2026-08-18T06:25:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4910d0761623a6c0da7688f9aba3e3007503e5e3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪がコートジボワール人DFを獲得へ マラガMFヒメネスは近日中に来日(スポニチアネックス)",
-      "summary": "G大阪がコートジボワール人DFアリ・カマラ（24）を獲得する方針であることが18日までに分かった。メディカルチェック後に正式契約を結ぶ予定だ。 すでに2週間ほどのトライアルに参加。その中でクラブ",
-      "link": "https://news.yahoo.co.jp/articles/af428b57be1bebed986fcabf2a1fbd02b4dea146?source=rss",
-      "pubDate": "2026-08-18T06:00:30.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/af428b57be1bebed986fcabf2a1fbd02b4dea146?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪MF食野亮太郎が公式戦3試合ぶり復帰へ「これから取り返していく」公開TRでフルメニュー消化(スポニチアネックス)",
-      "summary": "G大阪は18日、吹田市内の練習場で公開トレーニングを行った。22日にはアウェーで名古屋戦。公式戦2試合連続で欠場したMF食野亮太郎はフルメニューを消化し、次戦の復帰へ気合を入れた。 「休んでいた",
-      "link": "https://news.yahoo.co.jp/articles/1d26c59f7d1bacd547259ab348dfded501d3a97e?source=rss",
-      "pubDate": "2026-08-18T05:49:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1d26c59f7d1bacd547259ab348dfded501d3a97e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "サッカー天皇杯19日に開幕 都道府県代表などが1回戦(共同通信)",
-      "summary": "サッカーの第106回天皇杯全日本選手権（日本サッカー協会、Jリーグ主催、共同通信社、NHK共催）は19日に開幕し、1回戦で各都道府県代表とアマチュアシードの筑波大が、J1、J2勢が待ち受ける26日の",
-      "link": "https://news.yahoo.co.jp/articles/c6cb5bdfb7aa1393b283d8cfa070edc9baff1d11?source=rss",
-      "pubDate": "2026-08-18T05:47:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c6cb5bdfb7aa1393b283d8cfa070edc9baff1d11?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【8月18日】日本から出場する6チームの対戦相手は？ ACLエリート／ACL2組み合わせ抽選会の放送・配信予定(スポーティングニュース日本版)",
-      "summary": "AFCチャンピオンズリーグ（ACL）エリートならびにAFCチャンピオンズリーグ（ACL）2の組み合わせ抽選会が2026年8月18日（火）にマレーシア・クアラルンプールのグランドハイアット・クアラルンプ",
-      "link": "https://news.yahoo.co.jp/articles/898651974ec1f4d9103e20d4afc921403e917acd?source=rss",
-      "pubDate": "2026-08-18T05:22:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/898651974ec1f4d9103e20d4afc921403e917acd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「なんて簡単にやってのけるんだ…」バレンシアの19歳日本人が魅せた“おしゃれ弾”を現地ファン絶賛！「やばすぎる」「チームで最も優れた選手」(SOCCER DIGEST Web)",
-      "summary": "スペイン１部バレンシアに加入したMF佐藤龍之介が、トレーニングで披露した華麗な一撃が注目を集めている。 今夏にFC東京からバレンシアへ移籍した19歳の若きサムライは、新天地で早くも存在感を示して",
-      "link": "https://news.yahoo.co.jp/articles/66279b7e6705a989b304d26c66c2232408faeb0c?source=rss",
-      "pubDate": "2026-08-18T04:51:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/66279b7e6705a989b304d26c66c2232408faeb0c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「次のW杯で暴れて」久保建英と交代で日本代表デビューのC大阪育ち22歳、2年目の欧州で圧巻の今季初ゴール! GKノーチャンスの理不尽弾に「冷静」「さすが颯太」(サッカー批評Web)",
-      "summary": "オーストリア1部の強豪RBザルツブルクに所属する若き日本人アタッカーが、待望の今季リーグ戦初ゴールを記録した。すでに日本代表（SAMURAI BLUE）デビューも果たし、8月13日に「22歳」の誕生",
-      "link": "https://news.yahoo.co.jp/articles/18233d717ae4c5a0121324b5046c00f70d7966b4?source=rss",
-      "pubDate": "2026-08-18T03:36:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/18233d717ae4c5a0121324b5046c00f70d7966b4?source=rss"
         }
       ]
     }
