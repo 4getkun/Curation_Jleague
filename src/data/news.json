@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-09-17T13:54:47.233Z",
-  "count": 1597,
+  "generatedAt": "2026-09-17T17:50:29.916Z",
+  "count": 1598,
   "items": [
+    {
+      "title": "勝てば地区優勝のドジャース“3番昇格”タッカーが先制2ラン！直近13戦5発と調子上向き(スポニチアネックス)",
+      "summary": "◇ナ・リーグ ドジャースーレッズ（2026年9月17日 シンシナティ） ドジャースのカイル・タッカー外野手（29）が17日（日本時間18日）、敵地でのレッズ戦に「3番・右翼」で先発出場。勝てば地",
+      "link": "https://news.yahoo.co.jp/articles/382ff1e878f1ad8a246a1d02914ae044fb1618a9?source=rss",
+      "pubDate": "2026-09-17T17:18:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/382ff1e878f1ad8a246a1d02914ae044fb1618a9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏FW古沢ナベル慈宇、シンガポール1部に期限付き移籍 李忠成氏が副会長兼SDのタンピネス・ローバーズ(スポニチアネックス)",
+      "summary": "柏FW古沢ナベル慈宇（23）がシンガポール1部タンピネス・ローバーズに期限付き移籍することが17日、分かった。 青森山田高から東京国際大を経て25年に柏入り。大型ストライカーとして期待されながら",
+      "link": "https://news.yahoo.co.jp/articles/fa1509309997a5b28b130240eed56421de09817b?source=rss",
+      "pubDate": "2026-09-17T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fa1509309997a5b28b130240eed56421de09817b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京 元U―21スペイン代表FWダニ・ゴメス獲得へ(スポニチアネックス)",
+      "summary": "FC東京が元U―21スペイン代表FWダニ・ゴメス（27）を完全移籍で獲得することが17日、分かった。複数の関係者によると、一両日中にも正式発表される見通しだ。 レアル・マドリードのアカデミー出身",
+      "link": "https://news.yahoo.co.jp/articles/f7fcbd6ca5659ca76bcf27dc5e43e2fe34918fdd?source=rss",
+      "pubDate": "2026-09-17T16:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f7fcbd6ca5659ca76bcf27dc5e43e2fe34918fdd?source=rss"
+        }
+      ]
+    },
     {
       "title": "藤本寛也が古巣・東京ヴェルディへ復帰！ 欧州経験を携えてJ1初挑戦へ「また皆さんと一緒に戦えることを楽しみにしています」(theWORLD（ザ・ワールドWeb）)",
       "summary": "東京ヴェルディは17日、イングランドのバーミンガム・シティFCからMF藤本寛也を期限付き移籍で獲得することを発表した。移籍期間は2027年6月30日まで。下部組織から育った藤本が、約6年ぶりに古巣へ復",
@@ -68,16 +129,16 @@
       "summary": "＜川崎競輪：ミッドナイト競輪＞◇F2◇初日◇17日 望月嘉人（30＝静岡）が出足鋭いカマシで、オープニングのチャレンジ予選1Rを制した。「フレームを替えて正解でした。前に出てからも余裕があったし、",
       "link": "https://news.yahoo.co.jp/articles/719cb4b209610340fcc751c57ddcb0ff6127fb20?source=rss",
       "pubDate": "2026-09-17T13:28:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "frontale"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/719cb4b209610340fcc751c57ddcb0ff6127fb20?source=rss"
         }
       ]
@@ -1094,6 +1155,25 @@
       ]
     },
     {
+      "title": "全北現代vs柏 スタメン発表",
+      "summary": "[9.16 ACLEリーグステージ第1節](全州)※19:00開始[全北現代]先発GK 31 ソン・ボムグンDF 2 キム・ヨンビンDF 4 チョ・ウィジェDF 23 キム・テファンDF 77 キム・テヒョンMF 16 ジョアン・ガンボアM…",
+      "link": "https://web.gekisaka.jp/news/acl/detail/?458969-458969-fl",
+      "pubDate": "2026-09-16T09:15:21.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/acl/detail/?458969-458969-fl"
+        }
+      ]
+    },
+    {
       "title": "【千葉】神戸からンドカ・ボニフェイスが期限付き移籍「このチャンスをいかせるよう全力尽くす」(日刊スポーツ)",
       "summary": "ジェフユナイテッド市原・千葉は16日、ヴィッセル神戸からDFンドカ・ボニフェイス（30）を期限付き移籍で獲得したと発表した。期間は来年6月30日まで、背番号は2となる。 日体大卒のンドカは、横浜",
       "link": "https://news.yahoo.co.jp/articles/41d69412c7d628c71ee512dc68af5e459301251f?source=rss",
@@ -1722,6 +1802,23 @@
       ]
     },
     {
+      "title": "熊本vs奈良 スタメン発表",
+      "summary": "[9.6 J3第5節](えがおS)※18:00開始主審:宗像瞭[ロアッソ熊本]先発GK 1 佐藤史騎DF 5 小林慶太DF 24 李泰河DF 26 戸田峻平MF 7 藤井皓也MF 13 飯星明良MF 25 那須健一MF 29 三品直哉MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458335-458335-fl",
+      "pubDate": "2026-09-15T17:20:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458335-458335-fl"
+        }
+      ]
+    },
+    {
       "title": "ドジャース メジャー史上最長タイの14年連続ポストシーズン進出(スポニチアネックス)",
       "summary": "◇ナ・リーグ ドジャース4ー1レッズ（2026年9月14日 シンシナティ） ドジャースがブレーブスに並ぶメジャー史上最長の14年連続ポストシーズン進出を決めた。試合後はクラブハウスでシャンパンで",
       "link": "https://news.yahoo.co.jp/articles/a6b76f43a9e2215252f135efa829a77d5990e662?source=rss",
@@ -2033,26 +2130,6 @@
       ]
     },
     {
-      "title": "町田vs横浜FM 試合記録",
-      "summary": "【J1第7節】(MUFG国立)町田 1-1(前半0-1)横浜FM[町]望月ヘンリー海輝(84分)[横]谷村海那(12分)[町]明本考浩(81分)[町]中村帆高(20分)、白崎凌兵(45分+4)、明本考浩2(72分、81分)[横]近藤友喜(6…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458700-458700-fl",
-      "pubDate": "2026-09-15T12:10:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia",
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458700-458700-fl"
-        }
-      ]
-    },
-    {
       "title": "【ACLE結果まとめ】鹿島アントラーズ＆ガンバ大阪がホームで大勝スタート！ 京都サンガF.C.は敵地で黒星",
       "summary": "鹿島アントラーズFWチャヴリッチ【写真：Getty Images】 AFCチャンピオンズリーグエリート【ACLE】リーグステージ第1節が15日に行われ、鹿島アントラーズはニューカッスル・ジェッツ（オーストラリア）とガン […]",
       "link": "https://www.footballchannel.jp/2026/09/15/post1011600/",
@@ -2146,30 +2223,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f827a31c8a62b8c473cb86eb89c3b7110a2e7cc7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J王者・鹿島がACLE開幕戦で衝撃の7発ゴールショー!! 19歳FW徳田誉が2ゴール1アシスト",
-      "summary": "[9.15 ACLE第1節 鹿島 7-1 ニューカッスル・ジェッツ] AFCチャンピオンズリーグエリート(ACLE)は15日、リーグステージ開幕節を行い、昨季J1リーグ王者の鹿島アントラーズがニューカッスル・ジェッツ(豪州)に7-1で勝利し…",
-      "link": "https://web.gekisaka.jp/news/acl/detail/?458910-458910-fl",
-      "pubDate": "2026-09-15T11:54:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/acl/detail/?458910-458910-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f621c87781587861e89b189b91bb5f13c32ccfd2?source=rss"
         }
       ]
     },
@@ -31159,44 +31212,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/51d7d08f99de7874c89aa6539d070e7cee93f2b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【サッカー】鳴り物✖声✖…観客の多くが立ち見…川崎のU―21リーグ開催競技場に厳しい意見「声も出せないのに…」 「ガワより中身」と慎重な声も(中日スポーツ)",
-      "summary": "22日に開幕するJリーグのU―21リーグに参加する川崎フロンターレがチームの練習場「麻生グラウンド」（川崎市麻生区）で開催する試合について、座席の配置や観戦様式が「厳しい」などと話題となっている。",
-      "link": "https://news.yahoo.co.jp/articles/9a542d1fb8661826e1b64af9868ff5aabfe22803?source=rss",
-      "pubDate": "2026-08-18T14:32:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9a542d1fb8661826e1b64af9868ff5aabfe22803?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和JrユースFWウチェフナクリストファー・チゾバが2Gで3戦連発!! 開幕2試合ベンチスタートに奮起「絶対に結果残すぞと」(ゲキサカ)",
-      "summary": "[8.18 クラセンU-15決勝T1回戦 浦和Jrユース 3-1 北九州U-15 白旗山A] 浦和レッズジュニアユースFWウチェフナクリストファー・チゾバ(3年)が2得点の活躍で決勝トーナメント2",
-      "link": "https://news.yahoo.co.jp/articles/090c4060584beb8be5895b9dc55a41cd86bcd300?source=rss",
-      "pubDate": "2026-08-18T13:55:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/090c4060584beb8be5895b9dc55a41cd86bcd300?source=rss"
         }
       ]
     }
