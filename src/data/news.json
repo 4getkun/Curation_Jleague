@@ -1,7 +1,119 @@
 {
-  "generatedAt": "2026-09-18T06:07:10.569Z",
-  "count": 1601,
+  "generatedAt": "2026-09-18T11:32:23.074Z",
+  "count": 1570,
   "items": [
+    {
+      "title": "Ｊ１東京Ｖ、Ｗ杯２大会選出の大物補強 韓国人センターバック、チョ・ユミンが完全移籍で加入へ…２日連続で大型補強(スポーツ報知)",
+      "summary": "Ｊ１東京Ｖは１８日、シャールジャＦＣ（アラブ首長国連邦）からＤＦチョ・ユミンを完全移籍で獲得したと発表した。 本職はセンターバックで、ほかにもボランチ、右サイドバックもこなせる２９歳。Ｗ杯では２",
+      "link": "https://news.yahoo.co.jp/articles/741852cf097f6376e33a4b62290af90a2ede2239?source=rss",
+      "pubDate": "2026-09-18T11:20:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/741852cf097f6376e33a4b62290af90a2ede2239?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「やってられるかよ」と思ったプロ1年目から、28歳で日本代表へ。横浜F・マリノスの谷村海那がJFLから歩んだ道のり",
+      "summary": "横浜F・マリノスは9月18日、あす19日の水戸ホーリーホック戦に向けてトレーニングを行った。日本代表に初選出されたFW谷村海那が練習後、横須賀市内のクラブハウスで取材に応じ、初めて日の丸を背負う喜びと、JFLから歩んできた自身のキャリアを振…",
+      "link": "https://www.footballchannel.jp/2026/09/18/post1014117/",
+      "pubDate": "2026-09-18T09:00:49.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/18/post1014117/"
+        }
+      ]
+    },
+    {
+      "title": "日本では無名→インドネシアで“スター選手”に。年間MVPの29歳日本人が国籍取得へ…アジア杯で日本代表と対戦も？",
+      "summary": "Jリーグ経験なしで海外へ渡り、インドネシアリーグで年間MVPにも輝いた丸川太誠。29歳の日本人MFは現在、同国の国籍取得を進めており、代表入りの可能性も浮上している。",
+      "link": "https://www.footballchannel.jp/2026/09/18/post1014165/",
+      "pubDate": "2026-09-18T09:00:47.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/18/post1014165/"
+        }
+      ]
+    },
+    {
+      "title": "天皇杯、皇后杯の元日に同日開催が決定 両大会決勝実施は15年ぶり…会場は国立競技場",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/673983",
+      "pubDate": "2026-09-18T07:10:03.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/673983"
+        }
+      ]
+    },
+    {
+      "title": "レアル出身FWがJ1強豪に加入「どえらいの来た」 昨季はチーム最多得点…ファン熱狂「本気の補強」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/673963",
+      "pubDate": "2026-09-18T07:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/673963"
+        }
+      ]
+    },
+    {
+      "title": "天皇杯&皇后杯の元日国立同日開催が15年ぶりに復活決定",
+      "summary": "日本サッカー協会は18日、第48回皇后杯の日程を発表し、決勝を2年連続で来年1月1日に東京・MUFG スタジアム(国立競技場)で開催すると発表した。同日は天皇杯決勝も同会場で予定しており、元日同日開催は15年ぶりになる。当日はNHK総合で生…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459066-459066-fl",
+      "pubDate": "2026-09-18T06:29:32.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459066-459066-fl"
+        }
+      ]
+    },
     {
       "title": "C大阪DFディオン・クールズがFIFA新大会に出場するマレーシア代表に選出(ゲキサカ)",
       "summary": "セレッソ大阪は18日、DFディオン・クールズがFIFA ASEANカップを戦うマレーシア代表メンバーに選出されたことを発表した。 FIFA ASEANカップは国際サッカー連盟による新大会で、東南",
@@ -1901,6 +2013,25 @@
       ]
     },
     {
+      "title": "柏はACLE初陣で逆転負け…弓場弾で先制も後半2失点で黒星発進",
+      "summary": "[9.16 ACLEリーグステージ第1節 全北 2-1 柏] 柏レイソルは16日、AFCチャンピオンズリーグエリート(ACLE)リーグステージ第1戦で全北現代(韓国)とアウェーで対戦し、1-2の逆転負けを喫した。 柏は立ち上がりにリーグ戦と…",
+      "link": "https://web.gekisaka.jp/news/acl/detail/?458978-458978-fl",
+      "pubDate": "2026-09-16T11:58:51.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/acl/detail/?458978-458978-fl"
+        }
+      ]
+    },
+    {
       "title": "［名良橋晃］対照的なコモとバレンシア 水戸はしっかりJ1仕様、FC東京は優勝チャンス!?(theWORLD（ザ・ワールドWeb）)",
       "summary": "みなさんそれぞれお気に入りのクラブがあると思います。今回は私がいま注目している4つのクラブを紹介させてください。海外から2クラブ、J1から2クラブとなっています。 まずは昨季のセリエAで4位となり、",
       "link": "https://news.yahoo.co.jp/articles/a19015c288a8d3f0c0c8848bacbd7d1979fc55ff?source=rss",
@@ -1941,21 +2072,22 @@
       ]
     },
     {
-      "title": "全北現代vs柏 スタメン発表",
-      "summary": "[9.16 ACLEリーグステージ第1節](全州)※19:00開始[全北現代]先発GK 31 ソン・ボムグンDF 2 キム・ヨンビンDF 4 チョ・ウィジェDF 23 キム・テファンDF 77 キム・テヒョンMF 16 ジョアン・ガンボアM…",
-      "link": "https://web.gekisaka.jp/news/acl/detail/?458969-458969-fl",
-      "pubDate": "2026-09-16T09:15:21.000Z",
+      "title": "浦和vs岡山 試合記録",
+      "summary": "【J1第7節】(埼玉)浦和 1-2(前半1-1)岡山[浦]南野遥海(27分)[岡]大森博(18分)、立田悠悟(90分+11)[浦]植木颯(80分)[岡]宮本英治(38分)、ルカオ(59分)、本山遥(75分)観衆:30,767人主審:上田益也…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?458782-458782-fl",
+      "pubDate": "2026-09-16T09:24:35.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "reysol"
+        "reds",
+        "fagiano"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/acl/detail/?458969-458969-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?458782-458782-fl"
         }
       ]
     },
@@ -2237,28 +2369,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/16/post1012275/"
-        }
-      ]
-    },
-    {
-      "title": "鹿島が水戸DF大森渚生を完全移籍で獲得「大きな野心と覚悟を持ってきました」",
-      "summary": "鹿島アントラーズは16日、水戸ホーリーホックDF大森渚生の完全移籍加入を発表した。 大森はクラブを通じ、「水戸ホーリーホックより加入することになりました、大森渚生です。鹿島アントラーズという偉大なクラブでプレーできることをうれしく思います。…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458956-458956-fl",
-      "pubDate": "2026-09-16T04:12:18.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "antlers",
-        "hollyhock"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458956-458956-fl"
         }
       ]
     },
@@ -14012,25 +14122,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/29/post1000515/"
-        }
-      ]
-    },
-    {
-      "title": "柏vs専修大 試合記録",
-      "summary": "【天皇杯2回戦】(三協F柏)柏 2-1(前半2-0)専修大[柏]瀬川祐輔(33分)、長南開史(45分+1)[専]岡田海人(52分)[柏]五十嵐陵(90分+4)[専]岡田海人(90分+3)主審:長峯滉希副審:淺田武士、佐藤浩太├クラブ最年少ス…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457608-457608-fl",
-      "pubDate": "2026-08-29T07:47:23.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?457608-457608-fl"
         }
       ]
     },
@@ -30617,674 +30708,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/73956ffa35d989eb88da16e2b6af9fbeff55247b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "待望ゴールは劇的8強進出弾!! 思わず涙溢れた京都U-15FW武田賢志「めちゃくちゃ嬉しくて泣いてしまった」(ゲキサカ)",
-      "summary": "[8.19 クラセンU-15決勝T2回戦 京都U-15 2-1 C大阪U-15 白旗山A] 待望の今大会初得点は後半アディショナルタイムに突入する直前の劇的弾だった。京都サンガF.C.U-15FW",
-      "link": "https://news.yahoo.co.jp/articles/231ead712a56b167a3b2d5734a2baea775b30ea0?source=rss",
-      "pubDate": "2026-08-19T11:08:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/231ead712a56b167a3b2d5734a2baea775b30ea0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】カズが小野伸二の大会最年長ゴール記録を大幅に更新 59歳５カ月24日(日刊スポーツ)",
-      "summary": "＜天皇杯：福島－大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドFCのカズことFW三浦知良が、初戦の大山サッカークラブ（山形）戦でゴールを決めた。 前半12分にPKから右足でゴール",
-      "link": "https://news.yahoo.co.jp/articles/c9b84c50a1905e24c9b8f0a27144bd08923a2999?source=rss",
-      "pubDate": "2026-08-19T10:55:19.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c9b84c50a1905e24c9b8f0a27144bd08923a2999?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯1回戦で衝撃スコア「15-0」 JFL青森が秋田大学に大勝…今村優介が5ゴールの大暴れ",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669428",
-      "pubDate": "2026-08-19T10:54:20.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669428"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯1回戦で衝撃スコア「15-0」 JFL青森が秋田大学に大勝…今村優介が5ゴールの大暴れ(FOOTBALL ZONE)",
-      "summary": "天皇杯の1回戦が8月19日に各地で行われた。青森県代表で日本フットボールリーグ（JFL）に所属するラインメール青森が、秋田県代表の秋田大学と対戦し、15-0で勝利を収めた。 試合は前半3分、MF",
-      "link": "https://news.yahoo.co.jp/articles/88663e08da5508a1ec187925d07dfb8807a5bfa6?source=rss",
-      "pubDate": "2026-08-19T10:54:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/88663e08da5508a1ec187925d07dfb8807a5bfa6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "59歳5カ月24日“キングカズ”こと三浦知良、公式戦2戦連発の先制ゴールに「全盛期きてるやんこの選手」「まだまだやれる！」ファンは驚きの声【天皇杯】(中日スポーツ)",
-      "summary": "◇19日 天皇杯全日本サッカー選手権1回戦 福島―大山クラブ（とうスタ） J3福島ユナイテッドの“キングカズ”ことFW三浦知良が先発出場し、前半12分に先制ゴールを決めた。今季公式戦出場2試合連発",
-      "link": "https://news.yahoo.co.jp/articles/f3acc71759fa6ed01ccbbe0bd75bc541dc6d87e2?source=rss",
-      "pubDate": "2026-08-19T10:50:56.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f3acc71759fa6ed01ccbbe0bd75bc541dc6d87e2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、移籍で物議を醸した選手（2）ライバル間では史上初！ パンドラの箱を開けてしまったMF(フットボールチャンネル)",
-      "summary": "2026/27シーズンの明治安田Jリーグが開幕し、各クラブは新戦力を加えながら新たな戦いに臨んでいる。これまでのJリーグでは、移籍をきっかけにサポーターの感情を大きく揺さぶり、クラブ間の関係性にまで",
-      "link": "https://news.yahoo.co.jp/articles/06835ab8fc4085f97b3a588b2d6a5cea1d1d18c3?source=rss",
-      "pubDate": "2026-08-19T10:50:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/06835ab8fc4085f97b3a588b2d6a5cea1d1d18c3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "サッカー、59歳のカズが天皇杯でゴール(共同通信)",
-      "summary": "サッカー元日本代表で、「カズ」の愛称で親しまれるJ3福島の59歳、三浦知良が19日、福島市のとうほう・みんなのスタジアムで行われた天皇杯全日本選手権1回戦の大山クラブ戦でゴールした。",
-      "link": "https://news.yahoo.co.jp/articles/ddc8a045fbb71ee7fa88a35354762f3d658e4a4f?source=rss",
-      "pubDate": "2026-08-19T10:49:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ddc8a045fbb71ee7fa88a35354762f3d658e4a4f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "三浦知良がゴール！ 天皇杯１回戦、正確な一撃をゴール左に突き刺し、先制弾！(SOCCER DIGEST Web)",
-      "summary": "冷静に、沈めた。 福島ユナイテッドFCは８月19日、天皇杯１回戦で大山サッカークラブと対戦している。 12分にさっそく先制する。スコアラーは、三浦知良。PKのキッカーを務めると、ゆっくりとし",
-      "link": "https://news.yahoo.co.jp/articles/bf300a4e813ca7c29cc59a56207b7795448767d0?source=rss",
-      "pubDate": "2026-08-19T10:48:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bf300a4e813ca7c29cc59a56207b7795448767d0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島の初戦は9月15日 サッカーACLE1次リーグ(共同通信)",
-      "summary": "日本サッカー協会は19日、アジア・チャンピオンズリーグ・エリート（ACLE）1次リーグの日程を発表し、東地区の日本勢の第1戦は鹿島と京都、G大阪が9月15日、神戸と柏は同16日となった。東西16チー",
-      "link": "https://news.yahoo.co.jp/articles/3763683ad34842e35fd7ec1c8c0ea5daf285ff23?source=rss",
-      "pubDate": "2026-08-19T10:34:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3763683ad34842e35fd7ec1c8c0ea5daf285ff23?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J3福島・カズ 59歳174日弾！天皇杯最年長得点更新 スタメン出場で03年以来23年ぶりゴール(スポニチアネックス)",
-      "summary": "◇サッカー天皇杯1回戦 福島ー大山（2026年8月19日 とうスタ） J3福島FW三浦知良（59）が大山サッカークラブ（山形）戦の前半12分、7月25日の天皇杯県代表決定戦決勝以来となるゴールを",
-      "link": "https://news.yahoo.co.jp/articles/b5a6add4cee4acd933032a11c59e6feda84a2524?source=rss",
-      "pubDate": "2026-08-19T10:16:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b5a6add4cee4acd933032a11c59e6feda84a2524?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】福島カズがゴール！59歳５カ月24日、プロ最年長得点記録更新 １回戦大山クラブ戦(日刊スポーツ)",
-      "summary": "＜天皇杯：福島－大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドFCのカズことFW三浦知良が、初戦の大山サッカークラブ（山形）戦でゴールを決めた。 前半12分にPKから右足でゴール",
-      "link": "https://news.yahoo.co.jp/articles/bd966b84250051e13f5897d893f03596d4b55fc3?source=rss",
-      "pubDate": "2026-08-19T10:11:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bd966b84250051e13f5897d893f03596d4b55fc3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "寺田心出場で話題、17歳ボディビル優勝者はジム1年で高校No.1 ヘルニアで辞退検討も「最後までやり切れて良かった」――福岡大大濠・的山勝城(THE ANSWER)",
-      "summary": "日本ボディビル・フィットネス連盟（JBBF）主催の「全国高校生メンズフィジークチャンピオンシップス2026」が15日、京都で開催された。172センチ超級では17歳の的山勝城（福岡大大濠）が優勝。俳優",
-      "link": "https://news.yahoo.co.jp/articles/65fbbef21511621148f54a4a6946817d197ac70d?source=rss",
-      "pubDate": "2026-08-19T10:03:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/65fbbef21511621148f54a4a6946817d197ac70d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "徳島MF重廣卓也に第3子誕生「家族みんなで新しい命を迎えられたことを嬉しく思っています」(ゲキサカ)",
-      "summary": "徳島ヴォルティスは19日、MF重廣卓也(31)に第3子が誕生したことを発表した。 阪南大出身の重廣は、これまで京都サンガF.C.、アビスパ福岡、名古屋グランパス、FCソウル(韓国)でプレー。20",
-      "link": "https://news.yahoo.co.jp/articles/f6dd7fc5e14942cb85853c4f8293800881302c55?source=rss",
-      "pubDate": "2026-08-19T09:43:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga",
-        "avispa",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f6dd7fc5e14942cb85853c4f8293800881302c55?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表GK鈴木彩艶、プレミアのアストン・ヴィラへの完全移籍が正式決定 移籍金は最大3500万ユーロか(theWORLD（ザ・ワールドWeb）)",
-      "summary": "プレミアリーグのアストン・ヴィラは、パルマから日本代表GK鈴木彩艶を獲得したことを正式に発表した。 16歳で浦和レッズでデビューした鈴木は、ベルギーのシント・トロイデン、イタリアのパルマを経て、つい",
-      "link": "https://news.yahoo.co.jp/articles/e5c36f0cfb4b5f99377c1a477bdef21b01cdcac6?source=rss",
-      "pubDate": "2026-08-19T09:15:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e5c36f0cfb4b5f99377c1a477bdef21b01cdcac6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】59歳５カ月24日、福島カズ先発にSNSも沸騰「カズゴールに期待」(日刊スポーツ)",
-      "summary": "＜天皇杯：福島－大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドFCのカズことFW三浦知良（59）が、初戦の大山クラブ（山形）戦に先発メンバーに名前を連ねた。6月7日に行われた明治安田",
-      "link": "https://news.yahoo.co.jp/articles/890679fae94434ff4fb8e14453ace90c9f4c01a1?source=rss",
-      "pubDate": "2026-08-19T09:03:10.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/890679fae94434ff4fb8e14453ace90c9f4c01a1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "V・ファーレン長崎に「絶対必要なのは若手の突き上げ」。Jデビューの大卒ルーキー洪怜鎭が示す“ギラつき”【コラム】",
-      "summary": "V・ファーレン長崎は8月15日、2026/27明治安田J1リーグ第2節でファジアーノ岡山とのアウェイゲームに挑んだ。開幕戦で勝利した勢いを持続したかったものの、主導権を握られる時間が長く、1-0で敗れた。わずか3本のシュートに抑えられ、多く…",
-      "link": "https://www.footballchannel.jp/2026/08/19/post991902/",
-      "pubDate": "2026-08-19T09:00:57.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "v-varen"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/19/post991902/"
-        }
-      ]
-    },
-    {
-      "title": "カズ、天皇杯１回戦に先発！ 最年長５９歳１７４日でのゴールなるか…福島は大山サッカークラブと対戦(スポーツ報知)",
-      "summary": "◆天皇杯 ▽１回戦 福島―大山サッカークラブ（１９日・とうスタ） Ｊ３福島は天皇杯１回戦で東北１部大山サッカークラブ（山形）と対戦する。先発が発表され、“カズ”こと元日本代表ＦＷ三浦知良（５９）が",
-      "link": "https://news.yahoo.co.jp/articles/085c4b1f98f852a3467b1a3ec228567981d40fe8?source=rss",
-      "pubDate": "2026-08-19T09:00:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/085c4b1f98f852a3467b1a3ec228567981d40fe8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「新たな責任と覚悟を胸に」J1アビスパ福岡のGK小畑裕馬が結婚発表(西スポWEB OTTO!)",
-      "summary": "J1アビスパ福岡は19日、GK小畑裕馬（24）が一般女性と結婚したと発表した。 宮城県出身の小畑は、福岡加入初年度の2025年にリーグ戦でチーム最多となる20試合に出場。 今年の明治安田J1百",
-      "link": "https://news.yahoo.co.jp/articles/c1245d315ea6eb433e749afbbc74066468608370?source=rss",
-      "pubDate": "2026-08-19T08:31:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c1245d315ea6eb433e749afbbc74066468608370?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Amazon創業者らのコンソーシアムがリヴァプールの株式38％取得か…優先交渉権も獲得？(サッカーキング)",
-      "summary": "Amazonの創業者ジェフ・ベゾス氏を含むコンソーシアムが、リヴァプールの株式38パーセントを手にしたようだ。18日、『BBC』や『ガーディアン』など複数のイギリスメディアが伝えている。 ベゾス",
-      "link": "https://news.yahoo.co.jp/articles/5ddf520ecde70421ecf154592cb46faf49994fb4?source=rss",
-      "pubDate": "2026-08-19T08:25:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5ddf520ecde70421ecf154592cb46faf49994fb4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「個でやられても…」 J1アビスパ福岡、前線守備のキーマン重見柾斗が見据える王者鹿島との戦い 新加入選手と〝ぶっつけ本番〟で好連係(西スポWEB OTTO!)",
-      "summary": "開幕2戦目で今季初勝利を手にしたJ1アビスパ福岡。Jリーグ公式戦6連敗中だったC大阪を相手に3―0の快勝を引き寄せたのは、J1定着の原動力となった「堅守」だった。 本拠地がゴールラッシュに沸いた",
-      "link": "https://news.yahoo.co.jp/articles/c2e5ce0f7ab614d9a4282c7574d263a14f78f911?source=rss",
-      "pubDate": "2026-08-19T08:20:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa",
-        "antlers"
-      ],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c2e5ce0f7ab614d9a4282c7574d263a14f78f911?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ACLエリート】「最も強いのは日本のチーム」韓国、中国、タイ、豪州…リーグステージ抽選後の各国クラブの反応は？(スポーティングニュース日本版)",
-      "summary": "アジアサッカー連盟（AFC）は19日、AFCチャンピオンズリーグエリート（ACLE）のリーグステージ抽選を終えた後の各国クラブの反応を紹介した。韓国、中国、タイ、オーストラリアのクラブ関係者は、それぞ",
-      "link": "https://news.yahoo.co.jp/articles/a2395a447ae7f829e74d00f685d4ef804318cfc3?source=rss",
-      "pubDate": "2026-08-19T08:17:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a2395a447ae7f829e74d00f685d4ef804318cfc3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "クラセンU-15の8強決定、街クラブは2チームが残る…ハットの鹿島FW礒部、2発の川崎F新堀が得点ランク首位タイ:ラウンド16全結果(ゲキサカ)",
-      "summary": "中学年代のクラブユース日本一を争う第41回日本クラブユースサッカー選手権(U-15)大会は19日、決勝トーナメント2回戦(ラウンド16)を開催した。開催地・北海道は肌寒さもある雨模様となったこの日、",
-      "link": "https://news.yahoo.co.jp/articles/8bf0152df8183dee032e284300bd7d9ac7a0808d?source=rss",
-      "pubDate": "2026-08-19T08:17:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers",
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8bf0152df8183dee032e284300bd7d9ac7a0808d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ACLE抽選会で「わかりにくいわ！」 表示形式に難色も…ファン反響「結構アウェイきついな」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669353",
-      "pubDate": "2026-08-19T08:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669353"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】福島カズ59歳5カ月24日、史上最年長先発＆キャプテン 初戦、ゴールは飛び出すか？(日刊スポーツ)",
-      "summary": "＜天皇杯：福島－大山クラブ＞◇19日◇1回戦◇とうスタ J3福島ユナイテッドFCのカズことFW三浦知良（59）が、初戦の大山クラブ（山形）戦に先発メンバーに名前を連ねた。6月7日に行われた明治安田",
-      "link": "https://news.yahoo.co.jp/articles/c6ccbcf54aca4644ec08ac54f5dafe7680b17cbf?source=rss",
-      "pubDate": "2026-08-19T08:02:51.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/c6ccbcf54aca4644ec08ac54f5dafe7680b17cbf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J2「地獄すぎるワースト記録」（3）通算470敗、最終節で1－13…。歴史に刻まれた黒星(フットボールチャンネル)",
-      "summary": "J1昇格を目指し、毎シーズン激しい戦いが繰り広げられてきたJ2。その歴史を振り返れば、圧倒的な強さでカテゴリーを駆け抜けたクラブがある一方、出口の見えない苦しい時間を過ごしたクラブも数多い。19試合続",
-      "link": "https://news.yahoo.co.jp/articles/a4fba2637be94d9ea7ccafa0a75cf63dd1f650b8?source=rss",
-      "pubDate": "2026-08-19T07:50:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a4fba2637be94d9ea7ccafa0a75cf63dd1f650b8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ACL2】町田初戦ホームでカンボジアのスバイリエンと対戦 第２戦はシンガポールでアウェー戦(日刊スポーツ)",
-      "summary": "日本サッカー協会は19日、ACLEの下位大会、ACL2の1次リーグの日程を発表し、G組の町田ゼルビアはホームでの9月17日の第1戦でスバイリエン（カンボジア）と対戦することになった。 10月15",
-      "link": "https://news.yahoo.co.jp/articles/f7ff5e3f3f6c33d053d8b834dc89e586595af393?source=rss",
-      "pubDate": "2026-08-19T07:25:35.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f7ff5e3f3f6c33d053d8b834dc89e586595af393?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯、1回戦から「薩摩vs長州」 好カード続出に反響…ダービー開催「胸熱ですね」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669362",
-      "pubDate": "2026-08-19T07:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669362"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯、1回戦から「薩摩vs長州」 好カード続出に反響…ダービー開催「胸熱ですね」(FOOTBALL ZONE)",
-      "summary": "日本サッカー協会（JFA）の天皇杯公式Xは8月19日、この日開幕する天皇杯 JFA 第106回全日本サッカー選手権大会の1回戦対戦カードを公開した。6年ぶりに復活した元日決勝へ向けた熱戦のスタートに",
-      "link": "https://news.yahoo.co.jp/articles/ffd199f3a7fb5407f2d39ef03058acffc8284608?source=rss",
-      "pubDate": "2026-08-19T07:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ffd199f3a7fb5407f2d39ef03058acffc8284608?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "京都FW長沢駿「ジェソからも早速、連絡が来ました」ACLEで大田DF呉宰碩との再会心待ち(スポニチアネックス)",
-      "summary": "京都は19日、城陽市内のサンガタウンで公開トレーニングを行った。18日にアジア・チャンピオンズリーグエリート（ACLE）の組み合わせが決定。クラブ史上初のアジア舞台での戦いが幕を開ける中、チームで数",
-      "link": "https://news.yahoo.co.jp/articles/656c0fe919338b0bd38a13bedd95852404c3911f?source=rss",
-      "pubDate": "2026-08-19T07:08:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/656c0fe919338b0bd38a13bedd95852404c3911f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "川崎F戦で1得点1アシストの京都DF福田心之助が参考にするのは…「概念が変わりつつある」(スポニチアネックス)",
-      "summary": "京都は19日、城陽市内のサンガタウンで公開トレーニングを行った。22日にはホーム開幕戦・水戸戦。今季初勝利を懸けて挑む中、DF福田心之助は新体制下での変化を前向きに捉えた。 「本来であれば（外側",
-      "link": "https://news.yahoo.co.jp/articles/ea37d2a00d9873616eb3477fb9360da03d958f90?source=rss",
-      "pubDate": "2026-08-19T07:07:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale",
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ea37d2a00d9873616eb3477fb9360da03d958f90?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1浦和新加入のDF山根視来、変革期のチームで「歴史を作る一人に」 けが抱えるも「そんなに怖がるけがではない」(サンケイスポーツ)",
-      "summary": "J1浦和に加入したDF山根視来、MF瀬古樹が19日、埼玉スタジアム内で入団会見を行った。 元日本代表の山根はサイドバックを主戦場とし、2024年に川崎から米MLSのロサンゼルス・ギャラクシーに移籍し",
-      "link": "https://news.yahoo.co.jp/articles/e49d141689ecfa7b37c94e10c48b2e7df295a1ed?source=rss",
-      "pubDate": "2026-08-19T07:07:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "trade",
-        "signing",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e49d141689ecfa7b37c94e10c48b2e7df295a1ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "山根視来＆瀬古樹をW獲得…浦和・堀之内SD「リストで上にいる2人でした」 19位から巻き返しへ「笑顔で帰ってもらえるような試合を」(サッカーキング)",
-      "summary": "浦和レッズへの加入が決定したDF山根視来、MF瀬古樹の加入記者会見が行われた。 会見に同席した堀之内聖スポーツダイレクターは「ご存知の通り、2人はJリーグで高い実績を残し、その後は海外での挑戦を",
-      "link": "https://news.yahoo.co.jp/articles/7169a26ff8cfdf23bcf7b9ecb68efce8aafaee51?source=rss",
-      "pubDate": "2026-08-19T07:00:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7169a26ff8cfdf23bcf7b9ecb68efce8aafaee51?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【愛知・名古屋アジア大会】佳子さま、日本選手団の結団式にご出席「チームジャパンの皆様が努力の成果を存分に発揮できるよう応援しています」…レスリング・藤波朱理らが参加、９月１９日開幕・３２年ぶり日本開催の国際総合大会(スポーツ報知)",
-      "summary": "９月１９日に開幕する愛知・名古屋アジア大会の結団式が１９日、都内で開催され、秋篠宮家の次女佳子さまが出席された。レスリング女子代表の藤波朱理（レスター）ら日本代表選手を励ますお言葉を送った。「この度",
-      "link": "https://news.yahoo.co.jp/articles/88d90c158c4c3f50633346cbf94aa5e24801e9a7?source=rss",
-      "pubDate": "2026-08-19T06:51:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/88d90c158c4c3f50633346cbf94aa5e24801e9a7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "海外→浦和に加入「リストの上位」 2試合8失点…19位の現状から「自分の基準を示せれば」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669366",
-      "pubDate": "2026-08-19T06:39:40.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669366"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯、トーナメント表に反響「なんか怖いな」 いよいよ開幕…ファン歓喜「楽しみ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669358",
-      "pubDate": "2026-08-19T06:11:12.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669358"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯、トーナメント表に反響「なんか怖いな」 いよいよ開幕…ファン歓喜「楽しみ」(FOOTBALL ZONE)",
-      "summary": "日本サッカー協会は8月19日、第106回天皇杯がいよいよ同日に開幕することを発表した。2回戦へと駒を進め、上位チームへの挑戦権を手にする戦いが始まるなか、ファンからは「初戦から強そう」「なんか怖いな",
-      "link": "https://news.yahoo.co.jp/articles/f25ef9e5700ef5e6f913fb332315028e60a107e0?source=rss",
-      "pubDate": "2026-08-19T06:11:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f25ef9e5700ef5e6f913fb332315028e60a107e0?source=rss"
         }
       ]
     }
