@@ -1,7 +1,346 @@
 {
-  "generatedAt": "2026-09-19T11:15:39.876Z",
-  "count": 1506,
+  "generatedAt": "2026-09-19T14:34:04.463Z",
+  "count": 1517,
   "items": [
+    {
+      "title": "京都が劇勝でリーグ4試合ぶり勝ち点3 決勝アシストのDF山中亮輔「まだトップカテゴリーでできる」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 京都 2―1 岡山（2026年9月19日 JFE） 京都が劇的な勝利でリーグ4試合ぶりの勝ち点3を奪い取った。「最後まで勝利を諦めずに執着心、絶対に勝点3を取るという気持ち",
+      "link": "https://news.yahoo.co.jp/articles/3a8254dd6b451429633796f43c4086a9f6c5100a?source=rss",
+      "pubDate": "2026-09-19T14:21:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3a8254dd6b451429633796f43c4086a9f6c5100a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "FC東京、10人になっても… J1最多の今季5度目完封勝利、後半の1点守り切る 松橋監督「選手の頑張りに感謝したい」(中日スポーツ)",
+      "summary": "◇19日 J1リーグ第8節 FC東京1―0名古屋（MUFGスタジアム） FC東京はホームで名古屋を破り、3連勝を飾った。勝ち点を17に伸ばして暫定3位に浮上。開幕・町田戦で喫した黒星以降、リーグ戦",
+      "link": "https://news.yahoo.co.jp/articles/e597901e5ea206be44de2716582f8f42a87cf95c?source=rss",
+      "pubDate": "2026-09-19T14:19:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e597901e5ea206be44de2716582f8f42a87cf95c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜ＦＭ】日本代表に初選出のＦＷ谷村海那、両軍最多シュート３本 チームは２戦ぶり勝ち点３も反省 後半の決定機逸に「あれは決めきらなくては」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第８節 横浜ＦＭ２―０水戸（１９日・日産ス） 日本代表に初選出された横浜FＭのＦＷ谷村海那（２８）は両軍最多のシュート３本と奮闘。ゴールこそ奪えなかったが、しっかりとチームの",
+      "link": "https://news.yahoo.co.jp/articles/33aac4e9e87aa669ea6801544223e3156e2a15fa?source=rss",
+      "pubDate": "2026-09-19T14:13:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/33aac4e9e87aa669ea6801544223e3156e2a15fa?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "京都が岡山を２－１撃破で４試合ぶり白星！ ポポヴィッチ監督は「勝利への執着心を見せてくれた」と賛辞。一方で課題も指摘「繰り返してはいけない」(SOCCER DIGEST Web)",
+      "summary": "京都サンガF.C.は９月19日、J１第８節でファジアーノ岡山とJFE晴れの国スタジアムで対戦。10分にジョアン・ペドロのゴールで先制するも、45＋１分に被弾。それでも90＋２分にアレックス・ソウザが",
+      "link": "https://news.yahoo.co.jp/articles/b6701d7b5a6a62cb449f72421e74e190ee87c91b?source=rss",
+      "pubDate": "2026-09-19T14:13:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga",
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b6701d7b5a6a62cb449f72421e74e190ee87c91b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜M・谷村海那、日本代表発表後の初試合に「プレッシャーもあって不完全燃焼。（代表では）結果で示す」(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第8節（19日、横浜M2－0水戸、日産ス）横浜Mが試合開始直後の1点を守り切って勝利した。日本代表に初選出されたFW谷村海那（28）は2戦連発とはならなかったが、フル出場で攻守にハー",
+      "link": "https://news.yahoo.co.jp/articles/43a91af7b160097388469a73efa115042ac1920d?source=rss",
+      "pubDate": "2026-09-19T14:07:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/43a91af7b160097388469a73efa115042ac1920d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "川崎F・長谷部監督 土壇場ドローも猛省「勝てるゲーム。非常に悔しい」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第8節 川崎F3ー3鹿島（2026年9月19日 U等々力） 川崎Fが土壇場で鹿島に追い付いた。2―3で迎えた後半追加タイムの52分、MF山本悠樹のクロスをファーサイドのDFペ",
+      "link": "https://news.yahoo.co.jp/articles/f0b392ef2eba5068f6fae6447522aeb0e7b2ea4e?source=rss",
+      "pubDate": "2026-09-19T14:04:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f0b392ef2eba5068f6fae6447522aeb0e7b2ea4e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表初選出のＦＷ谷村海那 応援歌は「進化させていきます」と宣言 ノーゴールには「緊張に勝ってこそ代表選手」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第８節 横浜ＦＭ２―０水戸（１９日・日産ス） Ｊリーグが開幕した１９９３年からＪ１に所属し続けている横浜ＦＭと、２６年間のＪ２生活を脱し、晴れてＪ１“１年生”となった昇格組・",
+      "link": "https://news.yahoo.co.jp/articles/fcc4d1f9162cfc769d8ed5db0136a8a80e64740a?source=rss",
+      "pubDate": "2026-09-19T14:01:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fcc4d1f9162cfc769d8ed5db0136a8a80e64740a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【川崎F】伊藤達哉が自らを高める「次なるブースター」とは？「推進力のところを取り組んでいるんです」(サッカーマガジンWeb)",
+      "summary": "9月19日の明治安田J1リーグ第8節で、川崎フロンターレは鹿島アントラーズと3-3で引き分けた。90＋7分になんとか追いつく展開ではあったが、内容では川崎Fが圧倒する時間が長かった。一度は逆転するゴ",
+      "link": "https://news.yahoo.co.jp/articles/8d790b093b6e6e22d4d0500cbe87d984afbc4a70?source=rss",
+      "pubDate": "2026-09-19T13:58:14.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8d790b093b6e6e22d4d0500cbe87d984afbc4a70?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】代表初選出のFW谷村海那は無得点も勝ち点３「粘り強く勝ち切れたのは良かった」監督(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－0水戸＞◇19日◇第8節◇日産スタジアム 日本代表初選出の横浜F・マリノスFW谷村海那は無得点に終わった。 後半3分にはこぼれ球から左足で2度シュートを放つも、立て続け",
+      "link": "https://news.yahoo.co.jp/articles/f5b165bb3b36c3543c233c1305de20306f487ddf?source=rss",
+      "pubDate": "2026-09-19T13:52:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock",
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f5b165bb3b36c3543c233c1305de20306f487ddf?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京Vの城福監督「私の責任」 J1で唯一の未勝利…課題指摘「両方持っている選手が揃っていない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/674214",
+      "pubDate": "2026-09-19T13:46:08.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/674214"
+        }
+      ]
+    },
+    {
+      "title": "【浦和】曺貴裁監督、史上13人目のJ1通算100勝、316試合目で到達 Mサヴィオが前半に２ゴール(日刊スポーツ)",
+      "summary": "＜明治安田J1：浦和3－1東京V＞◇19日◇第8節◇埼玉 浦和レッズがホームで東京ヴェルディを3－1で下した。MFマテウス・サヴィオ（29）が前半に2ゴール。24分に右クロスを頭で合わせ、32分に",
+      "link": "https://news.yahoo.co.jp/articles/efbce3f2379a221f822be6b4bd7cb1d1fc28537f?source=rss",
+      "pubDate": "2026-09-19T13:28:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/efbce3f2379a221f822be6b4bd7cb1d1fc28537f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】水戸に2－0勝利 日本代表入りの谷村海那はフル出場も無得点(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－0水戸＞◇19日◇第8節◇日産スタジアム 横浜F・マリノスがホームで水戸ホーリーホックを2－0で下した。 前半8分、左CKからMF松村晃助がゴール前へ入れたボールをDF",
+      "link": "https://news.yahoo.co.jp/articles/f724f3f1d0e59d968973d35d4a092f1f975205cb?source=rss",
+      "pubDate": "2026-09-19T13:09:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/f724f3f1d0e59d968973d35d4a092f1f975205cb?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島サポのブーイング先は「監督であるべき」 鬼木監督は手応えも「結局、結果の世界ということ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/674227",
+      "pubDate": "2026-09-19T12:59:51.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/674227"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】GK早川友基、終了間際の失点悔やむ 日本代表へ「モチベーションを高めてくれる場所」(日刊スポーツ)",
+      "summary": "＜明治安田J1：川崎F3－3鹿島＞◇19日◇第8節◇U等々力 鹿島アントラーズは川崎フロンターレに後半終了間際で追いつかれ、3－3で引き分けた。日本代表GK早川友基（27）は「簡単にゴール前まで行",
+      "link": "https://news.yahoo.co.jp/articles/dc3c6921ed2cde82428f3cd3c1d773ea6c56749e?source=rss",
+      "pubDate": "2026-09-19T12:57:43.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/dc3c6921ed2cde82428f3cd3c1d773ea6c56749e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "意表を突いた技あり直接FK弾！ マテウス・サヴィオのゴールが完璧！ 浦和レッズ、ホームで2試合ぶりの白星",
+      "summary": "浦和レッズは19日、明治安田J1リーグ第8節で東京ヴェルディと対戦し、3-1で勝利した。この試合では、マテウス・サヴィオが2ゴールをマーク。中でも、追加点となった2点目は、完璧な直接FK弾だった。",
+      "link": "https://www.footballchannel.jp/2026/09/19/post1014789/",
+      "pubDate": "2026-09-19T12:00:13.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/19/post1014789/"
+        }
+      ]
+    },
+    {
+      "title": "岡山FWルカオが頭突きで一発退場 判定不服、京都MF福岡慎平と口論で小競り合いに",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/674209",
+      "pubDate": "2026-09-19T11:31:58.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fagiano",
+        "sanga",
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/674209"
+        }
+      ]
+    },
+    {
+      "title": "東京Vが泥沼の開幕8戦未勝利 痛恨ミスから先制点献上、前半のみで3失点…苦境続く4敗目",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/674163",
+      "pubDate": "2026-09-19T11:25:31.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/674163"
+        }
+      ]
+    },
     {
       "title": "「よく決めたな…」京都の27歳ブラジル人MFが圧巻ミドル！ 地を這う一撃にファン驚き「ワンステップでこの威力はエグい」「うますぎ!!」(SOCCER DIGEST Web)",
       "summary": "京都サンガF.C.は９月19日、J１第８節でファジアーノ岡山とJFE晴れの国スタジアムで対戦している。 京都は開始早々の10分、先制に成功する。スコアラーはジョアン・ペドロだ。敵陣ペナルティアー",
@@ -412,6 +751,23 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/5942aea04c0eefa31feefda3d340a16395371e70?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "八戸vs宮崎 試合記録",
+      "summary": "【J2第7節】(プラスタ)八戸 0-3(前半0-1)宮崎[宮]橋本啓吾(13分)、村越凱光(48分)、奥村晃司(79分)[八]平松航(46分)観衆:2,424人主審:田中玲匡[ヴァンラーレ八戸]先発GK 13 大西勝俉DF 2 平松航DF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459065-459065-fl",
+      "pubDate": "2026-09-18T15:50:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459065-459065-fl"
         }
       ]
     },
@@ -1409,23 +1765,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f7fcbd6ca5659ca76bcf27dc5e43e2fe34918fdd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "秋田vs徳島 試合記録",
-      "summary": "【J2第6節】(ソユスタ)秋田 4-1(前半4-1)徳島[秋]野々村鷹人(16分)、鈴木翔大2(27分、36分)、高橋秀典(32分)[徳]ルーカス・バルセロス(23分)[秋]藤山智史(39分)、才藤龍治(88分)観衆:4,078人主審:上原…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?458676-458676-fl",
-      "pubDate": "2026-09-17T13:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?458676-458676-fl"
         }
       ]
     },
@@ -29397,120 +29736,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e6260f282ac5af2f0ac7302a5d637afb9405e8f7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "目指すメルスタ〝初勝利〟「のまれないように」J1アビスパ福岡のDF深澤大輝が意欲 移籍後初出場で即アシスト(西スポWEB OTTO!)",
-      "summary": "J1アビスパ福岡のDF深澤大輝（27）が22日アウェー鹿島戦での〝初勝利〟を誓った。東京Vに所属した百年構想リーグまで、メルカリスタジアムでは3戦未勝利。 前節のC大阪戦で移籍後初出場でアシスト",
-      "link": "https://news.yahoo.co.jp/articles/2228c16a934877e728331afda381d6b3f6983681?source=rss",
-      "pubDate": "2026-08-20T14:00:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2228c16a934877e728331afda381d6b3f6983681?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【フリーダムズ】激闘制した葛西純が豹にラブコール「これを点ではなく線にしたい」(東スポWEB)",
-      "summary": "フリーダムズの葛西純（51）が、自身のプロデュース興行「東京デスマッチカーニバル2026 vol．2」（20日、後楽園）での激闘を制した。 葛西は、渡瀬瑞基（ガンバレ☆プロレス）、豹（ドラゴンゲ",
-      "link": "https://news.yahoo.co.jp/articles/089f0ccb7ab70f6a6bfcca5b9f50871649f0020f?source=rss",
-      "pubDate": "2026-08-20T13:00:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/089f0ccb7ab70f6a6bfcca5b9f50871649f0020f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "プレミアリーグ開幕直前、Jリーグ公式がリネカーの名古屋時代を紹介 「懐かしい」と反響(スポーティングニュース日本版)",
-      "summary": "今週末の8月22日（土）、いよいよイングランド・プレミアリーグ2026-27シーズンが開幕する。遠藤航（リヴァプール）、三笘薫（ブライトン）、鎌田大地（クリスタル・パレス）、田中碧（リーズ・ユナイテッ",
-      "link": "https://news.yahoo.co.jp/articles/42d82fe3d8dc40089a1a6b207826f591057ca522?source=rss",
-      "pubDate": "2026-08-20T12:15:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/42d82fe3d8dc40089a1a6b207826f591057ca522?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広2―1中（20日） 広島、サヨナラ勝ちで3連勝(共同通信)",
-      "summary": "広島がサヨナラ勝ちで開幕カード以来、今季2度目の3連勝。中日戦の2季連続勝ち越しを決めた。0―1の五回にモンテロのソロで同点。九回2死二、三塁から暴投で決勝点を奪った。栗林は8回1失点と好投。中日は",
-      "link": "https://news.yahoo.co.jp/articles/9bc8dc186dc0e711905db0a523299e831bccba94?source=rss",
-      "pubDate": "2026-08-20T12:09:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9bc8dc186dc0e711905db0a523299e831bccba94?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "59歳カズ、2回戦で”歴史的ライバル”横浜F・マリノスと対戦 NHKBSで生中継 あるか16歳三井寺真との43歳差対決【サッカー天皇杯】(中日スポーツ)",
-      "summary": "日本サッカー協会は２０日、天皇杯全日本選手権大会の２回戦（２６日）について、テレビ放送・配信スケジュールが決定したと発表。Ｊ１勢が登場する中での注目カードの一つ、Ｊ１横浜Ｆ・マリノス対Ｊ３福島ユナイ",
-      "link": "https://news.yahoo.co.jp/articles/4270fbf62f9261ca080fc6ec6b693c93ec5a0c82?source=rss",
-      "pubDate": "2026-08-20T11:37:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4270fbf62f9261ca080fc6ec6b693c93ec5a0c82?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「惜しいシュートシーンもある！」天皇杯で２得点の59歳カズ、“PK以外”のプレーに脚光！「予想以上にゴール前で絡んでいる」(SOCCER DIGEST Web)",
-      "summary": "PKで２得点。それ以外でも見せ場はあった。 福島ユナイテッドFCは８月19日、天皇杯１回戦で大山サッカークラブと対戦し、７－０で圧勝した。 この試合に先発した三浦知良は、12分と55分にPK",
-      "link": "https://news.yahoo.co.jp/articles/ee082160e0aedf164312c698b513751d312c5e0d?source=rss",
-      "pubDate": "2026-08-20T11:31:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee082160e0aedf164312c698b513751d312c5e0d?source=rss"
         }
       ]
     }
