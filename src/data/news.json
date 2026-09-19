@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T17:34:55.361Z",
-  "count": 1524,
+  "generatedAt": "2026-09-19T19:44:42.499Z",
+  "count": 1521,
   "items": [
     {
       "title": "カブス・鈴木誠也 今月初の複数打点も…3三振に「結果が出ていない」(スポニチアネックス)",
@@ -793,19 +793,21 @@
       ]
     },
     {
-      "title": "熊本vs松本 試合記録",
-      "summary": "【J3第7節】(えがおS)熊本 0-0(前半0-0)松本[松]白井達也(75分)観衆:3,485人主審:大坪博和[ロアッソ熊本]先発GK 1 佐藤史騎DF 4 薬師田澪DF 5 小林慶太(89分→DF 3 大西遼太郎)DF 24 李泰河MF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459084-459084-fl",
+      "title": "FC大阪vs福島 試合記録",
+      "summary": "【J3第7節】(花園)FC大阪 4-1(前半2-0)福島[F]久保吏久斗(34分)、住田将(36分)、東家聡樹(84分)、木匠貴大(90分+4)[福]清水一雅(49分)[福]中村翼(42分)観衆:2,818人主審:北沢倫章[FC大阪]先発G…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459085-459085-fl",
       "pubDate": "2026-09-18T22:20:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "cerezo"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459084-459084-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459085-459085-fl"
         }
       ]
     },
@@ -29812,61 +29814,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/669484"
-        }
-      ]
-    },
-    {
-      "title": "FC東京・長倉 2戦連発で今季初白星狙う「観客が沸く瞬間がたまらない」(スポニチアネックス)",
-      "summary": "今季初白星に向けFC東京のFW長倉が2戦連発を誓った。 開幕から1分け1敗と苦戦が続くも、2―2で引き分けた前節は王者・神戸相手に2発と気を吐いた。千葉を迎える今節は、MUFG国立開催で約5万人",
-      "link": "https://news.yahoo.co.jp/articles/5b4f7ba1c84d83132f9e9d444d8b737dadd2980e?source=rss",
-      "pubDate": "2026-08-20T19:35:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5b4f7ba1c84d83132f9e9d444d8b737dadd2980e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯 横浜M―福島戦がNHKBSで生中継 59歳カズと16歳三井寺の43歳差対決も期待(スポニチアネックス)",
-      "summary": "日本サッカー協会は20日、J1勢が登場する天皇杯2回戦（26日）のテレビ放送、配信日程が決定したと発表。注目カードとして横浜Fマリノス―J3福島戦（19時開始、日産ス）がNHK BSで生中継されるこ",
-      "link": "https://news.yahoo.co.jp/articles/847281231fa736d02b8ab86f062c98d89c080bfa?source=rss",
-      "pubDate": "2026-08-20T19:33:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/847281231fa736d02b8ab86f062c98d89c080bfa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "59歳カズ2発に海外メディアが注目 仏紙は「上質なワインのよう」と称賛(スポニチアネックス)",
-      "summary": "来年2月に還暦を迎えるJ3福島のFW三浦知良（59）が前日19日の天皇杯1回戦でマークした衝撃の2得点は海外でも大きな注目を集めた。フランスのレキップ紙が「まるで上質なワインのように、三浦知良は年齢",
-      "link": "https://news.yahoo.co.jp/articles/e6260f282ac5af2f0ac7302a5d637afb9405e8f7?source=rss",
-      "pubDate": "2026-08-20T19:33:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e6260f282ac5af2f0ac7302a5d637afb9405e8f7?source=rss"
         }
       ]
     }
