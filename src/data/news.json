@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-20T02:15:59.196Z",
-  "count": 1510,
+  "generatedAt": "2026-09-20T07:50:04.016Z",
+  "count": 1484,
   "items": [
+    {
+      "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年9月20日時点。J1第8節の鹿島戦終了後。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯などの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する […]",
+      "link": "https://www.footballchannel.jp/2026/09/20/post991935/",
+      "pubDate": "2026-09-20T04:22:05.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/20/post991935/"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
+      "summary": "※情報は2026年9月20日11:52時点。J1第8節は9月19日開催の8試合を反映した暫定順位で、9月20日17:00にFC町田ゼルビア対柏レイソル、ガンバ大阪対ヴィッセル神戸を予定。得点ランキングは9月19日終了試合 […]",
+      "link": "https://www.footballchannel.jp/2026/09/20/post1003398/",
+      "pubDate": "2026-09-20T04:00:27.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol",
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/20/post1003398/"
+        }
+      ]
+    },
+    {
+      "title": "「マジか…」「ショック」上田綺世や三笘薫らと優勝貢献の元Jリーガー、規定・規律違反で契約解除",
+      "summary": "FCバレイン下関(中国サッカーリーグ)は19日、DF本村武揚(29)との契約解除を発表した。 公式サイトによると、選手契約に定める規定およびクラブの規律に反する行為が確認されたことを受け、本人と協議を実施。その結果、双方合意により、2026…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?459218-459218-fl",
+      "pubDate": "2026-09-20T02:30:33.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?459218-459218-fl"
+        }
+      ]
+    },
     {
       "title": "「えっ、何が起きた？」FC東京対名古屋戦で異例の事態…27年間の記者生活で初めての経験(SOCCER DIGEST Web)",
       "summary": "「えっ、何が起きた？」 2026年９月19日に開催されたJ１リーグ第８節で、FC東京が名古屋グランパスを１−０で下した。その試合後、珍しい出来事があった。 通常、Jリーグの監督会見",
@@ -866,6 +926,25 @@
       ]
     },
     {
+      "title": "「幻のユニになる」「格好ええ!」水戸が横浜FM戦で通常とは異なるGKユニフォームを着用へ",
+      "summary": "水戸ホーリーホックは19日、同日にアウェーで行うJ1第8節・横浜F・マリノス戦で黄色を基調としたGKユニフォームを着用すると発表した。 クラブは赤と黒のGKユニフォームがある中で「競技運営上の観点から、GKのみ通常の1st/2ndユニフォー…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459130-459130-fl",
+      "pubDate": "2026-09-19T08:59:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459130-459130-fl"
+        }
+      ]
+    },
+    {
       "title": "約1週間で状況一変…ドジャース、抜擢プロスペクトが“スピード初優勝” に喜び「特別な瞬間のために」(ベースボールチャンネル)",
       "summary": "大谷翔平選手が所属するロサンゼルス・ドジャースは日本時間18日、シンシナティ・レッズに8-2で勝利し地区優勝を決めた。同12日にメジャー初昇格したホスエ・デポーラ外野手にとっては“スピード初優勝”と",
       "link": "https://news.yahoo.co.jp/articles/7140dbdd6c808a50861c91394593808be58bf40a?source=rss",
@@ -1019,23 +1098,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/feab935cbc7edd73835ddf99833de92446749994?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "前節に待望の今季初勝利も…J2最下位の今治、今節はアベル・モウレロ監督が体調不良で不在",
-      "summary": "FC今治は19日、同日に行うJ2第7節の横浜FC戦について、アベル・モウレロ監督が体調不良により不在となることを発表した。久保山由清ヘッドコーチが監督代行を務める。 今治は現在最下位に位置しているが、前節に今季初勝利を収めていた。試合は19…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459096-459096-fl",
-      "pubDate": "2026-09-19T00:41:57.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459096-459096-fl"
         }
       ]
     },
@@ -1431,23 +1493,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/eeadea11d488036bda76da416ce07f2a2bbc5231?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【第38節 後半】「ロ」っていう素材【ボケサカ】",
-      "summary": "サイレントリスナーが多いボケサカ。#ボケサカ案件 ならハードルが低い?『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレンズがパーソナリティを務めるPodcast(ポッドキャスト)番組…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?458965-458965-fl",
-      "pubDate": "2026-09-18T03:05:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?458965-458965-fl"
         }
       ]
     },
@@ -29058,560 +29103,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/259a5e03bc216c2405c7a1ce27a1e9f866bdd9bf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柿谷曜一朗氏が鹿島の18歳FW吉田湊海へ助言を送る！「『自分が主役になりますよ』というくらいでいいんじゃないかな」 ｜ 内田篤人のFOOTBALL TIME(DAZN News)",
-      "summary": "【国内サッカー・ニュース】DAZNで配信している『内田篤人のFOOTBALL TIME #274』では、ゲストに柿谷曜一朗氏を迎え、開幕した明治安田J1リーグを特集し、鹿島アントラーズについて分析した",
-      "link": "https://news.yahoo.co.jp/articles/c4567f723a36fe64444a1dbb54750c87114a598d?source=rss",
-      "pubDate": "2026-08-21T07:46:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c4567f723a36fe64444a1dbb54750c87114a598d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "クラセンU-15の準決勝対戦カードが決定!! 前回ファイナリストの神戸U-15とFC LAVIDAは8強敗退:準々決勝全結果(ゲキサカ)",
-      "summary": "第41回日本クラブユースサッカー選手権(U-15)大会は21日に準々決勝を開催し、準決勝の対戦カードが横浜F・マリノスジュニアユース対サンフレッチェ広島ジュニアユース、川崎フロンターレU-15生田対",
-      "link": "https://news.yahoo.co.jp/articles/129d9c456351ff61b408e976dd448a0b3d2c0681?source=rss",
-      "pubDate": "2026-08-21T07:41:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos",
-        "sanfrecce",
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/129d9c456351ff61b408e976dd448a0b3d2c0681?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京が千葉戦で「千葉豪雨」募金活動を実施 両クラブOBの元日本代表MF羽生直剛も参加(FOOTBALL ZONE)",
-      "summary": "FC東京は8月20日、8月21日にMUFGスタジアム（国立競技場）で開催されるJ1リーグ第3節のジェフユナイテッド千葉戦のキックオフ前に、「令和8年8月千葉豪雨に対する募金活動」を実施。スタジアムで",
-      "link": "https://news.yahoo.co.jp/articles/3ec813280e7f580d65a98652549d5ff69e4965cf?source=rss",
-      "pubDate": "2026-08-21T07:12:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3ec813280e7f580d65a98652549d5ff69e4965cf?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669603"
-        }
-      ]
-    },
-    {
-      "title": "浦和DF山根視来&MF瀬古樹らの登録完了…浦和が20人、清水が16人、東京Vが15人のユース所属選手を2種登録(ゲキサカ)",
-      "summary": "Jリーグは28日、登録選手の追加・変更・抹消を発表した。開幕後に加入した浦和レッズDF山根視来、MF瀬古樹らの登録が完了している。 また、Jリーグ公式戦に出場可能なユース(2種)所属選手として、",
-      "link": "https://news.yahoo.co.jp/articles/1788d4aa0ff030cbc466f0df03bd186c65ab09c5?source=rss",
-      "pubDate": "2026-08-21T07:12:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1788d4aa0ff030cbc466f0df03bd186c65ab09c5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｇ大阪でリーグ戦出場５試合もドルトムントＵ―２３移籍 １８歳ＭＦ山本天翔、“新ルート”の海外移籍(スポーツ報知)",
-      "summary": "◆スポーツ報知・記者コラム「両国発」 わずか数試合で新たな未来を切り開いた。今夏、１８歳のＭＦ山本天翔（たかと）が、Ｊ１Ｇ大阪から、ドイツ１部ドルトムントＵ―２３に期限付き移籍した。今年、下部組織",
-      "link": "https://news.yahoo.co.jp/articles/43eb519ac5a42d15e422cc43dfcc458edfdd4262?source=rss",
-      "pubDate": "2026-08-21T07:00:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/43eb519ac5a42d15e422cc43dfcc458edfdd4262?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【競輪】新人・中村嶺央が「千葉豪雨」被災者に優勝賞金から5万円を寄付 自身も車中泊、避難所生活を経験(スポニチアネックス)",
-      "summary": "日本競輪選手会は21日、19日に決勝を行った立川競輪A級3班戦を優勝した中村嶺央（れお、21＝千葉、129期）が「令和8年8月千葉豪雨」被災者に向け、千葉県に5万円の寄付を行ったと発表した。 ▽",
-      "link": "https://news.yahoo.co.jp/articles/d009e2fc8c22bea41241f15d0b0c602e06d98f3b?source=rss",
-      "pubDate": "2026-08-21T06:56:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d009e2fc8c22bea41241f15d0b0c602e06d98f3b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
-      "summary": "※情報は2026年8月21日時点。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する。 J1 […]",
-      "link": "https://www.footballchannel.jp/2026/08/21/post991935/",
-      "pubDate": "2026-08-21T06:39:05.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/21/post991935/"
-        }
-      ]
-    },
-    {
-      "title": "横浜ＦＭ今季初の日産スタジアムで２連勝狙う…コリカ監督「ホームで最初の試合を必ずものにしないといけない」神戸と激突(スポーツ報知)",
-      "summary": "◆明治安田Ｊ１リーグ▽第３節 横浜ＦＭ―神戸（２２日・日産スタジアム） 横浜ＦＭが今季初連勝を懸けて、ホーム・日産スタジアムで神戸と対戦する。 前節の清水戦（１〇０）は全員がハードワークして戦",
-      "link": "https://news.yahoo.co.jp/articles/1579b4b3ebea6919b6ec22e3b56da228e6d2b230?source=rss",
-      "pubDate": "2026-08-21T06:23:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1579b4b3ebea6919b6ec22e3b56da228e6d2b230?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "2試合8失点で19位…広島との「差を感じました」 浦和指揮官の考え方「最後まで貫いて」(FOOTBALL ZONE)",
-      "summary": "浦和レッズの曺貴裁監督は、8月21日のトレーニング後に定例の記者会見を実施。開幕2連敗のスタートから23日に行われるJ1第3節FC町田ゼルビア戦に向け「誰かの力に頼るのではなく、スタッフと選手が協力",
-      "link": "https://news.yahoo.co.jp/articles/6d97cd014b21e7e2c9376dadebe6e93449f07d38?source=rss",
-      "pubDate": "2026-08-21T06:04:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce",
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6d97cd014b21e7e2c9376dadebe6e93449f07d38?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669597"
-        }
-      ]
-    },
-    {
-      "title": "J1C大阪は清水戦で前節の敗戦払拭へ マチン監督＆横山夢樹が声揃えた準備「自分たちの戦い方にフォーカス」(サンケイスポーツ)",
-      "summary": "J1C大阪のパブロ・マチン監督（51）とMF横山夢樹（20）が21日、オンラインで清水戦（22日、ハナサカ）に向けた取材対応を実施した。 C大阪は岡山との開幕戦に勝利し、敵地で臨んだ15日の福岡戦は",
-      "link": "https://news.yahoo.co.jp/articles/6e94a0210fa3af9968ec684086d1a1b392631ac4?source=rss",
-      "pubDate": "2026-08-21T06:03:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6e94a0210fa3af9968ec684086d1a1b392631ac4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「可愛さ5倍増し」「坂道グループに入れる」G大阪スタジアムレポーターの報告に反響(ゲキサカ)",
-      "summary": "ガンバ大阪のスタジアムレポーターを務める竹内千景さんが21日に自身のX(@chiaki6v6CT)を更新し、“イメチェン”を報告した。 2025シーズンからスタジアムレポーターを担当する竹内さん",
-      "link": "https://news.yahoo.co.jp/articles/6d09724b81ee301764e6cde97244bc8be71bfbbc?source=rss",
-      "pubDate": "2026-08-21T05:58:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6d09724b81ee301764e6cde97244bc8be71bfbbc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "５９歳カズの偉業に海外メディアも驚嘆「破られることのない新記録」「ファンを驚かせた」(東スポWEB)",
-      "summary": "J3福島のキング・カズこと元日本代表FW三浦知良（59）の偉業を海外メディアも絶賛している。天皇杯1回戦（19日）の大山サッカークラブ（山形）戦でカズは2ゴールをマーク。天皇杯の最年長ゴール記録を5",
-      "link": "https://news.yahoo.co.jp/articles/a413d2c65fbe35c52f069e48cb3b77212398beea?source=rss",
-      "pubDate": "2026-08-21T05:55:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a413d2c65fbe35c52f069e48cb3b77212398beea?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島がユース所属7選手のトップチーム登録(2種)を発表(ゲキサカ)",
-      "summary": "鹿島アントラーズは21日、鹿島アントラーズユースに所属するMF大貫琉偉(鹿島学園高3年生)、MF平島大悟(同3年生)、MF福岡勇和(同3年生)、DF倉橋幸暉(同2年生)、MF岩土そら(同2年生)、F",
-      "link": "https://news.yahoo.co.jp/articles/4a9cf9768cf441a66690b5cc81517f1d71640340?source=rss",
-      "pubDate": "2026-08-21T05:50:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4a9cf9768cf441a66690b5cc81517f1d71640340?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "磐田U-15の中学3年生MF井川航、Jリーグ公式戦出場が可能に! クラブが「第3種U-21可」登録を発表(ゲキサカ)",
-      "summary": "ジュビロ磐田は12日、ジュビロ磐田U-15所属のMF井川航(15)に関し、「第3種U-21可」として登録が完了したと発表した。 トップチーム登録(3種)選手は、日本サッカー協会(JFA)第3種チ",
-      "link": "https://news.yahoo.co.jp/articles/3ada1815c526a10469e8b4410fd93ededf87d4ef?source=rss",
-      "pubDate": "2026-08-21T05:24:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3ada1815c526a10469e8b4410fd93ededf87d4ef?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1退団→欧州に電撃移籍「手助けしたい」 元日本代表MFが古巣復帰「1部にいるべきクラブ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669579",
-      "pubDate": "2026-08-21T05:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669579"
-        }
-      ]
-    },
-    {
-      "title": "J1退団→欧州に電撃移籍「手助けしたい」 元日本代表MFが古巣復帰「1部にいるべきクラブ」(FOOTBALL ZONE)",
-      "summary": "元日本代表MF中島翔哉は新シーズンに向けポルトガル2部ポルティモネンセへの加入が決まった。ポルトガル紙「オ・ジョゴ」では加入会見の様子が報じられ、中島は「昇格を手助けしたい」と話している。 中島",
-      "link": "https://news.yahoo.co.jp/articles/e506ff6f88228e49756869806925f80ff0404cff?source=rss",
-      "pubDate": "2026-08-21T05:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e506ff6f88228e49756869806925f80ff0404cff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】三井寺眞、神戸相手に火を吐くか 初見参の日産スタジアムでリザードンになる(日刊スポーツ)",
-      "summary": "横浜F・マリノスの超新星、16歳MF三井寺眞が今度は「百年構想リーグ」覇者のヴィッセル神戸に挑む。 21日、横須賀市内のクラブ拠点でトレーニングの冒頭10分を公開。三井寺は翌日の神戸戦（午後7時",
-      "link": "https://news.yahoo.co.jp/articles/4fb2375cfd10b612c8a1f2b33d38fe2a068faf01?source=rss",
-      "pubDate": "2026-08-21T05:04:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marinos",
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4fb2375cfd10b612c8a1f2b33d38fe2a068faf01?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鈴木彩艶がヴィラ初練習！ クラブ公式Xが動画公開、軽快な動きでトレーニングに励む(サッカーキング)",
-      "summary": "アストン・ヴィラの日本語版クラブ公式Xは20日、今夏に加入した日本代表GK鈴木彩艶の初練習の様子を公開した。 鈴木は、2002年8月21日生まれの24歳。浦和レッズユースで育成を受け、2021シ",
-      "link": "https://news.yahoo.co.jp/articles/2ccce89dcb193b6d290486ef930fcb565854285f?source=rss",
-      "pubDate": "2026-08-21T05:03:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2ccce89dcb193b6d290486ef930fcb565854285f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「チャンスを逃すわけにはいきません」J3から欧州へ…岐阜MF荒木大吾がオーストリア2部へ完全移籍(GOAL)",
-      "summary": "FC岐阜のMF荒木大吾がオーストリア2部SWブレゲンツに完全移籍することが発表された。 青山学院大学からジュビロ磐田に加入した荒木。京都サンガFCでの4シーズンを経て2024年にJ3のFC岐阜へ。1",
-      "link": "https://news.yahoo.co.jp/articles/4f04b108a1dc7537acf21c5bd2710684236f2604?source=rss",
-      "pubDate": "2026-08-21T03:54:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4f04b108a1dc7537acf21c5bd2710684236f2604?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島Jrユースが8年ぶりのクラセン準決勝進出!! 前回準VのFC LAVIDAに2発完封勝利(ゲキサカ)",
-      "summary": "[8.21 クラセンU-15準々決勝 FC LAVIDA 0-2 広島Jrユース 白旗山B] 第41回日本クラブユースサッカー選手権(U-15)大会は21日に準々決勝を開催した。サンフレッチェ広島",
-      "link": "https://news.yahoo.co.jp/articles/4263733cf2c2f6a332cf13510a0816284edbb4e4?source=rss",
-      "pubDate": "2026-08-21T03:28:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4263733cf2c2f6a332cf13510a0816284edbb4e4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【巨人】「３３分の１１」はカード別最多 ２１日からの広島３連戦はハワード、代木大和、小笠原慎之介が先発予定 逆転Ｖへ首位・阪神と３差(スポーツ報知)",
-      "summary": "◆ＪＥＲＡセ・リーグ 巨人―広島（２１日・東京Ｄ） 巨人は２１日から東京Ｄで広島との３連戦に臨む。 ここまで１１０試合で５８勝５０敗２分け貯金８で首位・阪神と３差の２位。 逆転優勝に向け各",
-      "link": "https://news.yahoo.co.jp/articles/bbc2b2fb9a9fa9bec3d2967bfa8a28bf68730c29?source=rss",
-      "pubDate": "2026-08-21T03:22:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bbc2b2fb9a9fa9bec3d2967bfa8a28bf68730c29?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J2磐田、U-15所属の中学3年生・MF井川航が『第3種U-21可』として登録完了！Jリーグ公式戦の出場が可能に | Jリーグ(DAZN News)",
-      "summary": "【国内サッカーニュース】ジュビロ磐田は21日、U-15に所属するMF井川航が『第3種U-21可』として登録が完了したことを発表した。",
-      "link": "https://news.yahoo.co.jp/articles/e33e981d9e002f52c1acd7409c59833a34d0dfee?source=rss",
-      "pubDate": "2026-08-21T03:22:44.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e33e981d9e002f52c1acd7409c59833a34d0dfee?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1浦和 ユース所属の20選手を2種登録(スポニチアネックス)",
-      "summary": "J1浦和は21日、ユース所属の20選手をリーグ公式戦に出場可能なユース（2種）所属選手として登録したと発表した。 登録選手は以下の通り。（）は年齢 石田大翔（16）、小川直澄（17）、小野口",
-      "link": "https://news.yahoo.co.jp/articles/29c6a5f2ce12c7de57c40b97ae84ac0db45b26f4?source=rss",
-      "pubDate": "2026-08-21T03:22:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/29c6a5f2ce12c7de57c40b97ae84ac0db45b26f4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「僕は大好きです」。背番号10＆主将なのにライバルへ渡った裏切者（5）Jリーグ、移籍で物議を醸した選手(フットボールチャンネル)",
-      "summary": "2026/27シーズンの明治安田Jリーグが開幕し、各クラブは新戦力を加えながら新たな戦いに臨んでいる。これまでのJリーグでは、移籍をきっかけにサポーターの感情を大きく揺さぶり、クラブ間の関係性にまで",
-      "link": "https://news.yahoo.co.jp/articles/ab1a13d5df11efa160de5c793afbd47a68f73f4a?source=rss",
-      "pubDate": "2026-08-21T03:11:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ab1a13d5df11efa160de5c793afbd47a68f73f4a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島・関川郁万が封じるか? 福岡・師岡柊生が決め切るか?(チケットぴあ)",
-      "summary": "常勝軍団、恐るべし。2試合連続の劇的勝利で今季も優勝争いの中心にいることを予感させるに十分なインパクトを残した鹿島アントラーズ。横浜F・マリノスとの『2026/27明治安田J1リーグ』開幕戦では残り1",
-      "link": "https://news.yahoo.co.jp/articles/31c536e42d488f169e1f02e039577a64020dcff6?source=rss",
-      "pubDate": "2026-08-21T03:09:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa",
-        "antlers",
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/31c536e42d488f169e1f02e039577a64020dcff6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "岐阜MF荒木大吾、オーストリア2部への完全移籍が決定「プロサッカー選手ならばチャレンジし続けたい」(サッカーキング)",
-      "summary": "FC岐阜は21日、MF荒木大吾がSWブレゲンツ（オーストリア2部）に完全移籍することを発表した。 荒木は1994年2月17日生まれの現在32歳。柏レイソルの育成組織出身で、U－15、U－18と進",
-      "link": "https://news.yahoo.co.jp/articles/5b825afd8a6e31b00dcdd0b5f69a83614fe3e490?source=rss",
-      "pubDate": "2026-08-21T03:04:49.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5b825afd8a6e31b00dcdd0b5f69a83614fe3e490?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC町田ゼルビア、相馬勇紀が由来？ 「ソウマサウルス」「ソウマムソウ」が競走馬登録。父はともに欧米の無敗名馬",
-      "summary": "FC町田ゼルビアFW相馬勇紀を連想させる名前の競走馬が、SNS上で注目を集めている。話題となっているのは「ソウマサウルス」と「ソウマムソウ」の2頭。クラブを運営する株式会社ゼルビアの代表取締役社長兼CEOで、馬主としても知られる藤田晋氏の所…",
-      "link": "https://www.footballchannel.jp/2026/08/21/post993390/",
-      "pubDate": "2026-08-21T02:38:20.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/21/post993390/"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブ新ユニで「世界的トレンドを実践」 カラーの統一は「決して簡単ではない」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/669556",
-      "pubDate": "2026-08-21T02:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/669556"
         }
       ]
     }
