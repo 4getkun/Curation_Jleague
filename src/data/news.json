@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-09-20T16:37:26.174Z",
-  "count": 1454,
+  "generatedAt": "2026-09-20T19:10:33.204Z",
+  "count": 1456,
   "items": [
+    {
+      "title": "PCAが3戦ぶり45号 シュワバーに並び両リーグトップ あと2盗塁で史上7人目「40―40」(スポニチアネックス)",
+      "summary": "◇ナ・リーグ カブス ― レッズ（2026年7月20日 シンシナティ） ナ・リーグMVP最有力候補のカブス「PCA」ことピート・クローアームストロング外野手（24）が20日（日本時間21日）、敵",
+      "link": "https://news.yahoo.co.jp/articles/ef4278071707b3aecb27d2097a5a62c77f5c920f?source=rss",
+      "pubDate": "2026-09-20T19:09:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ef4278071707b3aecb27d2097a5a62c77f5c920f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "カブスに衝撃 4番打者ブレグマン ネクストサークルで3番打者ファウル頭部直撃 そのまま負傷交代(スポニチアネックス)",
+      "summary": "◇ナ・リーグ カブス-レッズ（2026年9月20日 シンシナティ） カブスに不測の事態が起こった。5-0の4回2死の3番・ブッシュの打席で、ブッシュが放ったファウルがネクストバッターズサークルで",
+      "link": "https://news.yahoo.co.jp/articles/6269f7bc7dc3499c723569eeb4a51da1f43ba6a9?source=rss",
+      "pubDate": "2026-09-20T19:04:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6269f7bc7dc3499c723569eeb4a51da1f43ba6a9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "カブス・PCA 初回に38個目の盗塁に成功 二盗で史上7人目「40―40」へあと2盗塁(スポニチアネックス)",
+      "summary": "◇ナ・リーグ カブス ― レッズ（2026年9月20日 シンシナティ） ナ・リーグMVP最有力候補に挙がるカブスの「PCA」ことピート・クローアームストロング外野手（24）が20日（日本時間21",
+      "link": "https://news.yahoo.co.jp/articles/3b7e88e082ae7c324f39b9b7cbf65df54a6e3c7e?source=rss",
+      "pubDate": "2026-09-20T17:46:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3b7e88e082ae7c324f39b9b7cbf65df54a6e3c7e?source=rss"
+        }
+      ]
+    },
     {
       "title": "名物記者が見たU-21日本代表対キルギス戦「荒木琉偉は鈴木彩艶の…」「横山夢樹は…」",
       "summary": "サッカーU-21日本代表は20日、第20回アジア競技大会のグループリーグ第2節でキルギスと対戦し7-0で勝利した。この一戦について、長年にわたり日本代表やJリーグを取材し続けてきた名物記者の藤江直人氏に随時話を聞いた。（語り手：藤江直人）",
@@ -1223,6 +1282,28 @@
       ]
     },
     {
+      "title": "荒れた前半で9人になった福岡、GK小畑が好セーブ連発でゲーム繋ぐも敗戦…広島がこじ開けて2連勝",
+      "summary": "[9.19 J1第8節 福岡 0-1 広島 ベススタ] サンフレッチェ広島は19日、J1第8節でアビスパ福岡と対戦して1-0で勝利した。日本代表に初選出されたDF中野就斗はフル出場。福岡が前半に2人退場者を出した一戦を制して2連勝となった。…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459147-459147-fl",
+      "pubDate": "2026-09-19T11:16:26.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "avispa",
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459147-459147-fl"
+        }
+      ]
+    },
+    {
       "title": "「よく決めたな…」京都の27歳ブラジル人MFが圧巻ミドル！ 地を這う一撃にファン驚き「ワンステップでこの威力はエグい」「うますぎ!!」(SOCCER DIGEST Web)",
       "summary": "京都サンガF.C.は９月19日、J１第８節でファジアーノ岡山とJFE晴れの国スタジアムで対戦している。 京都は開始早々の10分、先制に成功する。スコアラーはジョアン・ペドロだ。敵陣ペナルティアー",
       "link": "https://news.yahoo.co.jp/articles/5f6d97abf602b23c59236f1f2aa5a55b04f3c69d?source=rss",
@@ -1277,33 +1358,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/afb0edaf671f73cb82a62cb139b5aa4b8c9405ab?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "荒れた前半で9人になった福岡、GK小畑が好セーブ連発でゲーム繋ぐも敗戦…広島がこじ開けて2連勝",
-      "summary": "[9.19 J1第8節 福岡 0-1 広島 ベススタ] サンフレッチェ広島は19日、J1第8節でアビスパ福岡と対戦して1-0で勝利した。日本代表に初選出されたDF中野就斗はフル出場。福岡が前半に2人退場者を出した一戦を制して2連勝となった。…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459147-459147-fl",
-      "pubDate": "2026-09-19T11:10:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "avispa",
-        "sanfrecce"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459147-459147-fl"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/de05d058235e433c896f078410b90fb8afe0f6a7?source=rss"
         }
       ]
     },
@@ -28542,25 +28596,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/19af18309974c21fa61d3c4ab71e122cc3c2db98?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "均衡破る渾身の右ボレー! FC東京に白星もたらした高宇洋「まずはしっかり押さえて打とうと」(ゲキサカ)",
-      "summary": "[8.21 J1第3節 FC東京 2-0 千葉 MUFG国立] 渾身のボレーで均衡を破った。FC東京MF高宇洋は0-0で迎えた後半27分に先制ゴール。「今年は百年構想(リーグ)も含めてボランチがな",
-      "link": "https://news.yahoo.co.jp/articles/000904418478d0ad7c93bdeb731c04aa4f3206e4?source=rss",
-      "pubDate": "2026-08-21T16:49:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/000904418478d0ad7c93bdeb731c04aa4f3206e4?source=rss"
         }
       ]
     }
