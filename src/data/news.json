@@ -1,22 +1,41 @@
 {
-  "generatedAt": "2026-09-24T17:24:00.564Z",
-  "count": 1074,
+  "generatedAt": "2026-09-24T19:55:31.254Z",
+  "count": 1073,
   "items": [
+    {
+      "title": "日本代表GK早川 好セーブ連発 1失点も昨季J1MVPの存在感見せた(スポニチアネックス)",
+      "summary": "◇サッカー国際親善試合 日本 3―1 ウルグアイ（2026年9月24日 キューアンドエースタジアムみやぎ） 日本代表GK早川は好セーブを見せていたが、前半42分に同点弾を許した。ビルドアップで佐",
+      "link": "https://news.yahoo.co.jp/articles/e1a16302b82950912f5e60bdc9c3abe70ad8df89?source=rss",
+      "pubDate": "2026-09-24T19:54:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e1a16302b82950912f5e60bdc9c3abe70ad8df89?source=rss"
+        }
+      ]
+    },
     {
       "title": "【競輪】下山聖斗がダッシュ鋭いまくりで快勝「いつも2走目に良くなる感じです」／川崎ミッド(日刊スポーツ)",
       "summary": "＜川崎競輪：ミッドナイト競輪＞◇F2◇初日◇24日 予選4Rは下山聖斗（25＝鹿児島）が、スピードあるまくり決めた。 「弱気でした」と前受けから6番手まで引いたことを反省したが、ダッシュの鋭さ",
       "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss",
       "pubDate": "2026-09-24T14:56:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "frontale"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss"
         }
       ]
@@ -20968,44 +20987,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/36c23293f9fa45d202c29d37ca9d98e9bfc169ef?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「いつみても美しいね」元日本代表の最強女優妻が公開した“伊勢旅行ショット”に脚光！「か、か、かわいい、、」「笑顔に癒やされる」(SOCCER DIGEST Web)",
-      "summary": "元日本代表のMF柴崎岳（鹿島アントラーズ）の妻で女優の真野恵里菜さんが公式インスタグラムを更新。２か月前の家族旅行を振り返り、厳選のプライベートショットを掲載した。 真野さんは「オレンジページn",
-      "link": "https://news.yahoo.co.jp/articles/c2b58bf40ed2abdc419d00a74cf4c13c0946a6d8?source=rss",
-      "pubDate": "2026-08-25T19:51:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c2b58bf40ed2abdc419d00a74cf4c13c0946a6d8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "新設U-21リーグの意義は「練習試合とは違うプレッシャー」 ポストユース育成へ…求めるのは「本当の勝負強さ」(FOOTBALL ZONE)",
-      "summary": "2026-27シーズンから、新たな育成の舞台となる「U-21 Jリーグ」が始まった。通常のJリーグが行われる週末と並行して開幕節が行われ、EAST6チーム、WEST5チームの計11チームが新たなリー",
-      "link": "https://news.yahoo.co.jp/articles/7a0c5f7cb994c917156b32b54bca10ceaabe0266?source=rss",
-      "pubDate": "2026-08-25T19:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7a0c5f7cb994c917156b32b54bca10ceaabe0266?source=rss"
         }
       ]
     }
