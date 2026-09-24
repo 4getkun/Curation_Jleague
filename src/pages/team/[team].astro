@@ -3,6 +3,7 @@ import { breadcrumb, SITE_NAME } from "../../lib/seo";
 import Base from "../../layouts/Base.astro";
 import NewsRow from "../../components/NewsRow.astro";
 import TeamLinkRow from "../../components/TeamLinkRow.astro";
+import OddsCard from "../../components/OddsCard.astro";
 import { teams } from "../../lib/teams";
 import { newsForTeam, formatRelativeShort } from "../../lib/news";
 import { withBase } from "../../lib/url";
@@ -80,6 +81,7 @@ const PAGE_SIZE = 10;
     </div>
 
     <aside>
+      <OddsCard team={team} />
       <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin-bottom:14px;">
         CLUBS / クラブ別
       </h2>

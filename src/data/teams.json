@@ -12,7 +12,8 @@
       "アントラーズ"
     ],
     "color": "#A21F35",
-    "en": "KASHIMA ANTLERS"
+    "en": "KASHIMA ANTLERS",
+    "oddsId": "kashima"
   },
   {
     "id": "hollyhock",
@@ -27,7 +28,8 @@
       "ホーリーホック"
     ],
     "color": "#005BAC",
-    "en": "MITO HOLLYHOCK"
+    "en": "MITO HOLLYHOCK",
+    "oddsId": "mito"
   },
   {
     "id": "reds",
@@ -42,7 +44,8 @@
       "レッズ"
     ],
     "color": "#E60012",
-    "en": "URAWA RED DIAMONDS"
+    "en": "URAWA RED DIAMONDS",
+    "oddsId": "urawa"
   },
   {
     "id": "reysol",
@@ -57,7 +60,8 @@
       "レイソル"
     ],
     "color": "#F2C900",
-    "en": "KASHIWA REYSOL"
+    "en": "KASHIWA REYSOL",
+    "oddsId": "kashiwa"
   },
   {
     "id": "jef-chiba",
@@ -74,7 +78,8 @@
       "ジェフ"
     ],
     "color": "#EDD000",
-    "en": "JEF UNITED CHIBA"
+    "en": "JEF UNITED CHIBA",
+    "oddsId": "chiba"
   },
   {
     "id": "fc-tokyo",
@@ -87,7 +92,8 @@
       "ＦＣ東京"
     ],
     "color": "#233A6E",
-    "en": "FC TOKYO"
+    "en": "FC TOKYO",
+    "oddsId": "ftokyo"
   },
   {
     "id": "verdy",
@@ -102,7 +108,8 @@
       "東京Ｖ"
     ],
     "color": "#006931",
-    "en": "TOKYO VERDY"
+    "en": "TOKYO VERDY",
+    "oddsId": "tokyov"
   },
   {
     "id": "zelvia",
@@ -119,7 +126,8 @@
       "ゼルビア"
     ],
     "color": "#173F73",
-    "en": "FC MACHIDA ZELVIA"
+    "en": "FC MACHIDA ZELVIA",
+    "oddsId": "machida"
   },
   {
     "id": "frontale",
@@ -134,7 +142,8 @@
       "フロンターレ"
     ],
     "color": "#33B4E4",
-    "en": "KAWASAKI FRONTALE"
+    "en": "KAWASAKI FRONTALE",
+    "oddsId": "kawasakif"
   },
   {
     "id": "marinos",
@@ -150,7 +159,8 @@
       "横浜ＦＭ"
     ],
     "color": "#1A3D8F",
-    "en": "YOKOHAMA F. MARINOS"
+    "en": "YOKOHAMA F. MARINOS",
+    "oddsId": "yokohamafm"
   },
   {
     "id": "s-pulse",
@@ -165,7 +175,8 @@
       "エスパルス"
     ],
     "color": "#F08300",
-    "en": "SHIMIZU S-PULSE"
+    "en": "SHIMIZU S-PULSE",
+    "oddsId": "shimizu"
   },
   {
     "id": "grampus",
@@ -180,7 +191,8 @@
       "グランパス"
     ],
     "color": "#D3001F",
-    "en": "NAGOYA GRAMPUS"
+    "en": "NAGOYA GRAMPUS",
+    "oddsId": "nagoya"
   },
   {
     "id": "sanga",
@@ -195,7 +207,8 @@
       "サンガ"
     ],
     "color": "#7A1E7E",
-    "en": "KYOTO SANGA F.C."
+    "en": "KYOTO SANGA F.C.",
+    "oddsId": "kyoto"
   },
   {
     "id": "gamba",
@@ -210,7 +223,8 @@
       "Ｇ大阪"
     ],
     "color": "#002569",
-    "en": "GAMBA OSAKA"
+    "en": "GAMBA OSAKA",
+    "oddsId": "gosaka"
   },
   {
     "id": "cerezo",
@@ -225,7 +239,8 @@
       "Ｃ大阪"
     ],
     "color": "#E5006D",
-    "en": "CEREZO OSAKA"
+    "en": "CEREZO OSAKA",
+    "oddsId": "cosaka"
   },
   {
     "id": "vissel",
@@ -240,7 +255,8 @@
       "ヴィッセル"
     ],
     "color": "#A01D33",
-    "en": "VISSEL KOBE"
+    "en": "VISSEL KOBE",
+    "oddsId": "kobe"
   },
   {
     "id": "fagiano",
@@ -255,7 +271,8 @@
       "ファジアーノ"
     ],
     "color": "#AA0115",
-    "en": "FAGIANO OKAYAMA"
+    "en": "FAGIANO OKAYAMA",
+    "oddsId": "okayama"
   },
   {
     "id": "sanfrecce",
@@ -270,7 +287,8 @@
       "サンフレッチェ"
     ],
     "color": "#5F259F",
-    "en": "SANFRECCE HIROSHIMA"
+    "en": "SANFRECCE HIROSHIMA",
+    "oddsId": "hiroshima"
   },
   {
     "id": "avispa",
@@ -285,7 +303,8 @@
       "アビスパ"
     ],
     "color": "#002E62",
-    "en": "AVISPA FUKUOKA"
+    "en": "AVISPA FUKUOKA",
+    "oddsId": "fukuoka"
   },
   {
     "id": "v-varen",
@@ -302,6 +321,7 @@
       "ファーレン"
     ],
     "color": "#F39800",
-    "en": "V-VAREN NAGASAKI"
+    "en": "V-VAREN NAGASAKI",
+    "oddsId": "nagasaki"
   }
 ]

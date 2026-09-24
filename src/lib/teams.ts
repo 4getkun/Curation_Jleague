@@ -10,6 +10,8 @@ export interface Team {
   shortKeywords: string[];
   strongKeywords: string[];
   color: string;
+  /** 姉妹サイト「J1順位確率早見表」でのクラブID(今季の見通しカード用。scripts/fetch-odds.mjs 参照) */
+  oddsId?: string;
 }
 
 export const teams: Team[] = teamsData as Team[];

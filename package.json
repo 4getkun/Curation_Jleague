@@ -13,7 +13,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "fetch-news": "node scripts/fetch-news.mjs"
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-odds": "node scripts/fetch-odds.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.2",

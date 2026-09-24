@@ -1,0 +1,102 @@
+---
+// クラブページ右列の「今季の見通し」。姉妹サイト「J1順位確率早見表」の計算結果を表示し、詳細へ送客する。
+// 確率はクラブカラーではなくサイト共通の色で示す(確率サイト側の「クラブカラーを使わない」方針に合わせる)。
+import type { Team } from "../lib/teams";
+import { outlookForTeam, pct, dateJa, STATUS_TEXT, ODDS_SITE_URL, ODDS_METHOD_URL } from "../lib/odds";
+
+interface Props {
+  team: Team;
+}
+const { team } = Astro.props;
+const o = outlookForTeam(team);
+
+const rows = o
+  ? ([
+      { key: "champion", label: "優勝", p: o.probs.champion, st: o.status.champion, tone: "good", scale: 3 },
+      { key: "acle_direct", label: "ACL圏(1〜3位)", p: o.probs.acle_direct, st: o.status.acle_direct, tone: "good", scale: 1 },
+      { key: "relegation", label: "降格(18〜20位)", p: o.probs.relegation, st: o.status.relegation, tone: "bad", scale: 1 },
+    ] as const)
+  : [];
+const change = o?.rank_change_7d;
+const changeText =
+  change === null || change === undefined
+    ? null
+    : Math.abs(change) < 0.05
+      ? "7日前から変わらず"
+      : change < 0
+        ? `7日前より ▲${Math.abs(change).toFixed(1)}位 上向き`
+        : `7日前より ▼${change.toFixed(1)}位 下向き`;
+---
+
+{o && (
+  <section class="odds-card" aria-labelledby="odds-card-title">
+    <h2 id="odds-card-title" class="font-kicker odds-kicker">OUTLOOK / 今季の見通し</h2>
+    <p class="odds-now">
+      <span class="odds-rank">{o.rank}<small>位</small></span>
+      <span class="odds-meta">勝点{o.points}({o.played}試合) · 得失点差{o.gd > 0 ? `+${o.gd}` : o.gd}</span>
+    </p>
+    <dl class="odds-rows">
+      {rows.map((r) => (
+        <div class="odds-row" data-tone={r.tone}>
+          <dt>{r.label}</dt>
+          <dd>{r.st ? STATUS_TEXT[r.key][r.st] : pct(r.p)}</dd>
+          <span class="odds-bar" aria-hidden="true"><i style={`width:${Math.min(1, r.p * r.scale) * 100}%`}></i></span>
+        </div>
+      ))}
+    </dl>
+    <p class="odds-sub">
+      期待順位 {o.expected_rank.toFixed(1)}位{changeText && ` · ${changeText}`}
+    </p>
+    {o.next && (
+      <div class="odds-next">
+        <p class="odds-next-title">次の試合 {dateJa(o.next.date)}{o.next.kickoff && ` ${o.next.kickoff}`}</p>
+        <p class="odds-next-teams">vs {o.next.opponent}({o.next.home ? "ホーム" : "アウェイ"})</p>
+        <p class="odds-next-probs">勝ち {pct(o.next.win, 0)} · 分け {pct(o.next.draw, 0)} · 負け {pct(o.next.lose, 0)}</p>
+      </div>
+    )}
+    <a class="odds-link" href={ODDS_SITE_URL}>J1順位確率早見表で全クラブを見る →</a>
+    <p class="odds-note">
+      {o.dataAsOf.slice(5).replace("-", "/")}までの{o.matchesPlayed}試合をもとに残り試合を{(o.trials / 10000).toFixed(0)}万回シミュレーションした非公式の試算です。
+      <a href={ODDS_METHOD_URL}>計算方法</a>
+    </p>
+  </section>
+)}
+
+<style>
+  .odds-card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-top: 3px solid var(--accent);
+    padding: 16px 16px 14px;
+    margin-bottom: 28px;
+    --odds-bad: #d64545;
+  }
+  :global(.dark) .odds-card {
+    --odds-bad: #ff6b6b;
+  }
+  .odds-kicker { font-size: 15px; font-weight: 500; letter-spacing: 4px; color: var(--accent); margin: 0 0 10px; }
+  .odds-now { display: flex; align-items: baseline; gap: 12px; margin: 0 0 12px; flex-wrap: wrap; }
+  .odds-rank { font-size: 34px; font-weight: 800; line-height: 1; color: var(--text); }
+  .odds-rank small { font-size: 15px; font-weight: 700; margin-left: 2px; }
+  .odds-meta { font-size: 13px; color: var(--text-muted); }
+  .odds-rows { margin: 0; display: grid; gap: 10px; }
+  .odds-row { display: grid; grid-template-columns: 1fr auto; align-items: baseline; font-size: 14px; }
+  .odds-row dt { color: var(--text); }
+  .odds-row dd { margin: 0; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--text); }
+  .odds-bar { grid-column: 1 / -1; height: 5px; background: var(--rule-weak); margin-top: 5px; overflow: hidden; }
+  .odds-bar i { display: block; height: 100%; background: var(--accent); }
+  .odds-row[data-tone="bad"] .odds-bar i { background: var(--odds-bad); }
+  .odds-sub { font-size: 13px; color: var(--text-muted); margin: 12px 0 0; }
+  .odds-next { border-top: 1px solid var(--rule-weak); margin-top: 12px; padding-top: 10px; font-size: 13px; }
+  .odds-next p { margin: 0; }
+  .odds-next-title { color: var(--text-faint); }
+  .odds-next-teams { font-size: 15px; font-weight: 700; color: var(--text); margin: 2px 0 !important; }
+  .odds-next-probs { color: var(--text-muted); font-variant-numeric: tabular-nums; }
+  .odds-link {
+    display: block; margin-top: 14px; padding: 10px 12px; text-align: center; font-size: 14px; font-weight: 700;
+    color: var(--accent-text); background-color: var(--accent); text-decoration: none;
+  }
+  .odds-link:hover { opacity: .9; }
+  .odds-note { font-size: 11.5px; color: var(--text-faint); margin: 10px 0 0; line-height: 1.6; }
+  .odds-note a { color: var(--text-muted); }
+</style>
