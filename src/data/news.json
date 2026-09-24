@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-24T12:24:28.833Z",
+  "generatedAt": "2026-09-24T17:24:00.564Z",
   "count": 1074,
   "items": [
+    {
+      "title": "【競輪】下山聖斗がダッシュ鋭いまくりで快勝「いつも2走目に良くなる感じです」／川崎ミッド(日刊スポーツ)",
+      "summary": "＜川崎競輪：ミッドナイト競輪＞◇F2◇初日◇24日 予選4Rは下山聖斗（25＝鹿児島）が、スピードあるまくり決めた。 「弱気でした」と前受けから6番手まで引いたことを反省したが、ダッシュの鋭さ",
+      "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss",
+      "pubDate": "2026-09-24T14:56:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss"
+        }
+      ]
+    },
     {
       "title": "千葉ジェッツがルーク・メイと新規契約を締結、昨シーズンは神戸ストークスのB2優勝に貢献したフォワード(BASKET COUNT)",
       "summary": "千葉ジェッツは9月24日、ブランドン・ランドルフのインジュアリーリスト登録に伴い、昨シーズンまで神戸ストークスでプレーしたルーク・メイの新規契約締結を発表した。背番号は神戸時代と同じ「32」。 アメ",
@@ -1002,22 +1021,21 @@
       ]
     },
     {
-      "title": "筑波大MF徳永涼の大分加入が内定「自分の限界を自分で決めるのではなく…」",
-      "summary": "大分トリニータは22日、筑波大のMF徳永涼(22)が2026-27シーズン(2027年1月)から加入することが内定したと発表した。 千葉県出身の徳永は、柏レイソルU-15から前橋育英高を経て筑波大へ。前橋育英時代に全国高校総体(インターハイ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459396-459396-fl",
-      "pubDate": "2026-09-22T05:36:27.000Z",
+      "title": "川崎Fが「所属選手に関する大切なお知らせ」を予告",
+      "summary": "川崎フロンターレは22日、「所属選手に関する大切なお知らせ」があるとして、23日の11時から記者会見を実施すると発表した。 会見の模様はクラブ公式YouTubeチャンネルでライブ配信。また、オフィシャルグッズショップ&カフェ「AZZURRO…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459397-459397-fl",
+      "pubDate": "2026-09-22T05:40:46.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "jef-chiba",
-        "reysol"
+        "frontale"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459396-459396-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459397-459397-fl"
         }
       ]
     },
@@ -20988,25 +21006,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7a0c5f7cb994c917156b32b54bca10ceaabe0266?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "口論騒動から2日後、J1町田選手の近影が「最高なんだが」「仲いいんですね」 和むファン続出(THE ANSWER)",
-      "summary": "サッカーのJリーグ・FC町田ゼルビアは25日、公式XにてDF昌子源と岡村大八が和やかに微笑む写真と動画を投稿。先日の試合中にヒートアップして口論を交わした2人の試合後の姿を公開すると、ファンの話題を",
-      "link": "https://news.yahoo.co.jp/articles/36e5dd86905132153171ce3c9d8f3de259881b08?source=rss",
-      "pubDate": "2026-08-25T13:03:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/36e5dd86905132153171ce3c9d8f3de259881b08?source=rss"
         }
       ]
     }
