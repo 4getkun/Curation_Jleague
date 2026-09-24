@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-09-24T01:31:28.982Z",
-  "count": 1140,
+  "generatedAt": "2026-09-24T06:54:56.234Z",
+  "count": 1111,
   "items": [
+    {
+      "title": "千葉ジェッツがルーク・メイと新規契約を締結、昨シーズンは神戸ストークスのB2優勝に貢献したフォワード(BASKET COUNT)",
+      "summary": "千葉ジェッツは9月24日、ブランドン・ランドルフのインジュアリーリスト登録に伴い、昨シーズンまで神戸ストークスでプレーしたルーク・メイの新規契約締結を発表した。背番号は神戸時代と同じ「32」。 アメ",
+      "link": "https://news.yahoo.co.jp/articles/ee870696fe6401955c7d281fcf9861af434334a7?source=rss",
+      "pubDate": "2026-09-24T06:23:12.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ee870696fe6401955c7d281fcf9861af434334a7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "巧みなシュートで決勝弾！ FC町田ゼルビアのFW小川航基がチームを勝利に導く一撃！ コーナーキックから決まった得点",
+      "summary": "J1リーグのFC町田ゼルビアは23日、天皇杯JFA第106回全日本サッカー選手権大会3回戦でJ2の栃木シティと対戦し、2-1の勝利を収めた。町田に所属するサッカー日本代表FW小川航基がチームを勝利に導く決勝ゴールを叩き込んでいる。",
+      "link": "https://www.footballchannel.jp/2026/09/24/post1018122/",
+      "pubDate": "2026-09-24T04:36:14.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/24/post1018122/"
+        }
+      ]
+    },
+    {
+      "title": "「あと何回、何十回…」浦和レッズ、山根視来が勝利を目いっぱい喜ぶ理由。再びJリーグで戦う32歳の胸中【コラム】",
+      "summary": "8月に浦和レッズへ加入した山根視来が、待望の埼玉スタジアム初勝利をつかんだ。悔しい敗戦を経験した6日後、東京ヴェルディ戦でスタメン出場を果たすと、攻守で存在感を発揮。試合後にはゴール裏のサポーターと勝利の喜びを分かち合った。浦和で新たな時間…",
+      "link": "https://www.footballchannel.jp/2026/09/24/post1017909/",
+      "pubDate": "2026-09-24T03:05:10.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/24/post1017909/"
+        }
+      ]
+    },
     {
       "title": "ウルグアイ代表のフォルラン監督、日本代表戦へ意気込み「素晴らしい選手たちが揃っている」 代表指揮官として再来日",
       "summary": "サッカーのウルグアイ代表を率いるディエゴ・フォルラン監督が、日本代表戦を前に記者会見に出席した。かつてセレッソ大阪でプレーした経験を持つ指揮官は、久々の来日を喜びつつ、日本代表への高い評価と新体制での再出発への思いを語った。",
@@ -961,6 +1021,25 @@
       ]
     },
     {
+      "title": "FC大阪vs福島 試合記録",
+      "summary": "【J3第7節】(花園)FC大阪 4-1(前半2-0)福島[F]久保吏久斗(34分)、住田将(36分)、東家聡樹(84分)、木匠貴大(90分+4)[福]清水一雅(49分)[福]中村翼(42分)観衆:2,818人主審:北沢倫章[FC大阪]先発G…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459085-459085-fl",
+      "pubDate": "2026-09-22T04:20:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459085-459085-fl"
+        }
+      ]
+    },
+    {
       "title": "「自分たちがやられたようなことを相手にできた」。町田相手に1G1A、小泉佳穂が感じた柏レイソルの進化【コラム】",
       "summary": "柏レイソルは6日、横浜F・マリノスに0-2で敗れた。前節から先発6人を変更し、1点を追う後半開始からは一気に3枚を交代。それでも、なかなかエンジンはかからなかった。ただ、この敗戦を単純な「ターンオーバー失敗」で片づけることはできない。抜擢さ…",
       "link": "https://www.footballchannel.jp/2026/09/22/post1015839/",
@@ -1193,23 +1272,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0a8d38f8b30cf9496804f2c9333eb3bcfe4af149?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "栃木Cvs仙台 試合記録",
-      "summary": "【J2第7節】(CFS)栃木C 1-3(前半0-2)仙台[栃]鈴木武蔵(90分+5)[仙]中島元彦(16分)、岩渕弘人(35分)、高田椋汰(55分)[栃]小池裕太(10分)[仙]武田英寿(75分)観衆:4,246人主審:中井敏博[栃木シティ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459245-459245-fl",
-      "pubDate": "2026-09-21T14:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459245-459245-fl"
         }
       ]
     },
@@ -21690,659 +21752,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/7ba6de55adef6de07b654eea78718da42423a7e7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ガンバ大阪｜順位・順位推移・試合日程・結果【2026/27】",
-      "summary": "※情報は2026年8月25日時点。順位はJ1第3節終了時点。 ガンバ大阪の2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を […]",
-      "link": "https://www.footballchannel.jp/2026/08/25/post993039/",
-      "pubDate": "2026-08-25T06:38:38.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post993039/"
-        }
-      ]
-    },
-    {
-      "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
-      "summary": "※情報は2026年8月25日時点。J1第3節終了時点の順位。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯などの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する […]",
-      "link": "https://www.footballchannel.jp/2026/08/25/post991935/",
-      "pubDate": "2026-08-25T06:36:05.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post991935/"
-        }
-      ]
-    },
-    {
-      "title": "柏レイソル｜順位・順位推移・試合日程・結果【2026/27】",
-      "summary": "※情報は2026年8月25日時点。 柏レイソルの2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する。 J1 20 […]",
-      "link": "https://www.footballchannel.jp/2026/08/25/post992952/",
-      "pubDate": "2026-08-25T06:35:56.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post992952/"
-        }
-      ]
-    },
-    {
-      "title": "【ヴィッセル神戸】スペイン2部所属のクロアチア人MFスタンコ・ユリッチ、移籍確率は40％？(スポーティングニュース日本版)",
-      "summary": "サッカー・スペイン2部レアル・バリャドリードのクロアチア人MFスタンコ・ユリッチに、J1のヴィッセル神戸への移籍可能性が浮上している。バリャドリードに関する情報を専門に扱う現地メディア「Pucela",
-      "link": "https://news.yahoo.co.jp/articles/e0260a6644c176ce2b559be61ec8d2ce28d5f2c9?source=rss",
-      "pubDate": "2026-08-25T06:23:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e0260a6644c176ce2b559be61ec8d2ce28d5f2c9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「絶対にお止めいただきますよう」“侮辱的な替え歌”を確認…FC東京が注意喚起。特定の企業・団体名を含む内容「看過することのできない」(SOCCER DIGEST Web)",
-      "summary": "FC東京が８月25日、「応援に関する注意喚起」と題した声明を発表した。 クラブは冒頭で、「日本サッカー倫理・コンプライアンスに関する共同声明」の趣旨に則り、法令や規程、規則を遵守するとともに、高",
-      "link": "https://news.yahoo.co.jp/articles/8ebd415a131cc9eee9238e715ff49ecd22894a84?source=rss",
-      "pubDate": "2026-08-25T06:13:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8ebd415a131cc9eee9238e715ff49ecd22894a84?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜M・遠野大弥、2度目のアキレス腱断裂を乗り越え全体練習に…復帰も「みえてきた。100％の状態でできるようにやっていく」(サンケイスポーツ)",
-      "summary": "横浜Mは25日、神奈川県横須賀市で26日の天皇杯2回戦・J3福島戦に向けて練習を行った。3月に右アキレス腱断裂の大けがで離脱したFW遠野大弥が、公開された冒頭15分では全体練習に加わって汗を流した。",
-      "link": "https://news.yahoo.co.jp/articles/9c2193a2baf65143c4284bf892b6397e2665bfaf?source=rss",
-      "pubDate": "2026-08-25T06:04:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9c2193a2baf65143c4284bf892b6397e2665bfaf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "千葉がC大阪MF喜田陽を完全移籍で獲得「一度だけアウェイの選手としてフクアリのピッチに立ちましたが…」(ゲキサカ)",
-      "summary": "ジェフユナイテッド千葉は25日、セレッソ大阪からMF喜田陽(26)が完全移籍で加入することを発表した。 大阪府出身の喜田はU-12からC大阪アカデミーに所属し、高校3年生だった2018年8月にプ",
-      "link": "https://news.yahoo.co.jp/articles/3ec625c30138ad2124c1669fabf47c44088d2fe5?source=rss",
-      "pubDate": "2026-08-25T05:56:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3ec625c30138ad2124c1669fabf47c44088d2fe5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "16歳のJ1横浜M三井寺眞、キングカズとの43歳差対決に「ピッチ上に年齢は関係ない。まずは勝つ」(サンケイスポーツ)",
-      "summary": "J1横浜Mは25日、神奈川県横須賀市で冒頭15分のみ公開して練習を行った。16歳のMF三井寺眞は、26日の天皇杯2回戦でカズこと元日本代表FW三浦知良が所属するJ3福島との対戦に意気込みを語った。",
-      "link": "https://news.yahoo.co.jp/articles/c434360bdc91c3152a3f88a26b6cf5da409029d8?source=rss",
-      "pubDate": "2026-08-25T05:45:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c434360bdc91c3152a3f88a26b6cf5da409029d8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪MF安部柊斗は名古屋戦退場を猛省「軽率な行動。二度とやっちゃいけない」天皇杯滋賀戦で取り戻す(スポニチアネックス)",
-      "summary": "G大阪は26日に天皇杯2回戦・J3滋賀戦を行う。この日は吹田市内の練習場で最終調整。MF安部柊斗は直近のリーグ名古屋戦での退場処分を取り戻す覚悟を示した。 「本当に軽率な行動だった。反省しなけれ",
-      "link": "https://news.yahoo.co.jp/articles/f4f31153535c22c20982f75fe93996b6ff706511?source=rss",
-      "pubDate": "2026-08-25T05:43:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f4f31153535c22c20982f75fe93996b6ff706511?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "神戸がクロアチア人MF獲得か「作業を続けている」 迫る移籍期限…現地メディア「去就を解決する必要がある」(FOOTBALL ZONE)",
-      "summary": "J1ヴィッセル神戸が、スペインのバリャドリードからクロアチア人MFスタンコ・ユリッチの獲得に乗り出していると、バリャドリード専門のデジタルメディア「Pucela Fichajes」が報じた。 記",
-      "link": "https://news.yahoo.co.jp/articles/54ea0a46364dc29b6bb4addcf9f8262e05c7a9c5?source=rss",
-      "pubDate": "2026-08-25T05:40:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/54ea0a46364dc29b6bb4addcf9f8262e05c7a9c5?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/670216"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１千葉、ボランチの実力者を獲得 Ｃ大阪から喜田陽が完全移籍で加入「ジェフはＪ１に居続けなければいけないクラブです」(スポーツ報知)",
-      "summary": "Ｊ１千葉は２５日、Ｊ１Ｃ大阪からＭＦ喜田陽が完全移籍で加入することが決まったと発表した。背番号は５５。 喜田は「初めまして。喜田陽です。一度だけアウェーの選手としてフクアリのピッチに立ちましたが",
-      "link": "https://news.yahoo.co.jp/articles/bb48f38a9ad59354a84884008334f87146e0a963?source=rss",
-      "pubDate": "2026-08-25T05:28:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo",
-        "jef-chiba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bb48f38a9ad59354a84884008334f87146e0a963?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪MFフアンペが移籍後初対応「ピッチ上では闘士。負けることが大嫌い」デビューは9月以降か(スポニチアネックス)",
-      "summary": "G大阪MFフアンペ（30）が25日、入団後初めて取材に応じた。マラガ（スペイン1部）から完全移籍したスペイン人アンカーは、日本への移籍について「ここに来たのは引退への準備ではない。長くここに留まって",
-      "link": "https://news.yahoo.co.jp/articles/3bb7ef7d9ae506197056dc0e46b9366ea110be3a?source=rss",
-      "pubDate": "2026-08-25T05:27:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3bb7ef7d9ae506197056dc0e46b9366ea110be3a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "小川航基の町田加入 アンダー世代の盟友・相馬勇紀も歓迎「彼にたくさんアシストしたい」(スポーツ報知)",
-      "summary": "Ｊ１町田のＦＷ相馬勇紀（２９）は２５日、東京・町田市内での非公開練習後に取材に応じ、前日に加入が発表された日本代表ＦＷ小川航基（２９）を歓迎した。 １学年下の小川とは同じ東京五輪世代としてアンダ",
-      "link": "https://news.yahoo.co.jp/articles/891fc65930ea3d13c526620a14fd959b44991b16?source=rss",
-      "pubDate": "2026-08-25T05:20:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/891fc65930ea3d13c526620a14fd959b44991b16?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "｢味方になってくれると思うと心強い｣ジェフユナイテッド市原・千葉、セレッソ大阪からMF喜田陽の完全移籍加入を発表",
-      "summary": "J1リーグのジェフユナイテッド市原・千葉は25日、セレッソ大阪から26歳のMF喜田陽が完全移籍で加入したことを発表した。両クラブの公式サイトで伝えられている。セレッソの下部組織で育った生え抜きのMFがジェフ千葉へ完全移籍だ。",
-      "link": "https://www.footballchannel.jp/2026/08/25/post997482/",
-      "pubDate": "2026-08-25T05:19:27.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "jef-chiba",
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post997482/"
-        }
-      ]
-    },
-    {
-      "title": "J1千葉 C大阪MF喜田陽の獲得発表「一つになって戦うのが楽しみ」 計16年間所属のC大阪に感謝(スポニチアネックス)",
-      "summary": "J1千葉は25日、C大阪MF喜田陽（26）を完全移籍で獲得したと発表した。 クラブを通じてコメントを発表。「初めまして。喜田陽です。一度だけアウェイの選手としてフクアリのピッチに立ちましたが、本",
-      "link": "https://news.yahoo.co.jp/articles/0ec5bf42312753154de2e5c1110a05edcc365550?source=rss",
-      "pubDate": "2026-08-25T05:13:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba",
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0ec5bf42312753154de2e5c1110a05edcc365550?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｊ１】横浜Ｍは天皇杯でＪ３福島と対戦 コリカ監督は元同僚で現役のカズに「信じられない」(東スポWEB)",
-      "summary": "J1横浜Mは25日、横須賀市内のグラウンドでJ3福島との天皇杯2回戦（26日、日産）に向けて調整を行った。 対戦相手の福島は、大山クラブ（山形）との1回戦で、カズこと元日本代表FW三浦知良が2得",
-      "link": "https://news.yahoo.co.jp/articles/527d9ebae5b06822540452e7176dab2ee1836284?source=rss",
-      "pubDate": "2026-08-25T04:45:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/527d9ebae5b06822540452e7176dab2ee1836284?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "試合中に口論の町田DFは「次はグーでいく」 一触即発から一転…笑顔の相棒は「やられたら訴える」(FOOTBALL ZONE)",
-      "summary": "開幕3連勝、12得点2失点でJ1の首位を走るFC町田ゼルビアの雰囲気は良いようだ。3-1で勝利した第3節（8月23日）の浦和戦では、前半途中に3バックの中央に入るDF岡村大八とキャプテンのDF昌子源",
-      "link": "https://news.yahoo.co.jp/articles/882614b473f4b743c2ee8f3364d064c3858bab34?source=rss",
-      "pubDate": "2026-08-25T04:40:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/882614b473f4b743c2ee8f3364d064c3858bab34?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【J3試合結果まとめ｜第3節】連勝チームが揃って引き分け！岐阜、愛媛、鹿児島、相模原の4チームが勝ち点7で並ぶ｜Jリーグ(DAZN News)",
-      "summary": "【国内サッカー・ニュース】明治安田J3リーグ第3節は8月22日から23日にかけて開催。3連勝したチームが一つも無くなった中、FC岐阜など4チームが勝ち点7で並んでいる。",
-      "link": "https://news.yahoo.co.jp/articles/bc5c1cbd7b2eaf27ac0228235a3ddb0f1dce5c62?source=rss",
-      "pubDate": "2026-08-25T04:30:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bc5c1cbd7b2eaf27ac0228235a3ddb0f1dce5c62?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏退団の25歳DF成瀬竣平が南葛SCに加入(ゲキサカ)",
-      "summary": "柏レイソルは25日、DF成瀬竣平の新天地が南葛SC(関東リーグ1部)に決定したことを発表した。 右サイドバックを主戦場とする成瀬は、名古屋グランパス時代に複数クラブへの期限付き移籍を経験し、20",
-      "link": "https://news.yahoo.co.jp/articles/eee3f5939b25b8149a4877f920d1b8dba4ef7925?source=rss",
-      "pubDate": "2026-08-25T04:23:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol",
-        "grampus"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/eee3f5939b25b8149a4877f920d1b8dba4ef7925?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "元柏DF成瀬竣平が南葛SCへ加入 名古屋時代に風間八宏監督と共闘「また風間監督のもとでサッカーができるのが楽しみです」(theWORLD（ザ・ワールドWeb）)",
-      "summary": "関東サッカーリーグ1部の南葛SCは8月25日、DF成瀬竣平が加入することを発表した。背番号は44に決まっている。 成瀬は2001年生まれの25歳。名古屋グランパスのアカデミーで育ち、U-18からトッ",
-      "link": "https://news.yahoo.co.jp/articles/f278337883530e0298211fbcafb20180616f1275?source=rss",
-      "pubDate": "2026-08-25T04:20:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f278337883530e0298211fbcafb20180616f1275?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "｢今回また風間監督のもとで…｣柏レイソル退団のDF成瀬竣平が関東1部の南葛SCへ加入。名古屋グランパス時代の指揮官と再会",
-      "summary": "関東サッカーリーグ1部の南葛SCは25日、柏レイソルを6月に退団した25歳のDF成瀬竣平が加入したことを発表した。両クラブの公式サイトで伝えられている。名古屋グランパスでともに戦った指揮官との再会で、1つ上のカテゴリーであるJFL昇格を目指…",
-      "link": "https://www.footballchannel.jp/2026/08/25/post997407/",
-      "pubDate": "2026-08-25T03:25:26.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post997407/"
-        }
-      ]
-    },
-    {
-      "title": "【移籍情報】FC大阪、エンヒ・エンドリューの完全移籍加入を発表「チームが目標を達成できるよう、全力で貢献していきます」｜Jリーグ(DAZN News)",
-      "summary": "【国内サッカー 最新ニュース＆移籍情報】FC大阪は24日、エンヒ・エンドリューの完全移籍加入を発表した。",
-      "link": "https://news.yahoo.co.jp/articles/b76fb667a4a135f7a2284b96c9f492e8386be9ae?source=rss",
-      "pubDate": "2026-08-25T03:20:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b76fb667a4a135f7a2284b96c9f492e8386be9ae?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "高卒→即オランダ！怪我に泣いたスピードスター（2）海外クラブでデビューした現役Jリーガー(フットボールチャンネル)",
-      "summary": "日本サッカーにおけるキャリアの歩み方は多種多様だ。高校やJリーグクラブの下部組織、大学を経ずに、海外クラブでいきなりプロデビューを果たすケースも今や珍しくない。今回は、そうした経歴を経て「逆輸入」と",
-      "link": "https://news.yahoo.co.jp/articles/b385dfb88807d0d41451a08e20083cbfb3148963?source=rss",
-      "pubDate": "2026-08-25T03:11:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b385dfb88807d0d41451a08e20083cbfb3148963?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯 2回戦】横浜F・マリノス対福島ユナイテッドFC 試合日程・放送・配信予定一覧【三浦知良出場予定】",
-      "summary": "横浜F・マリノス（三井寺眞）対福島ユナイテッドFC（三浦知良）【写真：Getty Images】 天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下 […]",
-      "link": "https://www.footballchannel.jp/2026/08/25/post993477/",
-      "pubDate": "2026-08-25T02:37:29.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post993477/"
-        }
-      ]
-    },
-    {
-      "title": "柏レイソルに必要だったのは「渡井理己」だった。小泉佳穂を躍動させた凄み「常に見ている」【コラム】",
-      "summary": "昨年、日本代表に初選出されながら、代表活動中に右膝前十字靱帯を断裂した柏レイソルの熊坂光希が、約1年の長期離脱を経て戻ってきた。その間、柏の中盤では中川敦瑛がボランチへとコンバートされ、台頭。8月14日の東京ヴェルディ戦では2人がダブルボラ…",
-      "link": "https://www.footballchannel.jp/2026/08/25/post994599/",
-      "pubDate": "2026-08-25T02:30:38.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post994599/"
-        }
-      ]
-    },
-    {
-      "title": "FC東京が応援に関して注意喚起「クラブとして看過することのできない複数の事象を確認」(サッカーキング)",
-      "summary": "FC東京は25日、「応援に関する注意喚起」と題した声明を発表した。 クラブは『日本サッカー倫理・コンプライアンスに関する共同声明』の趣旨に則り、「日本のスポーツ団体の一員として法令や規程、規則を",
-      "link": "https://news.yahoo.co.jp/articles/5d88d4beedc27af65c771c60dfa76a2c2dcbfefe?source=rss",
-      "pubDate": "2026-08-25T02:05:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5d88d4beedc27af65c771c60dfa76a2c2dcbfefe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "クリアソン新宿が天皇杯・横浜FC戦をYouTubeでライブ配信「平日のナイトゲームということもあり…」(ゲキサカ)",
-      "summary": "クリアソン新宿(JFL)は24日、ニッパツ三ツ沢球技場で26日に開催される天皇杯2回戦の横浜FC戦を、クラブ公式YouTubeチャンネルでライブ配信すると発表した。 クリアソン新宿は19日の1回",
-      "link": "https://news.yahoo.co.jp/articles/85fc3a8c9655de44e8ed7ff584a687f5fb064da8?source=rss",
-      "pubDate": "2026-08-25T02:05:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/85fc3a8c9655de44e8ed7ff584a687f5fb064da8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC町田ゼルビアが海外クラブから日本人選手を獲得！ FC大阪は外国人選手2名の加入を発表【24日のJリーグ移籍情報まとめ】(フットボールチャンネル)",
-      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年8月24日に発表された最新の新加入、退団情報などは以下の通り。 【FC町田ゼルビア】 FW小",
-      "link": "https://news.yahoo.co.jp/articles/e77dfa9816ad4e6df9c356bea1851063d90a9384?source=rss",
-      "pubDate": "2026-08-25T01:48:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia",
-        "cerezo"
-      ],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e77dfa9816ad4e6df9c356bea1851063d90a9384?source=rss"
-        },
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post997362/"
-        }
-      ]
-    },
-    {
-      "title": "「えっ？」「ありえない」Jクラブの“公式発表”に中国騒然！「アジアの二流が全盛期の日本代表戦士を相手に…」(SOCCER DIGEST Web)",
-      "summary": "J１のFC町田ゼルビアは８月24日、オランダのNECから日本代表FWの小川航基を完全移籍で獲得したと発表した。 オランダで二桁得点をマークし、先の北中米ワールドカップにも出場した29歳ストライカ",
-      "link": "https://news.yahoo.co.jp/articles/97e81d789eb2bee4613422033a2498faf500bbd4?source=rss",
-      "pubDate": "2026-08-25T01:43:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/97e81d789eb2bee4613422033a2498faf500bbd4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC琉球 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるFC琉球の加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/25/post822222/",
-      "pubDate": "2026-08-25T01:41:57.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post822222/"
-        }
-      ]
-    },
-    {
-      "title": "FC大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるFC大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/25/post822213/",
-      "pubDate": "2026-08-25T01:38:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post822213/"
-        }
-      ]
-    },
-    {
-      "title": "FC町田ゼルビア 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるFC町田ゼルビアの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/25/post814167/",
-      "pubDate": "2026-08-25T01:36:13.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/25/post814167/"
         }
       ]
     }
