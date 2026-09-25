@@ -1,7 +1,81 @@
 {
-  "generatedAt": "2026-09-25T02:24:57.473Z",
-  "count": 1054,
+  "generatedAt": "2026-09-25T08:01:02.091Z",
+  "count": 1039,
   "items": [
+    {
+      "title": "【日本代表】ウルグアイ戦から一夜明け、広島で初練習 塩貝健人ら13人が公開練習(日刊スポーツ)",
+      "summary": "日本代表はウルグアイ戦から一夜明けた25日、広島市内で、調整した。 出場時間が短かったFW塩貝健人（21＝ウォルフスブルク）やMF相馬勇紀（29＝FC町田ゼルビア）、MF田中碧（28＝リーズ）と",
+      "link": "https://news.yahoo.co.jp/articles/d4372610167167271ba2bea40af3a3a344ba52e2?source=rss",
+      "pubDate": "2026-09-25T07:54:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d4372610167167271ba2bea40af3a3a344ba52e2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "[関東]より「勝ち」に徹するために…“J1級3バック”で再出発、東京V内定DF多久島も1年ぶり復帰した明治大が後期白星発進(ゲキサカ)",
+      "summary": "[9.23 関東大学L1部第12節 中央大0-1明治大 中央大学多摩キャンパスサッカー場] 明治大が約3か月半ぶりとなったリーグ再開初戦を白星で飾った。24シーズンの関東大学1部リーグで史上初の無",
+      "link": "https://news.yahoo.co.jp/articles/a4981854ef739441e88bd54f9b2891eb1936bce3?source=rss",
+      "pubDate": "2026-09-25T07:53:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a4981854ef739441e88bd54f9b2891eb1936bce3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "10人でも崩れない！勝負強さを支える新星たち（5）J1で「内容が良い」チーム(フットボールチャンネル)",
+      "summary": "今シーズンより、Jリーグは秋春制へ移行した。開幕7試合を終えたいま、順位表だけでは測れない\"内容\"を見せるクラブがある。堅守と多彩な攻撃を見せる強豪、最少失点を誇る堅守チーム、シュート数リーグ最多の",
+      "link": "https://news.yahoo.co.jp/articles/caef0de96f142478eeb9b5a24787499a7e2ad22c?source=rss",
+      "pubDate": "2026-09-25T07:50:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/caef0de96f142478eeb9b5a24787499a7e2ad22c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【第39節 前半】富裕層の遊び【ボケサカ】",
+      "summary": "リスナーから届いたテッド・ラッソ関連のメールを紹介するヤーレンズ。テッド・ラッソを見ている人に、とある傾向があることに気づいて……。『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレン…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?459539-459539-fl",
+      "pubDate": "2026-09-25T03:05:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?459539-459539-fl"
+        }
+      ]
+    },
     {
       "title": "福岡拠点応援ヒーロー21年から継続し地域貢献「ゴジラ」出演スーツアクターくも膜下出血で死去(日刊スポーツ)",
       "summary": "福岡県粕屋町を“基地”に活動していた応援ヒーロー「ガンバ李アルファ」の公式Xは25日、着ぐるみを着て活動していたスーツアクターのキャリアがある吉田和宏さんが、23日にくも膜下出血で亡くなったと公表し",
@@ -632,6 +706,25 @@
       ]
     },
     {
+      "title": "神戸vs鳥栖 スタメン発表",
+      "summary": "[9.23 天皇杯3回戦](ノエスタ)※17:00開始主審:上村篤史副審:浜本祐介、田中利幸[ヴィッセル神戸]先発GK 21 新井章太DF 16 カエターノDF 25 鍬先祐弥DF 31 岩波拓也MF 2 飯野七聖MF 20 渡辺皓太MF…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459550-459550-fl",
+      "pubDate": "2026-09-23T07:01:24.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459550-459550-fl"
+        }
+      ]
+    },
+    {
       "title": "札幌が引退発表の小林悠へメッセージ「2019年の借りを返させてください」…12戦連続15発の“札幌キラー”(サッカーキング)",
       "summary": "川崎フロンターレは23日、元日本代表FW小林悠が今シーズン限りで現役を引退することを発表した。 小林は1987年9月23日生まれの現在39歳。拓殖大学在学中に水戸ホーリーホックの特別指定選手に登",
       "link": "https://news.yahoo.co.jp/articles/07f4b8abe974221ec166b03638888ff3353d20b2?source=rss",
@@ -952,6 +1045,23 @@
       ]
     },
     {
+      "title": "藤枝vs大宮 スタメン発表",
+      "summary": "[9.19 J2第7節](藤枝サ)※18:30開始主審:先立圭吾[藤枝MYFC]先発GK 24 吉田舜DF 2 松田佳大DF 3 鈴木翔太DF 16 森侑里MF 6 岡本拓也MF 10 菊井悠介MF 17 川本梨誉MF 19 近藤優成MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459127-459127-fl",
+      "pubDate": "2026-09-22T17:30:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459127-459127-fl"
+        }
+      ]
+    },
+    {
       "title": "初招集の谷村海那、代表選出は「想像していなかった」 JFL→J1の苦労人…デビュー戦に向け「満足せずに」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/674813",
@@ -1024,25 +1134,6 @@
       ]
     },
     {
-      "title": "公式戦では9年ぶり激突!さいたまダービーのチケット概要発表",
-      "summary": "日本サッカー協会(JFA)は22日、天皇杯3回戦で行う浦和レッズ対RB大宮アルディージャのチケット販売概要が発表になった。公式戦で行うさいたまダービーは、17年8月5日のJ1第20節以来、9年ぶりになる。 試合は10月7日にNACK5スタジ…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459410-459410-fl",
-      "pubDate": "2026-09-22T08:20:26.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459410-459410-fl"
-        }
-      ]
-    },
-    {
       "title": "大分、筑波大MF徳永涼の2027年1月加入が内定「過ごす時間、空間を見て、このクラブで成長したいと…」(サッカーキング)",
       "summary": "大分トリニータは22日、筑波大学に所属するMF徳永涼の2026/27シーズン（2027年1月）からの加入が内定したことを発表した。 徳永は2004年6月26日生まれの現在22歳。柏レイソルの育成",
       "link": "https://news.yahoo.co.jp/articles/eedfbbfe10caffbf49ce08415903bf77af39fcc0?source=rss",
@@ -1077,44 +1168,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a3ce9b9ea63914b914491249bcbe367d36d9cc1d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "川崎Fが「所属選手に関する大切なお知らせ」を予告",
-      "summary": "川崎フロンターレは22日、「所属選手に関する大切なお知らせ」があるとして、23日の11時から記者会見を実施すると発表した。 会見の模様はクラブ公式YouTubeチャンネルでライブ配信。また、オフィシャルグッズショップ&カフェ「AZZURRO…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459397-459397-fl",
-      "pubDate": "2026-09-22T05:40:46.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459397-459397-fl"
-        }
-      ]
-    },
-    {
-      "title": "元日本代表DFが女優との結婚を発表「温かく見守っていただけたら嬉しいです」",
-      "summary": "元日本代表DF西大伍さん(39)と女優の加村真美さん(33)がSNSを通じ、結婚したことを報告した。 2人は22日にインスタグラムなどを更新。「いつも応援してくださっている皆さまへ」と書き出し、次のように綴った。「私事ではございますが、この…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?459394-459394-fl",
-      "pubDate": "2026-09-22T05:23:09.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?459394-459394-fl"
         }
       ]
     },
@@ -20253,360 +20306,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/bd904d3cf61e05137cd3c5d2ec3abbb03f34a058?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC町田ゼルビア、中山雄太のチーム離脱を発表「移籍を前提とした手続きと準備のため」今季は3試合で1G2A",
-      "summary": "FC町田ゼルビアは26日、日本代表DF中山雄太が移籍を前提とした手続きと準備のため、チームを離脱することを発表した。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post998574/",
-      "pubDate": "2026-08-26T07:54:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post998574/"
-        }
-      ]
-    },
-    {
-      "title": "【町田】中山雄太が移籍のためチーム離脱と発表 レッドスター決定的 26日試合後スタンド周回(日刊スポーツ)",
-      "summary": "FC町田ゼルビアは26日、DF中山雄太（29）が移籍を前提とした手続きと準備のため、チームを離脱すると発表した。 今後については「正式に決定次第、改めて皆さまにお伝えさせていただきます」とした。",
-      "link": "https://news.yahoo.co.jp/articles/ee22a5713a50a6934363e3345ce89d2c1f742f5a?source=rss",
-      "pubDate": "2026-08-26T07:36:34.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ee22a5713a50a6934363e3345ce89d2c1f742f5a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田・中山雄太が移籍を前提にチームから離脱 セルビア１部レッドスターへの移籍が決定的(スポーツ報知)",
-      "summary": "Ｊ１町田は２６日、元日本代表ＤＦ中山雄太（２９）が移籍を前提とした手続きと準備のため、チームから離脱することを発表した。中山はセルビア１部で９連覇中の名門・レッドスターへの移籍が決定的となっている。",
-      "link": "https://news.yahoo.co.jp/articles/c19843c57e7f41b9de1f4a4e28885b99d55e8285?source=rss",
-      "pubDate": "2026-08-26T07:31:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c19843c57e7f41b9de1f4a4e28885b99d55e8285?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田DF中山雄太が移籍に向けチームを離脱。クラブが発表(GOAL)",
-      "summary": "FC町田ゼルビアはDF中山雄太が移籍を前提とした手続きと準備のため、チームを離脱することを発表した。 柏レイソルでプロデビューした中山は、2019年にオランダへ渡欧。イングランドでもプレーした後、2",
-      "link": "https://news.yahoo.co.jp/articles/be9c6354718fc7bfd88357ccf717af72e5a92ef3?source=rss",
-      "pubDate": "2026-08-26T07:30:54.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/be9c6354718fc7bfd88357ccf717af72e5a92ef3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田、DF中山雄太が移籍を前提とした手続きと準備でチーム離脱…今季J1はここまで全3試合出場(サッカーキング)",
-      "summary": "FC町田ゼルビアは26日、DF中山雄太が移籍を前提とした手続きと準備のため、チームを離脱することを発表した。 今後については正式に決定次第改めて発表される見通し。セルビアメディア『Sportal",
-      "link": "https://news.yahoo.co.jp/articles/eb313c05fcb61f3a4089275898b4a7149b1c35ac?source=rss",
-      "pubDate": "2026-08-26T07:25:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/eb313c05fcb61f3a4089275898b4a7149b1c35ac?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「やばい」「ウソだと信じて毎日過ごしたのに」“天皇杯２回戦当日の一報”に落胆の声も…(SOCCER DIGEST Web)",
-      "summary": "2026年８月26日、天皇杯２回戦当日に「ついに来たか」と思わせるニュースが舞い込んできた。 FC町田ゼルビアは以下のリリースを発表。「この度、中山雄太選手が移籍を前提とした手続きと準備のため、",
-      "link": "https://news.yahoo.co.jp/articles/653100f4ccbe1e7b8514adf5891edbcd2cfb0ad8?source=rss",
-      "pubDate": "2026-08-26T07:23:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/653100f4ccbe1e7b8514adf5891edbcd2cfb0ad8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "30歳女性フリーアナ「喉に大きめの肉芽腫が」６月から喉に違和感→病院で発覚「色々ショック」(日刊スポーツ)",
-      "summary": "元MBS（毎日放送）アナウンサーで、現在はビジネス映像メディア「PIVOT」に参画している野嶋紗己子（さきこ、30）が26日、スレッズを更新。口内に肉芽腫（にくげしゅ）があると明かした。 「喉の",
-      "link": "https://news.yahoo.co.jp/articles/f735a08bafb68b848e4616c5d6e637df0c163356?source=rss",
-      "pubDate": "2026-08-26T06:46:14.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/f735a08bafb68b848e4616c5d6e637df0c163356?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】山梨学院大の怪物1年FWオノボに注目 2回戦で浦和と対戦(日刊スポーツ)",
-      "summary": "サッカーの第106回天皇杯全日本選手権は26日に2回戦の32試合が行われ、J1、J2勢が登場する。 初出場の山梨学院大は、J1で19位に沈む浦和レッズに挑む。 大学勢として、虎視眈々（たんた",
-      "link": "https://news.yahoo.co.jp/articles/bc794b9e754e134b7dccc674f68cab77ce4c9e8b?source=rss",
-      "pubDate": "2026-08-26T06:37:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bc794b9e754e134b7dccc674f68cab77ce4c9e8b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】九州リーグ・Ｖ都濃が神戸に挑戦 神戸育ちの曽我部慶太がコーチとしてノエスタへ(日刊スポーツ)",
-      "summary": "ヴィッセル神戸は26日、天皇杯2回戦で九州リーグのヴェロスクロノス都濃（つの）と対戦する。 宮崎県代表として出場している都濃は、19日の1回戦でJ3カマタマーレ讃岐を延長の末に3－1で撃破。J3",
-      "link": "https://news.yahoo.co.jp/articles/fc49ad2a442f1e78c157753dd2c197534dd20c54?source=rss",
-      "pubDate": "2026-08-26T06:10:56.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/fc49ad2a442f1e78c157753dd2c197534dd20c54?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "W杯出場→J1初先発で「普通にすごない？」 勝利に導く絶妙スルーパスが「良すぎる」「凄みが増していく」(FOOTBALL ZONE)",
-      "summary": "セレッソ大阪は今季に向けオーストラリア代表主将のMFジャクソン・アーバインを獲得した。代表86試合出場で北中米共催ワールドカップ（W杯）のピッチにも立ったベテランは、初の先発でいきなり質の高いプレー",
-      "link": "https://news.yahoo.co.jp/articles/54846f8113d5569c32558ed32dfc780b9229c9fb?source=rss",
-      "pubDate": "2026-08-26T05:40:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/54846f8113d5569c32558ed32dfc780b9229c9fb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "W杯出場→J1初先発で「普通にすごない？」 勝利に導く絶妙スルーパスが「良すぎる」「凄みが増していく」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/670359",
-      "pubDate": "2026-08-26T05:40:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/670359"
-        }
-      ]
-    },
-    {
-      "title": "「目を揃える」フィロソフィーの正統な後継者。川崎フロンターレU-18・小川尋斗は掴み取れるステージをすべて掴み取る 【NEXT TEENS FILE.】(J SPORTS)",
-      "summary": "この伝統あるクラブのトップチームでプレーするからには、生半可な覚悟で日々を過ごすわけにはいかないことも、もう間違いなく理解している。自分の持ち味が出せれば、通用する自信はある。それを存分に発揮するため",
-      "link": "https://news.yahoo.co.jp/articles/474e27341e72be735e95b7bc1e5a3902614e2737?source=rss",
-      "pubDate": "2026-08-26T05:37:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/474e27341e72be735e95b7bc1e5a3902614e2737?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】G大阪、ジャイキリに苦い思い出…上昇気流に乗るJ３滋賀・角田誠監督の挑戦受ける(日刊スポーツ)",
-      "summary": "ガンバ大阪は26日、天皇杯2回戦で、J3のレイラック滋賀と対戦する。 G大阪は24年に準優勝に輝いているが、前回はJ2モンテディオ山形と対戦し、4－4からのPK負け（3－4）で3回戦敗退し、23",
-      "link": "https://news.yahoo.co.jp/articles/e9256c240aa0f757f4998417f6c611bd30f3d857?source=rss",
-      "pubDate": "2026-08-26T05:36:13.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e9256c240aa0f757f4998417f6c611bd30f3d857?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏レイソル｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
-      "summary": "※情報は2026年8月25日時点。 柏レイソルの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成績、加入・退団情報は随時更新する。 J1 2026/27 […]",
-      "link": "https://www.footballchannel.jp/2026/08/26/post992970/",
-      "pubDate": "2026-08-26T04:00:53.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post992970/"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】カズvs三井寺“43歳差対決”など２回戦32試合 J１、２勢登場「ジャイキリ」は？(日刊スポーツ)",
-      "summary": "サッカーの第106回天皇杯全日本選手権は26日に2回戦の32試合が行われ、J1、J2勢が登場する。 J1横浜F・マリノスは日産スタジアムでJ3福島ユナイテッドFCを迎え撃つ。横浜の16歳MF三井",
-      "link": "https://news.yahoo.co.jp/articles/5e59d1880719abaa56dc051bd797b3fd188b8db5?source=rss",
-      "pubDate": "2026-08-26T03:58:57.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/5e59d1880719abaa56dc051bd797b3fd188b8db5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jクラブの“90年代彷彿”のユニ 現代的エッセンスも融合…研究家注目「ヨーロッパの潮流」(FOOTBALL ZONE)",
-      "summary": "2026-27シーズンから秋春制へと移行したJリーグ。8月7日に開幕しJ1は6月初旬、J2とJ3は5月末までのリーグ戦を予定している。そんななか、サッカーユニフォーム研究家である「ともさん」は松本山",
-      "link": "https://news.yahoo.co.jp/articles/53d769814550a8ffca38ed6096317c1772d9c186?source=rss",
-      "pubDate": "2026-08-26T03:23:07.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/53d769814550a8ffca38ed6096317c1772d9c186?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜F・マリノスの角田涼太朗が左SBで新境地。三井寺眞との新たな関係性「監督が『やれ』という限りは…」【コラム】(フットボールチャンネル)",
-      "summary": "横浜F・マリノスのDF角田涼太朗が、左サイドバックという新たなポジションに挑んでいる。センターバックを主戦場としてきた27歳は、スティーブ・コリカ監督のもとで左サイドバックに挑戦。16歳の三井寺眞と",
-      "link": "https://news.yahoo.co.jp/articles/9a3b969935d81e9da7ef42c4fba6d056ac997f6a?source=rss",
-      "pubDate": "2026-08-26T03:20:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9a3b969935d81e9da7ef42c4fba6d056ac997f6a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「スタメンで使ってくれ」浦和レッズ、肥田野蓮治がぶつけた思い。譲れないポジション争いへ「熱い思いを持った選手がピッチに立つべき」【コラム】",
-      "summary": "鮮烈なデビューを飾りながら、次第に遠ざかっていったスタメンの座。それでも肥田野蓮治は、訪れた短い出場時間にすべてをぶつけた。結果は残せなかったが、ピッチで示した積極性は確かな存在感を放った。悔しさを力に変え、再びスタメンの座をつかみ取るため…",
-      "link": "https://www.footballchannel.jp/2026/08/26/post997623/",
-      "pubDate": "2026-08-26T02:30:20.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post997623/"
         }
       ]
     }
