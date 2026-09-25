@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-24T23:39:37.699Z",
-  "count": 1060,
+  "generatedAt": "2026-09-25T02:24:57.473Z",
+  "count": 1054,
   "items": [
+    {
+      "title": "福岡拠点応援ヒーロー21年から継続し地域貢献「ゴジラ」出演スーツアクターくも膜下出血で死去(日刊スポーツ)",
+      "summary": "福岡県粕屋町を“基地”に活動していた応援ヒーロー「ガンバ李アルファ」の公式Xは25日、着ぐるみを着て活動していたスーツアクターのキャリアがある吉田和宏さんが、23日にくも膜下出血で亡くなったと公表し",
+      "link": "https://news.yahoo.co.jp/articles/e4a0649aaba8d47859909f75da0454f836c0f0aa?source=rss",
+      "pubDate": "2026-09-25T00:32:42.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/e4a0649aaba8d47859909f75da0454f836c0f0aa?source=rss"
+        }
+      ]
+    },
     {
       "title": "「内定取り消しはないでしょうか」 大怪我で電話も…小林悠と名スカウトが紡いだ絆「絶対にマッチする」(FOOTBALL ZONE)",
       "summary": "川崎フロンターレ一筋で17年間プレーし、現役最多、J1歴代7位の通算144ゴールを挙げてきた元日本代表FW小林悠が、2027年1月1日をもって現役を引退すると表明した。39歳の誕生日だった23日に行",
@@ -20588,153 +20607,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/26/post997623/"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
-      "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post991494/",
-      "pubDate": "2026-08-26T02:13:14.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post991494/"
-        }
-      ]
-    },
-    {
-      "title": "柏レイソルが主力級選手を獲得！ 東京ヴェルディはユース2名の昇格を発表【25日のJリーグ移籍情報まとめ】",
-      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年8月25日に発表された最新の新加入、退団情報などは以下の通り。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post998001/",
-      "pubDate": "2026-08-26T01:37:58.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol",
-        "verdy"
-      ],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post998001/"
-        }
-      ]
-    },
-    {
-      "title": "東京ヴェルディ 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおける東京ヴェルディの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post814095/",
-      "pubDate": "2026-08-26T01:31:45.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post814095/"
-        }
-      ]
-    },
-    {
-      "title": "柏レイソル 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおける柏レイソルの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post814032/",
-      "pubDate": "2026-08-26T01:29:06.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post814032/"
-        }
-      ]
-    },
-    {
-      "title": "FC町田ゼルビア 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるFC町田ゼルビアの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post814167/",
-      "pubDate": "2026-08-26T01:09:13.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post814167/"
-        }
-      ]
-    },
-    {
-      "title": "セレッソ大阪 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおけるセレッソ大阪の加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/08/26/post814773/",
-      "pubDate": "2026-08-26T01:07:32.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/26/post814773/"
-        }
-      ]
-    },
-    {
-      "title": "【見どころ解説】勢いに乗る広島打線がDeNAエース東攻略に挑む 前回DeNA打線に好投の鈴木が先発での連勝を目指す(J SPORTS)",
-      "summary": "1イニング打者13人の猛攻で逆転勝利した広島が、2.5ゲーム差とした3位DeNAとの一戦に臨む。",
-      "link": "https://news.yahoo.co.jp/articles/b2fb0bdeebc6ab6a758e55b77d00be88bdbd6d29?source=rss",
-      "pubDate": "2026-08-26T00:00:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b2fb0bdeebc6ab6a758e55b77d00be88bdbd6d29?source=rss"
         }
       ]
     }
