@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T01:35:48.354Z",
-  "count": 926,
+  "generatedAt": "2026-09-27T07:18:20.577Z",
+  "count": 924,
   "items": [
     {
       "title": "J2現役最年長46歳、甲府DF山本英臣がJリーグ通算600試合出場…節目の記録も「サッカー上手くないな」",
@@ -378,6 +378,25 @@
       ]
     },
     {
+      "title": "今治が2選手の負傷を発表",
+      "summary": "[故障者情報] FC今治はGK高木和徹が右アキレス腱断裂で手術を受けたこと、MF佐藤璃樹が右膝内側側副靱帯損傷と診断されたことを発表した。それぞれ全治期間は明らかにしていない。 高木和は今季ここまで公式戦の出場がない中、今月9日のトレーニン…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459686-459686-fl",
+      "pubDate": "2026-09-25T04:52:42.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459686-459686-fl"
+        }
+      ]
+    },
+    {
       "title": "【第39節 前半】富裕層の遊び【ボケサカ】",
       "summary": "リスナーから届いたテッド・ラッソ関連のメールを紹介するヤーレンズ。テッド・ラッソを見ている人に、とある傾向があることに気づいて……。『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレン…",
       "link": "https://web.gekisaka.jp/news/soccer/detail/?459539-459539-fl",
@@ -492,25 +511,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "京都GKファンティーニ燦が入籍「精一杯頑張って人生に彩りをつけていきたい」",
-      "summary": "京都サンガF.C.は24日、GKファンティーニ燦が26年6月16日に入籍したことを発表した。なお、お相手は一般の方のため、氏名、年齢等は公表されていない。 ファンティーニはクラブを通じ、「いつも多大なる応援、そしてサポートありがとうございま…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459645-459645-fl",
-      "pubDate": "2026-09-24T12:53:16.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459645-459645-fl"
         }
       ]
     },
@@ -18089,43 +18089,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/670664"
-        }
-      ]
-    },
-    {
-      "title": "サウジ→J1に電撃移籍「油田見つけたか」 31歳ブラジル人が新加入「やっとキターーー！」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/670599",
-      "pubDate": "2026-08-28T02:44:33.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/670599"
-        }
-      ]
-    },
-    {
-      "title": "J1超新星18歳が無念の離脱「つらすぎる」 本番4日前のアクシデント…ファン沈痛「軽症だといいけど」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/670583",
-      "pubDate": "2026-08-28T01:50:23.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/670583"
         }
       ]
     }
