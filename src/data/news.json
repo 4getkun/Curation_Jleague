@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-09-26T23:01:09.380Z",
-  "count": 928,
+  "generatedAt": "2026-09-27T01:35:48.354Z",
+  "count": 926,
   "items": [
+    {
+      "title": "J2現役最年長46歳、甲府DF山本英臣がJリーグ通算600試合出場…節目の記録も「サッカー上手くないな」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/675761",
+      "pubDate": "2026-09-27T00:06:10.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/675761"
+        }
+      ]
+    },
     {
       "title": "J1クラブユニでデザインされた”当然” 研究家絶賛…シンプルな1着は「1992年頃を思わせる」",
       "summary": "",
@@ -18109,63 +18126,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/670583"
-        }
-      ]
-    },
-    {
-      "title": "「我々は止めましたよ、当然」なぜ町田は中山雄太の欧州移籍を認めたのか？ 原FDが明かす“２年前の約束”「そもそも拒否するクラブであれば来ていない」(SOCCER DIGEST Web)",
-      "summary": "FC町田ゼルビアの原靖フットボールダイレクター（FD）が、移籍に向けてチームを離脱しているDF中山雄太について、その経緯を明かした。 ８月27日、オランダ１部NECから完全移籍で加入したFW小川",
-      "link": "https://news.yahoo.co.jp/articles/685e7699996a752d9df26e94b7ce5e730a707f29?source=rss",
-      "pubDate": "2026-08-28T01:07:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/685e7699996a752d9df26e94b7ce5e730a707f29?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブに刻まれた「歴史的瞬間」 17歳が衝撃デビュー…1G1A初陣にファン歓喜「伝説の始まり」(FOOTBALL ZONE)",
-      "summary": "J1柏レイソルは8月26日に天皇杯の2回戦で専修大学（神奈川県代表）と対戦し、2-1で勝利した。先発した17歳のMF長南開史が1ゴール1アシストで衝撃のデビューを飾った。 柏アカデミー出身の長南",
-      "link": "https://news.yahoo.co.jp/articles/e34b183b9b531c3c3f97970db6b1657f2752053f?source=rss",
-      "pubDate": "2026-08-28T01:01:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e34b183b9b531c3c3f97970db6b1657f2752053f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブに刻まれた「歴史的瞬間」 17歳が衝撃デビュー…1G1A初陣にファン歓喜「伝説の始まり」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/670575",
-      "pubDate": "2026-08-28T01:01:24.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/670575"
         }
       ]
     }
