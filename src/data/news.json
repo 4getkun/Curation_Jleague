@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-09-27T20:34:25.755Z",
-  "count": 924,
+  "generatedAt": "2026-09-27T23:28:36.749Z",
+  "count": 922,
   "items": [
+    {
+      "title": "ベネズエラ代表監督、現役時代に「Jリーグでプレーできないか夢見ていた」将来は日本で指揮も",
+      "summary": "ベネズエラ代表のオスワルド・ビスカロンド監督は27日、キリンチャレンジカップ2026の日本代表戦前の公式会見に出席し、日本での思い出や将来の夢について語った。",
+      "link": "https://www.footballchannel.jp/2026/09/28/post1020711/",
+      "pubDate": "2026-09-27T21:00:39.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/28/post1020711/"
+        }
+      ]
+    },
     {
       "title": "【ルヴァン杯】清水FW北川航也「間違いなく勝たなければいけない」29日にJ3金沢と初戦(日刊スポーツ)",
       "summary": "J1清水は29日にルヴァン杯の初戦（2回戦）を迎え、敵地でJ3金沢と戦う。19日のリーグ千葉戦で戦列復帰を果たしたFW北川航也（30）は「間違いなく勝たなければいけない。トーナメントなので、点を取ら",
@@ -18027,60 +18046,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/08/29/post818862/"
-        }
-      ]
-    },
-    {
-      "title": "「勝ち点9を明確に狙っていく」 J1アビスパ福岡、勝負の〝3連戦〟へ 18歳ドリブラーにも注目【京都戦見どころ】(西スポWEB OTTO!)",
-      "summary": "◆明治安田生命J1リーグ第4節 京都―福岡（29日・サンガスタジアム by KYOCERA） J1アビスパ福岡の塚原真也監督はアウェー京都戦から始まるリーグ戦「3連戦」で3連勝を目標に掲げた。",
-      "link": "https://news.yahoo.co.jp/articles/f4f89fee92cc5fa89ae8330585d8c0e835e58fff?source=rss",
-      "pubDate": "2026-08-28T23:04:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa",
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f4f89fee92cc5fa89ae8330585d8c0e835e58fff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "まったく歯が立たず…。J1でボロボロだった歴代チーム5選",
-      "summary": "2026/27シーズンの明治安田J1リーグが開幕し、各クラブが新たな戦いをスタートさせている。長いJリーグの歴史を振り返ると、すべてがうまくいかず、シーズン序盤から低迷し、早々にJ2降格が決まってしまったチームも存在した。今回は、歴代のJ1…",
-      "link": "https://www.footballchannel.jp/2026/08/29/post999918/",
-      "pubDate": "2026-08-28T22:00:08.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/29/post999918/"
-        }
-      ]
-    },
-    {
-      "title": "J3がJ1撃破「気持ち良すぎる」 勝負を決めた一撃…ニアぶち抜き弾が「とんでもなく鮮やか」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/670690",
-      "pubDate": "2026-08-28T21:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/670690"
         }
       ]
     }
