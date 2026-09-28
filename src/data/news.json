@@ -1,33 +1,31 @@
 {
-  "generatedAt": "2026-09-28T16:13:52.213Z",
-  "count": 894,
+  "generatedAt": "2026-09-28T22:11:07.384Z",
+  "count": 892,
   "items": [
     {
-      "title": "【日本代表】谷村海那が途中出場で代表初陣、アクシデントも「デビューできたのは自信になる」(日刊スポーツ)",
-      "summary": "＜国際親善試合：日本2－1ベネズエラ＞◇28日◇エディオンピースウイング広島 FW谷村海那（28＝横浜F・マリノス）が、ベネズエラ戦に途中出場して代表戦初出場した。 今回の活動で初招集の28歳",
-      "link": "https://news.yahoo.co.jp/articles/3fcf19ad8fc784c82d5be18f977bb4b6abe7d7c9?source=rss",
-      "pubDate": "2026-09-28T15:22:08.000Z",
+      "title": "【陸上】400mH・後藤大樹が47秒93で銀！ 得意レースで逆転されるも「大人の世界は広いと学べた」／名古屋アジア大会(月刊陸上競技)",
+      "summary": "◇第20回アジア大会・陸上競技（9月23～29日／愛知県名古屋市・パロマ瑞穂スタジアム）6日目 名古屋アジア大会の6日目の午後セッションに男子400mハードル決勝が行われ、後藤大樹（洛南高2京都）は",
+      "link": "https://news.yahoo.co.jp/articles/078f0683606dbfc54a2081c6c738f15e64de6647?source=rss",
+      "pubDate": "2026-09-28T22:01:45.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "marinos"
+        "grampus"
       ],
-      "topics": [
-        "national-team"
-      ],
+      "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3fcf19ad8fc784c82d5be18f977bb4b6abe7d7c9?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/078f0683606dbfc54a2081c6c738f15e64de6647?source=rss"
         }
       ]
     },
     {
-      "title": "【日本代表】中野就斗が代表デビュー、収穫と反省の初陣終え「もっともっと成長していければ」(日刊スポーツ)",
-      "summary": "＜国際親善試合：日本2－1ベネズエラ＞◇28日◇エディオンピースウイング広島 MF中野就斗（26＝サンフレッチェ広島）が、所属する広島の本拠地で代表デビューを果たした。 右ウィングバックで先発",
-      "link": "https://news.yahoo.co.jp/articles/9e326a76f9ab65c5d0ac3dee9cdfc6cdd194e9ff?source=rss",
-      "pubDate": "2026-09-28T14:55:10.000Z",
+      "title": "「自分のサッカー人生はエリート街道でもない」26歳で辿り着いた日本代表。中野就斗はデビュー戦で失点関与も「そういう課題から逃げずに…」(SOCCER DIGEST Web)",
+      "summary": "森保一監督が率いる日本代表は９月28日、国際親善試合でベネズエラ代表とエディオンピースウイング広島で対戦し、２－１で勝利した。 この一戦でサンフレッチェ広島に所属する中野就斗がA代表デビューを飾",
+      "link": "https://news.yahoo.co.jp/articles/121063a480df659de07ee60ade3be5b0e45ddcb7?source=rss",
+      "pubDate": "2026-09-28T22:00:00.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
@@ -40,6 +38,85 @@
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/121063a480df659de07ee60ade3be5b0e45ddcb7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サッカー日本代表、CB追加招集の最有力候補は誰に？ 負傷者続出で大ピンチ。Jリーグから選ぶなら？",
+      "summary": "サッカー日本代表は28日、キリンチャレンジカップ2026でベネズエラ代表と対戦。後半開始早々に1点を失いながらも、上田綺世の2ゴールで逆転に成功し、勝利を手にした。しかし、その代償とも言うべきか、DF陣にさらなる怪我人が出てしまった。9月・…",
+      "link": "https://www.footballchannel.jp/2026/09/29/post1021956/",
+      "pubDate": "2026-09-28T21:00:39.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/29/post1021956/"
+        }
+      ]
+    },
+    {
+      "title": "昨季王者を襲った「急失速」の罠 開幕4連勝から一転して泥沼化…中断前に激変したJ1勢力図",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/676032",
+      "pubDate": "2026-09-28T20:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/676032"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】谷村海那が途中出場で代表初陣、アクシデントも「デビューできたのは自信になる」(日刊スポーツ)",
+      "summary": "＜国際親善試合：日本2－1ベネズエラ＞◇28日◇エディオンピースウイング広島 FW谷村海那（28＝横浜F・マリノス）が、ベネズエラ戦に途中出場して代表戦初出場した。 今回の活動で初招集の28歳",
+      "link": "https://news.yahoo.co.jp/articles/3fcf19ad8fc784c82d5be18f977bb4b6abe7d7c9?source=rss",
+      "pubDate": "2026-09-28T15:22:08.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3fcf19ad8fc784c82d5be18f977bb4b6abe7d7c9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】中野就斗が代表デビュー、収穫と反省の初陣終え「もっともっと成長していければ」(日刊スポーツ)",
+      "summary": "＜国際親善試合：日本2－1ベネズエラ＞◇28日◇エディオンピースウイング広島 MF中野就斗（26＝サンフレッチェ広島）が、所属する広島の本拠地で代表デビューを果たした。 右ウィングバックで先発",
+      "link": "https://news.yahoo.co.jp/articles/9e326a76f9ab65c5d0ac3dee9cdfc6cdd194e9ff?source=rss",
+      "pubDate": "2026-09-28T14:55:10.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9e326a76f9ab65c5d0ac3dee9cdfc6cdd194e9ff?source=rss"
         }
       ]
@@ -17370,122 +17447,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/aa82ded9de28bdb94a1b0246ace2ccb6711e2eaa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "勝敗を分けた一つの得点。小松蓮のPK弾で神戸がC大阪を相手に逃げ切りに成功！｜Jリーグ(DAZN News)",
-      "summary": "【国内サッカー レビュー】明治安田J1リーグは8月29日に第4節が開催。 ノエビアスタジアム神戸で開催されたヴィッセル神戸とセレッソ大阪の一戦は、後半に生まれた一つの得点が勝敗を分けることになった。",
-      "link": "https://news.yahoo.co.jp/articles/118f500df3b43c256d4dbfad278480187285d5b3?source=rss",
-      "pubDate": "2026-08-29T21:31:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel",
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/118f500df3b43c256d4dbfad278480187285d5b3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【名古屋グランパス】「PK職人」健在！稲垣祥、「自分の形を意識して」冷静に決めて今季初得点 昨季成功率100％、今季も本領発揮(中日スポーツ)",
-      "summary": "◇29日 J1第4節 浦和3―2横浜M（埼玉スタジアム） 昨季のJ1で6本のPKを決めて成功率100％だった「PK職人」MF稲垣祥が今季も本領発揮だ。0―1で迎えた前半43分、相手DFのハンドでP",
-      "link": "https://news.yahoo.co.jp/articles/73e2c9b3e804f79920cd2095ec37aaf31c5160c9?source=rss",
-      "pubDate": "2026-08-29T21:30:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/73e2c9b3e804f79920cd2095ec37aaf31c5160c9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和 ３発逆転 今季リーグ初勝利で３２季ぶり開幕４連敗回避 指揮官「チームを強くしていきたい」(スポーツ報知)",
-      "summary": "◆明治安田Ｊ１リーグ▽第４節 浦和３―２横浜ＦＭ（２９日・埼玉スタジアム） １０試合が行われ、浦和は横浜Ｍに３―２と逆転勝ちして、今季就任した曺貴裁（チョウ・キジェ）監督（５７）の下でリーグ戦初勝",
-      "link": "https://news.yahoo.co.jp/articles/4ea09fa00855aea8f3301d8ef952fd372e44d96d?source=rss",
-      "pubDate": "2026-08-29T21:30:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4ea09fa00855aea8f3301d8ef952fd372e44d96d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｊ１清水】またまたまた０―１ シュートわずか２本での３試合連続完封負けに吉田孝行監督「パワーアップしないといけない終盤でダウンしている」(スポーツ報知)",
-      "summary": "◆明治安田Ｊ１リーグ第４節 柏１―０清水（２９日・ＩＡＩスタジアム日本平） 清水エスパルスは柏とのホーム戦に臨み、１５日の横浜Ｍ戦、２２日のＣ大阪戦に続き３試合連続での０―１完封負けを喫した。両チ",
-      "link": "https://news.yahoo.co.jp/articles/e7224a0b656c45b018d0ae027bd8dac1327a0cb7?source=rss",
-      "pubDate": "2026-08-29T21:30:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e7224a0b656c45b018d0ae027bd8dac1327a0cb7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１横浜Ｍ ３失点で浦和に今季初白星献上…ＤＦ諏訪間幸成「いつも通り…みたいな慢心があった」(東スポWEB)",
-      "summary": "明治安田J1リーグ第4節（29日、埼スタ）、横浜Mは開幕から3連敗していた浦和に2―3で敗北。今季先発出場を続けているDF諏訪間幸成（23）が、守備陣のもろさを厳しく振り返った。 試合は2度のリ",
-      "link": "https://news.yahoo.co.jp/articles/8b382192d03a214b10defa58e5f3e0b6433e6921?source=rss",
-      "pubDate": "2026-08-29T21:15:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8b382192d03a214b10defa58e5f3e0b6433e6921?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "互いにゴールに近づくも最後までネットを揺らすことができず。G大阪と広島の激突はスコアレスドローで勝ち点1を分け合う形に｜Jリーグ(DAZN News)",
-      "summary": "【国内サッカー レビュー】明治安田J1リーグは8月29日に第4節が開催。 パナソニックスタジアム吹田で開催されたガンバ大阪とサンフレッチェ広島の一戦は、互いに譲らずドロー決着となった。",
-      "link": "https://news.yahoo.co.jp/articles/9d20276418c60034a131553a615b5ffeb334b8c8?source=rss",
-      "pubDate": "2026-08-29T16:22:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba",
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9d20276418c60034a131553a615b5ffeb334b8c8?source=rss"
         }
       ]
     }
