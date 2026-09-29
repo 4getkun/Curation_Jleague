@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-29T20:04:01.421Z",
-  "count": 898,
+  "generatedAt": "2026-09-29T23:49:01.472Z",
+  "count": 896,
   "items": [
+    {
+      "title": "日本代表、望月ヘンリー海輝の追加招集を発表 DF渡辺剛は負傷離脱が決定",
+      "summary": "日本サッカー協会（JFA）は29日、10月1日と5日に行われるキリンカップサッカー2026に臨む日本代表のメンバー変更を発表した。DF渡辺剛（フェイエノールト）がけがのためチームを離脱。代わって望月ヘンリー海輝（FC町田ゼルビア）が追加招集…",
+      "link": "https://www.footballchannel.jp/2026/09/30/post1022880/",
+      "pubDate": "2026-09-29T21:25:55.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/09/30/post1022880/"
+        }
+      ]
+    },
     {
       "title": "「ぼ、ボールが止まった」広島vs栃木シティ戦で生まれた“ドンピシャクロス”は二度見不可避!シュート性クロスが「文字通りすぎるドンピシャクロス」に変化!? 「Jリーグ黎明期くらいボール止まるやん」(サッカー批評Web)",
       "summary": "9月29日、ルヴァンカップの2回戦が各地で行われ、J1サンフレッチェ広島が2-0でJ2栃木シティを下して3回戦進出を決めた。広島による2点目のゴールシーンが大きな話題を集めた。■【動画】「ぼ、ボールが",
@@ -732,6 +754,23 @@
       ]
     },
     {
+      "title": "今治vs湘南 試合記録",
+      "summary": "【J2第8節】(アシさと)今治 1-2(前半1-1)湘南[今]エジガル・ジュニオ(21分)[湘]山田寛人(43分)、ファビアン・ゴンザレス(90分+6)[今]近藤高虎(35分)、森晃太(74分)[湘]真田幸太(90分+9)観衆:4,360人…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459806-459806-fl",
+      "pubDate": "2026-09-28T09:20:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459806-459806-fl"
+        }
+      ]
+    },
+    {
       "title": "「感謝をプレーで表現したい」中野就斗、広島の本拠地で代表デビューへ「自分の良さをしっかりと」",
       "summary": "日本代表に初招集されたサンフレッチェ広島の中野就斗が、9月28日のベネズエラ戦で代表デビューを果たす可能性がある。舞台は所属クラブの本拠地、エディオンピースウイング広島。森保一監督が「大幅変更」で臨む方針を示す中、中野は「ここまで成長できた…",
       "link": "https://www.footballchannel.jp/2026/09/28/post1020999/",
@@ -825,23 +864,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0310d412622b7ae20cf26c5563afe4c9212e79de?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "磐田vs八戸 試合記録",
-      "summary": "【J2第8節】(ヤマハ)磐田 1-2(前半0-1)八戸[磐]ジョアン・ヴィクトル(62分)[八]音泉翔眞(9分)、高吉正真(69分)[磐]ユーリ・ララ(50分)、藤原健介(89分)観衆:11,086人主審:小林拓矢[ジュビロ磐田]先発GK…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459792-459792-fl",
-      "pubDate": "2026-09-27T14:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459792-459792-fl"
         }
       ]
     },
@@ -17527,59 +17549,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d67cd0e17baaba1e410420fac1c8bdedf58d14dc?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「数字が求められる世界」だからこそ、近藤友喜は2季目に懸ける。横浜F・マリノスに来て「一番積み上げられている実感はある」【コラム】",
-      "summary": "横浜F・マリノスの近藤友喜がいま、躍動している。新シーズンから4戦連続でスタメン出場し、持ち味のスピードとドリブルで右サイドを活性化。明治安田J1百年構想リーグではウイングへの順応に試行錯誤したが、そこで何を積み上げ、今季のプレーにどうつな…",
-      "link": "https://www.footballchannel.jp/2026/08/31/post1000896/",
-      "pubDate": "2026-08-30T23:00:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/08/31/post1000896/"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブユニ「地球儀だ」 1992年からデザイナー手掛け…研究家絶賛「突出したデザイン」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/671009",
-      "pubDate": "2026-08-30T20:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/671009"
-        }
-      ]
-    },
-    {
-      "title": "熱血指揮官が確信「日本サッカー界に風穴を」 堅守速攻→超攻撃的スタイル…地元帰還は「やり残したことが」(FOOTBALL ZONE)",
-      "summary": "2020年のJ1再昇格の後、3度のJ2降格と2度のJ1昇格を繰り返してきた横浜FC。26-27シーズンからは再びJ2に挑んでいるが、エレベーター状態に歯止めをかけるべく、2026年頭からチームを指揮",
-      "link": "https://news.yahoo.co.jp/articles/4e233a21d2710f51f2196d493fb7e50f118f0876?source=rss",
-      "pubDate": "2026-08-30T20:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4e233a21d2710f51f2196d493fb7e50f118f0876?source=rss"
         }
       ]
     }
