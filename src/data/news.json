@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-10-01T13:36:41.582Z",
+  "generatedAt": "2026-10-01T19:07:33.961Z",
   "count": 885,
   "items": [
+    {
+      "title": "元Jリーガーが見たサッカー日本代表対エクアドル「谷村海那のような……」「あくまで半年後に…」",
+      "summary": "サッカー日本代表は1日、キリンカップサッカー2026でエクアドル代表と対戦し、90分間を0-0で終え、PK戦の末に勝利した。この一戦について、現役時代に横浜F・マリノスや川崎フロンターレでプレーし、現在は解説者として活躍する元プロサッカー選…",
+      "link": "https://www.footballchannel.jp/2026/10/01/post1024617/",
+      "pubDate": "2026-10-01T14:47:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos",
+        "frontale"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/01/post1024617/"
+        }
+      ]
+    },
     {
       "title": "サッカー日本代表、PK戦の末にエクアドルを撃破！ 鈴木彩艶がPKを止めて勝利に導く",
       "summary": "サッカー日本代表は10月1日、キリンカップサッカー2026でエクアドル代表と対戦した。 森保一監督は前日会見で大幅のメンバー変更を明言した通り、28日のベネズエラ代表戦から10人を変更。横浜F・マリノスに所属する谷村海那が先発デビューとなっ…",
@@ -17310,27 +17332,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/528c27f366ca65543cd080481d149a399be0b6d0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田ゼルビアがオランダ人DFを獲得 小川航基の元チームメイトがNECナイメヘンから加入(theWORLD（ザ・ワールドWeb）)",
-      "summary": "FC町田ゼルビアは1日、オランダ1部のNECナイメヘンからDFトーマス・アウエヤンを完全移籍で獲得することが決定したと発表した。 現在29歳のアウエヤンはAZアルクマールの下部組織出身で、2015年",
-      "link": "https://news.yahoo.co.jp/articles/6a3a12b6b0a31cb00e1d29170088ef5946931cbb?source=rss",
-      "pubDate": "2026-09-01T13:41:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6a3a12b6b0a31cb00e1d29170088ef5946931cbb?source=rss"
         }
       ]
     }
