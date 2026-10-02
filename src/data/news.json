@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-01T23:16:37.439Z",
-  "count": 883,
+  "generatedAt": "2026-10-02T02:21:23.999Z",
+  "count": 880,
   "items": [
+    {
+      "title": "谷村海那を45分だけで評価するのは酷？エクアドル戦に見えた新戦力発掘の狙い",
+      "summary": "28日に行われたベネズエラ戦で念願の代表デビューを飾った谷村は、自身が所属する横浜F・マリノスのホーム、横浜国際総合競技場で初の代表スタメン出場を果たした。",
+      "link": "https://www.footballchannel.jp/2026/10/02/post1025019/",
+      "pubDate": "2026-10-02T01:20:54.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/02/post1025019/"
+        }
+      ]
+    },
     {
       "title": "「できないことだらけで悔しい試合」A代表初先発の谷村海那、横浜F・マリノスのホームで痛感した世界との差「下を向いてる暇はない」",
       "summary": "日本代表は10月1日、キリンカップサッカー2026でエクアドル代表と対戦し、スコアレスドローの末、PK戦で勝利した。この試合でA代表初先発を飾った横浜F・マリノスの谷村海那は、クラブの本拠地で前半45分間プレー。2度ゴールに迫る場面を作った…",
@@ -17228,80 +17247,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/02/post1002513/"
-        }
-      ]
-    },
-    {
-      "title": "3試合連続で決勝Gも「ちょっと抑えなきゃ」 J1首位をけん引するベテラン…“量産”に隠された理由",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/671371",
-      "pubDate": "2026-09-02T02:17:42.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/671371"
-        }
-      ]
-    },
-    {
-      "title": "暑さ最強はどこだ！？ Jリーグ本拠地、平均最高気温ランキング2位。アクセスが生命線！真夏の暑さは9月も続く？(フットボールチャンネル)",
-      "summary": "明治安田Jリーグ、秋春制移行初年度の2026/27シーズンが8月7日に開幕した。まだまだ厳しい残暑の中、今回は全60クラブの本拠地について気象庁の平年値をもとに「8月の平均最高気温」を独自ランキング",
-      "link": "https://news.yahoo.co.jp/articles/9346cd39f1537688f2974d5a3b27203a63f6d492?source=rss",
-      "pubDate": "2026-09-02T00:36:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9346cd39f1537688f2974d5a3b27203a63f6d492?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「まじ？」「期待しかない」火曜の夜、欧州から飛び込んできた一報にSNSざわつく「次のＷ杯狙ってくれ！」「やはりいきなりスパーズ移籍は難しかったか」(SOCCER DIGEST Web)",
-      "summary": "日本人７選手を擁するベルギー１部のシント＝トロイデン（STVV）は９月１日、プレミアリーグのトッテナムより21歳の高井幸大が期限付き移籍で獲得したと発表した。 2025年７月に川崎フロンターレか",
-      "link": "https://news.yahoo.co.jp/articles/f7e2e06a584a38af7cee29de7b686a5d0789c7dd?source=rss",
-      "pubDate": "2026-09-02T00:24:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f7e2e06a584a38af7cee29de7b686a5d0789c7dd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「どうゆっくりボールを握るか」長沼洋一が示した浦和レッズの“縦へ”の先。初勝利で見えた新たな選択肢【コラム】(フットボールチャンネル)",
-      "summary": "浦和レッズが開幕3連敗の苦境を抜け出した。横浜F・マリノスとの打ち合いを制し、4試合目で手にした今季初勝利。結果だけを見れば待望の1勝だが、ピッチ上にはここからの浦和を考えるうえで見逃せない変化もあ",
-      "link": "https://news.yahoo.co.jp/articles/0b9e8552e863097eb4c610780ed454259911c583?source=rss",
-      "pubDate": "2026-09-02T00:00:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0b9e8552e863097eb4c610780ed454259911c583?source=rss"
         }
       ]
     }
