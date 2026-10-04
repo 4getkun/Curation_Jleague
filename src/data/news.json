@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04T00:13:29.995Z",
-  "count": 816,
+  "generatedAt": "2026-10-04T06:05:40.500Z",
+  "count": 811,
   "items": [
     {
       "title": "「泣くに決まってるだろ」引退表明のJ1川崎FW小林悠、189日ぶり実戦復帰で鮮烈ジャンピングボレー弾!「涙止まらない」「山市が憲剛にしか見えなかった」「最高すぎる」(サッカー批評Web)",
@@ -478,6 +478,25 @@
       ]
     },
     {
+      "title": "富山vs浦和 試合記録",
+      "summary": "【ルヴァン杯2回戦】(富山)富山 2-3(前半0-1)浦和[富]溝口駿(62分)、松田力(69分)[浦]金子拓郎(39分)、小森飛絢(71分)、肥田野蓮治(83分)[富]中島裕希(35分)、竹内豊(54分)観衆:8,209人主審:上村篤史└…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?459996-459996-fl",
+      "pubDate": "2026-10-02T09:00:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?459996-459996-fl"
+        }
+      ]
+    },
+    {
       "title": "巨人、DeNA、広島のドラフト1位指名はこの選手！ 元楽天監督、捕手の大砲は「潰しが利く」(スポニチアネックス)",
       "summary": "元楽天監督の大久保博元氏（59）が、フリーアナウンサー・田中大貴（46）が司会を務めるYouTube「田中大貴のアスリートチャンネル」に出演。10月22日に迫ったドラフト会議での巨人、DeNA、広島の",
       "link": "https://news.yahoo.co.jp/articles/5a3425930d2065bc42f78fe163f3f72b8a0a558e?source=rss",
@@ -659,6 +678,25 @@
       ]
     },
     {
+      "title": "山形が山形明正高MF山本将吾の加入内定を発表",
+      "summary": "8日、モンテディオ山形は山形明正高所属のMF山本将吾(3年)が2027年1月より加入することが内定したと発表した。 山本は山形明正の主将。今夏のインターハイで3得点をマークし、チームを初の全国ベスト16へ導いて大会優秀選手にも選出されている…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460116-460116-fl",
+      "pubDate": "2026-10-01T11:15:03.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460116-460116-fl"
+        }
+      ]
+    },
+    {
       "title": "【前半速報】サッカー日本代表、エクアドル代表との一戦は拮抗した展開に。スコアレスで後半へ",
       "summary": "サッカー日本代表は10月1日、キリンカップサッカー2026でエクアドル代表と対戦している。 森保一監督は前日会見で大幅のメンバー変更を明言した通り、28日のベネズエラ代表戦から10人を変更。横浜F・マリノスに所属する谷村海那が先発デビューと…",
       "link": "https://www.footballchannel.jp/2026/10/01/post1024365/",
@@ -731,23 +769,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/09e8d01b3c817d082c6a8e26ae5e49864edfe69c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "松本vs新潟 試合記録",
-      "summary": "【ルヴァン杯2回戦】(サンアル)松本 1-0(前半1-0)新潟[松]高野遼(21分)[松]川上航立(71分)[新]笠井佳祐(61分)観衆:3,089人主審:俵元希[松本山雅FC]先発GK 23 高麗稜太DF 6 野田裕喜DF 16 宮部大己…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460000-460000-fl",
-      "pubDate": "2026-10-01T05:52:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460000-460000-fl"
         }
       ]
     },
@@ -851,26 +872,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/01/post1023981/"
-        }
-      ]
-    },
-    {
-      "title": "鳥取19歳DF松本果成が腰椎椎弓骨折",
-      "summary": "[故障者情報] ガイナーレ鳥取は1日、DF松本果成が検査の結果、腰椎椎弓骨折と診断されたことを発表した。 19歳の松本は今季、湘南ベルマーレから育成型期限付き移籍で加入。ここまでJ3リーグでは3試合に出場していた。●2026-27シーズンJ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460089-460089-fl",
-      "pubDate": "2026-10-01T04:14:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "trade",
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460089-460089-fl"
         }
       ]
     },
@@ -15934,111 +15935,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/04/post1003398/"
-        }
-      ]
-    },
-    {
-      "title": "G大阪DF佐々木翔悟「自分らしさを見せたい。楽しみですね」古巣・千葉戦へ静かなる闘志(スポニチアネックス)",
-      "summary": "G大阪は4日、吹田市内の練習場で非公開練習を行った。6日に敵地・千葉戦。22年から3シーズン在籍し、初の古巣戦となるDF佐々木翔悟は「他のチームよりは（思い入れが）ある。自分らしさを見せたいです」と",
-      "link": "https://news.yahoo.co.jp/articles/cf7f33e1b554b02abe823ba47e0bc932ae8b932e?source=rss",
-      "pubDate": "2026-09-04T05:05:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cf7f33e1b554b02abe823ba47e0bc932ae8b932e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】５戦５発の谷村海那「コンスタントに取れているのが自信」遅咲きの大器がブレーク中(日刊スポーツ)",
-      "summary": "遅咲きの大器、横浜F・マリノスFW谷村海那（28）がJ1でその存在感を強めている。開幕から5試合で5ゴールを挙げ、得点ランキングで鹿島FWレオセアラの8得点に次ぐ2位に付けている。 4日、横須賀",
-      "link": "https://news.yahoo.co.jp/articles/52ac41cb634641f9bc74219d74a9ca8973a540ff?source=rss",
-      "pubDate": "2026-09-04T04:57:35.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/52ac41cb634641f9bc74219d74a9ca8973a540ff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪新加入のMF角昂志郎「週末の試合に出る準備している」6日・千葉戦でいきなりデビューも(スポニチアネックス)",
-      "summary": "G大阪は4日、吹田市内の練習場で非公開練習を行った。J2磐田から加入したMF角昂志郎（24）が早速、練習に合流。6日の千葉戦（フクアリ）で新天地デビューする可能性も出てきた。 「磐田への思い入れ",
-      "link": "https://news.yahoo.co.jp/articles/b3c92b3a196535f8d4848f3a9a73ba2ff599dba0?source=rss",
-      "pubDate": "2026-09-04T04:38:32.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b3c92b3a196535f8d4848f3a9a73ba2ff599dba0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「最悪です。同じことを何回も…」開幕5連敗、泥沼のジェフ千葉。田口泰士がサポーターに求めたもの「厳しい声かけを」【コラム】",
-      "summary": "5連敗。今季J1に復帰したジェフユナイテッド千葉はまだ暗いトンネルの中を歩き続けている。最後の最後で敗れたファジアーノ岡山戦、緊急出場した田口泰士はアシストという目に見える結果を残したが、チームを連敗脱出に導くには至らなかった。その試合後、…",
-      "link": "https://www.footballchannel.jp/2026/09/04/post1003794/",
-      "pubDate": "2026-09-04T02:50:36.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/04/post1003794/"
-        }
-      ]
-    },
-    {
-      "title": "｢言葉にするのは得意ではない｣ガンバ大阪、ジュビロ磐田から24歳MF角昂志郎の完全移籍加入を発表。特別大会の主将が新天地へ",
-      "summary": "J1リーグのガンバ大阪は4日、J2のジュビロ磐田から24歳MF角昂志郎が完全移籍で加入することを発表した。両クラブの公式サイトで伝えられている。筑波大学を卒業後、2024年から磐田に所属していた角が、新天地でのプレーを選択した。",
-      "link": "https://www.footballchannel.jp/2026/09/04/post1003827/",
-      "pubDate": "2026-09-04T00:19:05.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/04/post1003827/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/319c126c63701c1058577100fc684516af9a436c?source=rss"
         }
       ]
     }
