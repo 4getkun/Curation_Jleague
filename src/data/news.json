@@ -1,7 +1,83 @@
 {
-  "generatedAt": "2026-10-04T06:05:40.500Z",
+  "generatedAt": "2026-10-04T12:36:47.011Z",
   "count": 811,
   "items": [
+    {
+      "title": "【阪神】連覇翌日は延長戦突入 広島では深夜まで祝勝会→テレビ出演 ３時間超えの当日移動試合(日刊スポーツ)",
+      "summary": "＜DeNA－阪神＞◇4日◇横浜 1－1のまま延長戦に突入した。 阪神は前日3日にリーグ連覇。広島でビールかけを行ったあと、多くの選手は深夜2時ごろまでテレビ出演などをこなした。短い夜を過ごし、この日3",
+      "link": "https://news.yahoo.co.jp/articles/eb2e1d391f457d721edb4ca06cb83f6269d50c3f?source=rss",
+      "pubDate": "2026-10-04T12:16:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/eb2e1d391f457d721edb4ca06cb83f6269d50c3f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【住之江ボート 2026東京・大阪・福岡三都市対抗戦】下河雅史が高配当演出 再び大穴も(スポニチアネックス)",
+      "summary": "ボートレース住之江の「2026東京・大阪・福岡三都市対抗戦」は4日目を終えた。 4日目10Rで超大穴が飛び出した。高配当の使者となったのは下河雅史（40＝福岡）。4カド荒井の捲りをイン田中が猛抵抗、ガ",
+      "link": "https://news.yahoo.co.jp/articles/664d963c121e5434d296e88463190e14f6a7f51e?source=rss",
+      "pubDate": "2026-10-04T11:59:10.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/664d963c121e5434d296e88463190e14f6a7f51e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J助っ人のFK弾が「メッシでも中々決まらんぞ」 脅威の3戦4発に「絶対J1に引き抜かれる」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/677553",
+      "pubDate": "2026-10-04T10:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/677553"
+        }
+      ]
+    },
+    {
+      "title": "サッカー日本代表・森保一監督、望月ヘンリー海輝の一時離脱＆ルヴァンカップ出場に「日程的には疑問があるかもしれないが」",
+      "summary": "サッカー日本代表は5日、4か国がトーナメント方式で争うキリンカップの決勝でニュージーランド代表と対戦する。試合会場はMUFGスタジアム。前日会見に登壇した森保一監督が、追加招集した望月ヘンリー海輝（FC町田ゼルビア）が一時的に所属クラブへ戻…",
+      "link": "https://www.footballchannel.jp/2026/10/04/post1026513/",
+      "pubDate": "2026-10-04T08:58:09.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/04/post1026513/"
+        }
+      ]
+    },
     {
       "title": "「泣くに決まってるだろ」引退表明のJ1川崎FW小林悠、189日ぶり実戦復帰で鮮烈ジャンピングボレー弾!「涙止まらない」「山市が憲剛にしか見えなかった」「最高すぎる」(サッカー批評Web)",
       "summary": "10月3日、U-21Jリーグ・東西リーグラウンドEAST第4節でU-21川崎フロンターレが4-1でU-21東京ヴェルディに勝利。元日本代表FW小林悠の鮮やかなジャンピングボレー弾にファンが歓喜し、涙腺",
@@ -120,6 +196,25 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/677324"
+        }
+      ]
+    },
+    {
+      "title": "町田vs京都 スタメン発表",
+      "summary": "[10.3 ルヴァン杯4回戦](Gスタ)※16:00開始主審:中村太[FC町田ゼルビア]先発GK 1 谷晃生DF 2 トーマス・ウーワイアンDF 3 昌子源DF 50 岡村大八MF 8 仙頭啓矢MF 16 前寛之MF 18 下田北斗MF 2…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460201-460201-fl",
+      "pubDate": "2026-10-03T05:29:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460201-460201-fl"
         }
       ]
     },
@@ -435,6 +530,23 @@
       ]
     },
     {
+      "title": "北九州vs鹿児島 スタメン発表",
+      "summary": "[9.26 J3第8節](ミクスタ)※17:00開始主審:宗像瞭[ギラヴァンツ北九州]先発GK 31 大谷幸輝DF 3 神橋良汰DF 20 安光将作DF 28 横窪皇太DF 30 福森健太MF 8 吉長真優MF 18 平松昇MF 51 坂下…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?459780-459780-fl",
+      "pubDate": "2026-10-02T10:00:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?459780-459780-fl"
+        }
+      ]
+    },
+    {
       "title": "柏レイソルMF熊坂光希が左膝内側側副靱帯損傷…サッカー日本代表のベネズエラ戦で負傷交代",
       "summary": "サッカー日本代表、熊坂光希【写真：田中伸弥】 柏レイソルは2日、日本代表（SAMURAI BLUE）に参加していたMF熊坂光希が、左膝内側側副靱帯損傷と診断されたことを発表した。 熊坂は9月28日に行われたキリンチャ […]",
       "link": "https://www.footballchannel.jp/2026/10/02/post1025244/",
@@ -474,25 +586,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/677122"
-        }
-      ]
-    },
-    {
-      "title": "富山vs浦和 試合記録",
-      "summary": "【ルヴァン杯2回戦】(富山)富山 2-3(前半0-1)浦和[富]溝口駿(62分)、松田力(69分)[浦]金子拓郎(39分)、小森飛絢(71分)、肥田野蓮治(83分)[富]中島裕希(35分)、竹内豊(54分)観衆:8,209人主審:上村篤史└…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?459996-459996-fl",
-      "pubDate": "2026-10-02T09:00:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?459996-459996-fl"
         }
       ]
     },
@@ -674,25 +767,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/01/post1024395/"
-        }
-      ]
-    },
-    {
-      "title": "山形が山形明正高MF山本将吾の加入内定を発表",
-      "summary": "8日、モンテディオ山形は山形明正高所属のMF山本将吾(3年)が2027年1月より加入することが内定したと発表した。 山本は山形明正の主将。今夏のインターハイで3得点をマークし、チームを初の全国ベスト16へ導いて大会優秀選手にも選出されている…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460116-460116-fl",
-      "pubDate": "2026-10-01T11:15:03.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460116-460116-fl"
         }
       ]
     },
@@ -15853,88 +15927,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/f5201a63d817a921040e4fa1c84e870ad48bf84e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【横浜】GKルベン・ブランコが左膝内側側副靱帯損傷で全治４週間(日刊スポーツ)",
-      "summary": "横浜F・マリノスは4日、スペイン出身のGKルベン・ブランコ（31）が神奈川県内の病院で検査を受け、左膝内側側副靱帯損傷で全治4週間と診断されたことを発表した。 8月31日の練習中に負傷した。",
-      "link": "https://news.yahoo.co.jp/articles/36ae2267e9e75e6e29ce3aa0c2c120ca3ba5e618?source=rss",
-      "pubDate": "2026-09-04T08:47:31.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/36ae2267e9e75e6e29ce3aa0c2c120ca3ba5e618?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "｢出会いに恵まれたサッカー人生｣33歳のMF高木善朗、現役引退を発表。東京ヴェルディやアルビレックス新潟などでプレー",
-      "summary": "アルビレックス新潟は4日、2018年から2025年までクラブに所属していた33歳のMF高木善朗が現役を引退することを発表した。クラブの公式サイトで伝えられている。オランダのユトレヒトでもプレーしたMFがスパイクを脱ぐことになった。",
-      "link": "https://www.footballchannel.jp/2026/09/04/post1004253/",
-      "pubDate": "2026-09-04T08:01:20.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/04/post1004253/"
-        }
-      ]
-    },
-    {
-      "title": "4試合連続の先発出場へ！ バレンシアFW佐藤龍之介、スペイン紙がバルセロナ戦のスタメンを予想！ 待望の初ゴールなるか",
-      "summary": "バレンシアCFは6日、ラ・リーガ（スペイン1部）第4節でバルセロナと対戦する。今夏の移籍市場でFC東京から加入となった19歳のFW佐藤龍之介の公式戦初ゴールに期待がかかる。この試合を前に、スペインメディア『マルカ』が佐藤のスタメンを予想して…",
-      "link": "https://www.footballchannel.jp/2026/09/04/post1004226/",
-      "pubDate": "2026-09-04T07:47:04.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/04/post1004226/"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
-      "summary": "※情報は2026年9月3日時点。J1第5節終了時点の順位・結果。第21〜38節（2027年開催分）のキックオフ時刻など詳細は未発表。 Jリーグ2026/27シーズンの最新順位、試合日程・結果、得点・アシストランキング、移 […]",
-      "link": "https://www.footballchannel.jp/2026/09/04/post1003398/",
-      "pubDate": "2026-09-04T07:26:27.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/04/post1003398/"
         }
       ]
     }
