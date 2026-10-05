@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-10-05T09:17:54.728Z",
-  "count": 811,
+  "generatedAt": "2026-10-05T18:37:39.500Z",
+  "count": 809,
   "items": [
+    {
+      "title": "【日本代表】「さすが日本の10番」「素晴らしすぎ」「元ガンバ」堂安律11カ月ぶり代表弾でＶ(日刊スポーツ)",
+      "summary": "＜キリン杯：日本2－1ニュージーランド＞◇5日◇決勝◇MUFG国立競技場 日本代表（FIFAランキング17位）のMF堂安律（28＝Eフランクフルト）が、11カ月ぶりの代表ゴールを決め、ニュージーランド",
+      "link": "https://news.yahoo.co.jp/articles/de6f3eb37f8d2a69da58833b53ecc398f8337d66?source=rss",
+      "pubDate": "2026-10-05T13:39:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/de6f3eb37f8d2a69da58833b53ecc398f8337d66?source=rss"
+        }
+      ]
+    },
     {
       "title": "【J3試合結果まとめ｜第9節】開幕から9戦無敗の鹿児島が首位をキープ。FC大阪は今季初黒星で5位に転落｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー・ニュース】明治安田J3リーグ第9節は10月2日から4日にかけて開催。開幕から9試合無敗の鹿児島ユナイテッドFCが首位を堅持した中、FC大阪が今季初黒星で順位を落としている。●「イニエス",
@@ -937,19 +958,24 @@
       ]
     },
     {
-      "title": "北九州vs鹿児島 試合記録",
-      "summary": "【J3第8節】(ミクスタ)北九州 1-1(前半0-0)鹿児島[北]安光将作(63分)[鹿]フアンマ・デルガド(87分)[鹿]村松航太(31分)観衆:5,433人主審:宗像瞭[ギラヴァンツ北九州]先発GK 31 大谷幸輝DF 3 神橋良汰DF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?459803-459803-fl",
-      "pubDate": "2026-10-02T10:00:02.000Z",
+      "title": "再び襲った悪夢…日本代表で負傷の柏MF熊坂光希の診断結果公表",
+      "summary": "[故障者情報] 柏レイソルは2日、MF熊坂光希が検査の結果、左膝内側側副靭帯損傷と診断されたことを発表した。9月28日の日本代表で戦ったキリンチャレンジカップのベネズエラ代表戦で負傷した。 熊坂は昨年6月の日本代表招集時に練習中に負傷。右膝…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460175-460175-fl",
+      "pubDate": "2026-10-02T11:19:45.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?459803-459803-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460175-460175-fl"
         }
       ]
     },
@@ -15881,65 +15907,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/763b02eb6d6c1b7fe1e1ef20c07aa904a834b233?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡ボート】福来剛 Ｆ２で予選突破「事故できない状態を思えば、納得の仕上がり」(東スポWEB)",
-      "summary": "ボートレース福岡の「三都市対抗戦 福岡観光コンベンションビューロー杯」は5日、予選最終日となる4日目が行われた。 福来剛（45＝東京）は予選ラストの7R、インからコンマ12と互角のスタートを決め",
-      "link": "https://news.yahoo.co.jp/articles/e35a23dd48c2cfc09a11899194e72d8aa5b87117?source=rss",
-      "pubDate": "2026-09-05T15:35:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e35a23dd48c2cfc09a11899194e72d8aa5b87117?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「今日は少し物足りない内容だった」前節に鹿島を下した水戸、今節は福岡とドロー。指揮官は反省と手応えを口に「次に繋がるゲームだった」(SOCCER DIGEST Web)",
-      "summary": "水戸ホーリーホックは９月５日、J１第６節でアビスパ福岡と敵地で対戦した。 前半をスコアレスで終えた水戸は53分に先制を許す。それでも86分、セットプレーの流れから木本恭生がヘディングシュートを決",
-      "link": "https://news.yahoo.co.jp/articles/afb14836353377b451ab84743a4cb418482da331?source=rss",
-      "pubDate": "2026-09-05T13:28:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers",
-        "hollyhock",
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/afb14836353377b451ab84743a4cb418482da331?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
-      "summary": "※情報は2026年9月5日時点。J1第6節途中（暫定）の順位・結果。第21〜38節（2027年開催分）のキックオフ時刻など詳細は未発表。 Jリーグ2026/27シーズンの最新順位、試合日程・結果、得点・アシストランキング […]",
-      "link": "https://www.footballchannel.jp/2026/09/05/post1003398/",
-      "pubDate": "2026-09-05T12:15:27.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/05/post1003398/"
         }
       ]
     }
