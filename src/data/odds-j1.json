@@ -11,17 +11,17 @@
       "played": 8,
       "gd": 7,
       "probs": {
-        "champion": 0.2333,
+        "champion": 0.2326,
         "acle_direct": 0.565,
-        "relegation": 0.0004
+        "relegation": 0.0003
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 3.8,
-      "rank_change_7d": -0.42
+      "expected_rank": 3.82,
+      "rank_change_7d": -0.4
     },
     "kashiwa": {
       "rank": 2,
@@ -29,17 +29,17 @@
       "played": 8,
       "gd": 5,
       "probs": {
-        "champion": 0.0967,
-        "acle_direct": 0.3349,
-        "relegation": 0.0013
+        "champion": 0.0975,
+        "acle_direct": 0.3386,
+        "relegation": 0.0011
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 5.52,
-      "rank_change_7d": -1.01
+      "expected_rank": 5.46,
+      "rank_change_7d": -1.07
     },
     "hiroshima": {
       "rank": 3,
@@ -47,17 +47,17 @@
       "played": 8,
       "gd": 14,
       "probs": {
-        "champion": 0.2968,
-        "acle_direct": 0.629,
-        "relegation": 0
+        "champion": 0.2963,
+        "acle_direct": 0.6289,
+        "relegation": 0.0001
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 3.39,
-      "rank_change_7d": -0.35
+      "expected_rank": 3.41,
+      "rank_change_7d": -0.33
     },
     "machida": {
       "rank": 4,
@@ -65,17 +65,17 @@
       "played": 8,
       "gd": 11,
       "probs": {
-        "champion": 0.1145,
-        "acle_direct": 0.369,
-        "relegation": 0.0014
+        "champion": 0.1181,
+        "acle_direct": 0.3699,
+        "relegation": 0.0012
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 5.2,
-      "rank_change_7d": 1.07
+      "expected_rank": 5.17,
+      "rank_change_7d": 1.04
     },
     "ftokyo": {
       "rank": 5,
@@ -83,17 +83,17 @@
       "played": 8,
       "gd": 6,
       "probs": {
-        "champion": 0.0599,
-        "acle_direct": 0.2424,
-        "relegation": 0.0029
+        "champion": 0.0626,
+        "acle_direct": 0.2425,
+        "relegation": 0.0027
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 6.41,
-      "rank_change_7d": -0.38
+      "expected_rank": 6.42,
+      "rank_change_7d": -0.37
     },
     "yokohamafm": {
       "rank": 6,
@@ -101,17 +101,17 @@
       "played": 8,
       "gd": 4,
       "probs": {
-        "champion": 0.037,
-        "acle_direct": 0.1708,
-        "relegation": 0.006
+        "champion": 0.0347,
+        "acle_direct": 0.1729,
+        "relegation": 0.008
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 7.38,
-      "rank_change_7d": -0.78
+      "expected_rank": 7.36,
+      "rank_change_7d": -0.8
     },
     "kawasakif": {
       "rank": 7,
@@ -119,17 +119,17 @@
       "played": 8,
       "gd": 4,
       "probs": {
-        "champion": 0.0203,
-        "acle_direct": 0.1116,
-        "relegation": 0.0152
+        "champion": 0.0198,
+        "acle_direct": 0.108,
+        "relegation": 0.0149
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 8.53,
-      "rank_change_7d": 0.35
+      "expected_rank": 8.56,
+      "rank_change_7d": 0.38
     },
     "kashima": {
       "rank": 8,
@@ -137,17 +137,17 @@
       "played": 8,
       "gd": 1,
       "probs": {
-        "champion": 0.1076,
-        "acle_direct": 0.3544,
-        "relegation": 0.0013
+        "champion": 0.1049,
+        "acle_direct": 0.3553,
+        "relegation": 0.001
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 5.32,
-      "rank_change_7d": 0.27
+      "expected_rank": 5.31,
+      "rank_change_7d": 0.26
     },
     "okayama": {
       "rank": 9,
@@ -155,17 +155,17 @@
       "played": 8,
       "gd": 1,
       "probs": {
-        "champion": 0.005,
-        "acle_direct": 0.0331,
-        "relegation": 0.059
+        "champion": 0.0046,
+        "acle_direct": 0.0323,
+        "relegation": 0.0566
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 11.24,
-      "rank_change_7d": 0.95
+      "expected_rank": 11.22,
+      "rank_change_7d": 0.93
     },
     "urawa": {
       "rank": 10,
@@ -173,17 +173,17 @@
       "played": 8,
       "gd": -2,
       "probs": {
-        "champion": 0.0156,
-        "acle_direct": 0.0883,
-        "relegation": 0.017
+        "champion": 0.0152,
+        "acle_direct": 0.0882,
+        "relegation": 0.0175
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 8.93,
-      "rank_change_7d": -0.59
+      "expected_rank": 8.89,
+      "rank_change_7d": -0.63
     },
     "cosaka": {
       "rank": 11,
@@ -191,17 +191,17 @@
       "played": 8,
       "gd": -5,
       "probs": {
-        "champion": 0.008,
-        "acle_direct": 0.0486,
-        "relegation": 0.0374
+        "champion": 0.0075,
+        "acle_direct": 0.0475,
+        "relegation": 0.0377
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 10.27,
-      "rank_change_7d": 0.18
+      "expected_rank": 10.29,
+      "rank_change_7d": 0.2
     },
     "shimizu": {
       "rank": 12,
@@ -209,17 +209,17 @@
       "played": 8,
       "gd": -2,
       "probs": {
-        "champion": 0.0005,
-        "acle_direct": 0.0046,
-        "relegation": 0.1981
+        "champion": 0.0006,
+        "acle_direct": 0.0047,
+        "relegation": 0.2015
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 14.04,
-      "rank_change_7d": -0.83
+      "expected_rank": 14.12,
+      "rank_change_7d": -0.75
     },
     "mito": {
       "rank": 13,
@@ -228,16 +228,16 @@
       "gd": 0,
       "probs": {
         "champion": 0.0003,
-        "acle_direct": 0.0044,
-        "relegation": 0.2995
+        "acle_direct": 0.0036,
+        "relegation": 0.2949
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 14.98,
-      "rank_change_7d": 0.48
+      "expected_rank": 14.95,
+      "rank_change_7d": 0.45
     },
     "kyoto": {
       "rank": 14,
@@ -245,17 +245,17 @@
       "played": 8,
       "gd": -4,
       "probs": {
-        "champion": 0.002,
-        "acle_direct": 0.0176,
-        "relegation": 0.096
+        "champion": 0.0024,
+        "acle_direct": 0.017,
+        "relegation": 0.0976
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 12.26,
-      "rank_change_7d": -1.14
+      "expected_rank": 12.27,
+      "rank_change_7d": -1.13
     },
     "nagasaki": {
       "rank": 15,
@@ -264,16 +264,16 @@
       "gd": -5,
       "probs": {
         "champion": 0.0005,
-        "acle_direct": 0.0045,
-        "relegation": 0.3181
+        "acle_direct": 0.0044,
+        "relegation": 0.3195
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 15.12,
-      "rank_change_7d": 0.02
+      "expected_rank": 15.14,
+      "rank_change_7d": 0.04
     },
     "gosaka": {
       "rank": 16,
@@ -281,9 +281,9 @@
       "played": 8,
       "gd": -6,
       "probs": {
-        "champion": 0.0014,
-        "acle_direct": 0.0132,
-        "relegation": 0.1262
+        "champion": 0.0018,
+        "acle_direct": 0.0137,
+        "relegation": 0.126
       },
       "status": {
         "champion": null,
@@ -299,9 +299,9 @@
       "played": 8,
       "gd": -7,
       "probs": {
-        "champion": 0.0005,
-        "acle_direct": 0.0062,
-        "relegation": 0.2102
+        "champion": 0.0004,
+        "acle_direct": 0.0056,
+        "relegation": 0.2115
       },
       "status": {
         "champion": null,
@@ -318,8 +318,8 @@
       "gd": -3,
       "probs": {
         "champion": 0.0001,
-        "acle_direct": 0.0019,
-        "relegation": 0.3322
+        "acle_direct": 0.0017,
+        "relegation": 0.3313
       },
       "status": {
         "champion": null,
@@ -337,15 +337,15 @@
       "probs": {
         "champion": 0,
         "acle_direct": 0.0001,
-        "relegation": 0.5658
+        "relegation": 0.5661
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 17.19,
-      "rank_change_7d": 0.35
+      "expected_rank": 17.17,
+      "rank_change_7d": 0.33
     },
     "chiba": {
       "rank": 20,
@@ -353,17 +353,17 @@
       "played": 8,
       "gd": -11,
       "probs": {
-        "champion": 0,
+        "champion": 0.0001,
         "acle_direct": 0.0003,
-        "relegation": 0.712
+        "relegation": 0.7105
       },
       "status": {
         "champion": null,
         "acle_direct": null,
         "relegation": null
       },
-      "expected_rank": 18.05,
-      "rank_change_7d": 0.33
+      "expected_rank": 18.07,
+      "rank_change_7d": 0.35
     }
   },
   "upcoming": [
@@ -385,7 +385,7 @@
       "away_id": "kobe",
       "home_name": "柏",
       "away_name": "神戸",
-      "p_home": 0.3697,
+      "p_home": 0.3698,
       "p_draw": 0.2633,
       "p_away": 0.3669
     },
@@ -398,7 +398,7 @@
       "away_name": "横浜FM",
       "p_home": 0.4009,
       "p_draw": 0.2407,
-      "p_away": 0.3584
+      "p_away": 0.3583
     },
     {
       "date": "2026-10-10",
@@ -408,7 +408,7 @@
       "home_name": "FC東京",
       "away_name": "浦和",
       "p_home": 0.4265,
-      "p_draw": 0.2582,
+      "p_draw": 0.2581,
       "p_away": 0.3154
     },
     {
@@ -429,9 +429,9 @@
       "away_id": "machida",
       "home_name": "京都",
       "away_name": "町田",
-      "p_home": 0.346,
+      "p_home": 0.3461,
       "p_draw": 0.251,
-      "p_away": 0.4031
+      "p_away": 0.403
     },
     {
       "date": "2026-10-11",
@@ -442,7 +442,7 @@
       "away_name": "長崎",
       "p_home": 0.3686,
       "p_draw": 0.2434,
-      "p_away": 0.388
+      "p_away": 0.3879
     },
     {
       "date": "2026-10-11",
@@ -462,9 +462,9 @@
       "away_id": "hiroshima",
       "home_name": "東京Ｖ",
       "away_name": "広島",
-      "p_home": 0.2172,
+      "p_home": 0.2173,
       "p_draw": 0.2587,
-      "p_away": 0.5241
+      "p_away": 0.524
     },
     {
       "date": "2026-10-11",

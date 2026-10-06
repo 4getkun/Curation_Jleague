@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-06T19:12:54.093Z",
-  "count": 769,
+  "generatedAt": "2026-10-06T23:08:55.938Z",
+  "count": 760,
   "items": [
+    {
+      "title": "ジャイアントキリングの主役へ…躍進の京都産業大に興國出身1年生コンビ、FW芋縄叶翔「自分がチームを勝たせる」",
+      "summary": "[10.3 関西学生L1部後期第4節 京産大2-1甲南大 ヤンマーフィールド長居] 待ちわびた大舞台が、ついにやってきた。京都産業大はきょう7日、天皇杯で横浜F・マリノスと対戦する。J1クラブに挑む一戦で期待される選手の一人が、FW芋縄叶翔…",
+      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?460427-460427-fl",
+      "pubDate": "2026-10-06T22:21:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?460427-460427-fl"
+        }
+      ]
+    },
+    {
+      "title": "若手から強烈指摘「村井さん、分かってないですね」 常識覆した“提案”…Jリーグ×DAZN巨額契約の舞台裏",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678048",
+      "pubDate": "2026-10-06T20:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678048"
+        }
+      ]
+    },
     {
       "title": "【新日本】K.O.BがIWGPタッグ奪回、両国でのNEVER６人に向けジェフ・コブと合体(日刊スポーツ)",
       "summary": "＜新日本プロレス：後楽園大会「Road to KING OF PRO－WRESTLING 2026」＞◇6日◇東京・後楽園ホール◇観衆1041人【写真】Yuto－Ice、OSKARと合体したジェフ・コ",
@@ -801,10 +837,10 @@
       ]
     },
     {
-      "title": "松本vs鳥取 スタメン発表",
-      "summary": "[10.3 J3第9節](サンアル)※14:00開始主審:大穂祐太[松本山雅FC]先発GK 21 富澤雅也DF 4 蓑田広大DF 5 白井達也DF 43 金子光汰MF 11 金子翔太MF 13 村上陽斗MF 14 力安祥伍MF 22 佐相壱…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460195-460195-fl",
-      "pubDate": "2026-10-03T04:09:01.000Z",
+      "title": "長野vs奈良 スタメン発表",
+      "summary": "[10.3 J3第9節](長野U)※14:00開始主審:矢野浩平[AC長野パルセイロ]先発GK 21 中野小次郎DF 3 冨田康平DF 7 大野佑哉DF 13 附木雄也DF 26 中田舜貴MF 8 近藤貴司MF 10 山中麗央MF 22 吉…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460193-460193-fl",
+      "pubDate": "2026-10-03T04:36:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -813,7 +849,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460195-460195-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460193-460193-fl"
         }
       ]
     },
@@ -3171,25 +3207,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/caef0de96f142478eeb9b5a24787499a7e2ad22c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏vs今治 試合記録",
-      "summary": "【天皇杯3回戦】(三協F柏)柏 4-0(前半2-0)今治[柏]細谷真大2(37分、53分)、久保藤次郎(44分)、戸嶋祥郎(85分)[柏]馬場晴也(20分)[今]安部裕葵(8分)主審:中村太副審:森川浩次、畠山大介├細谷真大が今季初ゴール含…",
-      "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459566-459566-fl",
-      "pubDate": "2026-09-25T03:18:14.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/emperorscup/detail/?459566-459566-fl"
         }
       ]
     },
@@ -14917,205 +14934,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/2e6e2595c10a26cd29218032e4e6d5ea414f55db?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "郷家友太が6年ぶりの本拠地弾など2ゴールを奪取。神戸が3得点を奪って長崎から勝ち点3を獲得｜Jリーグ(DAZN News)",
-      "summary": "【国内サッカー レビュー】明治安田J1リーグは9月5日から6日にかけて第6節が開催。 ノエビアスタジアム神戸で開催されたヴィッセル神戸とV・ファーレン長崎の一戦は、郷家友太の2ゴールなどで神戸が快勝を",
-      "link": "https://news.yahoo.co.jp/articles/40c094ffadae6f29479562c473ddc988ae214409?source=rss",
-      "pubDate": "2026-09-06T22:31:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel",
-        "v-varen"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/40c094ffadae6f29479562c473ddc988ae214409?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、最年少得点ランキング10位。武者修行でブレイク！イニエスタの前でJ1初ゴールを決めたのは(フットボールチャンネル)",
-      "summary": "2026/27シーズンのJリーグでは、横浜F・マリノスの三井寺眞をはじめとする若い力の台頭が大きな注目を集めている。そこで今回は、Jリーグ史上に刻まれてきた最年少得点記録の持ち主たちを紐解き、1位か",
-      "link": "https://news.yahoo.co.jp/articles/defa55c0bef3da21e8d1dcfb0ccb7432af3ba6e0?source=rss",
-      "pubDate": "2026-09-06T22:10:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/defa55c0bef3da21e8d1dcfb0ccb7432af3ba6e0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "昇格組にも苦戦続きのG大阪…緊急就任2か月での苦境に明神監督「時間がなかったとは思っていない」(ゲキサカ)",
-      "summary": "[9.6 J1第6節 千葉 2-0 G大阪 フクアリ] ガンバ大阪は6日、J1第6節で昇格組の千葉に0-2で敗れ、これで5試合勝ちなしとなった。J1リーグ戦唯一の勝利を挙げた開幕節の浦和戦は相手が",
-      "link": "https://news.yahoo.co.jp/articles/ef1dd7715ccc746c369171f7b7d8063895ba276b?source=rss",
-      "pubDate": "2026-09-06T22:10:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ef1dd7715ccc746c369171f7b7d8063895ba276b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "あのスターは何位？ Jリーグ、最年少得点ランキング6～10位",
-      "summary": "2026/27シーズンのJリーグでは、横浜F・マリノスの三井寺眞をはじめとする若い力の台頭が大きな注目を集めている。そこで今回は、Jリーグ史上に刻まれてきた最年少得点記録の持ち主たちを紐解き、1位から10位までランキング化。彼らが記録を打ち…",
-      "link": "https://www.footballchannel.jp/2026/09/07/post1004757/",
-      "pubDate": "2026-09-06T21:00:11.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/07/post1004757/"
-        },
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/07/post1004784/"
-        }
-      ]
-    },
-    {
-      "title": "千葉 17年ぶりJ1勝利 「お待たせしました」矢村弾！津久井弾!! 開幕連敗5で止めた(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ第6節 千葉2－0G大阪（2026年9月6日 フクアリ） 明治安田J1リーグは6日に9試合が行われ、千葉はホームでG大阪に2―0で勝利し、開幕からの連敗を5で止めた。開始23",
-      "link": "https://news.yahoo.co.jp/articles/656eab4849f11aafa2043609052664e8707866c5?source=rss",
-      "pubDate": "2026-09-06T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/656eab4849f11aafa2043609052664e8707866c5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜M宮市亮 2年2カ月ぶりJ1ゴール「魂を入れてもらった」初めてキャプテンマーク巻いてリーグ戦出場(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ第6節 横浜M2－0柏（2026年9月6日 三協F柏） 今季初先発の横浜MのMF宮市が雨を切り裂くように右足を振り抜いた。前半19分だ。味方の右クロスからこぼれたボールを拾い",
-      "link": "https://news.yahoo.co.jp/articles/ee620826fa49d495c390b3c82a82ad67b2e4d454?source=rss",
-      "pubDate": "2026-09-06T20:25:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee620826fa49d495c390b3c82a82ad67b2e4d454?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【FC東京】長友佑都、「40歳でもバリバリやれることを示したい」今季リーグ戦初出場「自分が強く生きられる場所だなと改めて感じた」39歳ラストマッチ快勝(中日スポーツ)",
-      "summary": "◇6日 J1リーグ第6節 FC東京2―0京都（味の素スタジアム） FC東京がホームで京都サンガに2―0で快勝した。公式戦6試合連続負けなし。 後半25分、DF室屋成の右クロスをFWマルセロヒア",
-      "link": "https://news.yahoo.co.jp/articles/1e683601929bc47fb2063bc0600d511b46ada003?source=rss",
-      "pubDate": "2026-09-06T20:20:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/1e683601929bc47fb2063bc0600d511b46ada003?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和3連勝！GK西川「みんなの頑張りで」今季初完封 鬼門メルスタ突破 鹿島から敵地で10年ぶり白星(スポニチアネックス)",
-      "summary": "◇明治安田J1リーグ第6節 浦和1－0鹿島（2026年9月6日 メルスタ） 浦和が今季初完封で鬼門を突破した。リーグ鹿島戦は21年以来10試合ぶり、敵地では16年以来10年ぶりの勝利。セカンドボ",
-      "link": "https://news.yahoo.co.jp/articles/0d9ac26d2a23c8f4ea2566e77ab54b2f41c06bb4?source=rss",
-      "pubDate": "2026-09-06T20:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds",
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0d9ac26d2a23c8f4ea2566e77ab54b2f41c06bb4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【神戸】武藤嘉紀４試合ぶり復帰で馬力発揮、11日鹿島戦へ「大一番前に復帰できて良かった」(日刊スポーツ)",
-      "summary": "＜明治安田J1：神戸3－1長崎＞◇6日◇第6節◇ノエスタ ヴィッセル神戸MF武藤嘉紀（34）が、4試合ぶりに復帰を果たした。 後半21分に途中出場し、負傷明けと感じさせないような馬力を見せるパ",
-      "link": "https://news.yahoo.co.jp/articles/cb3af9eaa3ab7ace18564ffc3f77ed7c0a8f890f?source=rss",
-      "pubDate": "2026-09-06T20:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/cb3af9eaa3ab7ace18564ffc3f77ed7c0a8f890f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【川崎Ｆ】ウレモビッチ「足に当たったのはなんとなく…」敵を欺く神業パス解説(日刊スポーツ)",
-      "summary": "＜明治安田J1：川崎F3－1清水＞◇第6節◇6日◇MUFG国立 川崎フロンターレは清水エスパルスに3－1で競り勝ち、今季2勝目を挙げた。DFウレモビッチ（29）がチーム2点目の起点となった。仲間の",
-      "link": "https://news.yahoo.co.jp/articles/4165bb879e7e8b9bf87615329ac40285eff86333?source=rss",
-      "pubDate": "2026-09-06T20:00:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/4165bb879e7e8b9bf87615329ac40285eff86333?source=rss"
         }
       ]
     }
