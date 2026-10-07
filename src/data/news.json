@@ -1,7 +1,119 @@
 {
-  "generatedAt": "2026-10-07T02:31:50.441Z",
-  "count": 755,
+  "generatedAt": "2026-10-07T09:30:07.537Z",
+  "count": 756,
   "items": [
+    {
+      "title": "「めちゃくちゃオシャレ」RB大宮が9年ぶり開催の“さいたまダービー”直前に公開した特製動画に大反響!「煽りかと思ったらスタメン発表しててオシャレすぎる!」(サッカー批評Web)",
+      "summary": "10月7日、天皇杯3回戦が各地で開催され、RB大宮アルディージャが公式エックス（旧ツイッター）上で公開したスタメン発表ムービーが大きな話題を集めた。■【動画】「めちゃくちゃオシャレ!」「煽りかと思った",
+      "link": "https://news.yahoo.co.jp/articles/75e872c68b0d946a3958c85e00616439bc0c2e0e?source=rss",
+      "pubDate": "2026-10-07T09:27:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/75e872c68b0d946a3958c85e00616439bc0c2e0e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「AEWを利用して新日本に金を流す！」K.O.BがIWGPタッグ奪還でトニー・カーン社長を挑発！謎の“X”はジェフ・コブ、両国での二冠へ向け視界良好(プロレスTODAY)",
+      "summary": "新日本プロレスは10月6日(火)、東京・後楽園ホールにて『Road to KING OF PRO-WRESTLING 2026』開幕戦を開催した。【動画】Yuto-Iceの人の心を掴む熱いマイクメイン",
+      "link": "https://news.yahoo.co.jp/articles/6720c04d2d58095b9e20cb7e3c6f2d9aec139c65?source=rss",
+      "pubDate": "2026-10-07T09:25:46.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6720c04d2d58095b9e20cb7e3c6f2d9aec139c65?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ２磐田 ＦＷジョアンヴィクトル「どんな形でも、得点を複数取りたい」１０日・札幌戦(スポーツ報知)",
+      "summary": "Ｊ２磐田は７日、静岡・磐田市内での練習を報道陣に公開。１０日のホーム・札幌戦に向けて、ＦＷジョアンヴィクトルが「チャンスで決めることを意識している」とゴールを誓った。【動画】横浜ＦＭの１６歳・三井寺、",
+      "link": "https://news.yahoo.co.jp/articles/e9f6f646bba56f71495a6261db69c93da787b78c?source=rss",
+      "pubDate": "2026-10-07T09:09:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e9f6f646bba56f71495a6261db69c93da787b78c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1アビスパ福岡の元バルサ、オリオール・ロメウが2度目の先発ピッチ【天皇杯3回戦 J2横浜FC戦スタメン】(西スポWEB OTTO!)",
+      "summary": "J1アビスパ福岡がJ2横浜FCとの3回戦に挑む。スペイン1部のバルセロナやイングランド・プレミアリーグのチェルシー、サウサンプトンなどでプレーしたオリオール・ロメウが公式戦2度目の先発となった。■福岡",
+      "link": "https://news.yahoo.co.jp/articles/61e43c9ea41ef5c0a2d61577348f675545f66f36?source=rss",
+      "pubDate": "2026-10-07T09:06:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/61e43c9ea41ef5c0a2d61577348f675545f66f36?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "横浜F・マリノス対京都産業大学 スタメン発表【天皇杯3回戦】",
+      "summary": "日本時間7日（水）18時から行われる天皇杯 JFA 第106回全日本サッカー選手権大会3回戦・浦和レッズ対RB大宮アルディージャのスタメンが発表された。",
+      "link": "https://www.footballchannel.jp/2026/10/07/post1028652/",
+      "pubDate": "2026-10-07T08:40:40.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/07/post1028652/"
+        }
+      ]
+    },
+    {
+      "title": "浦和レッズ対RB大宮アルディージャ スタメン発表【天皇杯3回戦】",
+      "summary": "日本時間7日（水）18時から行われる天皇杯 JFA 第106回全日本サッカー選手権大会3回戦・浦和レッズ対RB大宮アルディージャのスタメンが発表された。",
+      "link": "https://www.footballchannel.jp/2026/10/07/post1028592/",
+      "pubDate": "2026-10-07T07:02:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/07/post1028592/"
+        }
+      ]
+    },
     {
       "title": "J内定4人の京都産業大、横浜F・マリノスへの番狂わせなるか？ U-21日本代表FW以外にもタレント多数！",
       "summary": "J1水戸ホーリーホックを破った京都産業大学が、今度は横浜F・マリノスに挑む。7日の天皇杯3回戦を前に、京産大のJクラブ加入内定者は4人となった。過去にも未来のプロ選手を擁する大学勢が番狂わせを演じてきた大会。マリノスは、勢いある挑戦者を退け…",
@@ -858,6 +970,26 @@
       ]
     },
     {
+      "title": "柏vsG大阪 スタメン発表",
+      "summary": "[10.3 ルヴァン杯4回戦](三協F柏)※19:00開始主審:清水勇人[柏レイソル]先発GK 77 若原智哉DF 4 古賀太陽DF 26 杉岡大暉DF 88 馬場晴也MF 5 遠藤渓太MF 8 小泉佳穂MF 21 小西雄大MF 24 久保…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460232-460232-fl",
+      "pubDate": "2026-10-03T09:13:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "s-pulse",
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460232-460232-fl"
+        }
+      ]
+    },
+    {
       "title": "日本代表期間中に離脱→異例のルヴァン杯出場 町田DF望月、4回戦の京都戦の後半終了間際に投入",
       "summary": "",
       "link": "https://www.football-zone.net/archives/677324",
@@ -879,29 +1011,10 @@
       ]
     },
     {
-      "title": "町田vs京都 スタメン発表",
-      "summary": "[10.3 ルヴァン杯4回戦](Gスタ)※16:00開始主審:中村太[FC町田ゼルビア]先発GK 1 谷晃生DF 2 トーマス・ウーワイアンDF 3 昌子源DF 50 岡村大八MF 8 仙頭啓矢MF 16 前寛之MF 18 下田北斗MF 2…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460201-460201-fl",
-      "pubDate": "2026-10-03T05:29:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460201-460201-fl"
-        }
-      ]
-    },
-    {
-      "title": "甲府vs富山 スタメン発表",
-      "summary": "[10.3 J2第9節](JITス)※16:00開始主審:木村博之[ヴァンフォーレ甲府]先発GK 97 東ジョンDF 4 山本英臣DF 20 遠藤光DF 22 小出悠太MF 8 安田虎士朗MF 13 村上千歩MF 26 佐藤和弘MF 27…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460200-460200-fl",
-      "pubDate": "2026-10-03T05:10:02.000Z",
+      "title": "栃木Cvs今治 スタメン発表",
+      "summary": "[10.3 J2第9節](CFS)※17:00開始主審:堀善仁[栃木シティ]先発GK 97 キム・ジンヒョンDF 2 マテイ・ヨニッチDF 5 奥井諒DF 17 知念哲矢DF 31 シモンズ・エイデンMF 7 森俊貴MF 20 ペドロ・アウ…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460220-460220-fl",
+      "pubDate": "2026-10-03T07:20:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -910,7 +1023,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460200-460200-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460220-460220-fl"
         }
       ]
     },
@@ -14740,108 +14853,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/07/post1005606/"
-        }
-      ]
-    },
-    {
-      "title": "｢新たな環境へ挑戦｣京都サンガF.C.、サンフレッチェ広島から32歳のDF志知孝明の完全移籍加入を発表",
-      "summary": "J1リーグの京都サンガF.C.は7日、サンフレッチェ広島から32歳のDF志知孝明が完全移籍で加入することを発表した。両クラブの公式サイトで伝えられている。シーズンが開幕したばかりだが、京都が新戦力を獲得している。",
-      "link": "https://www.footballchannel.jp/2026/09/07/post1005588/",
-      "pubDate": "2026-09-07T05:23:52.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "sanga",
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/07/post1005588/"
-        }
-      ]
-    },
-    {
-      "title": "「うそやろ」「本当に心配です」“今シーズン中の復帰は絶望的”J１開催翌日に舞い込んだ悲報(SOCCER DIGEST Web)",
-      "summary": "2026年９月７日、京都サンガF.C.が負傷者を発表した。 齊藤未月が左前十字靭帯損傷および半月板損傷で戦線離脱。８月17日に手術して全治約９～10か月と診断され、今シーズン中の復帰は絶望的とな",
-      "link": "https://news.yahoo.co.jp/articles/3d90c9c895e0546b393676c3361baf49c7285545?source=rss",
-      "pubDate": "2026-09-07T04:55:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3d90c9c895e0546b393676c3361baf49c7285545?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "元日本代表FW大久保嘉人が44歳で現役復帰！バルセロナのチーム加入、初戦で1G1A(スポーティングニュース日本版)",
-      "summary": "J1歴代最多191得点を誇る元日本代表FW大久保嘉人が、44歳で“現役復帰”した。 大久保は9月7日、自身のXを更新。現在生活拠点を置いているスペイン・バルセロナの地元ベテランチームからオファーを受",
-      "link": "https://news.yahoo.co.jp/articles/9b669228ad246d0d2e94ae332283098cf40446d1?source=rss",
-      "pubDate": "2026-09-07T04:22:51.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9b669228ad246d0d2e94ae332283098cf40446d1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【京都】斉藤未月が左膝負傷全治９～10カ月 再び重傷も「つべこべ言わずリスク冒してやれよ俺」(日刊スポーツ)",
-      "summary": "京都サンガF.C.は7日、MF斉藤未月（27）が左前十字靱帯（じんたい）損傷、半月板損傷で全治9～10カ月の離脱と発表した。8月17日に手術を行った。 神戸に所属していた23年8月にタックルを受",
-      "link": "https://news.yahoo.co.jp/articles/8e76e67bc3db50a90b79c0278aa18c36969985be?source=rss",
-      "pubDate": "2026-09-07T03:49:43.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8e76e67bc3db50a90b79c0278aa18c36969985be?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「正直、今のチームはジェバリが調子いいかよくないか…」ガンバ大阪が抱える“依存”。主将・中谷進之介が示す「一歩目の道筋」【コラム】",
-      "summary": "AFCチャンピオンズリーグ2（ACL2）王者のガンバ大阪が苦しんでいる。明治安田J1リーグでは開幕節こそ勝利したものの、その後は勝ち星がなく、直近では最下位・ジェフユナイテッド千葉に今季初勝利をプレゼントしてしまった。シーズン開幕前の監督人…",
-      "link": "https://www.footballchannel.jp/2026/09/07/post1005378/",
-      "pubDate": "2026-09-07T02:50:59.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/07/post1005378/"
         }
       ]
     }
