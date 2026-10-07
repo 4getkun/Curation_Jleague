@@ -1,7 +1,83 @@
 {
-  "generatedAt": "2026-10-07T16:48:40.993Z",
-  "count": 766,
+  "generatedAt": "2026-10-07T21:41:46.889Z",
+  "count": 769,
   "items": [
+    {
+      "title": "「カップ戦は勝つことが全て」もJ2に不覚…3倍シュート実らず、早すぎる3回戦敗退 J1アビスパ福岡に迫る中2日のリーグ戦【天皇杯】(西スポWEB OTTO!)",
+      "summary": "◆サッカー・天皇杯全日本選手権3回戦 J1福岡 0―1 J2横浜FC（7日、神奈川・ニッパツ三ツ沢球技場） もどかしい展開のまま、終了のホイッスルが鳴り響いた。J1の福岡がJ2の横浜FCに無得点で敗れ",
+      "link": "https://news.yahoo.co.jp/articles/0f7e9776cd9951b080b669f74dc00d5469dbdfe4?source=rss",
+      "pubDate": "2026-10-07T21:30:58.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0f7e9776cd9951b080b669f74dc00d5469dbdfe4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【Ｊ１】柏に痛手の熊坂光希離脱 同僚が存在の大きさ証言「いてもらわないと困る」 チームは総力戦へ(東スポWEB)",
+      "summary": "J1柏の日本代表MF熊坂光希が国際親善試合ベネズエラ戦（9月28日、Eピース）で「左膝内側側副じん帯損傷」を負ったことに、クラブのチームメートが素直な思いを語った。 J1柏は7日、千葉・柏市内で全体練",
+      "link": "https://news.yahoo.co.jp/articles/d47c43110eeedf886dfb051f9790b0041730f78a?source=rss",
+      "pubDate": "2026-10-07T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d47c43110eeedf886dfb051f9790b0041730f78a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "445日ぶり弾「やっと踏み出せた」 感じた責任感…揺れたスタジアム「こんな盛り上がるのか」(FOOTBALL ZONE)",
+      "summary": "FC東京は10月7日、天皇杯3回戦で湘南ベルマーレと対戦し、4-0で勝利した。この試合でいちばんの盛り上がりを見せたのは、FW仲川輝人が決めた4点目だった。2025年7月以来の得点に「やっと第一歩は踏",
+      "link": "https://news.yahoo.co.jp/articles/6316474805bc16cc39dd7e7e81f93f100cd8ca8c?source=rss",
+      "pubDate": "2026-10-07T21:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6316474805bc16cc39dd7e7e81f93f100cd8ca8c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「村井って誰だ？」 目撃したはがきの山「素人同然だった」…異例のチェアマンがJリーグにもたらした革命",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678169",
+      "pubDate": "2026-10-07T20:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678169"
+        }
+      ]
+    },
     {
       "title": "J1相手に好セーブ連発も…京産大1年生GK岩瀬颯は2失点を悔やむ「最後に自分が止められる選手に」(ゲキサカ)",
       "summary": "[10.7 天皇杯3回戦 横浜FM2-1京産大 日産ス] 普段の明るい表情はなかった。試合後、肩を落とした京都産業大の1年生守護神、岩瀬颯は淡々と2つの失点を振り返った。 今春に日本高校選抜にも選ばれ",
@@ -46,16 +122,16 @@
       "summary": "＜天皇杯：C大阪2－0鹿児島＞◇3回戦◇7日◇ハナサカ セレッソ大阪がJ3鹿児島ユナイテッドを下し、4回戦に進出した。 今季無敗でJ3首位を走る鹿児島に対し、思うように進められない時間帯もあったC大阪",
       "link": "https://news.yahoo.co.jp/articles/ade7c7d04bb4d778dd007932efa3292ef9ddad97?source=rss",
       "pubDate": "2026-10-07T14:57:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/ade7c7d04bb4d778dd007932efa3292ef9ddad97?source=rss"
         }
       ]
@@ -65,8 +141,8 @@
       "summary": "＜天皇杯：横浜2－1京産大＞◇3回戦◇7日◇日産ス 横浜F・マリノスが京都産業大学に逆転勝ちを収め、16強入りを決めた。【写真】京産大に勝利し、サポーターと喜びを分かち合う横浜Mの選手たち＝日産スタジ",
       "link": "https://news.yahoo.co.jp/articles/f031fd305225292734a716a8209a7f8e89b55ca7?source=rss",
       "pubDate": "2026-10-07T14:31:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "marinos",
         "sanga"
@@ -74,8 +150,8 @@
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f031fd305225292734a716a8209a7f8e89b55ca7?source=rss"
         }
       ]
@@ -85,8 +161,8 @@
       "summary": "＜天皇杯：鳥取0（3－4）0東京V＞◇7日◇3回戦 東京ヴェルディが、J3ガイナーレ鳥取をPK戦の末に退け、16強に勝ち上がった。 今季J1未勝利の中、2日前に城福浩監督が電撃解任。チームは動揺があっ",
       "link": "https://news.yahoo.co.jp/articles/62c8d5c33a5d2b2457ff9e8682099272d1b892a7?source=rss",
       "pubDate": "2026-10-07T14:30:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "verdy"
       ],
@@ -95,8 +171,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/62c8d5c33a5d2b2457ff9e8682099272d1b892a7?source=rss"
         }
       ]
@@ -106,8 +182,8 @@
       "summary": "＜天皇杯：横浜2－1京産大＞◇3回戦◇7日◇日産ス 唯一の大学勢・京都産業大学（京都）は横浜F・マリノスに1－2で逆転負けを喫し、16強入りを逃した。前半35分にU－21日本代表MF福永裕也が得点を奪",
       "link": "https://news.yahoo.co.jp/articles/1af42147b0c847421ee309af743ebedf520f7e6a?source=rss",
       "pubDate": "2026-10-07T14:23:41.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanga",
         "marinos"
@@ -117,8 +193,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/1af42147b0c847421ee309af743ebedf520f7e6a?source=rss"
         }
       ]
@@ -15037,25 +15113,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/3b89929190afc00a7773c3d5fba9ddc1fa6a3274?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1千葉・小林監督 原点回帰の姿勢 J1最長ブランク6132日ぶり勝利から一夜明け(スポニチアネックス)",
-      "summary": "J1最長ブランクとなる6132日ぶりの勝利を挙げたG大阪戦から一夜明け、小林監督が原点回帰の姿勢を鮮明にした。 前夜の会見では「一概にこの勝利で何かを踏み出せたとは思えない。最適解が見極められな",
-      "link": "https://news.yahoo.co.jp/articles/0cbe91a1b43d802a1ae1333d85757ee82a1400f4?source=rss",
-      "pubDate": "2026-09-07T19:35:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0cbe91a1b43d802a1ae1333d85757ee82a1400f4?source=rss"
         }
       ]
     }
