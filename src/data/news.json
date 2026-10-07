@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-10-06T23:08:55.938Z",
-  "count": 760,
+  "generatedAt": "2026-10-07T02:31:50.441Z",
+  "count": 755,
   "items": [
+    {
+      "title": "J内定4人の京都産業大、横浜F・マリノスへの番狂わせなるか？ U-21日本代表FW以外にもタレント多数！",
+      "summary": "J1水戸ホーリーホックを破った京都産業大学が、今度は横浜F・マリノスに挑む。7日の天皇杯3回戦を前に、京産大のJクラブ加入内定者は4人となった。過去にも未来のプロ選手を擁する大学勢が番狂わせを演じてきた大会。マリノスは、勢いある挑戦者を退け…",
+      "link": "https://www.footballchannel.jp/2026/10/07/post1028643/",
+      "pubDate": "2026-10-07T02:24:39.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "signing",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/07/post1028643/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4feb3d2b2ba4fb9e1f19ea73f604249ea2a12197?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "天皇杯 JFA第106回全日本サッカー選手権大会 全試合日程・結果・放送・配信予定一覧",
+      "summary": "2026年8月19日から行われる天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。",
+      "link": "https://www.footballchannel.jp/2026/10/07/post991491/",
+      "pubDate": "2026-10-07T01:20:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/07/post991491/"
+        }
+      ]
+    },
+    {
+      "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
+      "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
+      "link": "https://www.footballchannel.jp/2026/10/07/post991494/",
+      "pubDate": "2026-10-07T01:17:14.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/07/post991494/"
+        }
+      ]
+    },
     {
       "title": "ジャイアントキリングの主役へ…躍進の京都産業大に興國出身1年生コンビ、FW芋縄叶翔「自分がチームを勝たせる」",
       "summary": "[10.3 関西学生L1部後期第4節 京産大2-1甲南大 ヤンマーフィールド長居] 待ちわびた大舞台が、ついにやってきた。京都産業大はきょう7日、天皇杯で横浜F・マリノスと対戦する。J1クラブに挑む一戦で期待される選手の一人が、FW芋縄叶翔…",
@@ -837,10 +898,10 @@
       ]
     },
     {
-      "title": "長野vs奈良 スタメン発表",
-      "summary": "[10.3 J3第9節](長野U)※14:00開始主審:矢野浩平[AC長野パルセイロ]先発GK 21 中野小次郎DF 3 冨田康平DF 7 大野佑哉DF 13 附木雄也DF 26 中田舜貴MF 8 近藤貴司MF 10 山中麗央MF 22 吉…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460193-460193-fl",
-      "pubDate": "2026-10-03T04:36:02.000Z",
+      "title": "甲府vs富山 スタメン発表",
+      "summary": "[10.3 J2第9節](JITス)※16:00開始主審:木村博之[ヴァンフォーレ甲府]先発GK 97 東ジョンDF 4 山本英臣DF 20 遠藤光DF 22 小出悠太MF 8 安田虎士朗MF 13 村上千歩MF 26 佐藤和弘MF 27…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460200-460200-fl",
+      "pubDate": "2026-10-03T05:10:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -849,7 +910,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460193-460193-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460200-460200-fl"
         }
       ]
     },
@@ -14781,159 +14842,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/07/post1005378/"
-        }
-      ]
-    },
-    {
-      "title": "J1京都、齊藤未月の負傷を発表 左前十字靭帯および半月板損傷で全治約9〜10か月…手術も実施",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/672106",
-      "pubDate": "2026-09-07T02:14:03.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/672106"
-        }
-      ]
-    },
-    {
-      "title": "J1の最新順位表「頭一つ抜け出した」 未勝利が1クラブ…首位を「止めてください！」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/672087",
-      "pubDate": "2026-09-07T01:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/672087"
-        }
-      ]
-    },
-    {
-      "title": "「“3”以上のものがある」横浜FM宮市亮が柏撃破の決勝弾…33歳ベテランが起用に応える(ゲキサカ)",
-      "summary": "[9.6 J1第6節 柏 0-2 横浜FM 三協F柏] 起用に応えたベテランが決勝点をあげた。公式戦で7連敗中と柏レイソルを苦手としている横浜F・マリノスは、連戦ということもあって開幕から固定して",
-      "link": "https://news.yahoo.co.jp/articles/fae5a56185d5fe7703301620e9a2eac947f8954c?source=rss",
-      "pubDate": "2026-09-06T23:50:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fae5a56185d5fe7703301620e9a2eac947f8954c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表・森保監督、鈴木彩艶や上田綺世ら移籍組に期待「これまで通りいいチャレンジを」(サンケイスポーツ)",
-      "summary": "明治安田J1リーグ第6節最終日（6日、神戸3－1長崎、ノエスタ）日本代表の森保一監督（58）が視察に訪れ、試合後に取材に応じた。欧州の新シーズンを前に移籍を果たした選手に向けて期待を寄せた。 今夏の",
-      "link": "https://news.yahoo.co.jp/articles/43255cbfce257cdae9f507afd2e685bf1ae98045?source=rss",
-      "pubDate": "2026-09-06T23:40:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/43255cbfce257cdae9f507afd2e685bf1ae98045?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「みんなこれだけできるじゃん！」躍動の石尾陸登が明かすJ1ジェフ千葉の勝利の裏側「エドゥが試合前に言っていましたが…」(GOAL)",
-      "summary": "2026/27明治安田J1リーグ第6節が6日に千葉県のフクダ電子アリーナで行われ、ジェフユナイテッド千葉はガンバ大阪を2-0で下して、今季初勝利を挙げた。 「みんなこれだけできるじゃん！」 右サイ",
-      "link": "https://news.yahoo.co.jp/articles/79408396a02f82b2fa9d542ad3320139bd31feb9?source=rss",
-      "pubDate": "2026-09-06T23:40:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/79408396a02f82b2fa9d542ad3320139bd31feb9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "[プレミアリーグEAST]国際派GKが追い掛けるのは鈴木彩艶の背中。流経大柏GK大泉未来が経験豊富なGKコーチを驚かせた「15歳の秋のワンシーン」(ゲキサカ)",
-      "summary": "[9.5 プレミアリーグEAST第12節 流通経済大柏高 1-2 前橋育英高 流通経済大柏高G] 底知れないポテンシャルを秘めていることは、ピッチでの立ち姿を見れば、誰でもすぐに理解できるだろう。",
-      "link": "https://news.yahoo.co.jp/articles/f12e94d4524d1eede05b533e3c8fc5362fdb3edf?source=rss",
-      "pubDate": "2026-09-06T23:40:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f12e94d4524d1eede05b533e3c8fc5362fdb3edf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1神戸・武藤嘉紀、約3週間ぶり復帰「大事な場面で復帰できてよかった」(サンケイスポーツ)",
-      "summary": "明治安田J1リーグ第6節最終日（6日、神戸3－1長崎、ノエスタ）神戸は長崎に快勝して公式戦4連勝を果たした。FW武藤嘉紀（34）が後半21分からピッチに立ち、8月15日のFC東京戦以来の出場を果たして",
-      "link": "https://news.yahoo.co.jp/articles/6faf6c425e7c8d999983c6aca4c06cfa2a5a06c9?source=rss",
-      "pubDate": "2026-09-06T23:37:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6faf6c425e7c8d999983c6aca4c06cfa2a5a06c9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1神戸・郷家友太がプロ初2得点 献身実り「がむしゃらにやっていればいいことがあると言い聞かせてきた」(サンケイスポーツ)",
-      "summary": "明治安田J1リーグ第6節最終日（6日、神戸3－1長崎、ノエスタ）神戸は長崎に快勝して公式戦4連勝を果たした。MF郷家友太（27）がプロ初の1試合2得点で勝利に貢献した。 背中を押され続けていた神戸の",
-      "link": "https://news.yahoo.co.jp/articles/2e6e2595c10a26cd29218032e4e6d5ea414f55db?source=rss",
-      "pubDate": "2026-09-06T23:36:10.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2e6e2595c10a26cd29218032e4e6d5ea414f55db?source=rss"
         }
       ]
     }
