@@ -1,7 +1,238 @@
 {
-  "generatedAt": "2026-10-07T21:41:46.889Z",
-  "count": 769,
+  "generatedAt": "2026-10-08T01:25:59.316Z",
+  "count": 775,
   "items": [
+    {
+      "title": "東京Vが異例声明を発表「ファン・サポーター、関係者の皆様へ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678208",
+      "pubDate": "2026-10-08T01:24:17.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678208"
+        }
+      ]
+    },
+    {
+      "title": "浦和監督「反省しなければいけない」 メンバー完全入れ替え、底上げに手応え「証明できている」(FOOTBALL ZONE)",
+      "summary": "浦和レッズは10月7日の天皇杯3回戦で、公式戦9年ぶりの「さいたまダービー」となったRB大宮アルディージャ戦を3-2で勝利した。試合運びに課題を残しつつも、9月29日のルヴァンカップ2回戦カターレ富山",
+      "link": "https://news.yahoo.co.jp/articles/fa2ca0417ca3b925de4e0a9c646b191ce0829a98?source=rss",
+      "pubDate": "2026-10-08T01:20:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/fa2ca0417ca3b925de4e0a9c646b191ce0829a98?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678201"
+        }
+      ]
+    },
+    {
+      "title": "｢限界を作らず取り組んでいきます｣東京ヴェルディ、相馬直樹氏の指揮官就任を発表！ 5日に城福浩監督との契約を解除",
+      "summary": "J1リーグの東京ヴェルディは8日、相馬直樹氏が新監督に就任することを発表した。クラブ公式サイトで伝えられている。5日に城福浩監督との契約を解除したヴェルディは、相馬新監督のもと、下位からの脱出を目指し、再建を狙う。",
+      "link": "https://www.footballchannel.jp/2026/10/08/post1029471/",
+      "pubDate": "2026-10-08T01:16:24.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/08/post1029471/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/31175cf6a1990b24266ca1af5d7f571df41e33d0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「完璧な崩しじゃん」話題の“KSD”京産大、天皇杯でJ1名門から鮮やか先制弾!「末谷くんマジで上手いわ」「福永ってアジア大会出てた子か」マリノスサポから万雷の拍手(サッカー批評Web)",
+      "summary": "J1の名門に牙を剥いたアマチュア軍団の躍動に、日産スタジアムがどよめいた。 今年度の天皇杯で3回戦に進出した唯一のアマチュアチーム・京都産業大学が10月7日、横浜F・マリノスと対戦し、プロ顔負けの鮮や",
+      "link": "https://news.yahoo.co.jp/articles/bf72f1c9c80788eae521741fb34f602fc64fcc13?source=rss",
+      "pubDate": "2026-10-08T01:12:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bf72f1c9c80788eae521741fb34f602fc64fcc13?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１東京Ｖが相馬直樹氏の新監督就任を発表 開幕から８戦未勝利の１９位 ９８年Ｗ杯戦士に残留託す (スポーツ報知)",
+      "summary": "Ｊ１東京Ｖは８日、新監督に相馬直樹氏（５５）が就任すると発表した。開幕８戦で４分け４敗の１９位とＪ２降格圏に低迷し、５日に城福浩監督との契約を解除。現役時代の２００２年には東京Ｖでプレーした経験もある",
+      "link": "https://news.yahoo.co.jp/articles/976f33dd48d65749ff3427bf8e5e0d03b003c50c?source=rss",
+      "pubDate": "2026-10-08T01:07:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/976f33dd48d65749ff3427bf8e5e0d03b003c50c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ドラフト2026】広島はどう生まれ変わるべきか 得点力不足とFA流出危機を救う\"即戦力\"と\"超高校級スラッガー\"(webスポルティーバ)",
+      "summary": "現有戦力から読み解く「2026ドラフトで獲るべき選手」〜広島編 今年もドラフト会議の季節がやってきた。各球団ともシーズンを振り返りながら、来季に向けた補強ポイントを洗い出し、アマチュア選手の最終的な絞",
+      "link": "https://news.yahoo.co.jp/articles/b81369a27991003bd92a4963496e9089d45c263b?source=rss",
+      "pubDate": "2026-10-08T01:06:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b81369a27991003bd92a4963496e9089d45c263b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京Vの新監督に相馬直樹氏が就任「『NO LIMIT！』限界を作らず取り組んでいきます」(スポニチアネックス)",
+      "summary": "東京Vは8日、城福浩監督の後任に、鹿島などの監督を務めた相馬直樹氏（55）が就任すると発表した。【写真あり】5日に城福浩監督との契約解除を発表 相馬氏はクラブを通じてコメントを発表。「東京ヴェルディを",
+      "link": "https://news.yahoo.co.jp/articles/e1b97388473a7bf6d00b3bb21927513e6484c7fd?source=rss",
+      "pubDate": "2026-10-08T01:02:33.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e1b97388473a7bf6d00b3bb21927513e6484c7fd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "カップ戦で浮上のキッカケを掴んだ両軍が激突! 鹿島の1か月半ぶり勝利か? G大阪の2か月ぶり白星か?(チケットぴあ)",
+      "summary": "3週間ぶりに再開する『2026/27明治安田J1リーグ』。第9節で激突する鹿島アントラーズとガンバ大阪が欲してやまないのが勝利である。鹿島は第4節・東京ヴェルディ戦以来、G大阪は浦和レッズとの開幕戦以",
+      "link": "https://news.yahoo.co.jp/articles/78dc6d3262123f19528a4db0bdac3d91bc98e797?source=rss",
+      "pubDate": "2026-10-08T01:02:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/78dc6d3262123f19528a4db0bdac3d91bc98e797?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京V、新監督に相馬直樹氏が就任 開幕8戦未勝利のチーム再建へ「私自身が限界を作らず取り組む」(FOOTBALL ZONE)",
+      "summary": "東京ヴェルディは10月8日、相馬直樹氏が新監督に就任することを発表した。11日のJ1リーグ第9節のサンフレッチェ広島戦から指揮を執る。【画像】「なぜ解任したんだ」プラカードを掲げ…サポーターが猛抗議「",
+      "link": "https://news.yahoo.co.jp/articles/08f115aa1204a7e4c81720e50be3a1dce1a5c5e7?source=rss",
+      "pubDate": "2026-10-08T01:00:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/08f115aa1204a7e4c81720e50be3a1dce1a5c5e7?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678194"
+        }
+      ]
+    },
+    {
+      "title": "日本の水曜夜中に衝撃ニュース「がちで？」 名手が3年ぶり現役復帰に「Jリーグに来て欲しかった」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678197",
+      "pubDate": "2026-10-08T00:53:14.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678197"
+        }
+      ]
+    },
+    {
+      "title": "天皇杯ベスト16が決定 京産大は横浜FMに一歩及ばず、J2は1クラブのみ…J1勢が順当に勝ち抜け",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678184",
+      "pubDate": "2026-10-07T23:01:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678184"
+        }
+      ]
+    },
     {
       "title": "「カップ戦は勝つことが全て」もJ2に不覚…3倍シュート実らず、早すぎる3回戦敗退 J1アビスパ福岡に迫る中2日のリーグ戦【天皇杯】(西スポWEB OTTO!)",
       "summary": "◆サッカー・天皇杯全日本選手権3回戦 J1福岡 0―1 J2横浜FC（7日、神奈川・ニッパツ三ツ沢球技場） もどかしい展開のまま、終了のホイッスルが鳴り響いた。J1の福岡がJ2の横浜FCに無得点で敗れ",
@@ -15020,99 +15251,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/08/post1006149/"
-        }
-      ]
-    },
-    {
-      "title": "J1クラブがネイマール同僚を獲得へ レンタル加入と現地報道「2億8000万円の買取OP付き」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/672218",
-      "pubDate": "2026-09-08T01:20:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/672218"
-        }
-      ]
-    },
-    {
-      "title": "J1の5位→15位に電撃移籍「マジすか！？」 低迷チームに加入「最高でしかない」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/672209",
-      "pubDate": "2026-09-08T00:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/672209"
-        }
-      ]
-    },
-    {
-      "title": "【川崎11R・多摩オープン】イーグルノワール 復活V(スポニチアネックス)",
-      "summary": "（10）イーグルノワールを主役に推す。2歳時、園田でダートグレードを勝ち、当舞台で行われた全日本2歳優駿で2着。実績は申し分ない。3歳以降は精彩を欠いているが、重賞で10カ月ぶりの実戦だった前走で5",
-      "link": "https://news.yahoo.co.jp/articles/b7c0d72244bc69bb784a0410076c245d18aeb1ed?source=rss",
-      "pubDate": "2026-09-08T00:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b7c0d72244bc69bb784a0410076c245d18aeb1ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】DeNA２連戦とヤクルト３連戦はCS争いに加わるラストチャンス 敗れれば終戦近づく(日刊スポーツ)",
-      "summary": "各チームの現在地を紹介します！ 球団別に担当記者が選んだ先週のMVP、今週の見どころ、入れ替え＆2軍情報、広報情報をお届けします。 【広島】 ＜先週のMVP＞ 2勝4敗と負け越した先週、",
-      "link": "https://news.yahoo.co.jp/articles/0d0b4e3b75049f0b1b0480cf98a91f868277395e?source=rss",
-      "pubDate": "2026-09-07T23:55:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0d0b4e3b75049f0b1b0480cf98a91f868277395e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ、最年少得点ランキング8位。J2最年少ゴール記録を更新→直後に飛び級でプロ契約(フットボールチャンネル)",
-      "summary": "2026/27シーズンのJリーグでは、横浜F・マリノスの三井寺眞をはじめとする若い力の台頭が大きな注目を集めている。そこで今回は、Jリーグ史上に刻まれてきた最年少得点記録の持ち主たちを紐解き、1位か",
-      "link": "https://news.yahoo.co.jp/articles/3b89929190afc00a7773c3d5fba9ddc1fa6a3274?source=rss",
-      "pubDate": "2026-09-07T22:10:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3b89929190afc00a7773c3d5fba9ddc1fa6a3274?source=rss"
         }
       ]
     }
