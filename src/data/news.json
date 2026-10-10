@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-10-10T15:54:45.749Z",
-  "count": 782,
+  "generatedAt": "2026-10-10T19:37:52.371Z",
+  "count": 784,
   "items": [
+    {
+      "title": "FC東京 5年ぶり4連勝! J1デビューのDF永野が2点目起点「フリーなのは見えていた」(スポニチアネックス)",
+      "summary": "◇明治安田J1第9節 FC東京3―0浦和（2026年10月10日 味スタ） 明治安田J1リーグは4試合が行われ、FC東京はホームで浦和を3―0で下し、5年ぶりの4連勝を飾った。U―21日本代表DF永野",
+      "link": "https://news.yahoo.co.jp/articles/94bc16611b2d5bf0078d4619a66ad9e75588892a?source=rss",
+      "pubDate": "2026-10-10T19:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/94bc16611b2d5bf0078d4619a66ad9e75588892a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田 3試合ぶり白星 途中出場の明本が千金V弾「気持ちでねじ込むことができた」(スポニチアネックス)",
+      "summary": "◇明治安田J1第9節 町田 1―0 京都（2026年10月10日 サンガS） FC町田ゼルビアは後半13分に投入されたMF明本が値千金の決勝点を決め、3試合ぶりの白星を手にした。 両チーム譲らぬ攻防で",
+      "link": "https://news.yahoo.co.jp/articles/78eed81113006409b03b63f32e3ad6e5fc88c4c3?source=rss",
+      "pubDate": "2026-10-10T19:25:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/78eed81113006409b03b63f32e3ad6e5fc88c4c3?source=rss"
+        }
+      ]
+    },
     {
       "title": "【町田】小川航基が森保監督の前でアピール「点が取れるFWは絶対必要」代表復帰への思い語る(日刊スポーツ)",
       "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS FC町田ゼルビアのFW小川航基（29）が、決勝ゴールにつながるヘディングシュートで日本代表の森保一監督（58）にアピールした。【写真】京都－",
@@ -72,8 +112,8 @@
       "summary": "日本代表の森保一監督（58）は10日、関西で開催された2試合を視察した。 午後2時キックオフのセレッソ大阪－横浜F・マリノス（ハナサカ）を視察後に移動し、午後7時開始の京都サンガF.C.－FC町田ゼル",
       "link": "https://news.yahoo.co.jp/articles/4d8492fdda22dcbf940332c2454c3cd4e701597c?source=rss",
       "pubDate": "2026-10-10T14:50:40.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "cerezo",
         "marinos",
@@ -84,8 +124,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4d8492fdda22dcbf940332c2454c3cd4e701597c?source=rss"
         }
       ]
@@ -135,16 +175,16 @@
       "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS FC町田ゼルビアがアウェーで京都を下し、2位に浮上した。京都の攻勢をGK谷晃生（25）のセーブなどで耐えた。そして後半41分にFW小川航基（",
       "link": "https://news.yahoo.co.jp/articles/5877336817d745807078e6846715b75456262952?source=rss",
       "pubDate": "2026-10-10T13:56:57.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "zelvia"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/5877336817d745807078e6846715b75456262952?source=rss"
         }
       ]
@@ -195,16 +235,16 @@
       "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS 京都サンガF.C.がホームでFC町田ゼルビアに敗れ、今季初の連勝とはならなかった。【写真】町田に敗れ、肩を落とす京都イレブン ボール奪取から",
       "link": "https://news.yahoo.co.jp/articles/4bacee439e6352075c4f898d79409c88956822ee?source=rss",
       "pubDate": "2026-10-10T13:50:09.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanga"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/4bacee439e6352075c4f898d79409c88956822ee?source=rss"
         }
       ]
