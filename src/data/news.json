@@ -1,7 +1,293 @@
 {
-  "generatedAt": "2026-10-10T10:01:22.385Z",
-  "count": 772,
+  "generatedAt": "2026-10-10T15:54:45.749Z",
+  "count": 782,
   "items": [
+    {
+      "title": "【町田】小川航基が森保監督の前でアピール「点が取れるFWは絶対必要」代表復帰への思い語る(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS FC町田ゼルビアのFW小川航基（29）が、決勝ゴールにつながるヘディングシュートで日本代表の森保一監督（58）にアピールした。【写真】京都－",
+      "link": "https://news.yahoo.co.jp/articles/1c93ae1ee018425ed9b0ab8ae18bc0f5b4e92600?source=rss",
+      "pubDate": "2026-10-10T15:40:15.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1c93ae1ee018425ed9b0ab8ae18bc0f5b4e92600?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "途中出場の町田ＭＦ明本考浩が後半４１分に決勝ゴール 「監督に流れを変えてくれと」…敵地で京都を下し２位浮上(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ ▽第９節 京都０―１町田（１０日・サンガスタジアム） 町田がアウェーで京都と対戦し、１ー０で白星を飾った。【写真】サッカー元日本代表「世界のスーパーモデル」と「同級生」 前節で今",
+      "link": "https://news.yahoo.co.jp/articles/d10ffa5d63a972f4f0439fcedf711548ca0ca204?source=rss",
+      "pubDate": "2026-10-10T15:14:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "sanga"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d10ffa5d63a972f4f0439fcedf711548ca0ca204?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1福岡 城福氏に新監督オファー! 5日に東京V監督解任されたばかりの“異例人事”(スポニチアネックス)",
+      "summary": "下位に低迷する福岡が、5日に成績不振により東京Vから監督の任務を解かれたばかりの城福浩氏（65）に新監督のオファーを出していることが10日までに分かった。 福岡は25年に、町田でコーチを務めていた金明",
+      "link": "https://news.yahoo.co.jp/articles/c88a76d98848aee2137e4ee47e471712b2ad641c?source=rss",
+      "pubDate": "2026-10-10T15:00:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa",
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c88a76d98848aee2137e4ee47e471712b2ad641c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】森保監督、関西でハシゴ視察 調整中の国内最終戦に向け「相談させてもらっている」(日刊スポーツ)",
+      "summary": "日本代表の森保一監督（58）は10日、関西で開催された2試合を視察した。 午後2時キックオフのセレッソ大阪－横浜F・マリノス（ハナサカ）を視察後に移動し、午後7時開始の京都サンガF.C.－FC町田ゼル",
+      "link": "https://news.yahoo.co.jp/articles/4d8492fdda22dcbf940332c2454c3cd4e701597c?source=rss",
+      "pubDate": "2026-10-10T14:50:40.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo",
+        "marinos",
+        "sanga"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4d8492fdda22dcbf940332c2454c3cd4e701597c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【FC東京】頭脳派ハンター・常盤亨太。「そこで逆を取れれば」のターンと「奪える感覚があって」のプレスで示した大黒柱である理由(サッカーマガジンWeb)",
+      "summary": "10月10日の明治安田J1リーグ第9節で、FC東京が後半に一気に決めて浦和レッズを3-0の完勝で下した。ゴールが生まれない時間も長かったが、焦れずにマネジメントしていったのは、ボランチの常盤亨太。彼が",
+      "link": "https://news.yahoo.co.jp/articles/06f0c74b9df61f44f49462dbf27a23cd6b2c95ac?source=rss",
+      "pubDate": "2026-10-10T14:15:43.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/06f0c74b9df61f44f49462dbf27a23cd6b2c95ac?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "日本代表の森保一監督がＣ大阪―横浜ＦＭと京都―町田戦をダブルヘッダーで視察 「町田はベンチも含めて選手層が厚い」(スポーツ報知)",
+      "summary": "日本代表の森保一監督（５８）が１０日、Ｃ大阪―横浜ＦＭ戦、京都―町田戦の２試合を視察し、サンガＳで取材対応した。【写真】久保建英、福原遥と電撃結婚！幸せいっぱい２ショット！ Ｃ大阪戦は試合開始の１４時",
+      "link": "https://news.yahoo.co.jp/articles/f47c08e279e4851c66e9a9afb0e2405d210c4a9d?source=rss",
+      "pubDate": "2026-10-10T14:02:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f47c08e279e4851c66e9a9afb0e2405d210c4a9d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【町田】黒田監督「みんながやるべきことをやった」アウェーで京都を下し２位に浮上(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS FC町田ゼルビアがアウェーで京都を下し、2位に浮上した。京都の攻勢をGK谷晃生（25）のセーブなどで耐えた。そして後半41分にFW小川航基（",
+      "link": "https://news.yahoo.co.jp/articles/5877336817d745807078e6846715b75456262952?source=rss",
+      "pubDate": "2026-10-10T13:56:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5877336817d745807078e6846715b75456262952?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "[国スポ少年男子]森保洋監督の下、長崎県は自分たちがA代表の真似できることを精一杯表現。苦戦も球際で戦い続けて初戦突破!(ゲキサカ)",
+      "summary": "[10.10 国スポ少年男子の部1回戦 長崎県 1-0 京都府 プラスタ] 長崎県は、自分たちがA代表の真似をできるところを精一杯表現した。特に前半は京都府の切り替えの速さや強度の高さの前に攻撃のクオ",
+      "link": "https://news.yahoo.co.jp/articles/94a5f2ee8cd67f04a5767b0f3e2dbdc564f65c9a?source=rss",
+      "pubDate": "2026-10-10T13:54:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/94a5f2ee8cd67f04a5767b0f3e2dbdc564f65c9a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "京都MF福岡慎平が口にした“あと一歩”打破するために必要なこととは…(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第9節 サンガS（2026年10月10日 京都 0―1町田）【写真あり】澤穂希さん サッカー選手と大物女優の出会いの場って？に回答 自身も現役時代に「ありましたよ」 京都はホームで",
+      "link": "https://news.yahoo.co.jp/articles/ebee2f91d25e330baf9fdde5f10737b4b1576878?source=rss",
+      "pubDate": "2026-10-10T13:50:45.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa",
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ebee2f91d25e330baf9fdde5f10737b4b1576878?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【京都】終盤に失点して町田に惜敗 新井晴樹「俺が勝たせられなかった」決定機逸に猛省(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS 京都サンガF.C.がホームでFC町田ゼルビアに敗れ、今季初の連勝とはならなかった。【写真】町田に敗れ、肩を落とす京都イレブン ボール奪取から",
+      "link": "https://news.yahoo.co.jp/articles/4bacee439e6352075c4f898d79409c88956822ee?source=rss",
+      "pubDate": "2026-10-10T13:50:09.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4bacee439e6352075c4f898d79409c88956822ee?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "町田・相馬、左WBで勝利に貢献 手応え＆課題「まだ足りないところがある…次につなげたい」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第9節 町田1―0京都（2026年10月10日 サンガスタジアム by KYOCERA）【写真あり】上田綺世の美人モデル妻 由布菜月が4月誕生の愛娘と最新親子ショットに「かわいい」",
+      "link": "https://news.yahoo.co.jp/articles/4fde79223413e1e7dcf01ea71b6fb281dcbdc482?source=rss",
+      "pubDate": "2026-10-10T13:42:42.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4fde79223413e1e7dcf01ea71b6fb281dcbdc482?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1リーグの暫定順位表 上位と下位で動き…柏が首位、意地を見せた町田が2位、FC東京が3位に浮上",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678654",
+      "pubDate": "2026-10-10T12:33:07.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reysol",
+        "zelvia",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678654"
+        }
+      ]
+    },
+    {
+      "title": "浦和の課題は「一瞬ふわっとしてしまう」 9試合で21失点…指揮官指摘「自分たちのこだわり不足」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678643",
+      "pubDate": "2026-10-10T11:35:11.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678643"
+        }
+      ]
+    },
+    {
+      "title": "「浦和では何もできていない」…古巣相手に見せた姿 監督も称賛「もっと怖い選手になっていく」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678630",
+      "pubDate": "2026-10-10T11:00:34.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678630"
+        }
+      ]
+    },
     {
       "title": "清水商元監督・大瀧雅良さん告別式 田嶋幸三氏、野々村チェアマンらが参列 最後の別れ(日刊スポーツ)",
       "summary": "3日に病気のため75歳で亡くなった清水商（現清水桜が丘）サッカー部元監督の大瀧雅良氏の葬儀・告別式が10日、静岡市の斎場で営まれた。日本サッカー協会の田嶋幸三名誉会長（68）やJリーグの野々村芳和チェ",
@@ -826,6 +1112,27 @@
       ]
     },
     {
+      "title": "東京Vが大成高の188cmGK高橋恒輝の加入内定を発表「責任と覚悟を」",
+      "summary": "東京ヴェルディは9日、大成高のGK高橋恒輝(17)の27年1月加入が内定したと発表した。クラブは2種登録も完了させており、今季の背番号は61になる。 高橋は身長188cmの長身を誇るGKで、25年の国スポ少年男子の部で、東京都代表として日本…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460570-460570-fl",
+      "pubDate": "2026-10-09T07:26:27.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460570-460570-fl"
+        }
+      ]
+    },
+    {
       "title": "選手時代にJFLでMVP…瀬田貴仁主審が横浜FM対京都産業大で笛(5枚)",
       "summary": "天皇杯3回戦が7日に行われ、日産スタジアムでは横浜F・マリノスが京都産業大に2-1で勝利した。●第106回天皇杯特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
       "link": "https://web.gekisaka.jp/photonews/emperorscup/detail/?460569-460569-pn",
@@ -966,25 +1273,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/678362"
-        }
-      ]
-    },
-    {
-      "title": "コンセプトは「TIMELESS」横浜FMが2試合で着用するスペシャルユニフォームを発表",
-      "summary": "横浜F・マリノスは9日、2026-27シーズンのスペシャルユニフォームを発表した。 コンセプトは「TIMELESS」。クラブは「横浜F・マリノスは、時代やメンバーが変わっても、常にタイトルを争うクラブであり続けてきた。その歩みを支えてきた『…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460563-460563-fl",
-      "pubDate": "2026-10-09T03:15:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460563-460563-fl"
         }
       ]
     },
@@ -15095,84 +15383,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0d66c0c83462278eca9de379260944c1dea1bcf3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ブライトンとの契約最終年 英紙が日本代表FW三笘薫の去就に注目。新シーズンはプレミアでベンチ外続く(theWORLD（ザ・ワールドWeb）)",
-      "summary": "プレミアリーグのブライトンに所属する三笘薫の去就に注目が集まっている。 Jリーグでは川崎フロンターレでプレイし、2021年にブライトンに加入した三笘。その後は一時ベルギーのロイヤル・ユニオン・サン・",
-      "link": "https://news.yahoo.co.jp/articles/9697b1de09fddb5c8a28da749b7fc04b4e79965c?source=rss",
-      "pubDate": "2026-09-10T14:00:14.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9697b1de09fddb5c8a28da749b7fc04b4e79965c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「11人で獲ったゴール」広島・鈴木章斗の一撃がJ1月間ベストゴールに！ 流麗な連係に驚きの声(スポーティングニュース日本版)",
-      "summary": "J1・8月度ベストゴールは広島・鈴木章斗！ 中野就斗→川辺駿→鈴木章斗、13本のパスから生まれた流麗な連係弾 9月10日（木）、Jリーグは明治安田J1リーグ8月度のベストゴールを、8月15日（土）に",
-      "link": "https://news.yahoo.co.jp/articles/2c0daf282a748fc92ddfaf4ad4a67a66c3ee81cd?source=rss",
-      "pubDate": "2026-09-10T11:19:12.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2c0daf282a748fc92ddfaf4ad4a67a66c3ee81cd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「兄・鎌田大地に負けじと…」仙台・鎌田大夢が技あり2発！ ロングドリブル＆絶妙トラップからの一撃に反響(スポーティングニュース日本版)",
-      "summary": "9月9日（水）、JリーグYBCルヴァンカップ1stラウンド1回戦が行われ、J3の福島ユナイテッドFC（福島）はJ2のベガルタ仙台（仙台）に4-3で勝利し、2回戦に駒を進めた。 敗れた仙台だったが、こ",
-      "link": "https://news.yahoo.co.jp/articles/a0a026ec1d6a2fa315c3cab2070c0ddb7eb423e6?source=rss",
-      "pubDate": "2026-09-10T11:03:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a0a026ec1d6a2fa315c3cab2070c0ddb7eb423e6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「右サイドは託したよ」。福田心之助の言葉を胸に――。京都サンガF.C.石田侑資が挑むJ1「もっと相手が手を焼くような選手に」【コラム】(フットボールチャンネル)",
-      "summary": "J3からJ2、そしてJ1へ。石田侑資は一歩ずつ歩みを進めてきた。今季から京都サンガF.C.でJ1に挑んでいる23歳は、福田心之助の海外移籍を転機に右サイドバックの先発機会をつかんだ。9月2日の横浜F",
-      "link": "https://news.yahoo.co.jp/articles/6f6706e07f6707d94f40477e6a2d50985d44085e?source=rss",
-      "pubDate": "2026-09-10T11:02:16.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6f6706e07f6707d94f40477e6a2d50985d44085e?source=rss"
         }
       ]
     }
