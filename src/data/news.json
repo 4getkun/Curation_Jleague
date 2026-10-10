@@ -1,7 +1,24 @@
 {
-  "generatedAt": "2026-10-10T19:37:52.371Z",
-  "count": 784,
+  "generatedAt": "2026-10-10T23:04:41.332Z",
+  "count": 783,
   "items": [
+    {
+      "title": "J1デビュー直前に困惑「うわ、出るのか」 JFLから2年で辿り着いた舞台も…繰り返した「全然ダメ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678625",
+      "pubDate": "2026-10-10T20:01:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678625"
+        }
+      ]
+    },
     {
       "title": "FC東京 5年ぶり4連勝! J1デビューのDF永野が2点目起点「フリーなのは見えていた」(スポニチアネックス)",
       "summary": "◇明治安田J1第9節 FC東京3―0浦和（2026年10月10日 味スタ） 明治安田J1リーグは4試合が行われ、FC東京はホームで浦和を3―0で下し、5年ぶりの4連勝を飾った。U―21日本代表DF永野",
@@ -47,8 +64,8 @@
       "summary": "＜明治安田J1：京都0－1町田＞◇第9節◇10日◇サンガS FC町田ゼルビアのFW小川航基（29）が、決勝ゴールにつながるヘディングシュートで日本代表の森保一監督（58）にアピールした。【写真】京都－",
       "link": "https://news.yahoo.co.jp/articles/1c93ae1ee018425ed9b0ab8ae18bc0f5b4e92600?source=rss",
       "pubDate": "2026-10-10T15:40:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "zelvia"
       ],
@@ -57,8 +74,8 @@
       ],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/1c93ae1ee018425ed9b0ab8ae18bc0f5b4e92600?source=rss"
         }
       ]
@@ -1135,6 +1152,25 @@
       ]
     },
     {
+      "title": "相模原vs讃岐 スタメン発表",
+      "summary": "[10.9 J3第10節](ギオンス)※18:30開始主審:北沢倫章[SC相模原]先発GK 21 金珉浩DF 2 綿引康DF 5 山内琳太郎DF 13 常田克人DF 19 沖田空MF 4 島川俊郎MF 8 神戸康輔MF 10 中山陸MF 1…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460572-460572-fl",
+      "pubDate": "2026-10-09T08:20:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460572-460572-fl"
+        }
+      ]
+    },
+    {
       "title": "柏レイソル対ヴィッセル神戸 スタメン発表",
       "summary": "日本時間9日（金）19時から行われる2026/27シーズンの明治安田J1リーグ第9節・柏レイソル対ヴィッセル神戸のスタメンが発表された。",
       "link": "https://www.footballchannel.jp/2026/10/09/post1029834/",
@@ -1148,27 +1184,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/09/post1029834/"
-        }
-      ]
-    },
-    {
-      "title": "東京Vが大成高の188cmGK高橋恒輝の加入内定を発表「責任と覚悟を」",
-      "summary": "東京ヴェルディは9日、大成高のGK高橋恒輝(17)の27年1月加入が内定したと発表した。クラブは2種登録も完了させており、今季の背番号は61になる。 高橋は身長188cmの長身を誇るGKで、25年の国スポ少年男子の部で、東京都代表として日本…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460570-460570-fl",
-      "pubDate": "2026-10-09T07:26:27.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460570-460570-fl"
         }
       ]
     },
@@ -15385,44 +15400,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/672647"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】敵地福岡でわずか１勝…新庄監督「見習うところはたくさん」雪辱の機会見据える(日刊スポーツ)",
-      "summary": "＜ソフトバンク3－2日本ハム＞◇10日◇みずほペイペイドーム 「強かった。今年のホークスは強かったね。見習うところはたくさんあった」。日本ハム新庄剛志監督（54）は、潔く敗戦を受け入れるしかなかっ",
-      "link": "https://news.yahoo.co.jp/articles/113c5042610a273f3cfe42c7fc66cc7a9aef73ea?source=rss",
-      "pubDate": "2026-09-10T21:30:02.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/113c5042610a273f3cfe42c7fc66cc7a9aef73ea?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「買うしかない」J1神戸、アジア制覇へ向けた“新・戦闘服”発表!シンプル美を極めたACL専用ユニに「格好いい!」「イイね」歴史に残る1枚へ(サッカー批評Web)",
-      "summary": "J1ヴィッセル神戸が発表した、AFCチャンピオンズリーグ（ACL）用の特製ユニフォームが「シンプルで美しすぎる」とサッカーファンの間で大きな話題を呼んでいる。 初めての秋春制として幕を開け、早く",
-      "link": "https://news.yahoo.co.jp/articles/0d66c0c83462278eca9de379260944c1dea1bcf3?source=rss",
-      "pubDate": "2026-09-10T21:06:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0d66c0c83462278eca9de379260944c1dea1bcf3?source=rss"
         }
       ]
     }
