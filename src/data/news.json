@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-11T19:47:35.139Z",
-  "count": 765,
+  "generatedAt": "2026-10-11T23:18:20.123Z",
+  "count": 764,
   "items": [
+    {
+      "title": "FC東京が調布市で「コラボ給食」を提供 石川直宏が小学校で食育授業を実施「盛り上げていきたい」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678746",
+      "pubDate": "2026-10-11T21:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678746"
+        }
+      ]
+    },
     {
       "title": "東京V 9戦勝ちなし最下位転落…相馬新監督初陣飾れず「できるだけ早く最初の白星つかみたい」(スポニチアネックス)",
       "summary": "◇明治安田J1第9節 東京V 0―2 広島（2026年10月11日 味スタ） 明治安田J1リーグは4試合を行い、相馬直樹新監督（55）が率いる東京Vが広島に0―2で敗れて開幕から9戦勝ちなしで、最下位",
@@ -14998,44 +15017,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/12/post1008936/"
-        }
-      ]
-    },
-    {
-      "title": "J1神戸・DF山川哲史が意地の決勝点「失点を引きずらずにやろうと」 優勝争いのライバルを下す(サンケイスポーツ)",
-      "summary": "明治安田J1リーグ第7節第1日（11日、神戸2－1鹿島、ノエスタ）神戸が4連勝。勝ち点を16とした。主将のDF山川哲史（28）が意地の決勝点を決めた。 後半序盤、右足シュートで相手のハンドを誘って先",
-      "link": "https://news.yahoo.co.jp/articles/e385d9b3eb0e88364a2884db4d5b136d7f547cd4?source=rss",
-      "pubDate": "2026-09-11T23:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e385d9b3eb0e88364a2884db4d5b136d7f547cd4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "DeNA・度会隆輝が逆転弾 広島下して3連勝、CS進出とゲーム差減少へ「やるべきことをしっかり」(サンケイスポーツ)",
-      "summary": "セ・リーグ3位のDeNAは11日、広島22回戦（マツダ）に6－1で勝ち、3連勝を飾った。8月から1番打者を担う度会隆輝外野手（23）が、1点を追う八回に逆転の右越え9号3ランを放った。チーム最多117",
-      "link": "https://news.yahoo.co.jp/articles/07ccf5b9de4d12c7e1a147b64112815729700644?source=rss",
-      "pubDate": "2026-09-11T23:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/07ccf5b9de4d12c7e1a147b64112815729700644?source=rss"
         }
       ]
     }
