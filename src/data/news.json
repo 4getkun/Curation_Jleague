@@ -1,7 +1,203 @@
 {
-  "generatedAt": "2026-10-11T02:01:00.767Z",
+  "generatedAt": "2026-10-11T09:06:12.278Z",
   "count": 779,
   "items": [
+    {
+      "title": "川崎Fは終盤の猛反撃及ばず4戦ぶりの2敗目 名古屋は山岸決勝弾で連敗を4で止める(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第9節 川崎F 1―2 名古屋（2026年10月11日 U等々力） 前節7位の川崎Fはホームで同17位の名古屋に1―2で競り負けた。開始2分の左CKで相手DF藤井に豪快な右足ボレー",
+      "link": "https://news.yahoo.co.jp/articles/4845f8abb9d6b4946af02849039fdd801c917346?source=rss",
+      "pubDate": "2026-10-11T09:04:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4845f8abb9d6b4946af02849039fdd801c917346?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "勝負を決めた衝撃スプリント！ 清水エスパルス、須貝英大の逆転ゴールが凄い！ 勝点3をもたらした圧巻の後半AT弾",
+      "summary": "清水エスパルスは11日、2026/27明治安田J1リーグ第9節で水戸ホーリーホックと対戦し、2-1の勝利を収めた。この試合では、須貝英大が逆転ゴールをマーク。試合終盤とは思えないスプリントで決めた圧巻の得点だった。",
+      "link": "https://www.footballchannel.jp/2026/10/11/post1030866/",
+      "pubDate": "2026-10-11T09:03:24.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/11/post1030866/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7e2f016aef3b6c1866d1d739715dd0036d08692a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "山岸V弾!!名古屋が敵地で川崎Fを下して連敗を4で止める(ゲキサカ)",
+      "summary": "[10.11 J1第9節 川崎F2-1名古屋 U等々力] 名古屋グランパスが敵地で川崎フロンターレを2-1で下した。名古屋はリーグの連敗を4でストップ。川崎Fはリーグ4試合ぶりの黒星となった。 立ち上",
+      "link": "https://news.yahoo.co.jp/articles/0fba567a7491c1bf09dd2af51b1e86c2fa295946?source=rss",
+      "pubDate": "2026-10-11T09:01:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0fba567a7491c1bf09dd2af51b1e86c2fa295946?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋が5試合ぶり白星！ 山岸祐也に待望の今季初得点、川崎Fを下す(サッカーキング)",
+      "summary": "2026/27明治安田J1リーグ第9節が11日に行われ、川崎フロンターレと名古屋グランパスが対戦した。【ゴール動画】川崎F vs 名古屋 開始2分、4連敗中の名古屋が先制する。藤井陽也が左からのコーナ",
+      "link": "https://news.yahoo.co.jp/articles/2960b59a7e7afc626947fe04f88256cbc9d9dfb0?source=rss",
+      "pubDate": "2026-10-11T08:58:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2960b59a7e7afc626947fe04f88256cbc9d9dfb0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋がリーグ戦５試合ぶりの白星！ 藤井陽也のゴラッソ＆山岸祐也の勝ち越し弾で川崎を２－１撃破(SOCCER DIGEST Web)",
+      "summary": "10月11日に開催されたJ１第９節で、川崎フロンターレと名古屋グランパスが前者のホームで対戦した。【動画】名古屋DF藤井陽也の圧巻ダイレクトボレー弾！ 試合は開始早々に動く。先制したのは名古屋。２分、",
+      "link": "https://news.yahoo.co.jp/articles/5b43c2686bd7cef4373769b24ba6d417b97fceae?source=rss",
+      "pubDate": "2026-10-11T08:58:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale",
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5b43c2686bd7cef4373769b24ba6d417b97fceae?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "森保監督が広島を称賛「力の差をしっかり出した」 予算規模に言及…10年ぶり帰還の浅野拓磨に期待",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678791",
+      "pubDate": "2026-10-11T08:38:40.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678791"
+        }
+      ]
+    },
+    {
+      "title": "途中出場直後の鮮烈弾！ サンフレッチェ広島、松本泰志の先制ゴールが圧巻！ 左45度でから決めたGK泣かせの一撃",
+      "summary": "サンフレッチェ広島は11日、2026/27明治安田J1リーグ第9節で東京ヴェルディとのアウェイゲームに臨み、2-0で快勝した。この試合では、松本泰志が先制ゴールをマーク。途中出場直後に決めた見事な一撃だった。",
+      "link": "https://www.footballchannel.jp/2026/10/11/post1030839/",
+      "pubDate": "2026-10-11T08:09:42.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/11/post1030839/"
+        }
+      ]
+    },
+    {
+      "title": "東京Vが最下位に転落 監督交代も広島に完封負けで9戦未勝利…浅野拓磨が10年ぶりにJ1出場",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678770",
+      "pubDate": "2026-10-11T07:56:46.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy",
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678770"
+        }
+      ]
+    },
+    {
+      "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
+      "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
+      "link": "https://www.footballchannel.jp/2026/10/11/post969138/",
+      "pubDate": "2026-10-11T02:57:44.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/11/post969138/"
+        }
+      ]
+    },
+    {
+      "title": "J2の最新順位表が「例年以上に接戦」 J1経験クラブがJ3降格危機…首位争いも混戦「カオス」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/678706",
+      "pubDate": "2026-10-11T02:40:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/678706"
+        }
+      ]
+    },
     {
       "title": "J1の最新順位表「上も下も地獄だ」 1〜4位勝ち点差はわずか“2″…残留争いも接戦「マジで総力戦だわ」",
       "summary": "",
@@ -472,6 +668,23 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/678561"
+        }
+      ]
+    },
+    {
+      "title": "甲府vs栃木C スタメン発表",
+      "summary": "[10.10 J2第10節](JITス)※16:00開始主審:小林拓矢[ヴァンフォーレ甲府]先発GK 97 東ジョンDF 17 福元竣DF 20 遠藤光DF 22 小出悠太MF 6 小林岩魚MF 13 村上千歩MF 16 末木裕也MF 23…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460656-460656-fl",
+      "pubDate": "2026-10-10T07:02:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460656-460656-fl"
         }
       ]
     },
@@ -1199,25 +1412,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/678402"
-        }
-      ]
-    },
-    {
-      "title": "相模原vs讃岐 スタメン発表",
-      "summary": "[10.9 J3第10節](ギオンス)※18:30開始主審:北沢倫章[SC相模原]先発GK 21 金珉浩DF 2 綿引康DF 5 山内琳太郎DF 13 常田克人DF 19 沖田空MF 4 島川俊郎MF 8 神戸康輔MF 10 中山陸MF 1…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460572-460572-fl",
-      "pubDate": "2026-10-09T08:20:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460572-460572-fl"
         }
       ]
     },
@@ -15104,207 +15298,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/aa68a4b00a8db58400ec0b2ae9558d4163e6ec7f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "好調浦和の指揮官「勝利は忘れて次に」 3連敗→3連勝…王者相手に完封も「受けて戦うようでは」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/672725",
-      "pubDate": "2026-09-11T08:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/672725"
-        }
-      ]
-    },
-    {
-      "title": "25年に日本代表デビューの22歳ボランチ、ドイツ古豪に移籍もベンチ外が続く…クラブ公式が現状を報告「U-23チームでの出場を検討」(SOCCER DIGEST Web)",
-      "summary": "今夏に清水エスパルスからブンデスリーガの古豪ボルシアMGに移籍した宇野禅斗は、怪我の影響で出遅れ、開幕からベンチ外が続いている。 クラブの公式SNSは９月９日、そんな22歳のMFがミニゲームでゴ",
-      "link": "https://news.yahoo.co.jp/articles/c9ea8d0e586d106d995448200d5ba84595a16d62?source=rss",
-      "pubDate": "2026-09-11T07:47:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [
-        "trade",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c9ea8d0e586d106d995448200d5ba84595a16d62?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京V】城福監督「僕ら、空気感に惑わされちゃいけない」チーム状況が芳しくない？に反骨回答(日刊スポーツ)",
-      "summary": "東京ヴェルディは今季初勝利をかけ、次節13日にジェフユナイテッド千葉戦（味スタ）に臨む。現在19位にして相手は最下位20位。どちらも勝ち点奪取へ力が入る“裏天王山”だ。 11日、東京・稲城市のク",
-      "link": "https://news.yahoo.co.jp/articles/8987302f568ab8408e7c03b032d45ce767db68a1?source=rss",
-      "pubDate": "2026-09-11T06:58:11.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/8987302f568ab8408e7c03b032d45ce767db68a1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪は“原点回帰”でリーグ6試合ぶり勝ち点3つかむ あす12日・FC東京戦(スポニチアネックス)",
-      "summary": "G大阪はあす12日のホームFC東京戦へ向けて、吹田市内の練習場で非公開調整を行った。現在リーグ戦5試合勝ちなし。苦境に立つチームは、高い位置からのプレスと強度をベースとした“原点回帰”を目指す。",
-      "link": "https://news.yahoo.co.jp/articles/d5d3205dc84b8ac685122eee37ca2994c581682f?source=rss",
-      "pubDate": "2026-09-11T06:10:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d5d3205dc84b8ac685122eee37ca2994c581682f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京Ｖ】即戦力移籍の一美和成「結果残す」次節千葉戦へ城福監督も「最短でアジャストさせる」(日刊スポーツ)",
-      "summary": "東京ヴェルディに新加入したFW一美（いちみ）和成（28）が11日、即戦力として「自分に求められるものはゴール」と覚悟を口にした。 前日の10日にファジアーノ岡山からの完全移籍が発表されたばかり。",
-      "link": "https://news.yahoo.co.jp/articles/49888d47afa2fb0957964889a34de55b11c794f4?source=rss",
-      "pubDate": "2026-09-11T06:03:10.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/49888d47afa2fb0957964889a34de55b11c794f4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪FW土信田悠生「数字残さないと意味がない」パト直伝ヘッドでデビュー弾狙う 12日・FC東京戦(スポニチアネックス)",
-      "summary": "G大阪はあす12日のホームFC東京戦へ向けて、吹田市内の練習場で非公開調整を行った。J2宮崎から完全移籍で電撃加入したFW土信田悠生はJ1デビュー戦でのゴールへ気合。「FWなので数字を残さないと意味",
-      "link": "https://news.yahoo.co.jp/articles/9a80389f4834349da83a3a01132f92fcb3687f75?source=rss",
-      "pubDate": "2026-09-11T06:02:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9a80389f4834349da83a3a01132f92fcb3687f75?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【G大阪】９日加入の土信田悠生が12日東京戦で即J１デビューも「特長出せばやれる」(日刊スポーツ)",
-      "summary": "ガンバ大阪に加入したFW土信田（としだ）悠生（27）が、自身初となるJ1舞台での活躍に向けて意欲を語った。 9日にJ2テゲバジャーロ宮崎からの完全移籍加入が発表され、11日は新天地で3日目のトレ",
-      "link": "https://news.yahoo.co.jp/articles/9794e8401eae98b38342a054713b1bb0b487871a?source=rss",
-      "pubDate": "2026-09-11T06:01:01.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/9794e8401eae98b38342a054713b1bb0b487871a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【東京】長友佑都、12日に40歳「勝って祝いたい」G大阪戦「持っているかは結果次第」(日刊スポーツ)",
-      "summary": "FC東京は11日、ガンバ大阪戦（12日、パナスタ）に向けて東京・小平グラウンドで調整した。 DF長友佑都（39）は試合当日に40歳の誕生日を迎える。「勝って祝いたいなという気持ちしかない」と、節",
-      "link": "https://news.yahoo.co.jp/articles/404751205cdec2ac8d1a1ce260c666ef289a409e?source=rss",
-      "pubDate": "2026-09-11T03:31:42.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "fc-tokyo",
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/404751205cdec2ac8d1a1ce260c666ef289a409e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "浦和退団→欧州1部へ加入「おおお！」 元代表FWの去就決定に「今夏、最も驚いた移籍の一つ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/672696",
-      "pubDate": "2026-09-11T03:19:44.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/672696"
-        }
-      ]
-    },
-    {
-      "title": "【今日のJリーグ】9月11日 2026/27明治安田Jリーグのキックオフ時間・放送予定・対戦カードは？",
-      "summary": "明治安田J1リーグは11日、第7節の2試合が開催される。キックオフ時間や放送予定、対戦カードなどは以下の通り。",
-      "link": "https://www.footballchannel.jp/2026/09/11/post1008924/",
-      "pubDate": "2026-09-11T02:30:11.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/11/post1008924/"
         }
       ]
     }
