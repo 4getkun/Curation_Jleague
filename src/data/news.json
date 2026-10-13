@@ -1,22 +1,58 @@
 {
-  "generatedAt": "2026-10-13T16:34:30.027Z",
-  "count": 735,
+  "generatedAt": "2026-10-13T21:38:28.060Z",
+  "count": 736,
   "items": [
     {
-      "title": "【ACLE】京都MF新井晴樹、悔しさ乗り越え決勝弾アシスト「最高っすね。崩れ落ちました」(日刊スポーツ)",
-      "summary": "＜アジア・チャンピオンズリーグ・エリート（ACLE）：京都1－0ラチャブリ＞◇13日◇東地区1次リーグ第2節◇サンガS 京都サンガF.C.がホームでラチャブリ（タイ）を1－0で下し、初参戦のアジア・チ",
-      "link": "https://news.yahoo.co.jp/articles/07179a77c87a933a5cf81f451d017f629add3cb9?source=rss",
-      "pubDate": "2026-10-13T14:51:04.000Z",
+      "title": "波打つダイヤ柄に「美しい模様を描き出す」 ドイツ名門の新ユニ…専門家絶賛「アイデンティティを滲み出す」(FOOTBALL ZONE)",
+      "summary": "2026-27シーズンから秋春制へと移行したJリーグ。Jリーグとともに欧州各国でもすでに開幕しているなかで、サッカーユニフォーム研究家である「ともさん」はボルシア・メンヘングラッドバッハ（MG）のユニ",
+      "link": "https://news.yahoo.co.jp/articles/6d665b6ba44cb834b3d4c78ecf7115463ca292d0?source=rss",
+      "pubDate": "2026-10-13T21:10:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6d665b6ba44cb834b3d4c78ecf7115463ca292d0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋グランパス・ミシャ監督が示す自省の哲学…14日ルヴァン杯岡山戦へ、自分たちとの闘い強調「『なぜ』を自分自身に矢印を向けないと」(中日スポーツ)",
+      "summary": "名古屋グランパスは14日にルヴァン・カップ3回戦の岡山戦（岐阜メモリアルセンターヒマラヤスタジアム岐阜）に臨む。13日は愛知県豊田市のトヨタスポーツセンターで調整。ミハイロ・ペトロビッチ監督は、相手の",
+      "link": "https://news.yahoo.co.jp/articles/771cca3a55abc17bf54c0b62ad3dee3e3f973465?source=rss",
+      "pubDate": "2026-10-13T21:00:53.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "sanga"
+        "grampus"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/771cca3a55abc17bf54c0b62ad3dee3e3f973465?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ACLE】京都MF新井晴樹、悔しさ乗り越え決勝弾アシスト「最高っすね。崩れ落ちました」(日刊スポーツ)",
+      "summary": "＜アジア・チャンピオンズリーグ・エリート（ACLE）：京都1－0ラチャブリ＞◇13日◇東地区1次リーグ第2節◇サンガS 京都サンガF.C.がホームでラチャブリ（タイ）を1－0で下し、初参戦のアジア・チ",
+      "link": "https://news.yahoo.co.jp/articles/07179a77c87a933a5cf81f451d017f629add3cb9?source=rss",
+      "pubDate": "2026-10-13T14:51:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/07179a77c87a933a5cf81f451d017f629add3cb9?source=rss"
         }
       ]
@@ -166,16 +202,16 @@
       "summary": "＜アジア・チャンピオンズリーグ・エリート（ACLE）：京都1－0ラチャブリ＞◇13日◇東地区1次リーグ第2節◇サンガS【写真】後半、決勝ゴールを決める京都・松田天馬 京都サンガF.C.がホームでラチャ",
       "link": "https://news.yahoo.co.jp/articles/58a19b00ba3982ed2c284f7c59d3ee3de7ac199a?source=rss",
       "pubDate": "2026-10-13T13:57:50.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanga"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/58a19b00ba3982ed2c284f7c59d3ee3de7ac199a?source=rss"
         }
       ]
@@ -14430,23 +14466,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/673138"
-        }
-      ]
-    },
-    {
-      "title": "槙野監督の下で成長も「本当に悔しいです」 J1の壁を実感…自国開催で「言い訳はできない」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673077",
-      "pubDate": "2026-09-13T20:10:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673077"
         }
       ]
     }
