@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T21:38:28.060Z",
-  "count": 736,
+  "generatedAt": "2026-10-14T00:43:43.489Z",
+  "count": 733,
   "items": [
     {
       "title": "波打つダイヤ柄に「美しい模様を描き出す」 ドイツ名門の新ユニ…専門家絶賛「アイデンティティを滲み出す」(FOOTBALL ZONE)",
@@ -1040,19 +1040,21 @@
       ]
     },
     {
-      "title": "鳥取vs岐阜 試合記録",
-      "summary": "【J3第10節】(ヤジン)鳥取 0-1(前半0-0)岐阜[岐]屋嘉比奏汰(50分)[鳥]ローレンス・マルコ(63分)[鳥]ローレンス・マルコ2(39分、63分)[岐]泉澤仁(32分)観衆:3,071人主審:矢野浩平[ガイナーレ鳥取]先発GK…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460765-460765-fl",
-      "pubDate": "2026-10-11T10:50:02.000Z",
+      "title": "百年構想リーグ10発もJ1では8戦不発…名古屋FW山岸祐也に待望の初ゴール「本当にホッとした」4連敗ストップの決勝弾",
+      "summary": "[10.11 J1第9節 川崎F1-2名古屋 U等々力] ようやく、ストライカーが結果を出した。名古屋グランパスのFW山岸祐也が、1-1で迎えた後半28分に勝ち越しゴール。4連敗中だったチームに、5試合ぶりの白星をもたらした。 後半20分か…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460786-460786-fl",
+      "pubDate": "2026-10-11T11:09:33.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "grampus"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460765-460765-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460786-460786-fl"
         }
       ]
     },
@@ -14406,66 +14408,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/14/post969132/"
-        }
-      ]
-    },
-    {
-      "title": "G大阪、FC東京FW小柏剛を完全移籍で獲得 チームは6戦未勝利で低迷「名に恥じないよう全力で闘う」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673150",
-      "pubDate": "2026-09-14T00:03:11.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "gamba",
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673150"
-        }
-      ]
-    },
-    {
-      "title": "J1上位クラブが南米名門FWを獲得か 当初は拒否も…手続きのため来日と報道「協議の継続を決めた」(FOOTBALL ZONE)",
-      "summary": "ブラジル1部サントスに所属するFWモイゼスは、FC東京への移籍交渉を完了させるため来日したと、ブラジルメディア「TNS Sul」が伝えている。 30歳のモイゼスは、FC東京との交渉における必要な",
-      "link": "https://news.yahoo.co.jp/articles/2ce9a83860d278cae46c4564f71893bb70d72c1a?source=rss",
-      "pubDate": "2026-09-13T23:36:06.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2ce9a83860d278cae46c4564f71893bb70d72c1a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1上位クラブが南米名門FWを獲得か 当初は拒否も…手続きのため来日と報道「協議の継続を決めた」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673138",
-      "pubDate": "2026-09-13T23:36:06.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673138"
         }
       ]
     }
