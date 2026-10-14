@@ -1,7 +1,393 @@
 {
-  "generatedAt": "2026-10-14T10:49:11.160Z",
-  "count": 727,
+  "generatedAt": "2026-10-14T15:37:00.222Z",
+  "count": 746,
   "items": [
+    {
+      "title": "【ルヴァン杯】横浜Ｍ・谷村海那 同点弾で勝利貢献の裏に上田綺世の〝秘技〟「細かいパスがうまい」(東スポWEB)",
+      "summary": "J1横浜MのFW谷村海那が、森保ジャパンのエースストライカーから得た学びでさらなる成長を見せている。 横浜Mは14日、ルヴァンカップ3回戦（日産）でJ1清水に2―1で勝利。谷村は0―0で折り返した後半",
+      "link": "https://news.yahoo.co.jp/articles/39ed1d33e4bd8430a695accea0aabcd04910477c?source=rss",
+      "pubDate": "2026-10-14T14:35:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/39ed1d33e4bd8430a695accea0aabcd04910477c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「結果も内容もポジティブ」九州ダービー制したJ2鳥栖、リーグでも反転攻勢へ(西スポWEB OTTO!)",
+      "summary": "◆ヤマザキビスケット・ルヴァンカップ1次ラウンド3回戦 J2鳥栖 2―1 J1福岡（14日・駅前不動産スタジアム） チームにとってはJリーグ公式戦10年ぶり、自身にとっては初の九州ダービー勝利。鳥栖の",
+      "link": "https://news.yahoo.co.jp/articles/bfda76a719747320c45fcd8b68bb7c209149a970?source=rss",
+      "pubDate": "2026-10-14T14:34:05.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bfda76a719747320c45fcd8b68bb7c209149a970?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "サポーターからは容赦ないブーイング 「申し訳ない気持ちでいっぱい…」 J1福岡がJ2鳥栖に黒星(西スポWEB OTTO!)",
+      "summary": "ゴール裏を埋め尽くしたアビスパサポーターから容赦ないブーイングが浴びせられた。2年ぶりの「九州ダービー」で敗れ、福岡の上島主将は「結果をつかみ取れなかったことに対して非常に申し訳ない気持ちでいっぱい」",
+      "link": "https://news.yahoo.co.jp/articles/50b01c730c0d8c434f7dd12b28473d3f30fe430d?source=rss",
+      "pubDate": "2026-10-14T14:33:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/50b01c730c0d8c434f7dd12b28473d3f30fe430d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋グランパス・甲田英將が2ゴール「これで終わったら意味がない」 切れあるドリブル炸裂！出場機会に飢えた若手は「気を緩めずにアピール」【ルヴァン杯】(中日スポーツ)",
+      "summary": "◇14日 ルヴァン・カップ3回戦 名古屋3―3（PK戦4―3）岡山（ヒマスタ） 名古屋グランパスはPK戦の末に岡山を下し、4回戦に進んだ。ドリブラーの甲田英將（23）の2得点などで試合を優位に進め、追",
+      "link": "https://news.yahoo.co.jp/articles/763ca748804bd8d001a094280b797319da12b12f?source=rss",
+      "pubDate": "2026-10-14T14:31:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/763ca748804bd8d001a094280b797319da12b12f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "C大阪が苦しみながらも4回戦進出！ 鳥取は二度追いつく粘りも及ばず、今季4回目のジャイアントキリングならず◎ルヴァンカップ3回戦(サッカーマガジンWeb)",
+      "summary": "ヤマザキビスケット・ルヴァンカップのファーストラウンド3回戦12試合が10月14日に各地で開催され、鳥取県鳥取市のAxisバードスタジアムではJ3のガイナーレ鳥取とJ1のセレッソ大阪が対戦した。C大阪",
+      "link": "https://news.yahoo.co.jp/articles/9c38f53b613c81f2cae9f500203dfb191c6e4c83?source=rss",
+      "pubDate": "2026-10-14T14:31:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9c38f53b613c81f2cae9f500203dfb191c6e4c83?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】名古屋の15歳と16歳のU－17代表候補がトップチームデビュー／年少出場一覧(日刊スポーツ)",
+      "summary": "＜ルヴァン杯：名古屋3（4PK3）3岡山＞◇14日◇1次ラウンド3回戦◇岐阜メモリアルセンターヒマラヤスタジアム岐阜【トーナメント表】ルヴァン杯2回戦以降勝ち上がり Jリーグ・ヤマザキビスケット・ルヴ",
+      "link": "https://news.yahoo.co.jp/articles/b7b516eb8f27ac22dc0844918ef0953d84b890b6?source=rss",
+      "pubDate": "2026-10-14T14:30:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b7b516eb8f27ac22dc0844918ef0953d84b890b6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】浦和が横浜ＦＣに快勝！ ＦＣ東京戦の反省を即修正 笹修大「前プレスが本当にハマった」(東スポWEB)",
+      "summary": "ルヴァンカップ3回戦（14日、ニッパツ）、J1浦和がJ2横浜FCを4―0で退けた。 立ち上がりからボールを握った浦和は前半7分、ペナルティーエリア内でMF笹修大のパスを受けたFW肥田野蓮治が左足を振り",
+      "link": "https://news.yahoo.co.jp/articles/d244886f85b5fda1949bb401b50255332964db50?source=rss",
+      "pubDate": "2026-10-14T14:15:30.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d244886f85b5fda1949bb401b50255332964db50?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ACLE】大迫勇也の先制弾で神戸が開幕連勝 アジア制覇へ「気を引き締めてやり続けたい」(日刊スポーツ)",
+      "summary": "＜アジア・チャンピオンズリーグ・エリート（ACLE）：神戸2－0全北現代＞◇14日◇東地区1次リーグ第2節◇ノエスタ【写真】先制ゴールを決め駆け出す神戸大迫 ヴィッセル神戸が全北現代（韓国）を2－0で",
+      "link": "https://news.yahoo.co.jp/articles/2c0eeac04032a3222099ab00ca27b3e32098a3aa?source=rss",
+      "pubDate": "2026-10-14T14:12:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2c0eeac04032a3222099ab00ca27b3e32098a3aa?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】横浜ユース所属DF藤井翔大フル出場で勝利貢献「自信になりました」(日刊スポーツ)",
+      "summary": "＜ルヴァン杯：横浜2－1清水＞◇14日◇3回戦◇日産スタジアム 横浜F・マリノスのユース所属の2種登録DF藤井翔大（18）が、公式戦2戦目にしてフル出場を果たし、チームの逆転勝ちに貢献した。 沈着冷静",
+      "link": "https://news.yahoo.co.jp/articles/3408bffa0292a3ac2db6def137262a5dabe4d0e0?source=rss",
+      "pubDate": "2026-10-14T13:58:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3408bffa0292a3ac2db6def137262a5dabe4d0e0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ACLE】追加点アシストの神戸FW武藤「僕らは連敗して良いチームではない」柏戦大敗ショック払拭(スポニチアネックス)",
+      "summary": "◇アジア・チャンピオンズリーグエリート第2節 神戸 2―0 全北（2026年10月14日 ノエスタ） 神戸は全北（韓国）とホームで対戦し、2―0で勝利した。前半12分にDF永戸勝也のCKをFW大迫勇也",
+      "link": "https://news.yahoo.co.jp/articles/f3fe54a4b727706f0dec070ab3fc39f91093ef91?source=rss",
+      "pubDate": "2026-10-14T13:58:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f3fe54a4b727706f0dec070ab3fc39f91093ef91?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "大迫が電光石火の先制点「いいスタート」 守備陣も奮闘、韓国王者撃破でACLE2連勝(産経新聞)",
+      "summary": "サッカーのアジア・チャンピオンズリーグ・エリート（ACLE）は14日、東地区1次リーグ第2戦が行われ、前回大会ベスト4の神戸はホームで全北（韓国）に2―0で快勝し、2連勝で勝ち点6とした。大迫らが得点",
+      "link": "https://news.yahoo.co.jp/articles/4689d0e6a7474590070294dc5a85ff08b20489b5?source=rss",
+      "pubDate": "2026-10-14T13:58:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4689d0e6a7474590070294dc5a85ff08b20489b5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【Jリーグ】ルヴァン杯4回戦の試合開始時間、会場が決定 名古屋グランパスは10月28日に豊田スタジアムで浦和と対戦(中日スポーツ)",
+      "summary": "Jリーグは14日、この日行われたルヴァン杯3回戦の結果を受け、4回戦の試合開始時間、会場が決定したと発表した。◆名古屋グランパス ルヴァン杯・岡山戦に向け調整 10月13日の練習 冒頭・居残りの様子【",
+      "link": "https://news.yahoo.co.jp/articles/f05a287a1f0176cfe6fc8052bab6c9a272acb53f?source=rss",
+      "pubDate": "2026-10-14T13:57:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/f05a287a1f0176cfe6fc8052bab6c9a272acb53f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】横浜・谷村海那が値千金同点弾「もう一度代表に戻るためゴールを取り続けるしか」(日刊スポーツ)",
+      "summary": "＜ルヴァン杯：横浜2－1清水＞◇14日◇1次ラウンド3回戦◇日産スタジアム 横浜F・マリノスが清水エスパルスに2－1で逆転勝ちし、4回戦に進出した。【トーナメント表】ルヴァン杯2回戦以降勝ち上がり ◇",
+      "link": "https://news.yahoo.co.jp/articles/cf4c07dd419f7a7b87d6f91c078711ea9207d31d?source=rss",
+      "pubDate": "2026-10-14T13:51:00.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marinos",
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/cf4c07dd419f7a7b87d6f91c078711ea9207d31d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】清水FW嶋本悠大「前だったらどこでもできる」初挑戦の右ウイングで先制アシスト(日刊スポーツ)",
+      "summary": "＜ルヴァン杯：横浜2－1清水＞◇14日◇1次ラウンド3回戦◇日産ス 清水エスパルスFW嶋本悠大（19）が、初挑戦の右ウイングで先制点をアシストした。横浜に1－2で逆転負けを喫したが、「前だったらどこで",
+      "link": "https://news.yahoo.co.jp/articles/9c1acdc36e4c36979919f70c360a22b013a60ef4?source=rss",
+      "pubDate": "2026-10-14T13:49:51.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9c1acdc36e4c36979919f70c360a22b013a60ef4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】鳥栖はJ1勢に連勝 J2で唯一４回戦進出 J1の浦和と川崎ＦはJ2勢に大勝(日刊スポーツ)",
+      "summary": "Jリーグ・ヤマザキビスケット・ルヴァンカップは14日、1次ラウンド3回戦の8試合が行われ、J2サガン鳥栖がJ1アビスパ福岡に2－1で競り勝った。 1－1の後半にMF山内翔（24）が加入後初ゴールを決め",
+      "link": "https://news.yahoo.co.jp/articles/b47f1cf1da1b2138ffbac19ac2ee43d43075a730?source=rss",
+      "pubDate": "2026-10-14T13:27:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reds",
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b47f1cf1da1b2138ffbac19ac2ee43d43075a730?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァン杯】横浜が逆転勝ち！谷村海那が同点弾、知念慶が決勝ヘッド ベスト８へ王手(日刊スポーツ)",
+      "summary": "＜ルヴァン杯：横浜2－1清水＞◇14日◇1次ラウンド3回戦◇日産スタジアム 横浜F・マリノスが清水エスパルスに2－1で逆転勝ちし、4回戦に進出した。【トーナメント表】ルヴァン杯2回戦以降勝ち上がり 前",
+      "link": "https://news.yahoo.co.jp/articles/371934659bab4e03adaa7545d4bfd9edd43c06f4?source=rss",
+      "pubDate": "2026-10-14T13:17:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marinos",
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/371934659bab4e03adaa7545d4bfd9edd43c06f4?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ルヴァンカップ結果まとめ】ガイナーレ鳥取は3度目の“ジャイキリ”ならず…九州ダービーはサガン鳥栖に軍配",
+      "summary": "ルヴァンカップ JリーグYBCルヴァンカップ3回戦の8試合が14日に行われた。 横浜FCが浦和レッズをホームに迎えた一戦は、アウェイチームが先制に成功する。7分に流れるようなパスワークで右サイドから崩すと、肥田野蓮治 […]",
+      "link": "https://www.footballchannel.jp/2026/10/14/post1032645/",
+      "pubDate": "2026-10-14T12:49:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/14/post1032645/"
+        }
+      ]
+    },
+    {
+      "title": "ルヴァン杯3回戦、J1の4クラブが敗退決定 J2鳥栖が2戦連続で”ジャイキリ”…九州ダービーで福岡破る",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/679222",
+      "pubDate": "2026-10-14T12:46:15.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/679222"
+        }
+      ]
+    },
+    {
+      "title": "【ACLE結果まとめ】柏レイソルが怒涛の前半5発で初白星！ ヴィッセル神戸はホームで全北現代を下して開幕2連勝",
+      "summary": "AFCチャンピオンズリーグエリート（ACLE）のリーグステージ第2節が14日に行われた。Jリーグ勢では、柏レイソルがポートFC（タイ）と、ヴィッセル神戸が全北現代モータース（韓国）とそれぞれホームで対戦した。",
+      "link": "https://www.footballchannel.jp/2026/10/14/post1032630/",
+      "pubDate": "2026-10-14T11:52:21.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol",
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/14/post1032630/"
+        }
+      ]
+    },
+    {
+      "title": "J1首位の柏が今季ACLE初勝利 後半はポートFCに攻め込まれるも…前半だけで圧巻の5得点",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/679221",
+      "pubDate": "2026-10-14T11:51:16.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/679221"
+        }
+      ]
+    },
     {
       "title": "【ボートレース】平山智加 3枠から復活V照準「優勝したい気持ちは強い」／福岡(日刊スポーツ)",
       "summary": "＜福岡ボート＞◇5日目◇14日 平山智加（41＝香川）が復活のVを目指す。準優10Rはきっちり逃げて優出一番乗り。優勝戦の3枠を勝ち取った。 通算43度Vを誇る女子の実力者だが、意外なことに前回の優勝",
@@ -675,6 +1061,23 @@
       ]
     },
     {
+      "title": "群馬vs琉球 スタメン発表",
+      "summary": "[10.10 J3第10節](正田スタ)※14:00開始主審:上田隆生[ザスパ群馬]先発GK 13 近藤壱成DF 2 中村涼DF 3 大畑隆也DF 16 山原康太郎MF 19 モハマド・ファルザン佐名MF 22 貫真郷MF 27 藤村怜MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460649-460649-fl",
+      "pubDate": "2026-10-13T08:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460649-460649-fl"
+        }
+      ]
+    },
+    {
       "title": "『Jクラ』J1・J2全40クラブから440選手が登場！「レギュラー2026/27」カード配信開始",
       "summary": "株式会社コナミデジタルエンタテインメントは13日、モバイルゲーム『Jリーグクラブチャンピオンシップ』（以下、Jクラ）で、2026/27シーズンのJリーグデータを反映した「レギュラー2026/27」カードの配信を開始した。 今回のカードには、…",
       "link": "https://www.footballchannel.jp/2026/10/13/post1031685/",
@@ -916,23 +1319,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/65aaa070c27c84de289c449da633b3689fe7cde9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "湘南FW太田修介がトレーニング中に受傷…脳震盪と診断",
-      "summary": "湘南ベルマーレは12日、FW太田修介がトレーニング中に受傷し、脳震盪と診断されたことを発表した。現在は段階的な復帰プログラムに取り組んでいるという。 今季のJ2リーグ第10節終了時点で、太田は4試合に出場している。●2026-27シーズンJ…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460885-460885-fl",
-      "pubDate": "2026-10-12T13:23:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460885-460885-fl"
         }
       ]
     },
@@ -14269,25 +14655,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/15/post1010646/"
-        }
-      ]
-    },
-    {
-      "title": "【Ｇ大阪】J2新潟から藤原奏哉を獲得へ、右サイドバックや中盤こなせる31歳(日刊スポーツ)",
-      "summary": "ガンバ大阪がJ2アルビレックス新潟からDF藤原奏哉（31）を獲得することが、14日までにわかった。関係者によると、すでに合意に達しており、近日中に発表される見込み。 山口出身の藤原は18年に阪南",
-      "link": "https://news.yahoo.co.jp/articles/64bccf7310278096af20cc6134a6df45c1ce49ea?source=rss",
-      "pubDate": "2026-09-14T15:32:06.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/64bccf7310278096af20cc6134a6df45c1ce49ea?source=rss"
         }
       ]
     }
