@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-10-14T22:49:03.066Z",
-  "count": 750,
+  "generatedAt": "2026-10-15T01:04:39.060Z",
+  "count": 744,
   "items": [
+    {
+      "title": "「やっぱり悔しいですよ」。浦和レッズ、同期の活躍を見つめた植木颯が半年後に見せた“別人の姿”(フットボールチャンネル)",
+      "summary": "半年前、浦和レッズの植木颯は悔しさを隠せずにいた。ともに加入した同期が結果を残す一方、自身にはなかなか出場機会が訪れなかったからだ。しかし、今ではリーグ戦4試合連続で先発出場を果たし、曺貴裁監督のもと",
+      "link": "https://news.yahoo.co.jp/articles/3279230f2c0a99247fa30c334461d94c42db5981?source=rss",
+      "pubDate": "2026-10-15T01:01:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3279230f2c0a99247fa30c334461d94c42db5981?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「あかんうますぎる」「上田でもムリやろ」28歳日本代表FWのヒール落とし→鮮烈弾に驚嘆の声！「こんなのできるなんてしらねーよ」「海外に行ってしまいそう」(SOCCER DIGEST Web)",
+      "summary": "10月14日に行なわれたルヴァンカップの１stラウンド３回戦で、横浜F・マリノスは清水エスパルスとホームで対戦。61分に先制されたものの、72分に谷村海那、81分に知念慶がネットを揺らし、逆転勝利を飾",
+      "link": "https://news.yahoo.co.jp/articles/dbcedb0b32cdacca1fc4bc66fc170778d2695c68?source=rss",
+      "pubDate": "2026-10-15T00:59:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos",
+        "s-pulse"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/dbcedb0b32cdacca1fc4bc66fc170778d2695c68?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "逆転勝利の背景にあったマリノスMF喜田拓也のゲームマネジメント。前日にGK朴一圭と共有していたこととは【ルヴァン杯】(SOCCER DIGEST Web)",
+      "summary": "［ルヴァン杯１stラウンド３回戦］横浜FM ２－１ 清水／10月14日／日産スタジアム【動画】谷村、知念のゴールで清水に逆転勝利！「後ろは絶対に（失点を）１で我慢しよう。必ずチャンスは来るから」 横浜",
+      "link": "https://news.yahoo.co.jp/articles/e305c2b0925200e4df32ba6fac4c372daa7bc987?source=rss",
+      "pubDate": "2026-10-15T00:49:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e305c2b0925200e4df32ba6fac4c372daa7bc987?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル、ACLE初勝利も後半シュートわずか2本。前半5得点から一変、リカルド監督が語った「3枚替え」の狙い",
+      "summary": "柏レイソル リカルド・ロドリゲス監督【写真：松岡健三郎】 柏レイソルは14日、AFCチャンピオンズリーグエリート（ACLE）のリーグステージ第2節でポートFC（タイ）に5-1で勝利した。前半28分までに5得点を奪う圧巻 […]",
+      "link": "https://www.footballchannel.jp/2026/10/15/post1032804/",
+      "pubDate": "2026-10-15T00:39:50.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/15/post1032804/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/884e92d5b63423b760bb5bcf8d11a2bba7d40a0a?source=rss"
+        }
+      ]
+    },
     {
       "title": "【ルヴァン杯】J2鳥栖がJ1福岡を撃破！山内翔の決勝弾で九州ダービー制す(まるスポ)",
       "summary": "2026／27 Jリーグ ヤマザキビスケット ルヴァンカップは14日、1stラウンド3回戦を行い、J2のサガン鳥栖が駅前不動産スタジアムでJ1のアビスパ福岡に2―1で勝利した。山内翔の決勝ゴールで九州",
@@ -14522,212 +14606,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/15/post1011270/"
-        }
-      ]
-    },
-    {
-      "title": "FC東京が橋本健人の負傷を発表 6日の京都戦で受傷…右腓骨骨幹部骨折と診断",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673375",
-      "pubDate": "2026-09-15T01:02:55.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673375"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース、14年連続ポストシーズン進出決定…地区優勝マジックは『3』 スクバル本領7イニング無失点、タッカー先制弾＆テオスカー追撃2ラン(中日スポーツ)",
-      "summary": "◇１４日（日本時間１５日） レッズ１―４ドジャース（シンシナティ） ドジャースが勝利し、連敗を「２」でストップ。今季９１勝５９敗とし、１４年連続となるポストシーズン（ＰＳ）進出を確定させた。地区優",
-      "link": "https://news.yahoo.co.jp/articles/bea5e4f52c33290b7e17e0d8993cbe2e9203cdc5?source=rss",
-      "pubDate": "2026-09-15T00:56:20.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bea5e4f52c33290b7e17e0d8993cbe2e9203cdc5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース14年連続PS出場決定！ 地区優勝マジックは３に 先発スクーバル７回無失点の快投、タッカーとT・ヘルナンデスが一発攻勢(THE DIGEST)",
-      "summary": "現地９月14日、ロサンゼルス・ドジャースが敵地でシンシナティ・レッズと対戦し、４対１で勝利。14年連続のポストシーズン進出を決めた。 ２回、ドジャースが先制した。レッズの先発ニック・ロドーロの内",
-      "link": "https://news.yahoo.co.jp/articles/0265bc97c20f0ae2ecb61f6a3e1553732adeffc5?source=rss",
-      "pubDate": "2026-09-15T00:56:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0265bc97c20f0ae2ecb61f6a3e1553732adeffc5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース14年連続PS進出決定！スクバル圧巻７回０封で10勝目、タッカー＆T・ヘルナンデス弾(日刊スポーツ)",
-      "summary": "＜レッズ1－4ドジャース＞◇14日（日本時間15日）◇グレートアメリカンボールパーク ドジャースが14年連続のポストシーズン進出を決めた。レッズに快勝し、連敗を2でストップ。先発のタリク・スクバル",
-      "link": "https://news.yahoo.co.jp/articles/18f522451e216f1071d44cd31bce634842b7b535?source=rss",
-      "pubDate": "2026-09-15T00:55:58.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/18f522451e216f1071d44cd31bce634842b7b535?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京、26歳のDF橋本健人の負傷を発表。J1第6節の京都サンガF.C.戦で右腓骨骨幹部骨折",
-      "summary": "FC東京は15日、26歳のDF橋本健人が負傷したことを発表した。クラブ公式サイトで伝えられている。ここまでリーグ戦4試合に出場していたサイドバックの負傷だけに、FC東京にとって大きな痛手となるだろう。",
-      "link": "https://www.footballchannel.jp/2026/09/15/post1011183/",
-      "pubDate": "2026-09-15T00:42:13.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "fc-tokyo",
-        "sanga"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/15/post1011183/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/848556968a49ee9aff6ccdc1f7a57ce1288380a4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "G大阪がDF藤原奏哉の完全移籍加入を発表！…新潟に別れ「オレンジのユニフォームを着てプレーできたことは僕の誇り」(サッカーキング)",
-      "summary": "ガンバ大阪は15日、アルビレックス新潟からDF藤原奏哉が完全移籍加入することを発表した。 藤原は1995年生まれの現在31歳。阪南大学を経て2018年にギラヴァンツ北九州でプロキャリアをスタート",
-      "link": "https://news.yahoo.co.jp/articles/33340e85137d535dcc8cb1745c6dd036a2e4e341?source=rss",
-      "pubDate": "2026-09-15T00:34:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/33340e85137d535dcc8cb1745c6dd036a2e4e341?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース守護神ディアスはマイナーで炎上、復帰遅れ「もっといい投球を」ロバーツ監督(日刊スポーツ)",
-      "summary": "＜レッズ－ドジャース＞◇14日（日本時間15日）◇グレートアメリカンボールパーク ドジャースの守護神エドウィン・ディアス（32）の復帰が遅れる見込みとなった。 ディアスは首の炎症で8月18日に",
-      "link": "https://news.yahoo.co.jp/articles/832545b687e86a657bcf72c90b1475a19766c618?source=rss",
-      "pubDate": "2026-09-15T00:23:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/832545b687e86a657bcf72c90b1475a19766c618?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "｢華があるわけでもない｣ガンバ大阪、31歳のMF藤原奏哉が完全移籍で加入！ 6年在籍したアルビレックス新潟に別れ",
-      "summary": "J1リーグのガンバ大阪は15日、アルビレックス新潟から31歳のMF藤原奏哉が完全移籍で加入することを発表した。クラブ公式サイトで伝えられている。藤原は6年過ごした第2の故郷を離れ、新天地で活躍することを誓った。",
-      "link": "https://www.footballchannel.jp/2026/09/15/post1011168/",
-      "pubDate": "2026-09-15T00:19:54.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/15/post1011168/"
-        }
-      ]
-    },
-    {
-      "title": "新潟MF藤原奏哉、G大阪への完全移籍を発表「オレンジのユニフォームを着てプレーできたことは僕の誇り」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673364",
-      "pubDate": "2026-09-15T00:08:44.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673364"
-        }
-      ]
-    },
-    {
-      "title": "フリーマンは右ひざ痛でここ５試合で３度目の休養「IL入りはない」とロバーツ監督(日刊スポーツ)",
-      "summary": "＜レッズ－ドジャース＞◇14日（日本時間15日）◇グレートアメリカンボールパーク ドジャースのフレディ・フリーマン内野手（37）がレッズ戦で3試合ぶりにスタメンを外れ、この5試合で3度目の休養とな",
-      "link": "https://news.yahoo.co.jp/articles/bc679b5cc742d5d234464f2e5cd21ea056063fc3?source=rss",
-      "pubDate": "2026-09-14T23:38:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/bc679b5cc742d5d234464f2e5cd21ea056063fc3?source=rss"
         }
       ]
     }
