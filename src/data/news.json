@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-10-15T15:56:27.313Z",
-  "count": 734,
+  "generatedAt": "2026-10-15T19:35:46.415Z",
+  "count": 733,
   "items": [
+    {
+      "title": "天皇杯組み合わせ 町田は8強懸け東京Vと激突 唯一のJ2勢横浜FCはFC東京と対戦へ(スポニチアネックス)",
+      "summary": "天皇杯の4回戦以降の組み合わせ抽選会が15日、都内で行われた。8強を懸けた4回戦は12月9日開催で、前回覇者のFC町田ゼルビアは東京Vと激突。前回準Vの神戸は清水、最多タイ8度の優勝を誇る浦和はG大阪",
+      "link": "https://news.yahoo.co.jp/articles/b04d8adb7f5cf337b78c564cbe393773654dc1a0?source=rss",
+      "pubDate": "2026-10-15T19:20:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "zelvia",
+        "verdy",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b04d8adb7f5cf337b78c564cbe393773654dc1a0?source=rss"
+        }
+      ]
+    },
     {
       "title": "[国スポ少年男子]同じ高校に通うライバルと切磋琢磨。神奈川県は交代出場のGK松本大駕(横浜FMユース)がPK戦で止めて3位に(ゲキサカ)",
       "summary": "[10.14 国スポ少年男子の部3位決定戦 岡山県 2-2(PK4-5)神奈川県 プラスタ]【動画】「もっとイケメンに」「こんなかっこいいことある？？」中村敬斗の散髪報告に称賛相次ぐ 2-2の後半27",
@@ -14369,46 +14390,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/673467"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース メジャー史上最長タイの14年連続ポストシーズン進出(スポニチアネックス)",
-      "summary": "◇ナ・リーグ ドジャース4ー1レッズ（2026年9月14日 シンシナティ） ドジャースがブレーブスに並ぶメジャー史上最長の14年連続ポストシーズン進出を決めた。試合後はクラブハウスでシャンパンで",
-      "link": "https://news.yahoo.co.jp/articles/a6b76f43a9e2215252f135efa829a77d5990e662?source=rss",
-      "pubDate": "2026-09-15T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a6b76f43a9e2215252f135efa829a77d5990e662?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "バーミンガム藤本寛也 東京Ｖ復帰が決定的に 下部組織育ちの２７歳レフティー Ｊ１残留への切り札に(スポーツ報知)",
-      "summary": "東京Ｖがイングランド・チャンピオンシップのバーミンガムからＭＦ藤本寛也（２７）を獲得することが１５日、決定的になった。Ｊリーグの移籍期限最終日となる１６日を前に交渉は大詰めを迎えており、期限付き移籍",
-      "link": "https://news.yahoo.co.jp/articles/45f72d450a0408fa0a27ddbe3c0d8066864e3024?source=rss",
-      "pubDate": "2026-09-15T16:00:04.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/45f72d450a0408fa0a27ddbe3c0d8066864e3024?source=rss"
         }
       ]
     }
