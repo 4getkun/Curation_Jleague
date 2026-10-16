@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2026-10-16T05:15:52.499Z",
-  "count": 717,
+  "generatedAt": "2026-10-16T09:58:58.360Z",
+  "count": 715,
   "items": [
+    {
+      "title": "【名古屋グランパス】15歳ＭＦ鮫島充輝にミシャ監督「プロ相手に1対1を仕掛けたり守備も問題なくやれてるように見えた」 ルヴァン杯・岡山戦での起用意図説明(中日スポーツ)",
+      "summary": "J1名古屋グランパスのミハイロ・ペトロビッチ監督は16日、延長PK戦の末に勝利したルヴァン・カップ3回戦の岡山戦（14日）で途中投入した16歳と15歳の2人のMFについて言及。「いつも言ってるように起",
+      "link": "https://news.yahoo.co.jp/articles/8a9126669a44df1c1dbdb0332e460a41031fd798?source=rss",
+      "pubDate": "2026-10-16T09:45:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8a9126669a44df1c1dbdb0332e460a41031fd798?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "G大阪・明神智和監督が長距離移動の疲労以上に注意しているのは…17日に敵地・清水戦(スポニチアネックス)",
+      "summary": "G大阪は17日に敵地でリーグ清水戦を行う。アウェーでのアジア・チャンピオンズリーグエリート（ACLE）ニューカッスル・ジェッツ戦（オーストラリア）から中3日。長距離移動の疲労は懸念されるが、明神智和監",
+      "link": "https://news.yahoo.co.jp/articles/701ddfefe03961e3c669bab3cb4cfdb6ddc97e94?source=rss",
+      "pubDate": "2026-10-16T09:42:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/701ddfefe03961e3c669bab3cb4cfdb6ddc97e94?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "首位・柏レイソルに痛手。DF馬場晴也が右膝前十字靭帯断裂、外側半月板損傷と診断。神戸戦で負傷交代",
+      "summary": "柏レイソル 馬場晴也【写真：Getty Images】 柏レイソルは16日、DF馬場晴也の負傷について発表した。9日に行われた2026/27明治安田J1リーグ第9節のヴィッセル神戸戦で負傷し、右膝前十字靭帯断裂、外側半 […]",
+      "link": "https://www.footballchannel.jp/2026/10/16/post1033827/",
+      "pubDate": "2026-10-16T07:01:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/16/post1033827/"
+        }
+      ]
+    },
     {
       "title": "竹内涼真が東京Ｖユース時代の友人らとエアビーCM出演「みんな役者やったらいいのに」(日刊スポーツ)",
       "summary": "俳優竹内涼真（33）が16日、都内でAirbnb（エアビーアンドビー）Japan新ブランドキャンペーンプレス発表会に登場した。【写真】「エアビ飯」をPRする竹内涼真 Airbnbは世界最大級の宿泊予約",
@@ -1500,6 +1559,42 @@
       ]
     },
     {
+      "title": "熊本vs愛媛 スタメン発表",
+      "summary": "[10.11 J3第10節](えがおS)※13:00開始主審:井上知大[ロアッソ熊本]先発GK 1 佐藤史騎DF 4 薬師田澪DF 5 小林慶太DF 24 李泰河DF 37 小澤秀充DF 39 石田凌太郎MF 7 藤井皓也MF 25 那須健…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?460743-460743-fl",
+      "pubDate": "2026-10-14T09:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?460743-460743-fl"
+        }
+      ]
+    },
+    {
+      "title": "水戸vsFC東京 スタメン発表",
+      "summary": "[10.14 ルヴァン杯3回戦](Ksスタ)※19:00開始主審:上田益也[水戸ホーリーホック]先発GK 27 ヤクブ・スウォビィクDF 2 フォファナ・マリックDF 3 大崎航詩DF 15 木本恭生DF 16 田村遊吏MF 14 新井瑞希…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460987-460987-fl",
+      "pubDate": "2026-10-14T08:54:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460987-460987-fl"
+        }
+      ]
+    },
+    {
       "title": "開幕5戦10失点、鹿島アントラーズ・早川友基に復調の兆し？ 昨季MVPが2戦連続無失点",
       "summary": "鹿島アントラーズは13日、AFCチャンピオンズリーグエリート（ACLE）でコンアン・ハノイに1-0で勝利した。17本のシュートを浴びながら、最後までゴールを守ったのがGK早川友基だ。直近のガンバ大阪戦から2試合連続の無失点。昨季MVPは、今…",
       "link": "https://www.footballchannel.jp/2026/10/14/post1032561/",
@@ -1534,25 +1629,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/679143"
-        }
-      ]
-    },
-    {
-      "title": "横浜FMvs清水 スタメン発表",
-      "summary": "[10.14 ルヴァン杯3回戦](日産ス)※19:00開始主審:御厨貴文[横浜F・マリノス]先発GK 1 朴一圭DF 13 井上太聖DF 17 ジェイソン・キニョーネスDF 35 関富貫太DF 54 藤井翔大MF 7 遠野大弥MF 8 喜田…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460983-460983-fl",
-      "pubDate": "2026-10-14T08:12:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?460983-460983-fl"
         }
       ]
     },
@@ -1645,25 +1721,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e660cf18f3aec2f982da3d64e01a19d144c17eac?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "金沢DF毛利駿也が負傷…第三腰椎横突起骨折と診断",
-      "summary": "[故障者情報] ツエーゲン金沢は13日、DF毛利駿也の負傷を発表した。9月26日のJ3リーグ第8節鳥取戦で受傷した毛利は第三腰椎横突起骨折と診断されたという。なお、全治等の詳細は発表されていない。 毛利は今季のJ3リーグで6試合に出場してい…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?460972-460972-fl",
-      "pubDate": "2026-10-14T04:51:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?460972-460972-fl"
         }
       ]
     },
@@ -13977,104 +14034,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a19015c288a8d3f0c0c8848bacbd7d1979fc55ff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【千葉】神戸からンドカ・ボニフェイスが期限付き移籍「このチャンスをいかせるよう全力尽くす」(日刊スポーツ)",
-      "summary": "ジェフユナイテッド市原・千葉は16日、ヴィッセル神戸からDFンドカ・ボニフェイス（30）を期限付き移籍で獲得したと発表した。期間は来年6月30日まで、背番号は2となる。 日体大卒のンドカは、横浜",
-      "link": "https://news.yahoo.co.jp/articles/41d69412c7d628c71ee512dc68af5e459301251f?source=rss",
-      "pubDate": "2026-09-16T09:08:15.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/41d69412c7d628c71ee512dc68af5e459301251f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「僕自身とは真逆」神谷優太がファジアーノ岡山で見つけた答え。守備に適応しながら「自分の特徴を消さない」【コラム】",
-      "summary": "攻撃センスを武器にしてきた神谷優太にとって、守備をベースとするファジアーノ岡山は「自分自身とは真逆」のサッカースタイルだった。それでも加入3年目を迎え、チームの要求に適応しながら、自らの特徴を活かす術を模索してきた。浦和レッズ戦では途中出場…",
-      "link": "https://www.footballchannel.jp/2026/09/16/post1012344/",
-      "pubDate": "2026-09-16T09:00:59.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "fagiano"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/16/post1012344/"
-        }
-      ]
-    },
-    {
-      "title": "U-16 Jリーグ選抜「凄くいい経験」 逸材23人が欧州遠征…ファン期待「こういうの良いね」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673563",
-      "pubDate": "2026-09-16T07:20:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673563"
-        }
-      ]
-    },
-    {
-      "title": "移籍最終日に「昼間っから号泣」 J1“禁断の移籍”…27歳の最後の言葉が「150点や」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/673554",
-      "pubDate": "2026-09-16T06:20:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/673554"
-        }
-      ]
-    },
-    {
-      "title": "2位→20位の電撃移籍に「本当にキタ！」 1月加入→7か月後の決断にSNS衝撃「よくぞ選んでくれた」(FOOTBALL ZONE)",
-      "summary": "ジェフユナイテッド千葉は9月16日、ヴィッセル神戸からDFンドカ・ボニフェイスが期限付き移籍で加入したと発表した。期間は2027年6月30日まで。背番号は「2」に決まった。J1リーグで現在の2位クラ",
-      "link": "https://news.yahoo.co.jp/articles/19e3e8dcc72158351ce240e22e5139ce8550d9f9?source=rss",
-      "pubDate": "2026-09-16T05:21:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba",
-        "vissel"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/19e3e8dcc72158351ce240e22e5139ce8550d9f9?source=rss"
         }
       ]
     }
