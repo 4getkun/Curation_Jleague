@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T16:01:14.749Z",
-  "count": 699,
+  "generatedAt": "2026-10-17T18:38:08.482Z",
+  "count": 698,
   "items": [
     {
       "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
@@ -613,19 +613,21 @@
       ]
     },
     {
-      "title": "岐阜vs福島 スタメン発表",
-      "summary": "[10.17 J3第11節](ヒマスタ)※14:00開始主審:鶴岡将樹[FC岐阜]先発GK 77 春名竜聖DF 7 箱崎達也DF 22 文仁柱DF 27 羽田健人DF 34 湯岑滉生MF 9 中村駿MF 10 北龍磨MF 26 大串昇平MF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461175-461175-fl",
-      "pubDate": "2026-10-17T04:10:01.000Z",
+      "title": "千葉vs横浜FM スタメン発表",
+      "summary": "[10.17 J1第10節](フクアリ)※14:00開始主審:中村太[ジェフユナイテッド千葉]先発GK 19 ホセ・スアレスDF 2 ンドカ・ボニフェイスDF 13 鈴木大輔DF 39 石尾陸登DF 67 日高大MF 6 エドゥアルドMF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461179-461179-fl",
+      "pubDate": "2026-10-17T04:16:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "jef-chiba"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461175-461175-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461179-461179-fl"
         }
       ]
     },
@@ -13668,25 +13670,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/abeb8e0b81ec39318bb8bdc8a0178d183823f741?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "勝てば地区優勝のドジャース“3番昇格”タッカーが先制2ラン！直近13戦5発と調子上向き(スポニチアネックス)",
-      "summary": "◇ナ・リーグ ドジャースーレッズ（2026年9月17日 シンシナティ） ドジャースのカイル・タッカー外野手（29）が17日（日本時間18日）、敵地でのレッズ戦に「3番・右翼」で先発出場。勝てば地",
-      "link": "https://news.yahoo.co.jp/articles/382ff1e878f1ad8a246a1d02914ae044fb1618a9?source=rss",
-      "pubDate": "2026-09-17T17:18:46.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/382ff1e878f1ad8a246a1d02914ae044fb1618a9?source=rss"
         }
       ]
     }
