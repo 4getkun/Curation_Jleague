@@ -1,7 +1,100 @@
 {
-  "generatedAt": "2026-10-17T12:33:56.562Z",
-  "count": 702,
+  "generatedAt": "2026-10-17T16:01:14.749Z",
+  "count": 699,
   "items": [
+    {
+      "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
+      "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
+      "link": "https://www.footballchannel.jp/2026/10/18/post969138/",
+      "pubDate": "2026-10-17T15:32:44.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/18/post969138/"
+        }
+      ]
+    },
+    {
+      "title": "【順位表】明治安田J1リーグ2026/27 サッカー 最新情報",
+      "summary": "明治安田J1リーグ2026/27の最新順位表は下記の通り。勝点が同じ場合は得失点差→総得点数→当該チーム間の対戦成績（イ：勝点、ロ：得失点差、ハ：総得点数）→抽選の順で順位を決定する。",
+      "link": "https://www.footballchannel.jp/2026/10/18/post969132/",
+      "pubDate": "2026-10-17T15:17:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/18/post969132/"
+        }
+      ]
+    },
+    {
+      "title": "69歳誕生日の前祝いは首位撃破! 名古屋ペトロヴィッチ監督「柏を倒せるのは我々しかいない」(ゲキサカ)",
+      "summary": "[10.17 J1第10節 柏 1-3 名古屋 三協F柏] 69歳の誕生日を前に、自らへのプレゼントとなる勝ち点3を手にした。名古屋グランパスは、敵地で首位・柏レイソルとの一戦に臨み、3-1の快勝し、",
+      "link": "https://news.yahoo.co.jp/articles/c4c2fc23ce67c134ae74a9872fef05dd0aee7d1e?source=rss",
+      "pubDate": "2026-10-17T15:13:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/c4c2fc23ce67c134ae74a9872fef05dd0aee7d1e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "名古屋の山岸が“ホーム”の柏でダメ押し弾 「思い出深いピッチで決められて良かった」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第10節 名古屋 3―1 柏（2026年10月17日 三協F柏） 名古屋のFW山岸祐也が出身地でダメ押し弾を決めた。敵地の柏戦に2―1の後半18分から出場すると、同34分にゴール前",
+      "link": "https://news.yahoo.co.jp/articles/bde004b06358a4c09ddd8a980e3ee1825b6c1a34?source=rss",
+      "pubDate": "2026-10-17T14:04:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus",
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bde004b06358a4c09ddd8a980e3ee1825b6c1a34?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1の最新順位が混戦模様 首位・柏が4戦ぶり黒星で3位後退…降格圏の3チームは浮上ならず",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/679702",
+      "pubDate": "2026-10-17T12:48:32.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/679702"
+        }
+      ]
+    },
     {
       "title": "C大阪・鷹啄トラビス、公式戦5試合連続出場 4失点敗戦に「もっと自信を持ってやっていきたい」(サンケイスポーツ)",
       "summary": "明治安田J1リーグ第10節第1日（17日、C大阪2－4川崎、ハナサカ）C大阪は川崎に敗れ、リーグ戦5試合勝利なしとなった。先発フル出場したDF鷹啄トラビスは、これで公式戦5試合連続出場となった。チーム",
@@ -520,10 +613,10 @@
       ]
     },
     {
-      "title": "札幌vs秋田 スタメン発表",
-      "summary": "[10.17 J2第11節](プレド)※14:00開始主審:井上知大[北海道コンサドーレ札幌]先発GK 24 田川知樹DF 39 川原颯斗DF 47 西野奨太DF 55 梅津龍之介MF 11 青木亮太MF 17 内田瑞己MF 18 木戸柊摩…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461172-461172-fl",
-      "pubDate": "2026-10-17T04:02:01.000Z",
+      "title": "岐阜vs福島 スタメン発表",
+      "summary": "[10.17 J3第11節](ヒマスタ)※14:00開始主審:鶴岡将樹[FC岐阜]先発GK 77 春名竜聖DF 7 箱崎達也DF 22 文仁柱DF 27 羽田健人DF 34 湯岑滉生MF 9 中村駿MF 10 北龍磨MF 26 大串昇平MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461175-461175-fl",
+      "pubDate": "2026-10-17T04:10:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -532,7 +625,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461172-461172-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461175-461175-fl"
         }
       ]
     },
@@ -13594,168 +13687,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/382ff1e878f1ad8a246a1d02914ae044fb1618a9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "柏FW古沢ナベル慈宇、シンガポール1部に期限付き移籍 李忠成氏が副会長兼SDのタンピネス・ローバーズ(スポニチアネックス)",
-      "summary": "柏FW古沢ナベル慈宇（23）がシンガポール1部タンピネス・ローバーズに期限付き移籍することが17日、分かった。 青森山田高から東京国際大を経て25年に柏入り。大型ストライカーとして期待されながら",
-      "link": "https://news.yahoo.co.jp/articles/fa1509309997a5b28b130240eed56421de09817b?source=rss",
-      "pubDate": "2026-09-17T16:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fa1509309997a5b28b130240eed56421de09817b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京 元U―21スペイン代表FWダニ・ゴメス獲得へ(スポニチアネックス)",
-      "summary": "FC東京が元U―21スペイン代表FWダニ・ゴメス（27）を完全移籍で獲得することが17日、分かった。複数の関係者によると、一両日中にも正式発表される見通しだ。 レアル・マドリードのアカデミー出身",
-      "link": "https://news.yahoo.co.jp/articles/f7fcbd6ca5659ca76bcf27dc5e43e2fe34918fdd?source=rss",
-      "pubDate": "2026-09-17T16:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f7fcbd6ca5659ca76bcf27dc5e43e2fe34918fdd?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "藤本寛也が古巣・東京ヴェルディへ復帰！ 欧州経験を携えてJ1初挑戦へ「また皆さんと一緒に戦えることを楽しみにしています」(theWORLD（ザ・ワールドWeb）)",
-      "summary": "東京ヴェルディは17日、イングランドのバーミンガム・シティFCからMF藤本寛也を期限付き移籍で獲得することを発表した。移籍期間は2027年6月30日まで。下部組織から育った藤本が、約6年ぶりに古巣へ復",
-      "link": "https://news.yahoo.co.jp/articles/d8fe9fcbf9d9a63ee4bedd2d31d86b91dcc3b73d?source=rss",
-      "pubDate": "2026-09-17T13:42:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d8fe9fcbf9d9a63ee4bedd2d31d86b91dcc3b73d?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表選外の町田・小川航基「必要とされるほどの結果を出すしかない」 代表復帰の相馬と後半同時投入(スポニチアネックス)",
-      "summary": "◇ACL2 1次リーグG組 町田2―0スバイリエン（2026年9月17日 町田GIONスタジアム） ACL2初戦を快勝発進した町田は2―0とリードした後半29分、日本代表に選出されたFW相馬勇紀",
-      "link": "https://news.yahoo.co.jp/articles/9d090b5ad24ed664224fe2bcf615209657ea3386?source=rss",
-      "pubDate": "2026-09-17T13:33:23.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9d090b5ad24ed664224fe2bcf615209657ea3386?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "スネル わずか1回19球で緊急降板 PSへ暗雲… ド軍指揮官「PSに万全で入れるようにしなければ」(テレ東スポーツ)",
-      "summary": "＜2026年9月16日（日本時間17日）レッズ 6-2 ドジャース＠グレートアメリカン・ボールパーク＞ ドジャースのブレイク・スネルが16日（日本時間17日）、敵地でのレッズ戦に先発したが、左鼠径部",
-      "link": "https://news.yahoo.co.jp/articles/a6e7986bd9f4fe59634415b5cbd0fd4d5dfe9800?source=rss",
-      "pubDate": "2026-09-17T13:30:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a6e7986bd9f4fe59634415b5cbd0fd4d5dfe9800?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【競輪】望月嘉人が鋭いカマシで初日快勝「フレームを替えて正解でした」／川崎ミッド(日刊スポーツ)",
-      "summary": "＜川崎競輪：ミッドナイト競輪＞◇F2◇初日◇17日 望月嘉人（30＝静岡）が出足鋭いカマシで、オープニングのチャレンジ予選1Rを制した。「フレームを替えて正解でした。前に出てからも余裕があったし、",
-      "link": "https://news.yahoo.co.jp/articles/719cb4b209610340fcc751c57ddcb0ff6127fb20?source=rss",
-      "pubDate": "2026-09-17T13:28:03.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/719cb4b209610340fcc751c57ddcb0ff6127fb20?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ACL2】小川航基まさかの代表落選に「とにかく結果を出すしかない、火が付いた」反骨心あらわ(日刊スポーツ)",
-      "summary": "＜ACL2：町田2－0スバイリエン＞◇17日◇1次リーグ第1節◇東京・町田Gスタ FC町田ゼルビアはスバイリエン（カンボジア）を2－0で下した。前半21分にFWデュークがミドルシュートを決めて先制",
-      "link": "https://news.yahoo.co.jp/articles/d3734d9500bae1759e1d2ae263204252694dd9c3?source=rss",
-      "pubDate": "2026-09-17T13:19:34.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/d3734d9500bae1759e1d2ae263204252694dd9c3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ACL2】11カ月ぶり日本代表復帰の町田相馬勇紀「エンブレムつけてプレーできるの幸せ」(日刊スポーツ)",
-      "summary": "＜ACL2：町田2－0スバイリエン＞◇17日◇1次リーグ第1節◇東京・町田Gスタ FC町田ゼルビアはスバイリエン（カンボジア）を2－0で下した。前半21分にFWデュークがミドルシュートを決めて先制",
-      "link": "https://news.yahoo.co.jp/articles/ff976667dd28fa483fcaae3ce9ccad3d9b1d0bcc?source=rss",
-      "pubDate": "2026-09-17T12:51:36.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ff976667dd28fa483fcaae3ce9ccad3d9b1d0bcc?source=rss"
         }
       ]
     }
