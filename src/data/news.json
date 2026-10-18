@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-10-18T14:43:07.261Z",
+  "generatedAt": "2026-10-18T17:39:14.009Z",
   "count": 677,
   "items": [
+    {
+      "title": "ガンバ大阪｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※選手登録・移籍情報と個人成績は2026年10月18日時点（J1第10節終了時点）を反映。 ガンバ大阪の2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成 […]",
+      "link": "https://www.footballchannel.jp/2026/10/18/post993045/",
+      "pubDate": "2026-10-18T14:46:19.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/18/post993045/"
+        }
+      ]
+    },
+    {
+      "title": "ガンバ大阪｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年10月18日時点。J1第10節終了時点。 ガンバ大阪の2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随 […]",
+      "link": "https://www.footballchannel.jp/2026/10/18/post993039/",
+      "pubDate": "2026-10-18T14:45:38.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/18/post993039/"
+        }
+      ]
+    },
     {
       "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
       "summary": "※J1順位・結果は2026年10月18日18:16更新のJリーグ公式データ（第10節終了時点、首位はサンフレッチェ広島）。得点ランキングは公式10月12日時点に第10節の公式得点記録を反映した暫定値、アシストランキングは […]",
@@ -64,16 +104,16 @@
       "summary": "＜広島競輪：ミッドナイト競輪＞◇F2◇初日◇18日 オープニングのガールズ予1・1Rは、吉川美穂（33＝和歌山）の勝利で幕を開けた。 打鐘で動いたところを合わせにきた奥井迪の後位にスイッチすると、直線",
       "link": "https://news.yahoo.co.jp/articles/75d1510ee159ac9ff57f58753d37fd0cb2190cb2?source=rss",
       "pubDate": "2026-10-18T13:44:59.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "sanfrecce"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/75d1510ee159ac9ff57f58753d37fd0cb2190cb2?source=rss"
         }
       ]
@@ -13247,44 +13287,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/62c143839bd677fd8f499a0559132578ae145f7c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース・山本由伸 シャンパンファイトに秘めた闘志「やっと、始まるなって」(スポニチアネックス)",
-      "summary": "◇ナ・リーグ ドジャース8ー2レッズ（2026年9月17日 シンシナティ） ドジャースは17日（日本時間18日）、マジック1で迎えたレッズ戦に勝利し、地区5連覇を決めた。最近14年で13度目の地",
-      "link": "https://news.yahoo.co.jp/articles/b04bcab59f9aff95fa6582eb0af70619ad006cc4?source=rss",
-      "pubDate": "2026-09-18T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b04bcab59f9aff95fa6582eb0af70619ad006cc4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "伊東勤氏 ドジャースWS3連覇へ険しい道 打線の鍵は“大谷の状態”(スポニチアネックス)",
-      "summary": "◇ナ・リーグ ドジャース8ー2レッズ（2026年9月17日 シンシナティ） 【伊東勤 視点】ドジャースのワールドシリーズ3連覇への道は険しい。大谷は「スタメン・1番」で復帰できたとしてどこまで本",
-      "link": "https://news.yahoo.co.jp/articles/5942aea04c0eefa31feefda3d340a16395371e70?source=rss",
-      "pubDate": "2026-09-18T16:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5942aea04c0eefa31feefda3d340a16395371e70?source=rss"
         }
       ]
     }
