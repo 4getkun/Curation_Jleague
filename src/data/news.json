@@ -1,7 +1,69 @@
 {
-  "generatedAt": "2026-10-17T23:14:14.456Z",
-  "count": 689,
+  "generatedAt": "2026-10-18T01:16:30.212Z",
+  "count": 679,
   "items": [
+    {
+      "title": "G大阪GK荒木琉偉が左尺骨肘頭骨折で手術実施 10月9日の鹿島戦で負傷(FOOTBALL ZONE)",
+      "summary": "ガンバ大阪は10月18日、GK荒木琉偉の負傷について発表した。 荒木は10月9日に行われた鹿島アントラーズ戦で負傷。診断名は左尺骨肘頭骨折とされ、10月14日に無事手術を終了した。【動画】前代未聞の「",
+      "link": "https://news.yahoo.co.jp/articles/637740f1e81382a5b3447f43b24d113202431645?source=rss",
+      "pubDate": "2026-10-18T01:14:48.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/637740f1e81382a5b3447f43b24d113202431645?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/679753"
+        }
+      ]
+    },
+    {
+      "title": "松本vs広島 試合記録",
+      "summary": "【ルヴァン杯3回戦】(サンアル)松本 0-1(前半0-1)広島[広]小林志紋(20分)[松]川上航立(69分)[広]小林志紋(7分)観衆:4,757人主審:小林拓矢└18歳FW小林志紋が先発起用で決勝弾!カップ戦2戦連発! 広島、J3松本を…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461012-461012-fl",
+      "pubDate": "2026-10-18T00:20:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461012-461012-fl"
+        }
+      ]
+    },
+    {
+      "title": "【今日のJリーグ】10月18日 2026/27明治安田Jリーグのキックオフ時間・放送予定・対戦カードは？",
+      "summary": "明治安田Jリーグは18日、J1が2試合、J2が1試合、J3が4試合開催される。キックオフ時間や放送予定、対戦カードなどは以下の通り。",
+      "link": "https://www.footballchannel.jp/2026/10/18/post1033050/",
+      "pubDate": "2026-10-18T00:00:14.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/18/post1033050/"
+        }
+      ]
+    },
     {
       "title": "【Jリーグ】20歳・髙橋旺良が圧巻ハット！鹿児島が愛媛撃破で首位返り咲き(スポーティングニュース日本版)",
       "summary": "鹿児島ユナイテッドFCのFW髙橋旺良（たかはし おうら）が、首位攻防戦の大舞台で圧巻のハットトリックを達成した。【動画】J3首位攻防戦！公式ハイライト10月17日に白波スタジアムで行われた2026/2",
@@ -555,25 +617,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/eb99ad1111a11c9c22dc7b407a4e3abbd74dc4e2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "松本vs広島 試合記録",
-      "summary": "【ルヴァン杯3回戦】(サンアル)松本 0-1(前半0-1)広島[広]小林志紋(20分)[松]川上航立(69分)[広]小林志紋(7分)観衆:4,757人主審:小林拓矢└18歳FW小林志紋が先発起用で決勝弾!カップ戦2戦連発! 広島、J3松本を…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461012-461012-fl",
-      "pubDate": "2026-10-17T08:20:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461012-461012-fl"
         }
       ]
     },
@@ -13260,246 +13303,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/346413a612771208df2ea4f6ad94867012911eff?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「一目惚れのデザイン」FC東京が新サードユニを発表！ コンセプトは『THE BORDERLESS BALANCE―境界なき均衡―』。ファンの反応は？「色味いいな」「めちゃカッコいい」(SOCCER DIGEST Web)",
-      "summary": "J１のFC東京は９月17日、2026/27シーズンの新サードユニホームを発表した。 クラブの公式サイトによれば、デザインコンセプトは「THE BORDERLESS BALANCE―境界なき均衡―",
-      "link": "https://news.yahoo.co.jp/articles/5acd8dfb016d48e5f6fb51c5f77cdcb2cac03733?source=rss",
-      "pubDate": "2026-09-18T01:15:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5acd8dfb016d48e5f6fb51c5f77cdcb2cac03733?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "フリーマン「君が必要」大谷翔平へメッセージ 自身10度目の地区優勝も「まだ最初のステップ」(日刊スポーツ)",
-      "summary": "ドジャースのフレディ・フリーマン内野手（35）が勝利の美酒に酔いしれた。 チームは敵地でレッズを下し5年連続の地区優勝を決めた。フリーマンは「2番一塁」で出場し、2－0の2回に犠飛を放つなど2安",
-      "link": "https://news.yahoo.co.jp/articles/a28a14f5218cca9457ec35d7abf2dd9fa33e24d9?source=rss",
-      "pubDate": "2026-09-18T01:07:22.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a28a14f5218cca9457ec35d7abf2dd9fa33e24d9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ＦＣ東京 Ｕ―２１スペイン代表ＦＷを獲得か「日本のビッグクラブに移籍する」(東スポWEB)",
-      "summary": "元U―21スペイン代表FWダニ・ゴメス（27）がJ1FC東京に加入することになりそうだ。 スペイン紙「EL PERIODICO」は「ダニ・ゴメスはJリーグへの移籍を完了させる見込みで1年契約にサ",
-      "link": "https://news.yahoo.co.jp/articles/c120fe5de8c7458154297f58a6313211d5f1c3f7?source=rss",
-      "pubDate": "2026-09-18T01:05:26.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c120fe5de8c7458154297f58a6313211d5f1c3f7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ラ・リーガ通算80試合以上出場のスペイン人FWがJ1上陸！ FC東京、ダニ・ゴメスを獲得(サッカーキング)",
-      "summary": "FC東京は18日、レアル・サラゴサ（スペイン3部）からFWダニ・ゴメスが完全移籍加入することを発表した。背番号は『99』となる。 1998年7月30日生まれのダニ・ゴメスは現在28歳。ラ・ファブ",
-      "link": "https://news.yahoo.co.jp/articles/19fc3d81a4f9254e082c37b2f5b4a0de3d77faa6?source=rss",
-      "pubDate": "2026-09-18T00:55:43.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/19fc3d81a4f9254e082c37b2f5b4a0de3d77faa6?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "佐々木朗希 マイナー登板なしで直接メジャー復帰へ！ロバーツ監督が明言 次回登板は先発予定(テレ東スポーツ)",
-      "summary": "＜2026年9月17日（日本時間18日）レッズ 2-8 ドジャース＠グレートアメリカン・ボールパーク＞ 右手中指のマメで負傷者リスト（IL）入りしているドジャースの佐々木朗希（24）が、マイナーでの",
-      "link": "https://news.yahoo.co.jp/articles/7e14a8c253aeb79cc5b473237c69281c0dd10988?source=rss",
-      "pubDate": "2026-09-18T00:51:27.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7e14a8c253aeb79cc5b473237c69281c0dd10988?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "大谷翔平 レギュラーシーズンでの復帰へ前進 ロバーツ監督「痛みはもうない。非常にポジティブ」(テレ東スポーツ)",
-      "summary": "＜2026年9月17日（日本時間18日）レッズ 2-8 ドジャース＠グレートアメリカン・ボールパーク＞ 負傷者リスト（IL）入りしているドジャースの大谷翔平（32）が、レギュラーシーズン中の復帰へ向",
-      "link": "https://news.yahoo.co.jp/articles/d549a921c57c9bd84b3c6bf7be4f84ccd9a62f00?source=rss",
-      "pubDate": "2026-09-18T00:45:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d549a921c57c9bd84b3c6bf7be4f84ccd9a62f00?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "FC東京がFWダニ・ゴメスの加入を正式発表 背番号99「目標を達成するために全力で戦います」(スポニチアネックス)",
-      "summary": "J1のFC東京は18日、サラゴサ（スペイン）から元U―21同国表FWダニ・ゴメス（28）が完全移籍で加入すると発表した。背番号は「99」に決まった。 クラブを通じてのダニ・ゴメスのコメントは以下",
-      "link": "https://news.yahoo.co.jp/articles/31dcbbbd3b726a2ca07bd496bb0a702638e23423?source=rss",
-      "pubDate": "2026-09-18T00:39:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/31dcbbbd3b726a2ca07bd496bb0a702638e23423?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「夜から朝へと移り変わる空」を表現…FC東京が2月着用の3rdユニフォームを発表(ゲキサカ)",
-      "summary": "FC東京は17日、今シーズンの3rdユニフォームを発表した。 クラブは1stユニフォームが青・赤・曙色の光を表現していることに対し、3rdユニフォームは「その光を支える『土台=首都を支える存在』",
-      "link": "https://news.yahoo.co.jp/articles/ee6c0185db3703dfe9ae2e8badae1ef9198e5edf?source=rss",
-      "pubDate": "2026-09-18T00:35:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ee6c0185db3703dfe9ae2e8badae1ef9198e5edf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ドジャース 5年連続で地区V！打線爆発8得点 レッズに快勝し歓喜のシャンパンファイト(テレ東スポーツ)",
-      "summary": "＜2026年9月17日（日本時間18日）レッズ 2-8 ドジャース＠グレートアメリカン・ボールパーク＞ ドジャースは17日（日本時間18日）、敵地でレッズと対戦し8-2で快勝。ナ・リーグ西地区の優勝",
-      "link": "https://news.yahoo.co.jp/articles/e9a1dbfdeaf8fc19d0fe1cee1afb2020cd0e8aec?source=rss",
-      "pubDate": "2026-09-18T00:34:52.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e9a1dbfdeaf8fc19d0fe1cee1afb2020cd0e8aec?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "大谷翔平、PSでの復帰に「順調、戻ってくると思っている」地区V５ドジャース編成本部長が語る(日刊スポーツ)",
-      "summary": "＜レッズ2－8ドジャース＞◇17日（日本時間18日）◇グレートアメリカンボールパーク ドジャースが快勝し、5年連続の地区制覇を達成した。地区Vは過去14年間で13度目。常勝球団の編成トップでチーム",
-      "link": "https://news.yahoo.co.jp/articles/f5a1d563f3ae3674460cf2cf35471dba81f6dcbe?source=rss",
-      "pubDate": "2026-09-18T00:33:37.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f5a1d563f3ae3674460cf2cf35471dba81f6dcbe?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「痛すぎるってマジで」木曜夜に届いたJ１クラブの“悲しき一報”にファン心痛「やばくない？」「嘘だと言ってくれ」(SOCCER DIGEST Web)",
-      "summary": "J１の名古屋グランパスは９月17日、浅野雄也の負傷を発表した。 29歳のMFは、先発した今月６日の第６節・FC町田ゼルビア戦（１－３）で、相手選手と競り合った後に右足を痛めた様子でピッチに倒れ込",
-      "link": "https://news.yahoo.co.jp/articles/0ab8b6068ebbc27488580efefb15e5e2e38dd87c?source=rss",
-      "pubDate": "2026-09-18T00:33:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0ab8b6068ebbc27488580efefb15e5e2e38dd87c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ロバーツ監督、ワールドシリーズ３連覇見据えスピーチ「特別なことを成し遂げるチャンス」(日刊スポーツ)",
-      "summary": "＜レッズ2－8ドジャース＞◇17日（日本時間18日）◇グレートアメリカンボールパーク ドジャースが敵地でレッズを下し5年連続の地区優勝を決めた。通算24度目で、2013年以降は14年間で13度目と",
-      "link": "https://news.yahoo.co.jp/articles/06b422407b2b286a79fe15dcbac1bf2878a67b84?source=rss",
-      "pubDate": "2026-09-17T23:54:07.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/06b422407b2b286a79fe15dcbac1bf2878a67b84?source=rss"
         }
       ]
     }
