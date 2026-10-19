@@ -1,7 +1,80 @@
 {
-  "generatedAt": "2026-10-19T00:17:26.865Z",
-  "count": 684,
+  "generatedAt": "2026-10-19T04:58:37.374Z",
+  "count": 682,
   "items": [
+    {
+      "title": "ジーコ氏、大岩剛氏は「日本代表をさらに成長させていけるはず」(サンケイスポーツ)",
+      "summary": "サッカー元日本代表監督で、J1鹿島のクラブアドバイザーを務めるジーコ氏（73）が19日、鹿嶋市内で取材に応じた。昨季王者の鹿島は、リーグ戦10試合を戦い6勝1分け3敗の勝ち点19で首位広島の4差の6位",
+      "link": "https://news.yahoo.co.jp/articles/e6b7bf82298bc77663119141c75627ac7aa5bf03?source=rss",
+      "pubDate": "2026-10-19T04:41:23.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e6b7bf82298bc77663119141c75627ac7aa5bf03?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【陸上】東京が10年ぶりに男女総合V！ 女子総合も12年ぶり制して完全制覇／あおもり国スポ(月刊陸上競技)",
+      "summary": "◇第80回国民スポーツ大会・陸上競技（10月15～19日／青森・新青森県総合運動公園陸上競技場）5日目あおもり国スポ 天皇杯、皇后杯上位成績をcheck！あおもり国民スポーツ大会・陸上競技が5日間の日",
+      "link": "https://news.yahoo.co.jp/articles/5711426484a3b4dee22a940dd1583920b40bc16c?source=rss",
+      "pubDate": "2026-10-19T04:27:57.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5711426484a3b4dee22a940dd1583920b40bc16c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグゲストに「長澤まさみさんのパパ！？」 来場ゲストにファン驚き「さすがのDNA」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/679936",
+      "pubDate": "2026-10-19T04:00:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/679936"
+        }
+      ]
+    },
+    {
+      "title": "ファン驚き…月曜の「朝から声出た！」 38歳のブラジル人FWがJリーグ復帰「大型補強すぎるわ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/679907",
+      "pubDate": "2026-10-19T01:35:33.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/679907"
+        }
+      ]
+    },
     {
       "title": "J通算81得点のFWウェリントンが松本に電撃加入「日本は僕の大好きな国です」(ゲキサカ)",
       "summary": "松本山雅FCは19日、FWウェリントン(38)の完全移籍加入を発表した。 ブラジル出身のウェリントンはこれまでアビスパ福岡、ヴィッセル神戸、湘南ベルマーレでプレーした経験を持つ。J1通算231試合35",
@@ -862,6 +935,23 @@
       ]
     },
     {
+      "title": "鳥取vs群馬 試合記録",
+      "summary": "【J3第11節】(ヤジン)鳥取 1-1(前半1-1)群馬[鳥]山本颯太(7分)[群]百田真登(1分)[群]小竹知恩(74分)、櫻井文陽(77分)観衆:2,398人主審:岡宏道[ガイナーレ鳥取]先発GK 47 桃井玲DF 3 ヴァンイヤーデン…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461194-461194-fl",
+      "pubDate": "2026-10-17T17:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461194-461194-fl"
+        }
+      ]
+    },
+    {
       "title": "69歳誕生日の前祝いは首位撃破! 名古屋ペトロヴィッチ監督「柏を倒せるのは我々しかいない」(ゲキサカ)",
       "summary": "[10.17 J1第10節 柏 1-3 名古屋 三協F柏] 69歳の誕生日を前に、自らへのプレゼントとなる勝ち点3を手にした。名古屋グランパスは、敵地で首位・柏レイソルとの一戦に臨み、3-1の快勝し、",
       "link": "https://news.yahoo.co.jp/articles/c4c2fc23ce67c134ae74a9872fef05dd0aee7d1e?source=rss",
@@ -898,27 +988,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/bde004b06358a4c09ddd8a980e3ee1825b6c1a34?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "唯一の開幕10戦未勝利…最下位・東京V復帰のMF藤本寛也「勝利につながるプレーが必須条件」",
-      "summary": "[10.17 J1第10節 東京V 0-4 FC東京] 東京ヴェルディは17日、FC東京との東京ダービーに0-4で敗れ、開幕10試合未勝利となった。今季まで約4年間率いた城福浩監督が国際Aマッチウィーク中に退任し、直近2試合は相馬直樹新監督…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461247-461247-fl",
-      "pubDate": "2026-10-17T13:10:44.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461247-461247-fl"
         }
       ]
     },
@@ -13308,125 +13377,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/23424a3a8e17517a906be3ded3eded9bcf72cfdf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1名門で躍動の22歳に衝撃「特別指定選手やったんか」 “神パス”に高まる期待「代表まで行って」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/674088",
-      "pubDate": "2026-09-19T02:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/674088"
-        }
-      ]
-    },
-    {
-      "title": "FC東京や東京ヴェルディが海外クラブから選手を獲得！ 柏レイソルは選手の海外移籍を発表【18日のJリーグ移籍情報まとめ】",
-      "summary": "明治安田Jリーグの各クラブ（J1〜J3までの全60クラブ）は、移籍情報を随時発表している。2026年9月18日に発表された最新の新加入、退団情報などは以下の通り。",
-      "link": "https://www.footballchannel.jp/2026/09/19/post1014489/",
-      "pubDate": "2026-09-19T02:27:48.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "fc-tokyo",
-        "verdy",
-        "reysol"
-      ],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/19/post1014489/"
-        }
-      ]
-    },
-    {
-      "title": "松本山雅FC 移籍情報2026/27 サッカーJリーグ 加入／退団／引退／昇格",
-      "summary": "2026/27シーズンにおける松本山雅FCの加入／退団／引退／昇格選手を一覧で紹介する。",
-      "link": "https://www.footballchannel.jp/2026/09/19/post821259/",
-      "pubDate": "2026-09-19T02:24:10.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade",
-        "retirement"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/19/post821259/"
-        }
-      ]
-    },
-    {
-      "title": "救世主到来？Jリーグ、加入直後から輝きを放つ新加入選手（4）だれも止められない！電撃加入の怪物FW(フットボールチャンネル)",
-      "summary": "明治安田Jリーグの移籍市場が間もなく閉幕する。今夏は秋春制に移行したこともあり、例年以上に多くのクラブが積極的な補強を見せた。新加入選手の中には早速即戦力として結果を残す選手もいる。今回は、リーグ開幕",
-      "link": "https://news.yahoo.co.jp/articles/468a15219edd8bd6a0f682815e3cb2a6a045c995?source=rss",
-      "pubDate": "2026-09-19T01:03:11.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "trade",
-        "signing"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/468a15219edd8bd6a0f682815e3cb2a6a045c995?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "明治安田J1 水戸、序盤戦の正念場 19日敵地横浜M戦(茨城新聞クロスアイ)",
-      "summary": "明治安田J1第8節第1日は19日、各地で8試合が行われる。J1残留・定着を目指す水戸は、神奈川県の日産スタジアムで横浜Mと対戦する。キックオフは午後7時半。前節ホームで敗れた水戸が出直しの一戦で勝ち点",
-      "link": "https://news.yahoo.co.jp/articles/03ea213a4350132ba9ea67777f4deddcfdcdab2c?source=rss",
-      "pubDate": "2026-09-19T01:00:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hollyhock"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/03ea213a4350132ba9ea67777f4deddcfdcdab2c?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ビールかけで福岡の女子アナびしょぬれ ソフトバンク３連覇を祝福(日刊スポーツ)",
-      "summary": "テレQ（TVQ九州放送）の岡田桃佳アナウンサーが19日までにインスタグラムを更新。地元ソフトバンクのパ・リーグ3連覇を祝福した。 ビールかけのインタビューでびしょぬれになった様子などを投稿。「福",
-      "link": "https://news.yahoo.co.jp/articles/feab935cbc7edd73835ddf99833de92446749994?source=rss",
-      "pubDate": "2026-09-19T00:54:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/feab935cbc7edd73835ddf99833de92446749994?source=rss"
         }
       ]
     }
