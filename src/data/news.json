@@ -1,7 +1,129 @@
 {
-  "generatedAt": "2026-10-20T00:47:56.319Z",
+  "generatedAt": "2026-10-20T05:30:53.791Z",
   "count": 651,
   "items": [
+    {
+      "title": "J1リーグを｢カラオケまねきねこ｣で観戦！ 横浜F・マリノスや浦和レッズの試合など追加課金無しで視聴可能",
+      "summary": "株式会社コシダカホールディングスは10月10日、カラオケまねきねこに導入されている次世代カラオケ機器「E-bo（イーボ）」にて、DAZN主催による「明治安田J1リーグ」のライブ配信を実施することを発表した。カラオケまねきねこで追加課金無しで…",
+      "link": "https://www.footballchannel.jp/2026/10/20/post1037067/",
+      "pubDate": "2026-10-20T05:24:28.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/20/post1037067/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/9078a9e288b246c46a494483173e9836149f0644?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京V、渋谷区と連携協定を締結。新たにホームタウンに「共生社会の実現に向けたスポーツ振興に係る連携協力」｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー 最新ニュース】東京ヴェルディは20日、19日に渋谷区と「共生社会の実現に向けたスポーツ振興に係る連携協力に関する基本協定書」を締結し、渋谷区が新たにクラブのホームタウンとなったことを発",
+      "link": "https://news.yahoo.co.jp/articles/8be30be22875ed0a83fdaad96f0c8248803bf2bd?source=rss",
+      "pubDate": "2026-10-20T05:09:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8be30be22875ed0a83fdaad96f0c8248803bf2bd?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
+      "summary": "※個人成績は2026年10月19日時点・J1第10節終了時点。得点・アシストはリーグ戦のみを掲載。 柏レイソルの2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなど […]",
+      "link": "https://www.footballchannel.jp/2026/10/20/post992970/",
+      "pubDate": "2026-10-20T03:40:53.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/20/post992970/"
+        }
+      ]
+    },
+    {
+      "title": "柏レイソル｜順位・順位推移・試合日程・結果【2026/27】",
+      "summary": "※情報は2026年10月19日時点。J1第10節終了時点、ACLEリーグステージ第2節終了後。 柏レイソルの2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。 […]",
+      "link": "https://www.footballchannel.jp/2026/10/20/post992952/",
+      "pubDate": "2026-10-20T03:38:56.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/20/post992952/"
+        }
+      ]
+    },
+    {
+      "title": "FC東京、調布市＆渋谷区で「コラボ給食」を提供 森重真人がメニュー考案「家庭での食事にも参考にして」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680068",
+      "pubDate": "2026-10-20T03:16:25.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680068"
+        }
+      ]
+    },
+    {
+      "title": "東京V、渋谷区がホームタウンに 連携協定の締結発表「共生社会の推進に向けた取り組み」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680023",
+      "pubDate": "2026-10-20T01:05:45.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680023"
+        }
+      ]
+    },
     {
       "title": "川崎フロンターレの控えでは許されない。大関友翔を追い込んでいた危機感。「みなさんに申し訳ない」(フットボールチャンネル)",
       "summary": "川崎フロンターレの大関友翔が、ようやく一つの結果を残した。17日に行われた明治安田J1リーグ第10節のセレッソ大阪戦で、途中出場から今季リーグ戦初ゴールを決め、4-2の勝利に貢献。しかし、その一撃の裏",
@@ -1091,9 +1213,9 @@
       ]
     },
     {
-      "title": "藤枝vs山形 試合記録",
-      "summary": "【J2第11節】(藤枝サ)藤枝 0-0(前半0-0)山形[藤]中村優斗(90分+5)[山]中村亮太朗(79分)観衆:4,224人主審:田邉裕樹[藤枝MYFC]先発GK 24 吉田舜DF 3 鈴木翔太DF 5 楠本卓海DF 16 森侑里MF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461199-461199-fl",
+      "title": "琉球vs栃木SC 試合記録",
+      "summary": "【J3第11節】(沖縄県陸)琉球 1-0(前半0-0)栃木SC[琉]照内利和(67分)[琉]池田廉(82分)[栃]矢野貴章(90分+5)観衆:2,228人主審:小林健太朗[FC琉球]先発GK 1 佐藤久弥DF 4 藤春廣輝(33分→MF 8…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461231-461231-fl",
       "pubDate": "2026-10-17T18:30:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
@@ -1103,7 +1225,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461199-461199-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461231-461231-fl"
         }
       ]
     },
@@ -12656,120 +12778,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/20/post1015128/"
-        }
-      ]
-    },
-    {
-      "title": "鹿島アントラーズ｜順位・順位推移・試合日程・結果【2026/27】",
-      "summary": "※情報は2026年9月20日時点。J1第8節の鹿島戦終了後。 鹿島アントラーズの2026/27シーズン最新順位、順位推移、J1・ACL・天皇杯などの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随時更新する […]",
-      "link": "https://www.footballchannel.jp/2026/09/20/post991935/",
-      "pubDate": "2026-09-20T04:22:05.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/20/post991935/"
-        }
-      ]
-    },
-    {
-      "title": "「えっ、何が起きた？」FC東京対名古屋戦で異例の事態…27年間の記者生活で初めての経験(SOCCER DIGEST Web)",
-      "summary": "「えっ、何が起きた？」 2026年９月19日に開催されたJ１リーグ第８節で、FC東京が名古屋グランパスを１−０で下した。その試合後、珍しい出来事があった。 通常、Jリーグの監督会見",
-      "link": "https://news.yahoo.co.jp/articles/cd12215dd50597e09ace60681cb028e49b434543?source=rss",
-      "pubDate": "2026-09-20T02:05:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cd12215dd50597e09ace60681cb028e49b434543?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１浦和・グスタフソン 今季初出場でファン歓喜「すごく拍手多かった」「もっと見たい」(東スポWEB)",
-      "summary": "J1浦和の元スウェーデン代表MFサミュエル・グスタフソン（31）が、3―1で勝利した19日の東京V戦（埼玉）で今季初出場。サポーターを歓喜させている。 グスタフソンを巡っては、開幕からベンチ外と",
-      "link": "https://news.yahoo.co.jp/articles/50918e546e72198d921b896bf140c6bd59956f9a?source=rss",
-      "pubDate": "2026-09-20T02:00:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/50918e546e72198d921b896bf140c6bd59956f9a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "70m独走ゴールに「既視感しかない」 国立の伝説再び…J1アタッカーの衝撃パフォに「本当にデジャブ」(FOOTBALL ZONE)",
-      "summary": "FC東京は9月19日に行われたJ1第8節で名古屋グランパスに1-0で勝ち、リーグ3連勝を飾った。後半にMF俵積田晃太が自陣から70メートルのドリブル独走から決勝点。衝撃のプレーが昨年4月のプレーに重",
-      "link": "https://news.yahoo.co.jp/articles/8eed384e0275540f252270a38c5e179c551fecf7?source=rss",
-      "pubDate": "2026-09-20T01:50:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo",
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8eed384e0275540f252270a38c5e179c551fecf7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "70m独走ゴールに「既視感しかない」 国立の伝説再び…J1アタッカーの衝撃パフォに「本当にデジャブ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/674290",
-      "pubDate": "2026-09-20T01:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/674290"
-        }
-      ]
-    },
-    {
-      "title": "3発快勝の浦和「危なげなく勝てた」 悪癖を払拭…指揮官手ごたえ「勝利に向かって振る舞えるチームに」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/674286",
-      "pubDate": "2026-09-20T01:31:20.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/674286"
         }
       ]
     }
