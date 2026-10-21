@@ -1,22 +1,41 @@
 {
-  "generatedAt": "2026-10-20T22:28:45.262Z",
+  "generatedAt": "2026-10-21T00:45:52.874Z",
   "count": 638,
   "items": [
     {
-      "title": "【ボートレース】21日のFC東京－柏レイソルはボートレース平和島Dayを実施！(日刊スポーツ)",
-      "summary": "平和島ボートは、今日21日のJ1第11節FC東京－柏レイソル（味スタ）をボートレース平和島Dayとして開催する。 東京支部のレーサー倉持莉々、中曽瑠華が両チームのキャプテンへ花束贈呈。また同場では第1",
-      "link": "https://news.yahoo.co.jp/articles/afdd29f76645a48bc9f5c0107e8c63b50449e969?source=rss",
-      "pubDate": "2026-10-20T22:00:01.000Z",
+      "title": "「これに満足しては…」。ジェフ千葉の鈴木大輔が示したキャプテンの価値。今季初先発で生まれた守備の安心感(フットボールチャンネル)",
+      "summary": "無失点でも、喜ぶことはできなかった。ジェフユナイテッド千葉は横浜F・マリノスとの一戦を0-0で終え、勝ち点1を積み上げた。しかし、長期離脱から今季リーグ戦初先発を果たしたキャプテン・鈴木大輔の胸にあっ",
+      "link": "https://news.yahoo.co.jp/articles/4640365e88cc951d28e5bfa0662868318b99cad5?source=rss",
+      "pubDate": "2026-10-21T00:00:24.000Z",
       "source": "Yahoo!ニュース スポーツ",
       "sourceId": "yahoo-sports",
       "teams": [
-        "reysol"
+        "jef-chiba"
       ],
       "topics": [],
       "sources": [
         {
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4640365e88cc951d28e5bfa0662868318b99cad5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【ボートレース】21日のFC東京－柏レイソルはボートレース平和島Dayを実施！(日刊スポーツ)",
+      "summary": "平和島ボートは、今日21日のJ1第11節FC東京－柏レイソル（味スタ）をボートレース平和島Dayとして開催する。 東京支部のレーサー倉持莉々、中曽瑠華が両チームのキャプテンへ花束贈呈。また同場では第1",
+      "link": "https://news.yahoo.co.jp/articles/afdd29f76645a48bc9f5c0107e8c63b50449e969?source=rss",
+      "pubDate": "2026-10-20T22:00:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/afdd29f76645a48bc9f5c0107e8c63b50449e969?source=rss"
         }
       ]
@@ -1267,22 +1286,21 @@
       ]
     },
     {
-      "title": "岡山vs神戸 スタメン発表",
-      "summary": "[10.18 J1第10節](JFEス)※13:55開始主審:清水勇人[ファジアーノ岡山]先発GK 1 レナート・モーザーDF 43 鈴木喜丈DF 44 森壮一朗DF 48 立田悠悟MF 8 江坂任MF 10 ナ・サンホMF 41 宮本英治…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461284-461284-fl",
-      "pubDate": "2026-10-18T04:11:01.000Z",
+      "title": "柏MF遠藤渓太が今季3発目のスーパーミドル! 首位陥落に悔しさ「簡単な失点をしてたら居続けることは難しい」",
+      "summary": "[10.17 J1第10節 柏 1-3 名古屋 三協F柏] 不穏な空気を払拭する強烈な一発だった。0-1の状況で迎えた前半23分、ビルドアップからDF杉岡大暉が縦パスを入れると、MF遠藤渓太がフリック、センターサークル内で受けたFW藤尾翔太…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461288-461288-fl",
+      "pubDate": "2026-10-18T05:01:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "s-pulse",
-        "fagiano"
+        "reysol"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461284-461284-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461288-461288-fl"
         }
       ]
     },
@@ -12475,25 +12493,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/21/post1015590/"
-        }
-      ]
-    },
-    {
-      "title": "敗戦直後の「雨中の個人レッスン」に滲んだ飽くなき向上心。鹿島ユースMF福岡勇和が見据えるのは「アントラーズの中心」を担う未来(ゲキサカ)",
-      "summary": "[9.19 プレミアリーグEAST第14節 流通経済大柏高 4-0 鹿島ユース 流通経済大柏高G] ひとまず目標を手繰り寄せたことは嬉しいけれど、これからが本当の勝負だということも、もちろん明確",
-      "link": "https://news.yahoo.co.jp/articles/cc7ce1eba802581811a6af6c3596f6f796501661?source=rss",
-      "pubDate": "2026-09-20T23:25:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/cc7ce1eba802581811a6af6c3596f6f796501661?source=rss"
         }
       ]
     }
