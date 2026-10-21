@@ -1,7 +1,662 @@
 {
-  "generatedAt": "2026-10-21T10:47:49.508Z",
-  "count": 637,
+  "generatedAt": "2026-10-21T15:43:36.611Z",
+  "count": 669,
   "items": [
+    {
+      "title": "東京VのFW山田剛綺が追加タイムに同点弾。長期離脱を乗り越え「たくさんの人に支えられた」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第11節 東京V2－2横浜 （2026年10月21日 MUFG国立） 東京Vは途中出場のFW山田剛綺（26）の3年ぶりのゴールで後半追加タイムに追いつき、引き分けに持ち込んだ。開幕",
+      "link": "https://news.yahoo.co.jp/articles/d833d4af5ed32319236cb5a957be40ce800c155f?source=rss",
+      "pubDate": "2026-10-21T15:34:39.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d833d4af5ed32319236cb5a957be40ce800c155f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "神戸のGK権田が失点を反省 「アンラッキーで片付けたら簡単」「物事には理由がある」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第11節 神戸 1―2 川崎F（2026年10月21日 U等々力） 神戸のGK権田修一が不運に見えた失点を反省した。敵地で川崎Fに1―2で敗戦。0―1の同26分には自陣左から相手M",
+      "link": "https://news.yahoo.co.jp/articles/602c85951299e78ff12438dd211ccc58c69aca71?source=rss",
+      "pubDate": "2026-10-21T15:13:49.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/602c85951299e78ff12438dd211ccc58c69aca71?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京Ｖ・相馬新監督のもと名門復活なるかイレブンは手応え「選手をよく観察している」(東スポWEB)",
+      "summary": "東京Vは21日、明治安田J1リーグ第11節（MUFG国立）で横浜Mに2―2で引き分けた。 今季J1で唯一未勝利のチームは、第8節アウェー浦和戦（9月19日）以来無得点が続いていた。そして、今月5日には",
+      "link": "https://news.yahoo.co.jp/articles/b0afbdfbf60acdfe1b4af68ef93419aa8ee4dc37?source=rss",
+      "pubDate": "2026-10-21T15:05:24.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b0afbdfbf60acdfe1b4af68ef93419aa8ee4dc37?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【柏】31歳で新境地MF戸嶋祥郎が右CB挑戦 反省口にするも「本当に成長できている」(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京0－0柏＞◇第11節◇21日◇味スタ 柏レイソルは敵地でFC東京と0－0で引き分け、勝ち点1をつかんだ。互いに決め手を欠いたが、主導権を握り合う好ゲームを展開し、ファンを魅了した。",
+      "link": "https://news.yahoo.co.jp/articles/7f3584ffc2b673451be6a5f6c3e524d348993c5d?source=rss",
+      "pubDate": "2026-10-21T14:50:47.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7f3584ffc2b673451be6a5f6c3e524d348993c5d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】劇的逆転勝利で終えられず悔しいドロー「勝って帰らなければいけなかった」鬼木監督(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都2－2鹿島＞◇21日◇第11節◇サンガS 鹿島アントラーズがアウェーで京都サンガF.C.と引き分けた。【写真】京都と引き分けた鹿島イレブン 前半16分に京都に先制を許しながらも、そ",
+      "link": "https://news.yahoo.co.jp/articles/4c5cc22a3100e82414ab7c947877a6b3820eec86?source=rss",
+      "pubDate": "2026-10-21T14:49:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c5cc22a3100e82414ab7c947877a6b3820eec86?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
+      "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
+      "link": "https://www.footballchannel.jp/2026/10/21/post969138/",
+      "pubDate": "2026-10-21T14:47:44.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/21/post969138/"
+        }
+      ]
+    },
+    {
+      "title": "J1京都・新井晴樹がプロ初2得点「今まで以上に気合が入っていた」JFL時代お世話になった工務店、寿司屋に恩返し弾(サンケイスポーツ)",
+      "summary": "明治安田J1リーグ第11節（21日、京都2－2鹿島、サンガS）京都は鹿島に引き分け、リーグ3試合勝利なしとなった。先発フル出場のMF新井晴樹（28）がプロ初の1試合2得点でチームに勝ち点1をもたらした",
+      "link": "https://news.yahoo.co.jp/articles/3d424e5964c26466675094ba09a8de898e38a3a5?source=rss",
+      "pubDate": "2026-10-21T14:37:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3d424e5964c26466675094ba09a8de898e38a3a5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】宮市亮、先制ミドル弾も勝利に届かず「タイトルを目指すには絶対に勝ち点３を…」(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－2東京V＞◇21日◇第11節◇東京・MUFG国立 横浜F・マリノスFW宮市亮（33）が強烈なミドルシュートで先制点を決めた。【写真】横浜対東京V 前半、先制ゴールを決め喜びを爆",
+      "link": "https://news.yahoo.co.jp/articles/021adb43144a76dd4e966a560876131d0de743f3?source=rss",
+      "pubDate": "2026-10-21T14:34:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy",
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/021adb43144a76dd4e966a560876131d0de743f3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【FC東京】安斎颯馬、攻めと守りの2つの「顔」。「次に絶対に自分が取り返す」の誓いと「チームのためにタスクを」の献身(サッカーマガジンWeb)",
+      "summary": "10月21日の明治安田J1リーグ第11節で、FC東京はチャンスを作りながら決めきれず、柏レイソルとスコアレスドローに終わった。数々のチャンスに絡んだのが、好調の安斎颯馬。アタッカーとして、そしてサイド",
+      "link": "https://news.yahoo.co.jp/articles/a897be3d92de932558a17ed23646dd1a02ce4587?source=rss",
+      "pubDate": "2026-10-21T14:32:13.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a897be3d92de932558a17ed23646dd1a02ce4587?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【京都】工務店元同僚、すし店営む夫婦…JFL経験ある新井晴樹、恩人の前でプロ初１試合２発(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都2－2鹿島＞◇21日◇第11節◇サンガS 京都サンガF.C.のMF新井晴樹（28）が、プロ初の1試合2ゴールでチームに勝ち点1をもたらした。【写真】終了間際に同点ゴールを決め、喜ぶ",
+      "link": "https://news.yahoo.co.jp/articles/69bf9ae77e2e50c48180ff33db5fc2d0857ca03e?source=rss",
+      "pubDate": "2026-10-21T14:25:38.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/69bf9ae77e2e50c48180ff33db5fc2d0857ca03e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【順位表】明治安田J1リーグ2026/27 サッカー 最新情報",
+      "summary": "明治安田J1リーグ2026/27の最新順位表は下記の通り。勝点が同じ場合は得失点差→総得点数→当該チーム間の対戦成績（イ：勝点、ロ：得失点差、ハ：総得点数）→抽選の順で順位を決定する。",
+      "link": "https://www.footballchannel.jp/2026/10/21/post969132/",
+      "pubDate": "2026-10-21T14:24:34.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/21/post969132/"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１京都・新井晴樹、プロ初の１試合２発で３連敗阻止 ＪＦＬ枚方出身「あの時の自分が鹿島から２点取るなんて」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第１１節 京都２―２鹿島（２１日・サンガスタジアム） 京都ＭＦ新井晴樹がホーム鹿島戦で自身プロ初の１試合２ゴールを決め、チームのリーグ連敗を２で止めた。【動画】横浜ＦＭの１６歳・",
+      "link": "https://news.yahoo.co.jp/articles/5831d550ec553bba006b6d5fda6e69c46d12f451?source=rss",
+      "pubDate": "2026-10-21T14:14:55.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5831d550ec553bba006b6d5fda6e69c46d12f451?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【FC東京】10戦無敗で2位浮上も今季初無得点…逸機連続、松橋監督「淡泊になってしまった」稲村隼翔「勝ち切らないと、あとあと厳しくなる」(中日スポーツ)",
+      "summary": "◇21日 J1リーグ第11節 FC東京0―0柏（味の素スタジアム） FC東京はホームで柏と引き分けた。6試合連続無失点で、リーグ戦では開幕・町田戦（8月8日）で黒星を喫して以降、10戦負けなし。勝ち点",
+      "link": "https://news.yahoo.co.jp/articles/69ad8bc7d17ac8df9b07f11611300b22f387c925?source=rss",
+      "pubDate": "2026-10-21T14:14:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/69ad8bc7d17ac8df9b07f11611300b22f387c925?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "被シュートわずか3本で2失点…アビスパ福岡、痛恨黒星で再び降格圏転落「あれが入るのが今のチーム」(西スポWEB OTTO!)",
+      "summary": "◆明治安田J1第11節 福岡 1―2 G大阪（21日・ベスト電器スタジアム） 後半30分に橋本悠がFKを直接決め、クラブのJ1リーグ通算500得点目で追い付いた3分後。攻勢ムードに落とし穴が待っていた",
+      "link": "https://news.yahoo.co.jp/articles/4c65429f60a3f044b53274b1f9866852244ac870?source=rss",
+      "pubDate": "2026-10-21T14:13:56.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4c65429f60a3f044b53274b1f9866852244ac870?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京V】山田剛綺、後半40分出場から劇的同点弾「前で勝負した方が勝てる」ドンピシャヘッド(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－2東京V＞◇21日◇第11節◇東京・MUFG国立 東京ヴェルディFW山田剛綺（26）が後半40分から途中出場し、値千金の同点ゴールを決めた。【写真】横浜対東京V 後半、同点ゴー",
+      "link": "https://news.yahoo.co.jp/articles/a745441c69bfc09fad8e2d86bbacbd344d868b77?source=rss",
+      "pubDate": "2026-10-21T14:12:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a745441c69bfc09fad8e2d86bbacbd344d868b77?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京V】森田晃樹「点を取れるんだみたいな自信につながった」主将投入から2点差追いつく(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－2東京V＞◇21日◇第11節◇東京・MUFG国立 東京ヴェルディが、土壇場でドローに持ちこんだ。横浜F・マリノスとの伝統の国立決戦は、2－2で引き分けた。【写真】横浜M－東京V",
+      "link": "https://news.yahoo.co.jp/articles/a04ee34d80c90a9323ba71b16ddb8b92cde2c912?source=rss",
+      "pubDate": "2026-10-21T14:12:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a04ee34d80c90a9323ba71b16ddb8b92cde2c912?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U17アジア杯組のGKコンビとともに候補合宿招集の川中碧音(C大阪U-18)「羨ましいなと」念願の“世界”へ逆転選出狙う(ゲキサカ)",
+      "summary": "20日から22日にかけて行われているU-17日本代表候補合宿には3人のGKが選出されている。その中で唯一U17アジアカップを経験していないのがGK川中碧音(C大阪U-18)。悔しさも糧に「U-17ワー",
+      "link": "https://news.yahoo.co.jp/articles/ba1c0ca5ad4aad0ac5318143cf64009fed4ae857?source=rss",
+      "pubDate": "2026-10-21T14:12:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ba1c0ca5ad4aad0ac5318143cf64009fed4ae857?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１福岡が降格圏１８位に転落…Ｇ大阪との直接対決に敗れ塚原監督「非常に今苦しい状態」(東スポWEB)",
+      "summary": "明治安田J1第11節が21日に行われ、福岡はホームG大阪戦（ベススタ）に1―2で敗れ、リーグ戦2連敗で18位の降格圏に転落した。DF橋本悠が直接FKで同点ゴールを決めたものの、わずか3分後に勝ち越しを",
+      "link": "https://news.yahoo.co.jp/articles/3b0c3b9300458da8c4684ff9ce842e454f506be1?source=rss",
+      "pubDate": "2026-10-21T14:05:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3b0c3b9300458da8c4684ff9ce842e454f506be1?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アカデミー育ちの京都FW加藤拓己「途中から出ていく選手がカギに」ホーム初出場で同点アシスト(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 京都 2―2 鹿島（2026年10月21日 サンガS） 京都のホームスタジアム初見参の“ゴリ”FW加藤拓己が起死回生の同点アシストをマークした。【写真あり】電撃婚の久保建英 福原",
+      "link": "https://news.yahoo.co.jp/articles/017ade05f8b2544751e5f89ecbeb6e6bd1651c56?source=rss",
+      "pubDate": "2026-10-21T14:01:31.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/017ade05f8b2544751e5f89ecbeb6e6bd1651c56?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｇ大阪 宇佐美貴史の決勝弾でリーグ１０戦ぶり勝利 明神智和監督「この勝ち一つに満足せず、修正して次に」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第１１節 Ｇ大阪２―１福岡（２１日・ベスト電機スタジアム） Ｇ大阪が敵地４連戦の最終戦で福岡を下し、待望のリーグ１０戦ぶり白星を挙げた。【動画】横浜ＦＭの１６歳・三井寺、衝撃の開",
+      "link": "https://news.yahoo.co.jp/articles/797764e2eace794faaa5fbd733e00fa3ca091808?source=rss",
+      "pubDate": "2026-10-21T14:00:19.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/797764e2eace794faaa5fbd733e00fa3ca091808?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【神戸】向かい風にも苦しみ川崎Ｆに敗戦 権田修一「不運で片付けたら簡単だけど…理由がある」(日刊スポーツ)",
+      "summary": "＜明治安田J1：川崎F2－1神戸＞◇21日◇第11節◇U等々力 ヴィッセル神戸が敵地で川崎フロンターレに1－2で敗れた。 後半は向かい風にも苦しみ、2失点。GK権田修一（37）は「不運だからって片付け",
+      "link": "https://news.yahoo.co.jp/articles/2058dec8e4798d5fd4a3d47c1dea11f98aa79db6?source=rss",
+      "pubDate": "2026-10-21T13:57:07.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "vissel"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2058dec8e4798d5fd4a3d47c1dea11f98aa79db6?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【川崎Ｆ】伊藤達哉「ラッキーだな」風に乗ったクロスが決勝弾に 途中出場で１得点１アシスト(日刊スポーツ)",
+      "summary": "＜明治安田J1：川崎F2－1神戸＞◇21日◇第11節◇U等々力◇20737人 川崎フロンターレのFW伊藤達哉（29）が、途中出場で1得点1アシストと躍動し、チームを2連勝に導いた。【写真】得点したフロ",
+      "link": "https://news.yahoo.co.jp/articles/1e14799af3f351b123e59a65fad5cc453a3df7a5?source=rss",
+      "pubDate": "2026-10-21T13:53:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/1e14799af3f351b123e59a65fad5cc453a3df7a5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "川崎Fの伊藤達哉が1得点1アシスト 「上に食らいついていくために絶対勝ちたかった」(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ第11節 川崎F 2―1 神戸（2026年10月21日 U等々力）【写真あり】澤穂希さん サッカー選手と大物女優の出会いの場って？に回答 自身も現役時代に「ありましたよ」 川崎フロ",
+      "link": "https://news.yahoo.co.jp/articles/b62a2566bd7ed9fd887974e370b091048b569324?source=rss",
+      "pubDate": "2026-10-21T13:52:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b62a2566bd7ed9fd887974e370b091048b569324?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【川崎F】途中出場FW伊藤達哉が1ゴール１アシスト 指揮官「狙い通りではないけど期待通り」(日刊スポーツ)",
+      "summary": "＜明治安田J1：川崎F2－1神戸＞◇21日◇第11節◇U等々力 川崎フロンターレが2－1でヴィッセル神戸に競り勝った。0－0の後半16分、右サイドからのクロスをFWマルシーニョが頭でゴール左下に決め先",
+      "link": "https://news.yahoo.co.jp/articles/23107045df6df6eeee481785b619b25284c198dc?source=rss",
+      "pubDate": "2026-10-21T13:35:52.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/23107045df6df6eeee481785b619b25284c198dc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【町田】急きょ先発出場のFW西村拓真がクラブJ1初ハットトリック「常に準備していた」(日刊スポーツ)",
+      "summary": "＜明治安田J1：清水0－5町田＞◇第11節◇21日◇アイスタ FC町田ゼルビアが首位に返り咲いた。清水エスパルスに5－0で快勝し、今季2度目の3連勝で勝ち点を26に伸ばした。FW西村拓真（29）が3得",
+      "link": "https://news.yahoo.co.jp/articles/2c99b44332c159178791ff89e5a809fdc2d3add2?source=rss",
+      "pubDate": "2026-10-21T13:34:07.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2c99b44332c159178791ff89e5a809fdc2d3add2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京V】途中出場の森田晃樹から２得点でドロー 就任後初勝ち点に相馬監督「プラスに持って」(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－2東京V＞◇21日◇第11節◇東京・MUFG国立 東京Vは相馬直樹監督就任3戦目で初の勝ち点を手にした。2点差を追う後半16分から負傷明けのMF森田晃樹主将（25）を投入。その",
+      "link": "https://news.yahoo.co.jp/articles/9ac046949f2f855634c08ee4615788d7ebaeb6fe?source=rss",
+      "pubDate": "2026-10-21T13:22:34.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "injury",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/9ac046949f2f855634c08ee4615788d7ebaeb6fe?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【京都】新井晴樹の２ゴールで勝ち点１もぎ取る「苦しい試合だったが、2－2をポジティブに…」(日刊スポーツ)",
+      "summary": "＜明治安田J1：京都2－2鹿島＞◇第11節◇21日◇サンガS 京都サンガF.C.がMF新井晴樹の2ゴールで勝ち点1をもぎ取った。【写真】終了間際に同点ゴールを決め、喜ぶ新井晴樹 1－1の後半追加タイム",
+      "link": "https://news.yahoo.co.jp/articles/c7981546c40939f2fbd4e2d0084da2a11a42488a?source=rss",
+      "pubDate": "2026-10-21T13:13:01.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/c7981546c40939f2fbd4e2d0084da2a11a42488a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京】柏とスコアレスドローで10戦負けなしも、DF稲村隼翔「悔しさしかない」(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京0－0柏＞◇21日◇第11節◇味スタ FC東京が柏レイソルとスコアレスドローで10戦負けなしとした。ボール保持が得意な相手に1歩も引かず決定機を作ったが、決めきれなかった。6試合連",
+      "link": "https://news.yahoo.co.jp/articles/0819aeaadd4e9805e11b00a93ca2eb910425d6cc?source=rss",
+      "pubDate": "2026-10-21T13:04:16.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fc-tokyo",
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/0819aeaadd4e9805e11b00a93ca2eb910425d6cc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1の最新順位が混戦模様 上位も下位も勝ち点4差に5チーム…東京Vは開幕から唯一の未勝利",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680322",
+      "pubDate": "2026-10-21T13:02:10.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680322"
+        }
+      ]
+    },
+    {
+      "title": "最下位の東京V・相馬監督「まだ死んでない」 就任後初の勝ち点…開幕11戦未勝利も劇的ドロー「成功体験を」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680325",
+      "pubDate": "2026-10-21T12:41:17.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680325"
+        }
+      ]
+    },
+    {
+      "title": "さすがのビューティーフルショット！宇佐美貴史のゴールが鮮やか！ ガンバ大阪に2勝目をもたらした完璧な一発",
+      "summary": "ガンバ大阪は21日、2026/2027明治安田J1リーグ第11節でアビスパ福岡と敵地で対戦し、2-1で勝利した。この試合では、宇佐美貴史が決勝ゴールをマーク。その得点は、鮮やかな一撃だった。",
+      "link": "https://www.footballchannel.jp/2026/10/21/post1037964/",
+      "pubDate": "2026-10-21T12:30:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/21/post1037964/"
+        }
+      ]
+    },
+    {
+      "title": "千葉、5戦未勝利で降格圏脱出ならず 一時同点、終了間際に反撃も…アウェー浦和戦で2-3敗戦",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680304",
+      "pubDate": "2026-10-21T12:29:32.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680304"
+        }
+      ]
+    },
+    {
+      "title": "【東京V】横浜と伝統の国立決戦、途中出場FW山田剛綺の土壇場ヘッドで2－2のドロー(日刊スポーツ)",
+      "summary": "＜明治安田J1：横浜2－2東京V＞◇21日◇第11節◇東京・MUFG国立 横浜F・マリノスと東京ヴェルディの伝統の聖地・国立決戦は、2－2で引き分けた。【写真】土壇場ヘッド！同点ゴールを決め喜ぶ東京V",
+      "link": "https://news.yahoo.co.jp/articles/2fec068e197619b4a5f767acc3dec57af9c5a251?source=rss",
+      "pubDate": "2026-10-21T12:20:48.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/2fec068e197619b4a5f767acc3dec57af9c5a251?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京V、泥沼の開幕11戦未勝利 土壇場で同点も横浜FMに2-2ドロー…相馬直樹監督が就任後も3戦勝ちなし",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680303",
+      "pubDate": "2026-10-21T11:59:02.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy",
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680303"
+        }
+      ]
+    },
     {
       "title": "【広島】今年は１位指名を公表せずに当日決定へ「パターンが４通りぐらい」田村スカウト部長(日刊スポーツ)",
       "summary": "4年連続で1位指名を公表してきた広島が、今年はドラフト前日も公表しなかった。田村スカウト部長は「まだはっきりこの選手というのは決まっていない。もう一度明日集まって、決定しようという形になります」とした",
@@ -97,6 +752,23 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/d7c430bfe7be629dc63283c299265b6ce0a38649?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "讃岐vs金沢 スタメン発表",
+      "summary": "[10.21 J3第12節](メグスタ)※19:00開始主審:矢野浩平[カマタマーレ讃岐]先発GK 1 今村勇介DF 20 イ・ギサンDF 40 高嶋修也DF 44 林田魁斗MF 10 後藤優介MF 14 石倉潤征MF 16 有田朱里MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461502-461502-fl",
+      "pubDate": "2026-10-21T09:29:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461502-461502-fl"
         }
       ]
     },
@@ -488,25 +1160,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/680099"
-        }
-      ]
-    },
-    {
-      "title": "北九州vsFC大阪 スタメン発表",
-      "summary": "[10.17 J3第11節](ミクスタ)※14:00開始主審:國吉真吾[ギラヴァンツ北九州]先発GK 31 大谷幸輝DF 3 神橋良汰DF 20 安光将作DF 28 横窪皇太DF 30 福森健太MF 8 吉長真優MF 11 高昇辰MF 14…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461176-461176-fl",
-      "pubDate": "2026-10-20T08:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461176-461176-fl"
         }
       ]
     },
@@ -12413,46 +13066,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/0a8d38f8b30cf9496804f2c9333eb3bcfe4af149?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "“プロ=レイソル一択”を貫き…古谷柊介(東京国際大)がアジア大会で誓う躍動「結果を出して、優勝して帰る」(ゲキサカ)",
-      "summary": "出番を得られなかった悔しさを、次のチャンスにぶつける。U-21日本代表FW古谷柊介(東京国際大/柏内定)は、アジア競技大会のグループリーグ第2節・キルギス戦でベンチ入りしたものの、出場機会はなかった",
-      "link": "https://news.yahoo.co.jp/articles/dfc0274cfc88ee900930c32e8075a03c9bfb746f?source=rss",
-      "pubDate": "2026-09-21T14:14:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/dfc0274cfc88ee900930c32e8075a03c9bfb746f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「ボールに行けばファウルではない」は誤解？ 福岡・上島の退場で元国際審判が解説「多くの方に知ってほしい判断基準」(スポーティングニュース日本版)",
-      "summary": "9月21日（月）、Jリーグは、明治安田J1リーグ第8節のアビスパ福岡（福岡）対サンフレッチェ広島（広島）戦で退場処分となったDF上島拓巳に対し、2試合の出場停止と罰金20万円の処分を科したことを発表し",
-      "link": "https://news.yahoo.co.jp/articles/074b796549abac9b16987bab0fd5f7e8dfde328e?source=rss",
-      "pubDate": "2026-09-21T13:39:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/074b796549abac9b16987bab0fd5f7e8dfde328e?source=rss"
         }
       ]
     }
