@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-10-22T12:10:52.393Z",
-  "count": 678,
+  "generatedAt": "2026-10-22T17:24:44.836Z",
+  "count": 677,
   "items": [
+    {
+      "title": "リベンジのU-17W杯本メンバー入りへ…鹿島ユースDF倉橋幸暉が「もう全部潰しにいく気持ちで」持ち味発揮してゴールの起点に(ゲキサカ)",
+      "summary": "[10.22 練習試合第2戦 U-17日本代表候補 5-0 流通経済大 Jヴィレッジ]【写真】「かつてないほど…」「アディダスは完璧な仕事をした」レアル・マドリーのレトロシャツに好評の声 トレーニング",
+      "link": "https://news.yahoo.co.jp/articles/8c4674d2f8f5b07cc1ac96d247e89da43d7e9806?source=rss",
+      "pubDate": "2026-10-22T14:36:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/8c4674d2f8f5b07cc1ac96d247e89da43d7e9806?source=rss"
+        }
+      ]
+    },
     {
       "title": "「気持ちで押し込んだ」浦和の20歳MFは公式戦4戦連発と絶好調も慢心なし！「違いを出していかないといけない」(SOCCER DIGEST Web)",
       "summary": "またしても結果を残した。 浦和レッズは10月21日、J1第11節でジェフユナイテッド千葉とホームで対戦。19分に金子拓郎のゴールで先制したなか、32分に同点を許す。それでも55分に根本健太が勝ち越し弾",
@@ -881,6 +902,23 @@
       ]
     },
     {
+      "title": "山形vs札幌 試合記録",
+      "summary": "【J2第12節】(NDスタ)山形 0-2(前半0-0)札幌[札]木戸柊摩(61分)、荒野拓馬(83分)[札]大森真吾(40分)観衆:8,036人主審:吉田哲朗[モンテディオ山形]先発GK 34 佐藤瑠星DF 5 杉井颯DF 15 川井歩DF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461466-461466-fl",
+      "pubDate": "2026-10-21T14:00:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461466-461466-fl"
+        }
+      ]
+    },
+    {
       "title": "【神戸】向かい風にも苦しみ川崎Ｆに敗戦 権田修一「不運で片付けたら簡単だけど…理由がある」(日刊スポーツ)",
       "summary": "＜明治安田J1：川崎F2－1神戸＞◇21日◇第11節◇U等々力 ヴィッセル神戸が敵地で川崎フロンターレに1－2で敗れた。 後半は向かい風にも苦しみ、2失点。GK権田修一（37）は「不運だからって片付け",
       "link": "https://news.yahoo.co.jp/articles/2058dec8e4798d5fd4a3d47c1dea11f98aa79db6?source=rss",
@@ -1071,26 +1109,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/680325"
-        }
-      ]
-    },
-    {
-      "title": "名古屋vsC大阪 試合記録",
-      "summary": "【J1第11節】(豊田ス)名古屋 1-1(前半1-0)C大阪[名]中山克広(3分)[C]パブロ・サバック(62分)[名]佐藤瑶大(46分)[C]ディオン・クールズ(26分)、香川真司(49分)、ルーカス・フェルナンデス(66分)、奥田勇斗(…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461528-461528-fl",
-      "pubDate": "2026-10-21T12:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "grampus",
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461528-461528-fl"
         }
       ]
     },
@@ -13198,42 +13216,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/36cc992abd1386d280fcf7d98ace8d65151fb0f7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "初招集の谷村海那、代表選出は「想像していなかった」 JFL→J1の苦労人…デビュー戦に向け「満足せずに」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/674813",
-      "pubDate": "2026-09-22T12:19:45.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/674813"
-        }
-      ]
-    },
-    {
-      "title": "【広島】松田オーナーが新井監督続投を明言「最大限バックアップするつもり」(日刊スポーツ)",
-      "summary": "広島松田元球団オーナー（75）が22日、新井貴浩監督（49）の来季続投を明言した。「来季もやってもらう。チームをひとつにまとめ、一丸となって戦えるのは新井監督しか思いつかない」。全日程終了後、新たに",
-      "link": "https://news.yahoo.co.jp/articles/ad1e2ca08aaa330062224b67dac9116f59d8ee19?source=rss",
-      "pubDate": "2026-09-22T12:12:09.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ad1e2ca08aaa330062224b67dac9116f59d8ee19?source=rss"
         }
       ]
     }
