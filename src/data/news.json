@@ -1,7 +1,68 @@
 {
-  "generatedAt": "2026-10-23T07:48:50.946Z",
-  "count": 676,
+  "generatedAt": "2026-10-23T12:56:55.159Z",
+  "count": 669,
   "items": [
+    {
+      "title": "【横浜Ｍ】知念は全治６～８週間の見込み １０月２１日の東京Ｖ戦で負傷(カナロコ by 神奈川新聞)",
+      "summary": "Ｊ１横浜Ｍは２３日、ＭＦ知念が右足リスフラン関節損傷で全治６～８週間の見込みと診断されたと発表した。鹿島から今季加入し、主力のボランチで起用されてきたが、２１日の東京Ｖ戦で負傷した。",
+      "link": "https://news.yahoo.co.jp/articles/e3ae55f6d1b5f78f737ed869eadf7b51151bf472?source=rss",
+      "pubDate": "2026-10-23T12:41:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e3ae55f6d1b5f78f737ed869eadf7b51151bf472?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "リーグ戦では約２年ぶりのゴール。ヴェルディ山田剛綺はチーム浮上のキーマンになれるか(SOCCER DIGEST Web)",
+      "summary": "10月21日に行なわれたJ１第11節の横浜F・マリノス戦、東京ヴェルディは１－２で追いかけるなか、後半アディショナルタイムを迎えた。【動画】山田の貴重な同点弾！ 追加時間は７分。攻勢を強める東京Vだが",
+      "link": "https://news.yahoo.co.jp/articles/47b56a265af51d6e9cbc8ced735df576da524bc7?source=rss",
+      "pubDate": "2026-10-23T12:16:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/47b56a265af51d6e9cbc8ced735df576da524bc7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【横浜】知念慶、右足甲「リスフラン関節」損傷で全治６～８週間(日刊スポーツ)",
+      "summary": "横浜F・マリノスは23日、MF知念慶（31）が右足リスフラン関節損傷で全治6～8週間の見込みと診断されたことを発表した。【写真】負傷し座り込む横浜知念慶 リスフラン関節とは、足の甲にある足根骨と中足骨",
+      "link": "https://news.yahoo.co.jp/articles/6db580b6687b8e3b551cb80bb8996d31c609cbc9?source=rss",
+      "pubDate": "2026-10-23T11:34:15.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [
+        "injury"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/6db580b6687b8e3b551cb80bb8996d31c609cbc9?source=rss"
+        }
+      ]
+    },
     {
       "title": "元日本代表が鮮やか弾「外から巻いて打ってるのやばすぎ」 相手GK為す術なし「そらやられる」(FOOTBALL ZONE)",
       "summary": "ガンバ大阪は10月21日、J1リーグ第11節でアビスパ福岡と対戦し、2-1で勝利した。この試合でG大阪の元日本代表FW宇佐美貴史が決勝ゴールを決め、「外から巻いて打ってるのやばすぎ」「そらやられる」な",
@@ -766,6 +827,25 @@
       ]
     },
     {
+      "title": "大敗FC東京戦以来の先発復帰…浦和DF根本健太が再出発の勝ち越し弾「長所をもっと出せるようにならないと」",
+      "summary": "[10.21 J1第11節 浦和 3-2 千葉 埼玉] 大敗からの2試合スタメン落ちを経て、上々の再スタートを切った。浦和レッズDF根本健太は第9節・FC東京戦(●0-3)以来の先発出場で、3バック再導入後は初先発。1-1で迎えた後半10分…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461557-461557-fl",
+      "pubDate": "2026-10-21T21:00:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461557-461557-fl"
+        }
+      ]
+    },
+    {
       "title": "J1クラブ×BMWが1台限定で登場「一旦貯金する」 全国唯一の”同塗色の採用”に「見事やってくれた」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/680287",
@@ -818,26 +898,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/9195ea1cfee1ca682f52fc3d0e5103522af4c998?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "横浜FMvs東京V 試合記録",
-      "summary": "【J1第11節】(MUFG国立)横浜FM 2-2(前半1-0)東京V[横]宮市亮(23分)、遠野大弥(50分)[東]藤本寛也(73分)、山田剛綺(90分+3)[東]藤本寛也(14分)、鈴木海音(24分)観衆:40,765人主審:小屋幸栄└横…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461532-461532-fl",
-      "pubDate": "2026-10-21T17:30:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "marinos",
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461532-461532-fl"
         }
       ]
     },
@@ -12999,196 +13059,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/23/post1017366/"
-        }
-      ]
-    },
-    {
-      "title": "今治に４発快勝の柏。主将・古賀太陽は選手層の厚さを示すゲームに手応え「上手く変化を起こしながら表現できた」【天皇杯３回戦】(SOCCER DIGEST Web)",
-      "summary": "［天皇杯３回戦］柏 ４－０ 今治／９月23日／三協フロンテア柏スタジアム リーグ戦、ルヴァンカップ、天皇杯、ACLエリートの４冠を目ざす柏レイソルにとって、FC今治との天皇杯３回戦は実りの多い一戦",
-      "link": "https://news.yahoo.co.jp/articles/37f72fb9671eabd5844237cc6e5ea74a51085d54?source=rss",
-      "pubDate": "2026-09-23T12:23:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/37f72fb9671eabd5844237cc6e5ea74a51085d54?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「ゴールを決めることしか」J1アビスパ福岡、ユース出身FW前田一翔、約1年3カ月ぶり公式戦出場に感慨と悔しさ【アビスパ福岡】(西スポWEB OTTO!)",
-      "summary": "J1アビスパ福岡のFW前田一翔（20）が、19日のホーム広島戦で今季初出場を果たした。公式戦の出場は昨年6月11日の天皇杯2回戦以来、約1年3カ月ぶり。ユース出身のストライカーは、この一戦を浮上への",
-      "link": "https://news.yahoo.co.jp/articles/addf1957876bd40e4c9e689356b023ca3626d189?source=rss",
-      "pubDate": "2026-09-23T12:01:47.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/addf1957876bd40e4c9e689356b023ca3626d189?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表落選の悔しさを晴らす一撃！ 町田・小川航基が「エジルキック」で決勝ゴール(スポーティングニュース日本版)",
-      "summary": "9月23日（水・祝）、天皇杯3回戦が行われ、FC町田ゼルビア（町田）は栃木シティ（栃木C）と対戦。町田が2-1で栃木Cを下し、4回戦進出を決めた。 この試合、町田は前半にミッチェル・デュークの得点で",
-      "link": "https://news.yahoo.co.jp/articles/38374879e7df96a515bf751c78e70fe90f3cc783?source=rss",
-      "pubDate": "2026-09-23T12:01:15.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/38374879e7df96a515bf751c78e70fe90f3cc783?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】波乱なし J1勢6チームがJ2勢に順当勝ち 鹿島は18歳の吉田湊海が初ゴール(日刊スポーツ)",
-      "summary": "サッカーの第106回天皇杯全日本選手権は23日、3回戦の6試合が行われ、J1勢6チームは全てホームでJ2勢に勝って16強入りした。 リーグ戦の悪い流れを断ち切りたいJ1鹿島アントラーズはJ2ヴァ",
-      "link": "https://news.yahoo.co.jp/articles/ab3f51f709a83a699abcd2f8cda6660dbebd76af?source=rss",
-      "pubDate": "2026-09-23T11:50:09.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ab3f51f709a83a699abcd2f8cda6660dbebd76af?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】今治・久保山由清監督、就任３日で迎えた初陣は柏に完敗 J2最下位から立て直しへ(日刊スポーツ)",
-      "summary": "＜天皇杯：柏4－0今治＞◇23日◇3回戦◇三協F柏 FC今治は柏レイソルに0－4で敗れ、3回戦で敗退となった。 今治は今季、J2で第7節を終えて1勝1分け5敗の最下位。21日にはアベル・モウレ",
-      "link": "https://news.yahoo.co.jp/articles/6b79df01cea5e3ea9384d187f785fcd042930088?source=rss",
-      "pubDate": "2026-09-23T11:36:54.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/6b79df01cea5e3ea9384d187f785fcd042930088?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ウルグアイのフォルラン監督「我々は高いレベルでプレーすることを義務付けられたチーム」(日刊スポーツ)",
-      "summary": "ウルグアイ代表が24日に日本代表とワールドカップ明け初戦を戦う。で対戦する率いるのは2010年W杯南アフリカ大会の得点王、ディエゴ・フォルラン監督（47）だ。 14、15年にセレッソ大阪に2シー",
-      "link": "https://news.yahoo.co.jp/articles/ccf0106c1783d9aacba75e5a0a090b163da307ba?source=rss",
-      "pubDate": "2026-09-23T11:27:55.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/ccf0106c1783d9aacba75e5a0a090b163da307ba?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯】柏が今治に４発快勝 細谷真大が２発 得点待ちわびたエースに指揮官「大きな収穫」(日刊スポーツ)",
-      "summary": "＜天皇杯：柏4－0今治＞◇23日◇3回戦◇三協F柏 柏レイソルがFC今治に4－0で勝利し、ラウンド16（4回戦）へ駒を進めた。FW細谷真大（25）が2得点を挙げ、攻撃を引っ張った。 細谷はゴー",
-      "link": "https://news.yahoo.co.jp/articles/edd584bd0e1e9726cc82e539d9b623494a2039aa?source=rss",
-      "pubDate": "2026-09-23T11:27:26.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/edd584bd0e1e9726cc82e539d9b623494a2039aa?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯 JFA第106回全日本サッカー選手権大会 全試合日程・結果・放送・配信予定一覧",
-      "summary": "2026年8月19日から行われる天皇杯 JFA 第106回全日本サッカー選手権大会の試合日程・対戦カード・会場・テレビ放送・インターネット配信予定は以下の通り。日程やキックオフ時間、放送・配信予定は変更となる可能性がある。",
-      "link": "https://www.footballchannel.jp/2026/09/23/post991491/",
-      "pubDate": "2026-09-23T10:49:30.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/23/post991491/"
-        }
-      ]
-    },
-    {
-      "title": "【天皇杯 トーナメント表】JFA第106回 全日本サッカー選手権大会 組み合わせ一覧",
-      "summary": "天皇杯 JFA 第106回全日本サッカー選手権大会のトーナメント組み合わせ一覧。試合は90分で行われ、勝敗が決しない場合は、15分ハーフの延長戦を行う。勝敗が決しない場合は、PK戦により次回戦進出チームを決定する。",
-      "link": "https://www.footballchannel.jp/2026/09/23/post991494/",
-      "pubDate": "2026-09-23T10:40:14.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/23/post991494/"
-        }
-      ]
-    },
-    {
-      "title": "フォルラン監督が日本へ感謝「素晴らしい経験」 C大阪で1年半プレー…森保Jは「トップレベル」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/674971",
-      "pubDate": "2026-09-23T10:16:11.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/674971"
         }
       ]
     }
