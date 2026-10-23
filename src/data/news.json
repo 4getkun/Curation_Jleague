@@ -1,7 +1,48 @@
 {
-  "generatedAt": "2026-10-22T23:45:48.276Z",
-  "count": 673,
+  "generatedAt": "2026-10-23T02:28:08.589Z",
+  "count": 674,
   "items": [
+    {
+      "title": "カメラ切り替え→即失点に「位置が全然違う」 中継映像で追いきれず…ファン騒然「何が起きた？」(FOOTBALL ZONE)",
+      "summary": "J1リーグの第11節が10月21日に各地で行われ、IAIスタジアム日本平で清水エスパルスとFC町田ゼルビアが対戦。後半17分に決まったゴールシーンが「位置が全然違う」「何が起きた？」など注目を集めてい",
+      "link": "https://news.yahoo.co.jp/articles/e2c18f6e5c024ccd6f4237aeb428bfef989cba63?source=rss",
+      "pubDate": "2026-10-23T02:19:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e2c18f6e5c024ccd6f4237aeb428bfef989cba63?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "キプロス遠征のU-16日本代表で選手変更…FW八色隼人(名古屋U-18)が不参加、FW城秀人(FC東京U-18)を追加招集(ゲキサカ)",
+      "summary": "日本サッカー協会(JFA)は23日、U-16日本代表からFW八色隼人(名古屋U-18)が怪我のため参加のため不参加となり、FW城秀人(FC東京U-18)を追加招集すると発表した。【写真】「かつてないほ",
+      "link": "https://news.yahoo.co.jp/articles/deb914c99a921959d83ca9938ce506a0460e4fab?source=rss",
+      "pubDate": "2026-10-23T02:18:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/deb914c99a921959d83ca9938ce506a0460e4fab?source=rss"
+        }
+      ]
+    },
     {
       "title": "やっぱり別格？ J1→J2移籍で大活躍中の選手（1）J1契約解除→J2でゴール量産！ 無双状態の「昇格請負人」(フットボールチャンネル)",
       "summary": "さまざまな理由から、J1のクラブを離れてJ2へと舞台を移す選手がいる。一般的に所属カテゴリーが下がることはポジティブなことではないが、選手としての輝きが増すことも少なくない。今回は、2026/27シー",
@@ -783,6 +824,26 @@
       ]
     },
     {
+      "title": "清水vs町田 試合記録",
+      "summary": "【J1第11節】(アイスタ)清水 0-5(前半0-1)町田[町]ネタ・ラヴィ(35分)、小川航基(50分)、西村拓真3(62分、77分、82分)[清]松崎快(63分)[清]本多勇喜(17分)、松崎快2(31分、63分)観衆:10,750人主…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461527-461527-fl",
+      "pubDate": "2026-10-21T14:20:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "s-pulse",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461527-461527-fl"
+        }
+      ]
+    },
+    {
       "title": "Ｊ１京都・新井晴樹、プロ初の１試合２発で３連敗阻止 ＪＦＬ枚方出身「あの時の自分が鹿島から２点取るなんて」(スポーツ報知)",
       "summary": "◆明治安田Ｊ１リーグ▽第１１節 京都２―２鹿島（２１日・サンガスタジアム） 京都ＭＦ新井晴樹がホーム鹿島戦で自身プロ初の１試合２ゴールを決め、チームのリーグ連敗を２で止めた。【動画】横浜ＦＭの１６歳・",
       "link": "https://news.yahoo.co.jp/articles/5831d550ec553bba006b6d5fda6e69c46d12f451?source=rss",
@@ -896,26 +957,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ba1c0ca5ad4aad0ac5318143cf64009fed4ae857?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "福岡vsG大阪 試合記録",
-      "summary": "【J1第11節】(ベススタ)福岡 1-2(前半0-0)G大阪[福]橋本悠(75分)[G]ウェルトン(50分)、宇佐美貴史(77分)[福]辻岡佑真(27分)、前田快(44分)、湯澤聖人(46分)[G]美藤倫(87分)観衆:6,105人主審:上…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461524-461524-fl",
-      "pubDate": "2026-10-21T14:10:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "avispa",
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461524-461524-fl"
         }
       ]
     },
@@ -13122,23 +13163,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/09/23/post1016859/"
-        }
-      ]
-    },
-    {
-      "title": "「ユニ似合って可愛い」元祖モグラの仮面ライダー女優、J2新潟の首位浮上を後押し!「絶世の美女」「ただただ可愛い」「 無敵です」(サッカー批評Web)",
-      "summary": "アルビレックス新潟が、今季初めてJ2首位に浮上した。その快進撃の裏には、地元が誇る“勝利の女神”の後押しがあったようだ。 新潟は現在、J1復帰に向けて奮闘している。2025年シーズンにJ1最下位",
-      "link": "https://news.yahoo.co.jp/articles/8ea383521db465ddeb96cd9c6f68f1e12e6a663e?source=rss",
-      "pubDate": "2026-09-23T01:27:18.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8ea383521db465ddeb96cd9c6f68f1e12e6a663e?source=rss"
         }
       ]
     }
