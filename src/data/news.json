@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-23T12:56:55.159Z",
-  "count": 669,
+  "generatedAt": "2026-10-23T17:38:48.127Z",
+  "count": 668,
   "items": [
+    {
+      "title": "開幕8戦16失点から3試合連続無失点。それでも勝ち切れない鹿島アントラーズ、早川友基と鬼木達監督が語る課題【コラム】",
+      "summary": "守備に改善の兆しが見えている。それでも、勝ち切れない。鹿島アントラーズは21日の京都サンガF.C.戦で、後半アディショナルタイムに逆転しながら、直後に追いつかれて2-2で引き分けた。開幕8試合で16失点を喫した昨季王者は、直前の公式戦3試合…",
+      "link": "https://www.footballchannel.jp/2026/10/23/post1039278/",
+      "pubDate": "2026-10-23T12:58:57.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/23/post1039278/"
+        }
+      ]
+    },
     {
       "title": "【横浜Ｍ】知念は全治６～８週間の見込み １０月２１日の東京Ｖ戦で負傷(カナロコ by 神奈川新聞)",
       "summary": "Ｊ１横浜Ｍは２３日、ＭＦ知念が右足リスフラン関節損傷で全治６～８週間の見込みと診断されたと発表した。鹿島から今季加入し、主力のボランチで起用されてきたが、２１日の東京Ｖ戦で負傷した。",
@@ -13018,47 +13037,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6752bf56618bafefa88305a81389e1cb87bbdbee?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【若松ボート・ＰＧⅠヤングダービー】清水愛海 養成所チャンプ戦を５コースまくり差しで快勝「エンジンが力強い」(東スポWEB)",
-      "summary": "ボートレース若松のプレミアムG1「第13回ヤングダービー」は23日、予選2日目が行われた。 2日目9Rは「ボートレース養成所チャンプ戦」と銘打たれた一戦。もつれる1Mをまくり差しで突き抜けたのは",
-      "link": "https://news.yahoo.co.jp/articles/90b5d26ad4d3afa3fa63275331a88373e3ef7761?source=rss",
-      "pubDate": "2026-09-23T16:40:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/90b5d26ad4d3afa3fa63275331a88373e3ef7761?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "プロサッカー解説者が見たU-21日本代表対タイ戦「小杉啓太は…」「北朝鮮はファウルすれすれの…」",
-      "summary": "サッカーU-21日本代表は23日、第20回アジア競技大会のグループリーグ第3節でタイと対戦し3-0で勝利した。この一戦について、現役時代に横浜F・マリノスや川崎フロンターレでプレーし、現在は解説者として活躍する元プロサッカー選手の田中裕介氏…",
-      "link": "https://www.footballchannel.jp/2026/09/23/post1017366/",
-      "pubDate": "2026-09-23T13:56:41.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "marinos",
-        "frontale"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/23/post1017366/"
         }
       ]
     }
