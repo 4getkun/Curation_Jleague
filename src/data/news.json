@@ -1,7 +1,70 @@
 {
-  "generatedAt": "2026-10-24T12:09:07.269Z",
-  "count": 689,
+  "generatedAt": "2026-10-24T16:08:08.720Z",
+  "count": 691,
   "items": [
+    {
+      "title": "激闘を制したのは柏！山内日向汰の2ゴールなどで敵地で鹿島を下す ｜ Jリーグ(DAZN News)",
+      "summary": "【国内サッカー レビュー】明治安田J1リーグは10月25日に第12節が開催。メルカリスタジアムで開催された鹿島アントラーズと柏レイソルの一戦は、打ち合いの末に柏が3-2で勝利を手にした。●【ハイライト",
+      "link": "https://news.yahoo.co.jp/articles/61fa1a13d6a7f580df13fc254198c45980cbcb8d?source=rss",
+      "pubDate": "2026-10-24T15:57:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "reysol",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/61fa1a13d6a7f580df13fc254198c45980cbcb8d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "京都MF福岡慎平は守備猛省「ウェベにも言いましたが…」エリアス＆トゥーリオ初そろい踏みには手応え(スポニチアネックス)",
+      "summary": "◇明治安田J1リーグ 京都 2―2 G大阪（2026年10月24日 パナスタ） 京都は劇的同点弾で、G大阪と勝ち点1を分け合う結果になった。前半39分にMF新井晴樹に正確無比なロングフィードを通してア",
+      "link": "https://news.yahoo.co.jp/articles/2ffbc3c1762e2d61a707238c5f1c5922731b0dc8?source=rss",
+      "pubDate": "2026-10-24T15:11:44.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanga",
+        "avispa",
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2ffbc3c1762e2d61a707238c5f1c5922731b0dc8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】森保監督が冨安健洋の負傷に言及「違う箇所に痛みが出て、復帰まで時間を要すると」(日刊スポーツ)",
+      "summary": "＜明治安田J1：G大阪2－2京都＞◇24日◇第12節◇パナスタ 日本代表の森保一監督（58）が、負傷離脱が伝えられているDF冨安健洋（27＝クリスタルパレス）について言及した。【写真】冨安健洋 ガンバ",
+      "link": "https://news.yahoo.co.jp/articles/205e83fdb5761adc2277ff06d6c1550432c313f0?source=rss",
+      "pubDate": "2026-10-24T13:00:14.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/205e83fdb5761adc2277ff06d6c1550432c313f0?source=rss"
+        }
+      ]
+    },
     {
       "title": "「せっかくのJリーグがもったいない」 藤枝・槙野智章監督が判定に苦言、SNSでは支持の声(スポーティングニュース日本版)",
       "summary": "「せっかくのJリーグがもったいない」――。藤枝MYFCを率いる槙野智章監督が、試合後のインタビューでレフェリングについて強い言葉で問題提起した。【動画】インタビューで不満を露わにする槙野監督10月24",
@@ -1127,10 +1190,10 @@
       ]
     },
     {
-      "title": "新潟vs鳥栖 試合記録",
-      "summary": "【J2第12節】(デンカS)新潟 2-1(前半1-0)鳥栖[新]マテウス・モラエス(24分)、桑山侃士(80分)[鳥]合戸晴矢(83分)[新]関口正大(51分)[鳥]長澤シヴァタファリ(11分)観衆:9,252人主審:田邉裕樹└「どういう経…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461511-461511-fl",
-      "pubDate": "2026-10-22T13:10:01.000Z",
+      "title": "徳島vs八戸 試合記録",
+      "summary": "【J2第12節】(鳴門大塚)徳島 0-1(前半0-0)八戸[八]オウイエ・ウイリアム(83分)観衆:3,377人主審:本多文哉[徳島ヴォルティス]先発GK 37 北村海チディDF 2 田中隼人DF 3 山田奈央DF 15 山越康平MF 7…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461515-461515-fl",
+      "pubDate": "2026-10-22T13:50:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -1139,7 +1202,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461511-461511-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461515-461515-fl"
         }
       ]
     },
@@ -13416,25 +13479,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/e1a16302b82950912f5e60bdc9c3abe70ad8df89?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【競輪】下山聖斗がダッシュ鋭いまくりで快勝「いつも2走目に良くなる感じです」／川崎ミッド(日刊スポーツ)",
-      "summary": "＜川崎競輪：ミッドナイト競輪＞◇F2◇初日◇24日 予選4Rは下山聖斗（25＝鹿児島）が、スピードあるまくり決めた。 「弱気でした」と前受けから6番手まで引いたことを反省したが、ダッシュの鋭さ",
-      "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss",
-      "pubDate": "2026-09-24T14:56:45.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/e5e196b9b458dcaba87c06d31247358a67784e3a?source=rss"
         }
       ]
     }
