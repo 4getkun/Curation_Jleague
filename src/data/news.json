@@ -1,7 +1,415 @@
 {
-  "generatedAt": "2026-10-24T07:28:56.618Z",
-  "count": 667,
+  "generatedAt": "2026-10-24T12:09:07.269Z",
+  "count": 689,
   "items": [
+    {
+      "title": "「せっかくのJリーグがもったいない」 藤枝・槙野智章監督が判定に苦言、SNSでは支持の声(スポーティングニュース日本版)",
+      "summary": "「せっかくのJリーグがもったいない」――。藤枝MYFCを率いる槙野智章監督が、試合後のインタビューでレフェリングについて強い言葉で問題提起した。【動画】インタビューで不満を露わにする槙野監督10月24",
+      "link": "https://news.yahoo.co.jp/articles/ae35f8e10659bc071788a3deba3ed8448767d603?source=rss",
+      "pubDate": "2026-10-24T12:04:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/ae35f8e10659bc071788a3deba3ed8448767d603?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「ジャガーポーズ出た！」元日本代表FW浅野拓磨、3,759日ぶりのJ復帰弾「反応はや」「よくあのタイミングで」弾丸クロスに超反応＆絶妙ワンタッチシュート炸裂(ABEMA TIMES)",
+      "summary": "【明治安田J1リーグ】サンフレッチェ広島 4－0 清水エスパルス（日本時間10月24日/エディオンピースウイング広島）【映像】超反応ワンタッチシュート→ジャガーポーズ サンフレッチェ広島のFW浅野拓磨",
+      "link": "https://news.yahoo.co.jp/articles/2b0b35d5c956e63ad7788814a6a830f64a1e3342?source=rss",
+      "pubDate": "2026-10-24T12:00:37.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "s-pulse"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/2b0b35d5c956e63ad7788814a6a830f64a1e3342?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島ＧＫ早川友基「俺のミス」勝負決めた３失点目を猛省「苦しい状況になってしまった。本当に申し訳ない」(スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ ▽第１２節 鹿島２―３柏（２４日・メルカリスタジアム） 鹿島はホームで柏に２―３で敗れ、今季４敗目を喫した。前半１４分にＦＷ徳田誉がＤＦ小川諒也の左クロスから先制点を決めたが、３",
+      "link": "https://news.yahoo.co.jp/articles/e1ab0287603874388dc2967202a453e68371547e?source=rss",
+      "pubDate": "2026-10-24T11:56:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e1ab0287603874388dc2967202a453e68371547e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "広島の止まらぬ「血の入れ替え」 “由伸2世”ら6人が戦力外、ロッテの若手も…24日の去就(Full-Count)",
+      "summary": "ソフトバンクとDeNAが激突する「SMBC日本シリーズ2026」が開幕した24日、今季Bクラスに終わった広島とロッテの2球団が来季に向けた動きを見せた。広島は6人の選手に、来季の契約を結ばないことを通",
+      "link": "https://news.yahoo.co.jp/articles/54d188995b8efe8f23abc20510f0f473b15d9f7c?source=rss",
+      "pubDate": "2026-10-24T11:56:08.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/54d188995b8efe8f23abc20510f0f473b15d9f7c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｇ大阪・宇佐美貴史が２試合連続弾も…今季初連勝ならず 関西対決はドロー ＦＷイッサム・ジェバリが勝ち越し弾もミスから同点許す (スポーツ報知)",
+      "summary": "◆明治安田Ｊ１リーグ▽第１２節 Ｇ大阪２―２京都（２４日・パナスタ） Ｇ大阪は、リードを守れずに今季初の連勝を逃した。２１日の福岡戦で１０試合ぶりに白星を挙げたが、この日は勝ち点１差の京都と関西ダービ",
+      "link": "https://news.yahoo.co.jp/articles/5b4d53df426607b9c347e4dab9b9eea6a00f64da?source=rss",
+      "pubDate": "2026-10-24T11:51:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5b4d53df426607b9c347e4dab9b9eea6a00f64da?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【福岡】見木友哉、古巣東京Ｖ相手にシャドー起用も「シュート打てず物足りなかった」(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京V3－1福岡＞◇24日◇第12節◇味スタ アビスパ福岡は3連敗を喫し、暫定19位に転落した。【写真】東京Vに敗れた福岡の選手たち 古巣の東京ヴェルディ相手にフル出場したMF見木友哉",
+      "link": "https://news.yahoo.co.jp/articles/b69b5bafdc61b9526ff8e4aa06e9f6942bf72cab?source=rss",
+      "pubDate": "2026-10-24T11:35:18.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "avispa",
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b69b5bafdc61b9526ff8e4aa06e9f6942bf72cab?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】松橋優安「ピッチに立ったらやれる自信はあった」相馬体制下初出場で初勝利呼ぶ決勝弾(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京V3－1福岡＞◇24日◇第12節◇味スタ 東京ヴェルディが今季12試合目にして初勝利を挙げた。アビスパ福岡戦に途中出場したMF松橋優安（24）が、値千金の決勝点を挙げて勝利の立役者",
+      "link": "https://news.yahoo.co.jp/articles/45193ed6ee74b087605500d87bdc30400c033e26?source=rss",
+      "pubDate": "2026-10-24T11:23:54.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/45193ed6ee74b087605500d87bdc30400c033e26?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】森保監督「報道で出ているような情報はない」足底筋膜断裂報道の上田綺世に言及(日刊スポーツ)",
+      "summary": "＜明治安田J1：G大阪2－2京都＞◇第12節◇24日◇パナスタ 日本代表の森保監督がG大阪－京都戦を視察し、足底筋膜断裂と報じられているFW上田綺世について言及した。【写真】上田綺世 13日に負傷した",
+      "link": "https://news.yahoo.co.jp/articles/51e86c8edd2394abc4c95aee2a708a77708a7668?source=rss",
+      "pubDate": "2026-10-24T11:19:40.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [],
+      "topics": [
+        "injury",
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/51e86c8edd2394abc4c95aee2a708a77708a7668?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【日本代表】森保監督「増やそうと」11月遠征の招集人数に言及 独２部で活躍の福田師王に高評価(日刊スポーツ)",
+      "summary": "＜明治安田J1：G大阪2－2京都＞◇24日◇第12節◇パナスタ 日本代表の森保一監督（58）が、ガンバ大阪－京都サンガF.C.の視察でパナソニックスタジアム吹田を訪れた。【写真】ハノーバー戦でゴールを",
+      "link": "https://news.yahoo.co.jp/articles/984fa4169c1d6d10012b4ba83fe63ce13957cd70?source=rss",
+      "pubDate": "2026-10-24T11:19:13.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "gamba",
+        "sanga"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/984fa4169c1d6d10012b4ba83fe63ce13957cd70?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【京都】劇的ドローで暫定ながら降格圏脱出 同点弾の加藤拓己「ボールが戻ってくると信じて」(日刊スポーツ)",
+      "summary": "＜明治安田J1：G大阪2－2京都＞◇第12節◇24日◇パナスタ 京都サンガFCは2戦連続の劇的ドローで、暫定ながら降格圏を脱した。【写真】左足で同点ゴールを決める京都加藤拓己 G大阪に先制されたがMF",
+      "link": "https://news.yahoo.co.jp/articles/b7739397b6413cceb2cd64442b5183cf6fde4ef3?source=rss",
+      "pubDate": "2026-10-24T11:08:19.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b7739397b6413cceb2cd64442b5183cf6fde4ef3?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】12試合目で初勝利！MF松橋Ｖ弾「歯がゆい時間が続いたけど」攻守かみ合い最下位脱出(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京V3－1福岡＞◇24日◇第12節◇味スタ 東京ヴェルディがホームで福岡を3－1で下し、開幕から12試合目にして今季初勝利を手にした。城福浩前監督（65）の電撃解任に伴い、相馬直樹監",
+      "link": "https://news.yahoo.co.jp/articles/8b6b5cc24ae8dfad1b05d09d445e889dd146de99?source=rss",
+      "pubDate": "2026-10-24T11:07:30.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8b6b5cc24ae8dfad1b05d09d445e889dd146de99?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1が上位も下位も「混戦模様」 首位が足踏みで肉薄…東京Vがついに初勝利で“変動あり”",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680738",
+      "pubDate": "2026-10-24T10:54:45.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680738"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】GK早川友基「オレのミスでまたチームが苦しい状況に…」昨季MVPが今季早くも21失点(日刊スポーツ)",
+      "summary": "＜明治安田J1：鹿島2－3柏＞◇第12節◇24日◇メルスタ 鹿島アントラーズがホームで柏レイソルに2－3で逆転負けを喫し、首位FC町田ゼルビアとの勝ち点差が7に広がった。【写真】正面のシュートをキャッ",
+      "link": "https://news.yahoo.co.jp/articles/b6cbab589851c81eaa79316a45f59d389b9f732b?source=rss",
+      "pubDate": "2026-10-24T10:47:26.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b6cbab589851c81eaa79316a45f59d389b9f732b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【柏】鹿島に逆転勝ちで暫定３位 山内日向汰がプロ初の複数得点「タイトルに近づく大きな勝利」(日刊スポーツ)",
+      "summary": "＜明治安田J1：鹿島2－3柏＞◇第12節◇24日◇メルスタ 柏レイソルは鹿島アントラーズに3－2で競り勝ち、暫定3位とした。【写真】チーム3点目のゴールを決め喜ぶ柏・山内 昨季優勝を争った鹿島に、敵地",
+      "link": "https://news.yahoo.co.jp/articles/726288c14b384c686e20519719d7fa8c54b7cf08?source=rss",
+      "pubDate": "2026-10-24T10:44:26.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/726288c14b384c686e20519719d7fa8c54b7cf08?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ビューティーフルなFK弾！ ガンバ大阪、宇佐美貴史のゴールが鮮やか！ 京都サンガF.C.相手に決めた圧巻の先制弾",
+      "summary": "ガンバ大阪は24日、明治安田J1リーグ第12節で京都サンガF.C.と対戦し、2-2で引き分けた。この試合では、宇佐美貴史が先制ゴールをマーク。完璧なコースに沈めた、圧巻の直接FKゴールだった。",
+      "link": "https://www.footballchannel.jp/2026/10/24/post1039662/",
+      "pubDate": "2026-10-24T09:49:42.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "gamba",
+        "sanga"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/24/post1039662/"
+        }
+      ]
+    },
+    {
+      "title": "J1リーグで史上初の事態「異常」 首位が6試合連続未勝利の珍事…目まぐるしい上位争い",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680710",
+      "pubDate": "2026-10-24T09:02:34.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680710"
+        }
+      ]
+    },
+    {
+      "title": "G大阪GK一森が一発退場 京都FW加藤を倒しDOGSOに…東口順昭が今季初出場",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680697",
+      "pubDate": "2026-10-24T08:17:04.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "gamba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680697"
+        }
+      ]
+    },
+    {
+      "title": "3759日ぶりのJ1弾！浅野拓磨、サンフレッチェ広島復帰後初ゴール！ ピースウイングで待望のジャガーポーズ",
+      "summary": "サンフレッチェ広島は24日、明治安田J1リーグ第12節で清水エスパルスとエディオンピースウイング広島で対戦し、4-0で快勝した。この試合では、今夏にRCDマジョルカから古巣の広島に復帰した浅野拓磨が、3759日ぶりにJ1でゴールを挙げた。",
+      "link": "https://www.footballchannel.jp/2026/10/24/post1039632/",
+      "pubDate": "2026-10-24T08:10:46.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/24/post1039632/"
+        }
+      ]
+    },
+    {
+      "title": "東京ヴェルディ、12試合目にして今季リーグ戦初勝利！ 柏レイソルは鹿島アントラーズとの上位対決を制す",
+      "summary": "2026/27シーズン明治安田J1リーグ第12節は24日に各地で行われた。15時キックオフでは、東京ヴェルディがアビスパ福岡、鹿島アントラーズが柏レイソル、ヴィッセル神戸がFC町田ゼルビアと対戦している。",
+      "link": "https://www.footballchannel.jp/2026/10/24/post1039623/",
+      "pubDate": "2026-10-24T08:01:50.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy",
+        "reysol",
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/24/post1039623/"
+        }
+      ]
+    },
+    {
+      "title": "2戦9失点と守備崩壊「強度を保てない」 清水指揮官が本音「怪我人が多くて本当に苦しい」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680684",
+      "pubDate": "2026-10-24T08:01:16.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680684"
+        }
+      ]
+    },
+    {
+      "title": "東京V、今季12試合目でリーグ初勝利 福岡に3-1で最下位脱出…相馬直樹監督は就任4戦目で初白星",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680682",
+      "pubDate": "2026-10-24T07:59:45.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680682"
+        }
+      ]
+    },
     {
       "title": "リーグ6戦勝ちなしのC大阪パブロマチン監督「全ての時間が重要だと示している」あす千葉戦(スポニチアネックス)",
       "summary": "C大阪はあす24日、ホームで千葉と対戦する。リーグ6試合勝ち星がない（4分け2敗）中、パブロマチン監督は90分間通じた集中力を要求。浮上へのきっかけをつかむ一戦にする。 指揮官が最優先課題に挙げるのは",
@@ -118,6 +526,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/cba8478d37e7cf07d1db5c917ad880b53a6d38f9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "地域CL出場を賭け…アマチュア王者を決める全国社会人選手権が開幕 元C大阪FWが圧巻ハット",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680653",
+      "pubDate": "2026-10-24T07:08:30.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680653"
         }
       ]
     },
@@ -700,6 +1127,23 @@
       ]
     },
     {
+      "title": "新潟vs鳥栖 試合記録",
+      "summary": "【J2第12節】(デンカS)新潟 2-1(前半1-0)鳥栖[新]マテウス・モラエス(24分)、桑山侃士(80分)[鳥]合戸晴矢(83分)[新]関口正大(51分)[鳥]長澤シヴァタファリ(11分)観衆:9,252人主審:田邉裕樹└「どういう経…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461511-461511-fl",
+      "pubDate": "2026-10-22T13:10:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461511-461511-fl"
+        }
+      ]
+    },
+    {
       "title": "浦和がリーグ戦2連勝! 千葉に3-2で競り勝つ(38枚)",
       "summary": "J1第11節が21日に行われ、埼玉スタジアム2002では浦和レッズがジェフユナイテッド千葉に3-2で勝利した。●2026-27シーズンJリーグ特集▶お笑いコンビ「ヤーレンズ」がサッカーをしゃべり倒すポッドキャスト「ボケサカ」は毎週金曜配信",
       "link": "https://web.gekisaka.jp/photonews/jleague/detail/?461604-461604-pn",
@@ -774,23 +1218,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/22/post1038492/"
-        }
-      ]
-    },
-    {
-      "title": "長野vs琉球 試合記録",
-      "summary": "【J3第12節】(長野U)長野 0-1(前半0-0)琉球[琉]川口尚紀(84分)[琉]鈴木順也(66分)観衆:6,291人主審:大坪博和[AC長野パルセイロ]先発GK 1 田尻健DF 13 附木雄也DF 16 石井光輝DF 25 田中康介D…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461468-461468-fl",
-      "pubDate": "2026-10-22T08:50:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461468-461468-fl"
         }
       ]
     },
