@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-25T11:51:39.919Z",
-  "count": 708,
+  "generatedAt": "2026-10-25T15:13:32.687Z",
+  "count": 707,
   "items": [
+    {
+      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
+      "summary": "※J1順位・結果は2026年10月25日17:58更新のJリーグ公式データ（第12節終了時点）を反映。得点ランキングは公式10月22日更新値に第12節の確定得点を加算した暫定値（マルシーニョも8得点で3位タイ）、アシスト […]",
+      "link": "https://www.footballchannel.jp/2026/10/25/post1003398/",
+      "pubDate": "2026-10-25T12:44:27.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/25/post1003398/"
+        }
+      ]
+    },
+    {
+      "title": "毎節動きあり、J1リーグの最新順位表 首位から4位まで勝ち点差2…上位も下位も大混戦",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680879",
+      "pubDate": "2026-10-25T12:01:02.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680879"
+        }
+      ]
+    },
     {
       "title": "ＦＣ東京、Ｊ１歴代２位タイの７試合連続無失点 ＤＦショルツ「次に１失点しても何かが変わることはない」(スポーツ報知)",
       "summary": "◆明治安田Ｊ１リーグ ▽第１２節 ＦＣ東京６―０水戸（２５日・味の素スタジアム） ＦＣ東京はホームで水戸に６―０で大勝し、リーグ戦１１試合無敗。首位の町田と勝ち点２７で並んだ。【動画】横浜ＦＭの１６歳",
@@ -419,25 +455,6 @@
       ]
     },
     {
-      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
-      "summary": "※J1順位・試合結果は2026年10月24日18:27更新のJリーグ公式データを基準に反映（第12節は5試合終了、25日の5試合は未開催）。順位は暫定。得点ランキングは10月22日公式更新データに24日終了5試合のゴール […]",
-      "link": "https://www.footballchannel.jp/2026/10/25/post1003398/",
-      "pubDate": "2026-10-24T22:27:27.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/25/post1003398/"
-        }
-      ]
-    },
-    {
       "title": "Ｊ１東京Ｖようやく白星 相馬監督の就任後４戦目…主将のＭＦ森田晃樹「とりあえず勝つのが一番」(東スポWEB)",
       "summary": "開幕から10戦未勝利という長く苦しいトンネルを抜け、チームは着実に前進している――。明治安田J1リーグ第12節（24日、味スタ）、東京Vは福岡を3―1で下し、今季リーグ初白星を手にした。 背番号10の",
       "link": "https://news.yahoo.co.jp/articles/e730112d548eb77faeedcb69f72e6433c19777f5?source=rss",
@@ -714,6 +731,25 @@
       ]
     },
     {
+      "title": "3連敗の福岡はあす最下位転落の可能性も…複数失点に頭悩ます塚原監督「堅守をまず一回作らないと」",
+      "summary": "[10.24 J1第12節 東京V 3-1 福岡 味スタ] 下位チーム同士の対決で完敗を喫した。18位のアビスパ福岡は最下位の東京ヴェルディに1-3で敗戦し、順位を19位に落とした。 前半10分、守備陣の隙を突かれて早々に先制点を奪われた。…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461718-461718-fl",
+      "pubDate": "2026-10-24T11:17:18.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461718-461718-fl"
+        }
+      ]
+    },
+    {
       "title": "【京都】劇的ドローで暫定ながら降格圏脱出 同点弾の加藤拓己「ボールが戻ってくると信じて」(日刊スポーツ)",
       "summary": "＜明治安田J1：G大阪2－2京都＞◇第12節◇24日◇パナスタ 京都サンガFCは2戦連続の劇的ドローで、暫定ながら降格圏を脱した。【写真】左足で同点ゴールを決める京都加藤拓己 G大阪に先制されたがMF",
       "link": "https://news.yahoo.co.jp/articles/b7739397b6413cceb2cd64442b5183cf6fde4ef3?source=rss",
@@ -807,25 +843,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/726288c14b384c686e20519719d7fa8c54b7cf08?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "12試合目で掴んだ初勝利、そして東京V就任後初白星…安堵の相馬監督「ちょっとずつベクトルが合い始めている」",
-      "summary": "[10.24 J1第12節 東京V 3-1 福岡 味スタ] 待望の今季リーグ戦初白星、そして自身の就任後初白星に安堵の表情を浮かべた。東京ヴェルディはリーグ戦12試合目で初勝利。相馬直樹監督は試合後、「簡単なゲームではなかった。相手の勢いも…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461709-461709-fl",
-      "pubDate": "2026-10-24T10:26:51.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461709-461709-fl"
         }
       ]
     },
@@ -13753,48 +13770,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/6d308f08a182210d0602a6ef0aa2374eea8c3b90?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「本当に愛されてるなと感じました」中野就斗の登場に広島サポーター大歓声！ “ホーム”で狙う日本代表デビュー「恩返しができれば」 (サッカーキング)",
-      "summary": "「今の僕があるのは間違いなくサンフレッチェ広島というクラブ、たくさんの方々の応援があったからこそだと思っています。そういった方々に日本代表のプレーヤーとして、ピッチで恩返しができればいいなと思っていま",
-      "link": "https://news.yahoo.co.jp/articles/46fd3fda78ecc4c72c732342df437acffaa2c03f?source=rss",
-      "pubDate": "2026-09-25T13:54:05.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/46fd3fda78ecc4c72c732342df437acffaa2c03f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "地元A代表デビューへ中野就斗「ピッチで恩返しできれば」田中聡も意欲「今の自分があるのは広島のおかげ」(ゲキサカ)",
-      "summary": "日本代表はキリンチャレンジカップ・ウルグアイ戦から一夜明けた25日、宮城から広島に移動し、ホットスタッフフィールド広島で再始動した。初招集のMF中野就斗は今回のメンバーで唯一のサンフレッチェ広島所属",
-      "link": "https://news.yahoo.co.jp/articles/9cbcebffcd748b999f0b62111cc23c906a408b93?source=rss",
-      "pubDate": "2026-09-25T13:44:02.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/9cbcebffcd748b999f0b62111cc23c906a408b93?source=rss"
         }
       ]
     }
