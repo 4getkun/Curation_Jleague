@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-25T01:23:42.611Z",
-  "count": 697,
+  "generatedAt": "2026-10-25T06:23:41.404Z",
+  "count": 699,
   "items": [
+    {
+      "title": "「寂しいです。僕も一生懸命戦っているので（笑）」鹿島の敵地で約6年ぶり勝利。2得点の柏レイソル・山内日向汰がサポーターに“お願い”したこと【コラム】",
+      "summary": "柏レイソルは6日、横浜F・マリノスに0-2で敗れた。前節から先発6人を変更し、1点を追う後半開始からは一気に3枚を交代。それでも、なかなかエンジンはかからなかった。ただ、この敗戦を単純な「ターンオーバー失敗」で片づけることはできない。抜擢さ…",
+      "link": "https://www.footballchannel.jp/2026/10/25/post1039707/",
+      "pubDate": "2026-10-25T02:30:32.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/25/post1039707/"
+        }
+      ]
+    },
+    {
+      "title": "J1初Gの27歳苦労人「苦しい時期を」 2度の大怪我、J3で苦戦…殻を破った「守備を頑張る選手」の評価",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/680788",
+      "pubDate": "2026-10-25T01:44:27.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/680788"
+        }
+      ]
+    },
     {
       "title": "「ちょっとしたところで自分たちは勝ち点を落としている」千葉、移籍後初ゴールのンドカが語る勝利への課題(フットボールチャンネル)",
       "summary": "内容は良くなっている。それでも、勝利には届かない。ジェフユナイテッド千葉は21日、浦和レッズとの一戦に2-3で敗れた。9月にヴィッセル神戸から期限付き移籍で加入したDFンドカ・ボニフェイスは、移籍後初",
@@ -951,6 +987,26 @@
       ]
     },
     {
+      "title": "清水vs町田 試合記録",
+      "summary": "【J1第11節】(アイスタ)清水 0-5(前半0-1)町田[町]ネタ・ラヴィ(35分)、小川航基(50分)、西村拓真3(62分、77分、82分)[清]松崎快(63分)[清]本多勇喜(17分)、松崎快2(31分、63分)観衆:10,750人主…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461527-461527-fl",
+      "pubDate": "2026-10-23T21:20:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "s-pulse",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461527-461527-fl"
+        }
+      ]
+    },
+    {
       "title": "開幕8戦16失点から3試合連続無失点。それでも勝ち切れない鹿島アントラーズ、早川友基と鬼木達監督が語る課題【コラム】",
       "summary": "守備に改善の兆しが見えている。それでも、勝ち切れない。鹿島アントラーズは21日の京都サンガF.C.戦で、後半アディショナルタイムに逆転しながら、直後に追いつかれて2-2で引き分けた。開幕8試合で16失点を喫した昨季王者は、直前の公式戦3試合…",
       "link": "https://www.footballchannel.jp/2026/10/23/post1039278/",
@@ -1331,23 +1387,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/af810aa4af66b84a5fac12f4b626a62f291285c5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "愛媛vs山口 スタメン発表",
-      "summary": "[10.21 J3第12節](ニンスタ)※19:00開始主審:北沢倫章[愛媛FC]先発GK 36 辻周吾DF 5 黒石貴哉DF 16 細谷航平DF 37 石尾崚雅DF 49 阿部稜汰DF 50 杉山耕二MF 8 上村周平MF 38 日野翔太…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461499-461499-fl",
-      "pubDate": "2026-10-22T21:20:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461499-461499-fl"
         }
       ]
     },
