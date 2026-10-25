@@ -1,7 +1,84 @@
 {
-  "generatedAt": "2026-10-25T18:29:29.426Z",
-  "count": 707,
+  "generatedAt": "2026-10-25T21:05:49.541Z",
+  "count": 711,
   "items": [
+    {
+      "title": "【水戸】懐かしさをはるかに超える奥村仁の悔しさ。「親友」稲村隼翔に「好きなようにやられてしまった」(サッカーマガジンWeb)",
+      "summary": "10月25日の明治安田J1リーグ第12節で、水戸ホーリーホックがFC東京に0-6で大敗を喫した。樹森大介監督は「これがいまの実力」と絞り出したが、孤軍奮闘とも言えるプレーを見せたのが奥村仁だ。9月に水",
+      "link": "https://news.yahoo.co.jp/articles/4ab32a6f1000c90aa6b92633706430e9c2b1045d?source=rss",
+      "pubDate": "2026-10-25T21:00:50.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4ab32a6f1000c90aa6b92633706430e9c2b1045d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ガッカリ…。Jリーグ、試合機会に悩む新加入選手5選",
+      "summary": "2026/27シーズンの明治安田J1リーグが開幕してもうすぐ3カ月。各クラブで新戦力の台頭や激しいポジション争いが繰り広げられる一方、思うように出場機会を得られていない選手もいる。そこで今回は、今季の新戦力で、ここまで出場時間が伸び悩んでい…",
+      "link": "https://www.footballchannel.jp/2026/10/26/post1040004/",
+      "pubDate": "2026-10-25T21:00:42.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/26/post1040004/"
+        }
+      ]
+    },
+    {
+      "title": "浦和GK西川周作が刻む20年超の足跡…偉大な記録へのカウントダウンと「感謝の試合数」(ゲキサカ)",
+      "summary": "[10.25 J1第12節 浦和 1-0 長崎 埼玉] 試合終了の笛が鳴ると、浦和レッズの選手たちは勝利の喜びを分かち合った。スコアは1-0。長崎の反撃を封じて勝ち点3を手にし、リーグ3連勝を飾った。",
+      "link": "https://news.yahoo.co.jp/articles/5ddf3efcca78639632490e895d6b8d75aa820b58?source=rss",
+      "pubDate": "2026-10-25T21:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen",
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5ddf3efcca78639632490e895d6b8d75aa820b58?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【名古屋・ミシャ監督語録】9カ月率いているがあれだけプレスにいってボールを動かした。今までみたことがないくらい素晴らしい45分だった(中日スポーツ)",
+      "summary": "◇25日 J1リーグ第12節 名古屋1―1横浜M（豊田スタジアム） 名古屋グランパスは後半にFW山岸祐也（33）が同点ゴールを決め、横浜Mと引き分けた。2試合連続の引き分けで勝ち点14とし、11位に浮",
+      "link": "https://news.yahoo.co.jp/articles/d2caa8933eca82e005da7e1679026637b47da65f?source=rss",
+      "pubDate": "2026-10-25T20:50:52.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d2caa8933eca82e005da7e1679026637b47da65f?source=rss"
+        }
+      ]
+    },
     {
       "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
       "summary": "※J1順位・結果は2026年10月25日17:58更新のJリーグ公式データ（第12節終了時点）を反映。得点ランキングは公式10月22日更新値に第12節の確定得点を加算した暫定値（マルシーニョも8得点で3位タイ）、アシスト […]",
