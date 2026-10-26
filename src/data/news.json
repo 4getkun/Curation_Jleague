@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-10-26T13:43:04.306Z",
-  "count": 734,
+  "generatedAt": "2026-10-26T19:38:51.722Z",
+  "count": 733,
   "items": [
+    {
+      "title": "監督交代の舞台裏「全てを鑑みて」 17位低迷で決断した解任…水戸の社長が口にした「色々な後悔」(FOOTBALL ZONE)",
+      "summary": "J1の水戸ホーリーホックは10月26日、樹森大介監督の解任と森直樹フットボールダイレクター（FD）の新監督就任を発表した。リーグ戦第12節を終えて2勝3分7敗の17位。25日のFC東京戦で0-6の大敗",
+      "link": "https://news.yahoo.co.jp/articles/511d432d87ce977ed205eea97c2d365c6b676069?source=rss",
+      "pubDate": "2026-10-26T19:30:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/511d432d87ce977ed205eea97c2d365c6b676069?source=rss"
+        },
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/681086"
+        }
+      ]
+    },
     {
       "title": "「加速力がえぐい」日本代表FW、圧巻の爆速50mドリブル→転倒でPK獲得もOFRで取り消しに「セコいことしないで」ファン物議(ABEMA TIMES)",
       "summary": "【明治安田J1リーグ】鹿島アントラーズ 2－3 柏レイソル（10月24日/メルカリスタジアム）【映像】日本代表FW、爆速ドリブル→ダイブ疑惑のシーン 柏レイソルのFW細谷真大が、爆速50mドリブルで相",
@@ -989,10 +1015,10 @@
       ]
     },
     {
-      "title": "熊本vs岐阜 スタメン発表",
-      "summary": "[10.25 J3第13節](えがおS)※13:00開始主審:大穂祐太[ロアッソ熊本]先発GK 1 佐藤史騎DF 4 薬師田澪DF 24 李泰河DF 26 戸田峻平MF 7 藤井皓也MF 13 飯星明良MF 22 松田詠太郎MF 25 那須…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461749-461749-fl",
-      "pubDate": "2026-10-25T03:30:02.000Z",
+      "title": "秋田vs今治 スタメン発表",
+      "summary": "[10.25 J2第13節](ソユスタ)※14:00開始主審:川俣秀[ブラウブリッツ秋田]先発GK 1 山田元気DF 2 岡崎亮平DF 13 才藤龍治DF 17 野々村鷹人DF 22 高橋秀典MF 14 大石竜平MF 25 藤山智史MF 6…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461756-461756-fl",
+      "pubDate": "2026-10-25T04:07:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -1001,7 +1027,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461749-461749-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461756-461756-fl"
         }
       ]
     },
@@ -14243,47 +14269,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/86843d49f69c8bc20ea55d1071645215b430e9cf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ガンプロ恒例の「所沢パークタウン商店街プロレス」が熱戦続きで大盛り上がりで幕。“プロレス王”鈴木みのるが来年の出場も約束!?【ガンプロ】(TOKYO HEADLINE WEB)",
-      "summary": "ガンバレ☆プロレスが9月26日、埼玉・所沢パークタウン商店街特設リングで恒例の「所沢パークタウン商店街プロレス」を開催した。天候はあいにくの小雨模様となったが“プロレス王”鈴木みのるが初参戦。熱戦続",
-      "link": "https://news.yahoo.co.jp/articles/2306c0c35ffef9ea2273dcb3c2b97f6a70aa01fb?source=rss",
-      "pubDate": "2026-09-26T16:46:25.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/2306c0c35ffef9ea2273dcb3c2b97f6a70aa01fb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "元Jリーガーが見たU-21日本代表対北朝鮮。「北朝鮮の評価は…」「プレーを再開しなかったり…」",
-      "summary": "サッカーU-21日本代表は26日、第20回アジア競技大会の準々決勝で北朝鮮と対戦し1-0で勝利した。この一戦について、現役時代に横浜F・マリノスや川崎フロンターレでプレーし、現在は解説者として活躍する元プロサッカー選手の田中裕介氏に話を聞い…",
-      "link": "https://www.footballchannel.jp/2026/09/26/post1020180/",
-      "pubDate": "2026-09-26T14:07:44.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "marinos",
-        "frontale"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/26/post1020180/"
         }
       ]
     }
