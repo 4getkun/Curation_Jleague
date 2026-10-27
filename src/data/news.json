@@ -1,7 +1,45 @@
 {
-  "generatedAt": "2026-10-26T23:27:02.546Z",
-  "count": 733,
+  "generatedAt": "2026-10-27T02:15:05.520Z",
+  "count": 734,
   "items": [
+    {
+      "title": "Ｊ１横浜ＦＭ、ルヴァン杯広島戦に向けて最終調整 天野純、松原健が全体メニューでウォーミングアップ(スポーツ報知)",
+      "summary": "◆ルヴァン杯▽４回戦 横浜ＦＭ―広島（２８日・ニッパツ） 横浜ＦＭは２７日、ルヴァン杯４回戦の広島戦に向けた全体練習を冒頭のみを公開した。その後は非公開で調整した。 ウォーミングアップでは、２１日の東",
+      "link": "https://news.yahoo.co.jp/articles/df301a0e87d9cf020b5f1102b6fec41d45332be0?source=rss",
+      "pubDate": "2026-10-27T02:01:20.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/df301a0e87d9cf020b5f1102b6fec41d45332be0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【広島】新井監督、ドラフト２位の立命大・西野啓也に指名あいさつ 京都へ電撃訪問(日刊スポーツ)",
+      "summary": "広島ドラフト2位の立命大・西野啓也捕手（22）が27日、京都市の同大学でチームから指名あいさつを受け、サプライズで訪れた新井貴浩監督（50）からも激励された。【写真】広島２位指名の立命大・西野啓也 ド",
+      "link": "https://news.yahoo.co.jp/articles/d69b9e1d699965eae53414f7d76da20f37581ce8?source=rss",
+      "pubDate": "2026-10-27T01:54:27.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d69b9e1d699965eae53414f7d76da20f37581ce8?source=rss"
+        }
+      ]
+    },
     {
       "title": "【水戸】樹森大介監督を解任 6連敗でJ1・17位、後任は森直樹氏(まるスポ)",
       "summary": "水戸ホーリーホックは10月26日、樹森大介監督との契約を解除すると発表した。後任には、森直樹フットボールダイレクターが就任する。柏が鹿島に3―2逆転勝利！山内日向汰が左右両足で2得点、敵地で上位対決制",
@@ -1087,19 +1125,21 @@
       ]
     },
     {
-      "title": "秋田vs今治 スタメン発表",
-      "summary": "[10.25 J2第13節](ソユスタ)※14:00開始主審:川俣秀[ブラウブリッツ秋田]先発GK 1 山田元気DF 2 岡崎亮平DF 13 才藤龍治DF 17 野々村鷹人DF 22 高橋秀典MF 14 大石竜平MF 25 藤山智史MF 6…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461756-461756-fl",
-      "pubDate": "2026-10-25T04:07:01.000Z",
+      "title": "C大阪vs千葉 スタメン発表",
+      "summary": "[10.25 J1第12節](ハナサカ)※15:00開始主審:小屋幸栄[セレッソ大阪]先発GK 23 中村航輔DF 4 井上黎生人DF 27 ディオン・クールズDF 97 鷹啄トラビスMF 2 中村拓海MF 10 田中駿汰MF 36 ジャク…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461764-461764-fl",
+      "pubDate": "2026-10-25T04:52:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "cerezo"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461756-461756-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461764-461764-fl"
         }
       ]
     },
@@ -14248,23 +14288,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/96caa811d3059756f87715678f381c7b12f6767a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J2現役最年長46歳、甲府DF山本英臣がJリーグ通算600試合出場…節目の記録も「サッカー上手くないな」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/675761",
-      "pubDate": "2026-09-27T00:06:10.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/675761"
         }
       ]
     }
