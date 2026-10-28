@@ -1,7 +1,81 @@
 {
-  "generatedAt": "2026-10-28T02:27:49.655Z",
-  "count": 761,
+  "generatedAt": "2026-10-28T08:50:00.934Z",
+  "count": 764,
   "items": [
+    {
+      "title": "水戸ホーリーホック対セレッソ大阪 スタメン発表【ルヴァンカップ】",
+      "summary": "28日（水）19時から行われるルヴァンカップ1stラウンド4回戦・水戸ホーリーホック対セレッソ大阪のスタメンが発表された。",
+      "link": "https://www.footballchannel.jp/2026/10/28/post1041486/",
+      "pubDate": "2026-10-28T07:49:35.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/28/post1041486/"
+        }
+      ]
+    },
+    {
+      "title": "【日本ハム】森本稀哲コーチ、来季からファーム監督に就任 清水雅治ファーム総合コーチは退任(日刊スポーツ)",
+      "summary": "日本ハムは28日、森本稀哲1軍外野守備走塁コーチが、来季からファーム監督に就任すると発表した。【写真】来季からファーム監督に就任する森本稀哲コーチ 同コーチは10月30日から始まる沖縄秋季キャンプに参",
+      "link": "https://news.yahoo.co.jp/articles/68d9d5b9452fab0760e0ecc7b791b38fb1fee442?source=rss",
+      "pubDate": "2026-10-28T07:33:22.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/68d9d5b9452fab0760e0ecc7b791b38fb1fee442?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島アントラーズ対浦項スティーラーズ スタメン発表",
+      "summary": "日本時間28日（水）19時から行われるAFCチャンピオンズリーグエリート（ACLE）リーグステージ第3節・鹿島アントラーズ対浦項スティーラーズのスタメンを紹介する。",
+      "link": "https://www.footballchannel.jp/2026/10/28/post1041591/",
+      "pubDate": "2026-10-28T07:30:25.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/10/28/post1041591/"
+        }
+      ]
+    },
+    {
+      "title": "FC東京が内閣総理大臣表彰を受賞 多摩少年院と連携…クラブが発表「栄誉ある表彰を励みに」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/681333",
+      "pubDate": "2026-10-28T07:06:07.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/681333"
+        }
+      ]
+    },
     {
       "title": "なぜかブンデスリーガよりCLの方が得意 29試合で21ゴールも奪うドルトムントのエース・ギラシの不思議(theWORLD（ザ・ワールドWeb）)",
       "summary": "国内リーグの戦いよりも欧州カップ戦でゴールを奪うことの方が得意という選手もいるのだろうか。今季もCLで快調なスタートを切ったのがドルトムントFWセール・ギラシだ。今夏G大阪からドルトムント加入の19歳",
@@ -1343,6 +1417,23 @@
       ]
     },
     {
+      "title": "新潟vs仙台 試合記録",
+      "summary": "【J2第13節】(デンカS)新潟 2-1(前半1-1)仙台[新]シマブク・カズヨシ(41分)、関口正大(54分)[仙]杉山耀建(34分)[新]新井泰貴(3分)、加藤徹也(72分)、桑山侃士(84分)[仙]マテウス・モラエス(5分)、杉山耀建…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?461779-461779-fl",
+      "pubDate": "2026-10-25T22:00:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?461779-461779-fl"
+        }
+      ]
+    },
+    {
       "title": "町田浩樹、日本代表復帰へフル出場で無失点勝利に貢献 MFプラスがユニホーム脱いで退場の一戦(日刊スポーツ)",
       "summary": "＜ブンデスリーガ：ホッフェンハイム3－0レーバークーゼン＞◇25日◇第7節◇プレゼロ・アリーナ 日本代表復帰を目指すホッフェンハイムのDF町田浩樹（29）はホームのレーバークーゼン戦にフル出場した。対",
       "link": "https://news.yahoo.co.jp/articles/87262c11f19f4e50858836b8c2de8911bd564663?source=rss",
@@ -1704,23 +1795,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/2646139b1e1469534a51f0a389229ca69bf967ed?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "熊本vs岐阜 試合記録",
-      "summary": "【J3第13節】(えがおS)熊本 2-1(前半0-1)岐阜[熊]石原央羅2(75分、79分)[岐]中村駿(42分)[熊]ベ・ジョンミン(49分)、根岸恵汰(62分)、那須健一(77分)[岐]箱崎達也(7分)観衆:3,519人主審:大穂祐太[…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?461771-461771-fl",
-      "pubDate": "2026-10-25T09:00:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?461771-461771-fl"
         }
       ]
     },
@@ -14772,27 +14846,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/66435ebb6c3a513a5c7c4b40a0a9fed1b13caab8?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「感謝をプレーで表現したい」中野就斗、広島の本拠地で代表デビューへ「自分の良さをしっかりと」",
-      "summary": "日本代表に初招集されたサンフレッチェ広島の中野就斗が、9月28日のベネズエラ戦で代表デビューを果たす可能性がある。舞台は所属クラブの本拠地、エディオンピースウイング広島。森保一監督が「大幅変更」で臨む方針を示す中、中野は「ここまで成長できた…",
-      "link": "https://www.footballchannel.jp/2026/09/28/post1020999/",
-      "pubDate": "2026-09-28T03:05:54.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/09/28/post1020999/"
         }
       ]
     }
