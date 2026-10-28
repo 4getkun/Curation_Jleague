@@ -181,7 +181,7 @@ const navLinks = [
   function setTheme(dark) {
     const root = document.documentElement;
     root.classList.toggle("dark", dark);
-    localStorage.setItem("jleague-curation-theme", dark ? "dark" : "light");
+    localStorage.setItem("jleague-curation-en-theme", dark ? "dark" : "light");
     var toggle = document.getElementById("theme-toggle");
     if (toggle) toggle.setAttribute("aria-checked", dark ? "true" : "false");
   }
@@ -197,7 +197,7 @@ const navLinks = [
   // マイクラブ(お気に入りクラブ)の選択をlocalStorageに保存する。
   // トップページ側はこの値を読んで「マイクラブの最新ニュース」を表示する。
   (function () {
-    var STORAGE_KEY = "jleague-curation-my-team";
+    var STORAGE_KEY = "jleague-curation-en-my-team";
     var selects = document.querySelectorAll(".my-team-select");
     var saved = "";
     try {

@@ -105,7 +105,7 @@ const PAGE_SIZE = 10;
 <script is:inline>
   document.getElementById("register-my-team")?.addEventListener("click", function () {
     try {
-      localStorage.setItem("jleague-curation-my-team", this.getAttribute("data-team-id"));
+      localStorage.setItem("jleague-curation-en-my-team", this.getAttribute("data-team-id"));
     } catch (e) {}
     // トップページのマイクラブセクションに反映させるため、トップへ遷移する
     window.location.href = window.location.pathname.replace(/team\/[^/]+\/?$/, "");
