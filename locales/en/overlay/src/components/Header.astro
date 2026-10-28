@@ -1,0 +1,224 @@
+---
+import { teams } from "../lib/teams";
+import { withBase } from "../lib/url";
+
+interface Props {
+  /** トップページだけ44px+サブコピー付きの大きいマストヘッドにする */
+  large?: boolean;
+}
+
+const { large = false } = Astro.props;
+
+const path = new URL(Astro.request.url).pathname;
+const base = import.meta.env.BASE_URL;
+const rel = path.startsWith(base) ? path.slice(base.length - 1) : path;
+
+const navLinks = [
+  { href: withBase("/"), label: "Home", match: (p: string) => p === "/" || p === "" },
+  { href: withBase("/news/"), label: "All news", match: (p: string) => p.startsWith("/news") },
+  { href: withBase("/team/"), label: "By club", match: (p: string) => p.startsWith("/team") },
+  { href: withBase("/topic/"), label: "Browse topics", match: (p: string) => p.startsWith("/topic") },
+  { href: withBase("/search/"), label: "Search", match: (p: string) => p.startsWith("/search") },
+];
+---
+
+<header style="background-color:var(--page-bg); border-bottom:3px solid var(--rule-strong);">
+  <div
+    class:list={["container-page flex items-end justify-between gap-4 flex-wrap", large ? "py-6 sm:py-8" : "py-4 sm:py-5"]}
+  >
+    <a href={withBase("/")} class="no-underline shrink-0">
+      <div
+        class="font-display font-black"
+        style={`color:var(--text); letter-spacing:0.02em; line-height:1; font-size:${large ? "clamp(21px, 5.5vw, 44px)" : "clamp(19px, 4vw, 30px)"};`}
+      >
+        Curation Jleague
+      </div>
+      {large && (
+        <div class="hidden sm:block" style="font-size:12px; color:var(--text-faint); margin-top:6px;">
+          Ad-free news curation for all 20 J1 clubs
+        </div>
+      )}
+    </a>
+
+    <div class="flex items-center gap-4 sm:gap-6">
+      <nav class="hidden md:flex items-center gap-6 text-[14px] font-medium">
+        {navLinks.map((link) => (
+          <a
+            href={link.href}
+            class="pb-1 no-underline"
+            style={`color:var(--text); border-bottom:2px solid ${link.match(rel) ? "var(--accent)" : "transparent"};`}
+          >
+            {link.label}
+          </a>
+        ))}
+        <select
+          class="my-team-select font-bold"
+          aria-label="Choose my club"
+          style="font-size:13px; padding:5px 8px; border:1px solid var(--text); border-radius:0; color:var(--accent); background-color:transparent; max-width:120px;"
+        >
+          <option value="">★ My club</option>
+          {teams.map((team) => <option value={team.id}>{team.short}</option>)}
+        </select>
+      </nav>
+
+      <button
+        type="button"
+        id="theme-toggle"
+        role="switch"
+        aria-checked="false"
+        aria-label="Switch to dark theme"
+        class="theme-toggle-track"
+      >
+        <span class="theme-toggle-icon theme-toggle-icon-sun" aria-hidden="true">☀</span>
+        <span class="theme-toggle-icon theme-toggle-icon-moon" aria-hidden="true">☾</span>
+        <span class="theme-toggle-thumb" aria-hidden="true"></span>
+      </button>
+
+      <button
+        id="menu-toggle"
+        type="button"
+        aria-label="Open menu"
+        class="md:hidden grid h-[30px] w-[30px] place-items-center"
+        style="background:none; border:none; color:var(--text); cursor:pointer;"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- クラブチップ帯(モバイルのみ)。デスクトップではCLUBSセクション(各ページ
+       本文側)にクラブ一覧を出すため、ヘッダー内には表示しない。 -->
+  <div class="md:hidden team-quicknav" style="overflow-x:auto; border-top:1px solid var(--rule-weak);">
+    <div class="flex" style="gap:8px; padding:12px 24px; width:max-content;">
+      {teams.map((team) => (
+        <a
+          href={withBase(`/team/${team.id}/`)}
+          class="no-underline flex items-center shrink-0"
+          style="gap:6px; padding:5px 12px; border:1px solid var(--rule-mid); border-radius:999px; font-size:12px; color:var(--text); white-space:nowrap;"
+        >
+          <span class="inline-block rounded-full" style={`width:7px; height:7px; background-color:${team.color};`}></span>
+          {team.short}
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <!-- モバイルメニュー -->
+  <div id="mobile-menu" class="hidden md:hidden" style="border-top:1px solid var(--rule-weak);">
+    <nav class="container-page flex flex-col py-3 text-sm font-bold">
+      {navLinks.map((link) => (
+        <a
+          href={link.href}
+          class="py-2.5 no-underline"
+          style={`border-bottom:1px solid var(--rule-weak); color:var(--text);`}
+        >
+          {link.label}
+        </a>
+      ))}
+      <a href={withBase("/about/")} class="py-2.5 no-underline" style="border-bottom:1px solid var(--rule-weak); color:var(--text);">
+        About this site
+      </a>
+      <label class="py-3 flex items-center gap-2.5" style="color:var(--text-faint);">
+        <span style="font-weight:700; color:var(--accent);">★ My club</span>
+        <select
+          class="my-team-select flex-1"
+          aria-label="Choose my club (mobile)"
+          style="font-size:13px; padding:6px 10px; border:1px solid var(--text); border-radius:0; color:var(--text); background-color:transparent;"
+        >
+          <option value="">Not set</option>
+          {teams.map((team) => <option value={team.id}>{team.short}</option>)}
+        </select>
+      </label>
+    </nav>
+  </div>
+</header>
+
+<style>
+  /* テーマ切替スイッチ: トラック内にsun/moonアイコンを常時表示し、丸いつまみが
+     ライト時は左(☀側)・ダーク時は右(☾側)にスライドして現在のモードを示す。
+     .dark クラスの有無だけでCSS側が自動的に見た目を切り替える。 */
+  .theme-toggle-track {
+    position: relative;
+    width: 52px;
+    height: 27px;
+    flex-shrink: 0;
+    border-radius: 999px;
+    border: 1px solid var(--text);
+    background: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  .theme-toggle-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    line-height: 1;
+    color: var(--text-faint);
+  }
+  .theme-toggle-icon-sun {
+    left: 6px;
+  }
+  .theme-toggle-icon-moon {
+    right: 6px;
+  }
+  .theme-toggle-thumb {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 21px;
+    height: 21px;
+    border-radius: 999px;
+    background-color: var(--text);
+    transition: transform 0.2s ease;
+  }
+  :global(.dark) .theme-toggle-thumb {
+    transform: translateX(25px);
+  }
+</style>
+
+<script is:inline>
+  function setTheme(dark) {
+    const root = document.documentElement;
+    root.classList.toggle("dark", dark);
+    localStorage.setItem("jleague-curation-theme", dark ? "dark" : "light");
+    var toggle = document.getElementById("theme-toggle");
+    if (toggle) toggle.setAttribute("aria-checked", dark ? "true" : "false");
+  }
+  var themeToggle = document.getElementById("theme-toggle");
+  if (themeToggle) {
+    themeToggle.setAttribute("aria-checked", document.documentElement.classList.contains("dark") ? "true" : "false");
+    themeToggle.addEventListener("click", () => setTheme(!document.documentElement.classList.contains("dark")));
+  }
+  document.getElementById("menu-toggle")?.addEventListener("click", () => {
+    document.getElementById("mobile-menu")?.classList.toggle("hidden");
+  });
+
+  // マイクラブ(お気に入りクラブ)の選択をlocalStorageに保存する。
+  // トップページ側はこの値を読んで「マイクラブの最新ニュース」を表示する。
+  (function () {
+    var STORAGE_KEY = "jleague-curation-my-team";
+    var selects = document.querySelectorAll(".my-team-select");
+    var saved = "";
+    try {
+      saved = localStorage.getItem(STORAGE_KEY) || "";
+    } catch (e) {}
+    selects.forEach(function (sel) {
+      sel.value = saved;
+      sel.addEventListener("change", function () {
+        try {
+          if (sel.value) {
+            localStorage.setItem(STORAGE_KEY, sel.value);
+          } else {
+            localStorage.removeItem(STORAGE_KEY);
+          }
+        } catch (e) {}
+        // 他のセレクト(デスクトップ/モバイル)にも同じ値を反映してからリロード
+        selects.forEach(function (other) {
+          other.value = sel.value;
+        });
+        location.reload();
+      });
+    });
+  })();
+</script>

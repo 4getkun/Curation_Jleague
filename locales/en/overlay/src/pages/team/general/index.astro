@@ -1,0 +1,54 @@
+---
+import Base from "../../../layouts/Base.astro";
+import NewsRow from "../../../components/NewsRow.astro";
+import TeamLinkRow from "../../../components/TeamLinkRow.astro";
+import { teams } from "../../../lib/teams";
+import { newsForGeneral, formatRelativeShort } from "../../../lib/news";
+
+const items = newsForGeneral();
+const latestPubDate = items[0]?.pubDate ?? null;
+---
+
+<Base
+  title="General news"
+  description="Ad-free J.League news spanning multiple clubs or the league as a whole."
+>
+  <div style="height:10px; background-color:var(--accent);"></div>
+
+  <section class="container-page" style="padding-top:32px; padding-bottom:20px; border-bottom:1px solid var(--rule-mid);">
+    <div class="font-kicker" style="font-size:13px; font-weight:500; letter-spacing:3px; color:var(--accent);">J.LEAGUE</div>
+    <h1 class="font-display font-black m-0" style="font-size:clamp(28px, 5vw, 46px); margin-top:8px; color:var(--text);">
+      General news
+    </h1>
+    <div style="font-size:13px; color:var(--text-faint); margin-top:10px;">
+      Articles spanning the J.League or multiple clubs: {items.length}
+      {latestPubDate && ` · Last updated ${formatRelativeShort(latestPubDate)}`}
+    </div>
+  </section>
+
+  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding-top:32px; padding-bottom:64px;">
+    <div>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent);">
+        GENERAL NEWS / General news
+      </h2>
+      {items.length > 0 ? (
+        items.map((item, i) => <NewsRow item={item} variant="full" showTeamLabel={false} index={i + 1} />)
+      ) : (
+        <p style="font-size:14px; color:var(--text-muted); padding:24px 0;">
+          No general news yet. Please wait for the next automatic update.
+        </p>
+      )}
+    </div>
+
+    <aside>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin-bottom:14px;">
+        CLUBS / By club
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:8px;">
+        {teams.map((t) => (
+          <TeamLinkRow team={t} />
+        ))}
+      </div>
+    </aside>
+  </section>
+</Base>

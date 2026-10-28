@@ -1,0 +1,293 @@
+{
+  "sourcePin": "5b46e03877186911c92dde8878c173b3e9193c57",
+  "guardFiles": [
+    {
+      "path": "astro.config.mjs",
+      "sha1": "2e8a34666d7bf3824bb7217c489b984ce35be719"
+    },
+    {
+      "path": "package-lock.json",
+      "sha1": "0e19887216b4674ed57bb70276f7552da919e266"
+    },
+    {
+      "path": "package.json",
+      "sha1": "450cdd53c24073a4c9f043731746d1fa6df982a3"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha1": "e6e0cfa72f68cbc6b993a8882afc93604dc92a1b"
+    },
+    {
+      "path": "public/offline.html",
+      "sha1": "be91e289f93b720b1fd0e5b21745df9fda379442"
+    },
+    {
+      "path": "public/sw.js",
+      "sha1": "138d04dc838fd2f6aa44506f6dde4f19af75c55d"
+    },
+    {
+      "path": "src/components/Footer.astro",
+      "sha1": "a52f9a2c891cb5d56bf5500df36cd843be3e0d16"
+    },
+    {
+      "path": "src/components/Header.astro",
+      "sha1": "5d6870befd30fc0e67c07c57b46775278ddd222d"
+    },
+    {
+      "path": "src/components/Hero.astro",
+      "sha1": "febe9e4c40bbd61e5703a0c2f98b22c90855f556"
+    },
+    {
+      "path": "src/components/NewsRow.astro",
+      "sha1": "b571dd5fdd4dd427612a825247b3135c45d51b02"
+    },
+    {
+      "path": "src/components/OddsCard.astro",
+      "sha1": "4b22070a20773910434f4b4596887bf7764bf5af"
+    },
+    {
+      "path": "src/components/TeamChipLink.astro",
+      "sha1": "5c5fa865c473dc2737a5ebb257fe6eff6e752fb5"
+    },
+    {
+      "path": "src/components/TeamLinkRow.astro",
+      "sha1": "74f5e9e96fe359fdcbfd65172f056645cc792922"
+    },
+    {
+      "path": "src/components/TopicChipLink.astro",
+      "sha1": "d7e9071e145560346b0bc6f851842552e0a1c585"
+    },
+    {
+      "path": "src/components/TopicLinkRow.astro",
+      "sha1": "515b16c7901b4bbee9e8efa642e9080b687ed970"
+    },
+    {
+      "path": "src/layouts/Base.astro",
+      "sha1": "ae1b7515e3d57ef621bbcb843b14fcdfad683219"
+    },
+    {
+      "path": "src/lib/news.ts",
+      "sha1": "a8c25ab96d63be2c07ffd185b1751c942de92cf2"
+    },
+    {
+      "path": "src/lib/odds.ts",
+      "sha1": "81099ecdb1a42f36e33d96c333e3765a99a38fa7"
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha1": "60dfc064b0bdaad3fcb11520bf8ee20ef49000da"
+    },
+    {
+      "path": "src/lib/teams.ts",
+      "sha1": "3a796c702aa973a4e98d0e0edd7c607173a2469e"
+    },
+    {
+      "path": "src/lib/topics.ts",
+      "sha1": "72402c7fc4781cf6e85b1115bd2cc5fd330f627b"
+    },
+    {
+      "path": "src/lib/url.ts",
+      "sha1": "640dbda4d04b54925f531dceabe88fde96c982e8"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha1": "bc7475f6e2f82c40bcf49a86b37b73836b6df0fd"
+    },
+    {
+      "path": "src/pages/about/index.astro",
+      "sha1": "0ee09f4d9859b47d805b90f8a1c2aa3892d2c1ae"
+    },
+    {
+      "path": "src/pages/data/news-index.json.ts",
+      "sha1": "4f50807036c2b10b6b41cc7b9c3386f133ccae9d"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha1": "5d250e3c87ef5ef9acb211ec2e110dcb29abcc13"
+    },
+    {
+      "path": "src/pages/news/index.astro",
+      "sha1": "f580c5855ab5c206f4fead7f22e558dc99573ad2"
+    },
+    {
+      "path": "src/pages/search/index.astro",
+      "sha1": "c1cc1ad4f925d05ace426d2566e2df3c3fa1be05"
+    },
+    {
+      "path": "src/pages/sitemap.xml.ts",
+      "sha1": "e9da73f74bd927648f1b5569470b8a16a0fef2a8"
+    },
+    {
+      "path": "src/pages/team/[team].astro",
+      "sha1": "376d2cbe19a414153f040063363d834860539040"
+    },
+    {
+      "path": "src/pages/team/general/index.astro",
+      "sha1": "7f90c073b0c4004f77ddf34f1f9a1ed28582bb64"
+    },
+    {
+      "path": "src/pages/team/index.astro",
+      "sha1": "2e33ef5f3cbfbc7b7c430c36f0da76abec67a7b0"
+    },
+    {
+      "path": "src/pages/topic/[topic].astro",
+      "sha1": "eb6779b2bc81aea2203c1eb268904533ec1ae70f"
+    },
+    {
+      "path": "src/pages/topic/index.astro",
+      "sha1": "f1f214fc1db595e4cc0d8dfa12287ccbe183ecc9"
+    },
+    {
+      "path": "src/styles/global.css",
+      "sha1": "cb5a27ecca13c56c6ca332303427a089b77e8aca"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha1": "8bf91d3bb997dfb0ea4a592b849545656f0fcebe"
+    }
+  ],
+  "sourceCodePaths": [
+    "src/components/Footer.astro",
+    "src/components/Header.astro",
+    "src/components/Hero.astro",
+    "src/components/NewsRow.astro",
+    "src/components/OddsCard.astro",
+    "src/components/TeamChipLink.astro",
+    "src/components/TeamLinkRow.astro",
+    "src/components/TopicChipLink.astro",
+    "src/components/TopicLinkRow.astro",
+    "src/layouts/Base.astro",
+    "src/lib/news.ts",
+    "src/lib/odds.ts",
+    "src/lib/seo.ts",
+    "src/lib/teams.ts",
+    "src/lib/topics.ts",
+    "src/lib/url.ts",
+    "src/pages/404.astro",
+    "src/pages/about/index.astro",
+    "src/pages/data/news-index.json.ts",
+    "src/pages/index.astro",
+    "src/pages/news/index.astro",
+    "src/pages/search/index.astro",
+    "src/pages/sitemap.xml.ts",
+    "src/pages/team/[team].astro",
+    "src/pages/team/general/index.astro",
+    "src/pages/team/index.astro",
+    "src/pages/topic/[topic].astro",
+    "src/pages/topic/index.astro",
+    "src/styles/global.css"
+  ],
+  "overlayFiles": [
+    {
+      "path": "astro.config.mjs",
+      "sha256": "46fcf916a2b7dd9f7376d0d841b7bac954a8ea4b90ca8120fb28dfc9d1788c42"
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "e7a8fe620a2233efd5bb165843a6421e583deb94a91440512134c2db9cf7be42"
+    },
+    {
+      "path": "public/offline.html",
+      "sha256": "6f632be2c23d17b26ce8965779cad6edda1d26199368fe20db1d5a48bf4f0e19"
+    },
+    {
+      "path": "public/sw.js",
+      "sha256": "374b7893b69821777b3c76a213b58d1aedcf43114e28c88a93501417aae5031b"
+    },
+    {
+      "path": "src/components/Footer.astro",
+      "sha256": "cecbb5adcc14d3d8efde046e57fa7847fc77b7d97ea7d8ec62c9bb33b312a50f"
+    },
+    {
+      "path": "src/components/Header.astro",
+      "sha256": "b697d0b9e52f3fd82a124c51109cd76984ee083a3f47b531aedac0f5fb12af3c"
+    },
+    {
+      "path": "src/components/Hero.astro",
+      "sha256": "5614acde4878dc620de2805bb36aef5ef64e941c4d9e7be421d7b054f2aa0d0e"
+    },
+    {
+      "path": "src/components/NewsRow.astro",
+      "sha256": "b5efd797c09f9ec0924e0eeea25b063bdd829eea6602a4dc2b4a830924c4a6be"
+    },
+    {
+      "path": "src/components/OddsCard.astro",
+      "sha256": "5e59892ed59377d62ee58f46f04887b4be76a92cf456f4092c2eca8576208fdd"
+    },
+    {
+      "path": "src/components/TeamLinkRow.astro",
+      "sha256": "7418e3ff17cae89eb92da1cd8a4bc4a207bf55f0f424d6f0c6ebb6395b5a0bce"
+    },
+    {
+      "path": "src/components/TopicLinkRow.astro",
+      "sha256": "068fe7daf781098acbfc71eaf005ec7686a8b4e4cbf580c737221fca907d0a13"
+    },
+    {
+      "path": "src/layouts/Base.astro",
+      "sha256": "9683a21bbf265918126f3356e2db2cdbc25def924c020d211391cb02af9406a7"
+    },
+    {
+      "path": "src/lib/news.ts",
+      "sha256": "d175805287a65b0f6bba5734c026088d61a63fda76aeb9a4128adc44de7f0453"
+    },
+    {
+      "path": "src/lib/odds.ts",
+      "sha256": "9520826b17dad0ec0ad0392fe7849aba6934a3d28727e5898b32252c88e8fb9d"
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha256": "7585e81d4a4eca9e7b5699edfa392dd27d706cbfc793ed3a226c552f760ea0c8"
+    },
+    {
+      "path": "src/lib/url.ts",
+      "sha256": "8c68d6d0f6d4d13eec069e3526fa90cc80c954e09a485b5b88dd5d84b6aa8c0e"
+    },
+    {
+      "path": "src/pages/404.astro",
+      "sha256": "fafb72d96d665a74f0ae1a8601d34adaf8e3dff69d6a678d83bd20cb5d46f7b9"
+    },
+    {
+      "path": "src/pages/about/index.astro",
+      "sha256": "2112ef267a92bdac1f90cd8ec3bb3855197106ba3dd0b8e2eed9f66ecd95e758"
+    },
+    {
+      "path": "src/pages/index.astro",
+      "sha256": "f7d071266a0eae949e003070d949b5f1c34355b48aa9a27356a77311b4ef6f4a"
+    },
+    {
+      "path": "src/pages/news/index.astro",
+      "sha256": "fb6bd1c07f6b951a887f456baf100e48a36604185681828c3dd7f5a6bd294145"
+    },
+    {
+      "path": "src/pages/search/index.astro",
+      "sha256": "3f89d1926596c282b64cf11676da1bfa3777b4d6cafcf9c08fe15471fe98beef"
+    },
+    {
+      "path": "src/pages/team/[team].astro",
+      "sha256": "559763b206b57bac385472f32c7bdd4f143afa4027223cd6b90f23b7c3de2420"
+    },
+    {
+      "path": "src/pages/team/general/index.astro",
+      "sha256": "8ceaf744ce6deb70b9bc29d68d27e68c641200388853a903c73540b39b172a74"
+    },
+    {
+      "path": "src/pages/team/index.astro",
+      "sha256": "ce09d2db3afcdc0936d07c205024a3413e71037d93b26cc93127b80a461f0b47"
+    },
+    {
+      "path": "src/pages/topic/[topic].astro",
+      "sha256": "9546d264948c61daede9816a9353baa4902fa3b86b0867dfecf2e56886f7aa7b"
+    },
+    {
+      "path": "src/pages/topic/index.astro",
+      "sha256": "fde49b568e53452eb937cd67b87ff4ae026348521d0598e498ba11628b1c9c42"
+    }
+  ],
+  "dataPolicy": "Copy current src/data/*.json unchanged from the same checkout after its existing fetch/update step. Do not collect again.",
+  "installationFiles": [
+    {
+      "path": ".gitignore",
+      "sha256": "c08859f73e7a780c46e84607dd232b4cbd16050d6df7315571bfea2b5ad3da58"
+    }
+  ]
+}

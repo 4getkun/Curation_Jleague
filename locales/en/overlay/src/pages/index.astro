@@ -1,0 +1,183 @@
+---
+import Base from "../layouts/Base.astro";
+import Hero from "../components/Hero.astro";
+import NewsRow from "../components/NewsRow.astro";
+import TeamLinkRow from "../components/TeamLinkRow.astro";
+import TopicChipLink from "../components/TopicChipLink.astro";
+import { allNews } from "../lib/news";
+import { teams } from "../lib/teams";
+import { topics } from "../lib/topics";
+import { withBase, withSharedData } from "../lib/url";
+
+const [featured, ...rest] = allNews;
+const latest = rest.slice(0, 6);
+const dataUrl = withSharedData("/data/news-index.json");
+const teamsForClient = teams.map((t) => ({ id: t.id, short: t.short, color: t.color }));
+---
+
+<Base
+  title="Curation J.League"
+  description="Ad-free news curation for all 20 J1 clubs."
+  headerLarge
+>
+  {featured ? (
+    <section class="container-page" style="padding-top:24px;">
+      <Hero item={featured} />
+    </section>
+  ) : (
+    <section class="container-page" style="padding-top:56px; padding-bottom:56px;">
+      <p style="font-size:14px; color:var(--text-muted);">
+        No news has been collected yet. Articles will appear after the automated GitHub Actions collection runs.
+      </p>
+    </section>
+  )}
+
+  <!-- マイクラブ(お気に入りクラブ)の最新ニュース。localStorageに保存された
+       クラブがあればクライアントサイドでこの下に描画し、無ければヒントだけ
+       表示する。 -->
+  <section id="my-team-section" class="container-page" style="padding-top:20px; padding-bottom:20px;">
+    <p id="my-team-hint" style="font-size:13px; color:var(--text-faint); margin:0;">
+      Choose your favorite club using ★ My club in the header to see its latest news here.
+      <a href="#clubs" class="link-underline" style="color:var(--accent); font-weight:bold;">Choose a club →</a>
+    </p>
+    <div id="my-team-result" class="hidden">
+      <div class="flex items-baseline justify-between" style="margin-bottom:16px;">
+        <h2 id="my-team-heading" class="font-display font-bold m-0" style="font-size:20px; color:var(--text);"></h2>
+        <a id="my-team-link" href="#" class="no-underline font-bold" style="font-size:13px; color:var(--accent);">View all →</a>
+      </div>
+      <div id="my-team-list"></div>
+      <p id="my-team-empty" class="hidden" style="font-size:13px; color:var(--text-faint);">
+        No news for this club yet. Please wait for the next automatic update.
+      </p>
+    </div>
+  </section>
+
+  <section class="container-page grid grid-cols-1 lg:grid-cols-[1fr_380px]" style="gap:40px; padding-top:16px; padding-bottom:56px;">
+    <div>
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent);">
+        LATEST NEWS / Latest news
+      </h2>
+      <div>
+        {latest.map((item, i) => <NewsRow item={item} index={i + 1} />)}
+      </div>
+      <a href={withBase("/news/")} class="inline-block no-underline font-bold" style="margin-top:20px; font-size:14px; color:var(--accent);">
+        View all news →
+      </a>
+    </div>
+
+    <aside id="clubs">
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin-bottom:14px;">
+        CLUBS / By club
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2" style="gap:8px;">
+        {teams.map((team) => (
+          <TeamLinkRow team={team} />
+        ))}
+      </div>
+
+      <h2 class="font-kicker m-0" style="font-size:15px; font-weight:500; letter-spacing:4px; color:var(--accent); margin:28px 0 12px;">
+        TOPICS / Topics
+      </h2>
+      <div class="flex flex-wrap" style="gap:8px;">
+        {topics.map((topic) => (
+          <TopicChipLink topic={topic} />
+        ))}
+      </div>
+
+      <div style="margin-top:28px; border:1px solid var(--rule-weak); background-color:var(--card-bg); padding:18px;">
+        <div class="font-kicker" style="font-size:12px; font-weight:500; letter-spacing:3px; color:var(--accent);">ABOUT</div>
+        <p class="m-0" style="font-size:13px; line-height:1.9; color:var(--text-muted); margin-top:10px;">
+          No banner ads or tracking scripts. Football RSS feeds are collected regularly and organized by club.
+        </p>
+      </div>
+    </aside>
+  </section>
+</Base>
+
+<script define:vars={{ dataUrl, teamsForClient, base: import.meta.env.BASE_URL }}>
+  (function () {
+    var STORAGE_KEY = "jleague-curation-my-team";
+    var favoriteId = "";
+    try {
+      favoriteId = localStorage.getItem(STORAGE_KEY) || "";
+    } catch (e) {}
+
+    var hint = document.getElementById("my-team-hint");
+    var resultBox = document.getElementById("my-team-result");
+    if (!favoriteId) return; // Not setならヒント表示のまま何もしない
+
+    var team = teamsForClient.find(function (t) {
+      return t.id === favoriteId;
+    });
+    if (!team) return;
+
+    hint.classList.add("hidden");
+    resultBox.classList.remove("hidden");
+    document.getElementById("my-team-heading").innerHTML =
+      "My club: " + escapeHtml(team.short) + '<span class="hidden sm:inline">  — latest news</span>';
+    document.getElementById("my-team-link").href = base + "team/" + team.id + "/";
+
+    function escapeHtml(str) {
+      return (str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    function formatRelative(pubDate) {
+      if (!pubDate) return "";
+      var date = new Date(pubDate);
+      if (isNaN(date.getTime())) return "";
+      var diffMin = Math.floor((Date.now() - date.getTime()) / 60000);
+      if (diffMin < 1) return "Just now";
+      if (diffMin < 60) return diffMin + " min ago";
+      var diffHour = Math.floor(diffMin / 60);
+      if (diffHour < 24) return diffHour + " hr ago";
+      var diffDay = Math.floor(diffHour / 24);
+      if (diffDay < 7) return diffDay + " d ago";
+      return date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+    }
+
+    fetch(dataUrl)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        var teamNews = data.filter(function (item) {
+          return item.teams && item.teams.indexOf(team.id) !== -1;
+        });
+        var list = document.getElementById("my-team-list");
+        var empty = document.getElementById("my-team-empty");
+        if (teamNews.length === 0) {
+          empty.classList.remove("hidden");
+          return;
+        }
+        list.innerHTML = teamNews
+          .slice(0, 5)
+          .map(function (item, i) {
+            return (
+              '<a href="' +
+              escapeHtml(item.link) +
+              '" target="_blank" rel="noopener noreferrer nofollow" class="grid no-underline" style="grid-template-columns:40px 1fr; gap:16px; padding:16px 0; border-bottom:1px solid var(--rule-weak); color:inherit;">' +
+              '<span style="font-family:var(--font-kicker); font-size:22px; font-weight:500; color:var(--num); line-height:1;">' +
+              String(i + 1).padStart(2, "0") +
+              "</span>" +
+              '<div class="min-w-0">' +
+              '<h4 style="font-family:var(--font-display); font-weight:600; line-height:1.7; margin:0; font-size:15px; color:var(--text);">' +
+              escapeHtml(item.title) +
+              "</h4>" +
+              '<p class="m-0" style="font-size:12px; color:var(--text-faint); margin-top:8px;">' +
+              escapeHtml(item.source) +
+              " · " +
+              formatRelative(item.pubDate) +
+              "</p></div></a>"
+            );
+          })
+          .join("");
+      })
+      .catch(function () {
+        /* オフライン等で取得に失敗した場合は、ヒント表示のまま静かに諦める */
+      });
+  })();
+</script>
