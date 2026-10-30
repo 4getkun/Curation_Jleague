@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-30T16:05:07.732Z",
-  "count": 794,
+  "generatedAt": "2026-10-30T20:56:16.016Z",
+  "count": 792,
   "items": [
+    {
+      "title": "FC東京、悲願のJ1制覇なるか（3） 「35分間で2発」元U-21スペイン代表がラストピース!年明け以降も続くアドバンテージと「不気味な存在」(サッカー批評Web)",
+      "summary": "第12節を終えて首位争いを展開するFC東京。堅守と若手の台頭で好調を維持するチームだが、決して選手層が厚いわけではない。しかし、悲願のJリーグ初制覇へ向けて、秋口に獲得した「スペインからの刺客」が強烈",
+      "link": "https://news.yahoo.co.jp/articles/a16c267c96b12021ee419014cea24c7b66a8083e?source=rss",
+      "pubDate": "2026-10-30T20:30:34.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a16c267c96b12021ee419014cea24c7b66a8083e?source=rss"
+        }
+      ]
+    },
     {
       "title": "鹿島がサポーター12人に入場禁止処分…柏戦でビジターゲートに接近、1人は無期限入場禁止(ゲキサカ)",
       "summary": "鹿島アントラーズは30日、24日にホームで開催したJ1リーグ第12節の柏レイソル戦で、サポーターによる違反行為が確認されたとして、計12人に入場禁止処分を科したことを発表した。 クラブによると、試合開",
@@ -64,16 +83,16 @@
       "summary": "＜名古屋競輪：ミッドナイト競輪＞◇F2◇初日◇30日 予選2Rは127期の佐藤魁皇が突っ張って先行したが、2角から踏み込んだ同期の十文字悠真（24＝福島）が、次元の違うスピードで後続をちぎって一気にま",
       "link": "https://news.yahoo.co.jp/articles/fa905197e2ef8f0f548887b23030b8120b9564bd?source=rss",
       "pubDate": "2026-10-30T13:24:55.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "grampus"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/fa905197e2ef8f0f548887b23030b8120b9564bd?source=rss"
         }
       ]
@@ -1578,6 +1597,26 @@
       ]
     },
     {
+      "title": "C大阪、新体制初陣の水戸下してルヴァン杯プライムラウンド進出!! DF中村拓海が先制弾&FW櫻川ソロモン2発!!",
+      "summary": "[10.28 ルヴァン杯4回戦 水戸 1-3 C大阪 水戸信ス] ルヴァン杯は28日に各地で4回戦を行った。水戸信用金庫スタジアムでは水戸ホーリーホック(J1)とセレッソ大阪(J1)が対戦し、3-1の勝利を収めたC大阪がプライムラウンド進出…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461993-461993-fl",
+      "pubDate": "2026-10-28T11:59:29.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "cerezo",
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461993-461993-fl"
+        }
+      ]
+    },
+    {
       "title": "G大阪がブリーラム・Uと1-1ドロー…宇佐美貴史のスーパーFK弾で追いつく",
       "summary": "[10.28 ACLE第3節 G大阪 1-1 ブリーラム・U パナスタ] AFCチャンピオンズリーグエリート(ACLE)のリーグステージ第3節が28日に開催され、ガンバ大阪はホームでブリーラム・ユナイテッド(タイ)と1-1で引き分けた。 開…",
       "link": "https://web.gekisaka.jp/news/acl/detail/?461990-461990-fl",
@@ -1593,25 +1632,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/acl/detail/?461990-461990-fl"
-        }
-      ]
-    },
-    {
-      "title": "川崎Fがルヴァン杯8強入り! 山市が均衡破る先制ゴール、鳥栖の勢い打ち砕く脇坂→マルシーニョ好連係で追加点",
-      "summary": "[10.28 ルヴァン杯4回戦 鳥栖 0-2 川崎F 駅スタ] ルヴァンカップは28日に4回戦を行った。サガン鳥栖と川崎フロンターレの対戦は、川崎Fが2-0で勝利した。 鳥栖はJ2勢で唯一勝ち残っており、東京ヴェルディ、アビスパ福岡に続いて…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461987-461987-fl",
-      "pubDate": "2026-10-28T11:58:42.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?461987-461987-fl"
         }
       ]
     },
@@ -15336,63 +15356,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/676738"
-        }
-      ]
-    },
-    {
-      "title": "【京都大賞典】アクアヴァーナル 松山背に弾んだ 四位師「騎手の表情も晴れやか」(スポニチアネックス)",
-      "summary": "京都大賞典といえば、芦毛の牝馬。10年メイショウベルーガ、17年スマートレイアーに続く9年ぶり牝馬Vを目指すアクアヴァーナルが、輝きを増した白い馬体をCWコースで弾ませた。松山を背に馬なりで6F85秒",
-      "link": "https://news.yahoo.co.jp/articles/c9a5220d82f9e1d96e3cee87bd658ad11a63b111?source=rss",
-      "pubDate": "2026-09-30T20:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c9a5220d82f9e1d96e3cee87bd658ad11a63b111?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【京都大賞典】ヘデントール 強めに3頭併せ 太田助手「スムーズにギアを上げていけるかが好走の鍵」(スポニチアネックス)",
-      "summary": "昨年の天皇賞・春を制したヘデントールはWコースで3頭併せを消化。直線は強めに追われ、5F67秒4～1F11秒5をマークした。 外スターフラッシュ（2歳未勝利）に半馬身遅れ、内フィールドノート（4歳2勝",
-      "link": "https://news.yahoo.co.jp/articles/c9a7a55b663dfddb06a39e1c0ebcc66c953c7a0e?source=rss",
-      "pubDate": "2026-09-30T20:19:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c9a7a55b663dfddb06a39e1c0ebcc66c953c7a0e?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【京都大賞典】追ってひと言(スポニチアネックス)",
-      "summary": "▼ウエストナウ（寺島師）先週CWコースでラスト1F10秒8。今朝もいい動きでした。前走は差し届くかと思いましたが前残り。でも4コーナーでは見せ場があった。状態はフレッシュな感じで、この条件を使いたかっ",
-      "link": "https://news.yahoo.co.jp/articles/c85338780298564d8c860521c178730120a7ab46?source=rss",
-      "pubDate": "2026-09-30T20:18:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanga"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c85338780298564d8c860521c178730120a7ab46?source=rss"
         }
       ]
     }
