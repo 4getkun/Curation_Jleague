@@ -25,8 +25,7 @@ name: Build and deploy to GitHub Pages
 # 新しいトリガーが来ると待機中だった方はキャンセルされ新しい方に置き換わる
 # という事故が起きたため、最初からトリガー種類ごとにグループを分離している。
 # この場合、schedule実行とpush実行が同時に走る可能性が生まれるため、
-# git pushがコンフリクトした場合はリベースして再試行するようにしている
-# (下記「Commit updated news.json if changed」参照)。
+# git pushが失敗した場合は停止し、ビルドや公開に進まない。
 on:
   push:
     branches: [main]
@@ -79,17 +78,11 @@ jobs:
             git config user.email "actions@users.noreply.github.com"
             git add src/data/news.json src/data/odds-j1.json
             git commit -m "chore: update news feed"
-            # concurrency.groupをトリガー種類ごとに分けたため、schedule実行と
-            # push実行のgit pushが同時に走る可能性がある。非fast-forwardで
-            # 拒否された場合は最新mainにリベースして再試行する(最大3回)。
-            for i in 1 2 3; do
-              if git push origin HEAD:main; then
-                break
-              fi
-              echo "push failed (attempt $i/3), rebasing onto latest main and retrying..."
-              git fetch origin main
-              git rebase origin/main
-            done
+            # A failed push must stop the job before build and deployment.
+            if ! git push origin HEAD:main; then
+              echo "::error::Data push failed; stopping before build and deployment."
+              exit 1
+            fi
           fi
 
       - name: Setup Pages
