@@ -1,7 +1,44 @@
 {
-  "generatedAt": "2026-11-02T06:31:14.737Z",
-  "count": 830,
+  "generatedAt": "2026-11-02T16:40:29.283Z",
+  "count": 829,
   "items": [
+    {
+      "title": "Jリーグの試合前に響いた名曲…スタジアムが拍手喝采！ サポーターから沸き起こったコールに本人も「嬉し過ぎました」(スポーティングニュース日本版)",
+      "summary": "11月1日（日）、明治安田J1リーグ第13節が行われ、V・ファーレン長崎は1-2で東京ヴェルディに敗れた。【動画】TUBE春畑道哉さんが長崎のスタジアムで『J'S THEME』生演奏！ 演奏後には「春",
+      "link": "https://news.yahoo.co.jp/articles/bd3d6e1b213e073e002e9d90016b8b4fc763bf6c?source=rss",
+      "pubDate": "2026-11-02T13:50:21.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "v-varen",
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/bd3d6e1b213e073e002e9d90016b8b4fc763bf6c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1新助っ人が叩き出した「4/72」 途中出場のみ…驚異の決定力に「さすがレアルの下部出身」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/682234",
+      "pubDate": "2026-11-02T08:40:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/682234"
+        }
+      ]
+    },
     {
       "title": "神戸DF永戸勝也は指揮官のツッコミに苦笑い「もっと得点や前での仕事ができれば…」3日ラチャブリ戦(スポニチアネックス)",
       "summary": "神戸は3日、ホームでアジア・チャンピオンズリーグエリート（ACLE）第4戦ラチャブリ戦（タイ）に臨む。 過密日程が続く中、スキッベ監督はターンオーバーを示唆するも、会見に同席したDF永戸勝也については",
@@ -858,6 +895,23 @@
       ]
     },
     {
+      "title": "金沢vs群馬 試合記録",
+      "summary": "【J3第14節】(ゴースタ)金沢 4-0(前半2-0)群馬[金]四宮悠成(30分)、土佐陸翼(36分)、榊原杏太(81分)、杉浦恭平(90分+3)[金]長倉颯(32分)[群]米原秀亮(73分)、中島大嘉(88分)観衆:3,655人主審:北沢…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?462178-462178-fl",
+      "pubDate": "2026-10-31T20:00:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?462178-462178-fl"
+        }
+      ]
+    },
+    {
       "title": "【浦和】GK西川周作「またこの40歳から新人の気持ちで」J1通算最多タイ672試合出場の偉業(日刊スポーツ)",
       "summary": "＜明治安田J1：柏4－0浦和＞◇第13節◇31日◇三協F柏 唯一無二の守護神が偉業を成し遂げた。浦和レッズGK西川周作（40）が敵地柏戦でJ1通算最多となる672試合目に出場。試合は0－4の大敗も、元",
       "link": "https://news.yahoo.co.jp/articles/5f8049247aa517d3a509a2647f37ee9bd46cdb18?source=rss",
@@ -1212,26 +1266,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/dbfa33fd80e25f3babdef7ab1bbeeb07526de39f?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "岡山vsFC東京 試合記録",
-      "summary": "【J1第13節】(JFEス)岡山 0-4(前半0-1)FC東京[F]仲川輝人2(45分+4、46分)、ダニ・ゴメス2(63分、90分+3)[岡]本山遥(22分)観衆:14,287人主審:御厨貴文├FC東京がFW仲川&ダニ揃って2発、20歳M…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462171-462171-fl",
-      "pubDate": "2026-10-31T09:36:25.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "fagiano",
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462171-462171-fl"
         }
       ]
     },
@@ -15983,67 +16017,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/677330"
-        }
-      ]
-    },
-    {
-      "title": "名物記者が見たサッカーU-21日本代表対韓国「これは疑問」「今回の韓国は強くないと…」「大岩監督の采配は…」",
-      "summary": "サッカーU-21日本代表は3日、第20回アジア競技大会の決勝で韓国と対戦し、0-1で敗れた。この一戦について、長年にわたり日本代表やJリーグを取材し続けてきた名物記者の元川悦子氏に随時話を聞いた。（語り手：元川悦子）",
-      "link": "https://www.footballchannel.jp/2026/10/03/post1026177/",
-      "pubDate": "2026-10-03T14:58:22.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/03/post1026177/"
-        }
-      ]
-    },
-    {
-      "title": "大岩剛監督、清水商時代の恩師・大滝雅良さんに哀悼の意「非常に残念」「自分も指導者の端くれとして…」(スポーツ報知)",
-      "summary": "◆愛知・名古屋アジア大会 ▽サッカー男子決勝 日本０―１韓国（３日・豊田スタジアム）【写真】久保建英、福原遥と電撃結婚！幸せいっぱい２ショット！ Ｕ―２１（２１歳以下）日本代表は、４大会ぶり２度目の優",
-      "link": "https://news.yahoo.co.jp/articles/0ef2e1c3c9cfba4aefe73a3ad474a037fd41fae7?source=rss",
-      "pubDate": "2026-10-03T14:01:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0ef2e1c3c9cfba4aefe73a3ad474a037fd41fae7?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "日本代表期間中に離脱→異例のルヴァン杯出場 町田DF望月、4回戦の京都戦の後半終了間際に投入",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/677324",
-      "pubDate": "2026-10-03T08:49:30.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/677324"
         }
       ]
     }
