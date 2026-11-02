@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-11-01T20:55:12.470Z",
-  "count": 830,
+  "generatedAt": "2026-11-02T00:01:37.015Z",
+  "count": 832,
   "items": [
+    {
+      "title": "川崎戦は５試合ぶりに勝ち切るも…横浜FMの“61分以降の失点”という課題はどう捉えるべきか(SOCCER DIGEST Web)",
+      "summary": "［J１第13節］横浜FM ４－２ 川崎／11月１日／日産スタジアム 横浜F・マリノスがホームに川崎フロンターレを迎えた一戦は４－２で勝利。これでリーグ戦は９試合負けなしとなった。【動画】遠野の先制ゴー",
+      "link": "https://news.yahoo.co.jp/articles/0d9926fcaeb96473d5e2b0a72a23203226bfec2e?source=rss",
+      "pubDate": "2026-11-01T23:39:00.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0d9926fcaeb96473d5e2b0a72a23203226bfec2e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "「自分がチームを引っ張っていく」横浜F・マリノスの松村晃助、ボランチで高まる存在感。22歳に見える変化「もっともっとできる」【コラム】",
+      "summary": "横浜F・マリノスは11月1日、2026/27明治安田J1リーグ第13節で川崎フロンターレと対戦し、4-2で勝利した。8連戦の最後を白星で締めくくり、公式戦13試合、リーグ戦9試合無敗としたチームで、存在感を放っているのがMF松村晃助だ。法政…",
+      "link": "https://www.footballchannel.jp/2026/11/02/post1043772/",
+      "pubDate": "2026-11-01T23:00:02.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "marinos"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/02/post1043772/"
+        }
+      ]
+    },
+    {
+      "title": "J1で驚愕アシスト「1ミリ残しに叫んだ」 三笘薫を彷彿…ファン熱狂「ラインギリギリの残留力」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/682145",
+      "pubDate": "2026-11-01T21:30:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/682145"
+        }
+      ]
+    },
     {
       "title": "「飯倉チャレンジ」がトレンド入り! 横浜FMの40歳GKが持ち味のスリリングなプレーを披露! 試合後の愛が溢れるインタビューが話題!「恥ずかしいですが…勝って良かったです」(サッカー批評Web)",
       "summary": "11月1日、J1リーグ第13節が行われ、横浜F・マリノスが4-2で川崎フロンターレに勝利。ハラハラドキドキの「飯倉チャレンジ」が話題を集めた。■【動画】「恥ずかしいですが…勝って良かったです」「トレン",
@@ -16054,27 +16109,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f986eb9e005978e9519e6a89f3a804be795436ad?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "三笘薫にデ・ゼルビ監督と再会の可能性？ リヴァプールも動向を注視か(サッカーキング)",
-      "summary": "ブライトンに所属する日本代表MF三笘薫の動向に注目が集まっているようだ。2日、イギリスメディア『TEAMtalk』が伝えている。 現在29歳の三笘は2021年8月に川崎フロンターレからブライトンに加入",
-      "link": "https://news.yahoo.co.jp/articles/7c78277d3822d727852195257cda4497a61c12ca?source=rss",
-      "pubDate": "2026-10-02T23:34:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7c78277d3822d727852195257cda4497a61c12ca?source=rss"
         }
       ]
     }
