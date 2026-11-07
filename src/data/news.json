@@ -1,7 +1,110 @@
 {
-  "generatedAt": "2026-11-07T19:43:13.344Z",
-  "count": 884,
+  "generatedAt": "2026-11-07T23:13:39.392Z",
+  "count": 882,
   "items": [
+    {
+      "title": "【東京】守護神キム・スンギュ「ずっと耐えていた」J1タイ記録9試合連続無失点を成し遂げる(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京2－0鹿島＞◇第14節◇7日◇味スタ FC東京GKキム・スンギュ（36）がJ1記録に並ぶ9試合連続無失点を成し遂げた。【写真】先制ゴールを決め、駆け出すFC東京の長倉 守護神として",
+      "link": "https://news.yahoo.co.jp/articles/d246e5f9db63d5ef356e85486178fde96bd54db7?source=rss",
+      "pubDate": "2026-11-07T23:00:02.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "antlers",
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/d246e5f9db63d5ef356e85486178fde96bd54db7?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1最新の暫定順位、柏レイソルが3連勝で2位浮上 首位FC東京はJ1記録タイの9戦連続無失点、東京Vは3連勝で順位大幅アップ",
+      "summary": "明治安田J1リーグ第14節の6試合が11月7日に行われた。首位FC東京は鹿島アントラーズに2-0で勝利し、勝ち点33で首位を維持。柏レイソルも川崎フロンターレを下して暫定2位へ浮上した。一方、下位では東京ヴェルディと京都サンガF.C.が揃っ…",
+      "link": "https://www.footballchannel.jp/2026/11/08/post1056303/",
+      "pubDate": "2026-11-07T22:45:38.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol",
+        "fc-tokyo",
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/08/post1056303/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/175282d8c16ec059eba146a03cfcdbd7d568abd2?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "超豪華レアが45種「ついにJリーグからも！」 1枚220円…ファン歓喜「課金案件」「何としても欲しい」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/683285",
+      "pubDate": "2026-11-07T21:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/683285"
+        }
+      ]
+    },
+    {
+      "title": "【東京】J1記録に並ぶ９試合連続無失点で難敵に勝利 DF稲村隼翔「優勝しないと意味はない」(日刊スポーツ)",
+      "summary": "＜明治安田J1：東京2－0鹿島＞◇7日◇第14節◇味スタ 首位の東京が代名詞になりつつあるクリーンシートで締めた。6位鹿島を2－0で撃破して勝ち点33とした。DF稲村隼翔（24）を中心とした堅守から流",
+      "link": "https://news.yahoo.co.jp/articles/a87d1226df7f901500bdc19904248c2276c80942?source=rss",
+      "pubDate": "2026-11-07T19:55:02.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/a87d1226df7f901500bdc19904248c2276c80942?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "代表スタッフへ“直電”「日本移籍どう」 徹底準備で復帰…実感した町田の強み「何で言われているんだ」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/683321",
+      "pubDate": "2026-11-07T19:50:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "zelvia"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/683321"
+        }
+      ]
+    },
     {
       "title": "FC東京が首位キープ J1最長タイ9戦連続0封 847分連続無失点はJ1記録更新(スポニチアネックス)",
       "summary": "◇明治安田J1第14節 FC東京 2―0 鹿島（2026年11月7日 味スタ） 明治安田J1リーグは6試合が行われ、FC東京は鹿島に2―0で勝利し、首位をキープした。韓国代表GK金承奎（キム・スンギュ",
@@ -825,6 +928,27 @@
       ]
     },
     {
+      "title": "J3山口が福岡大3年FW岡留零樹の加入内定を発表!特別指定選手にも承認",
+      "summary": "レノファ山口FCは6日、福岡大に所属するFW岡留零樹(21)が2028年1月から加入することが内定したと発表した。また、2026-27シーズンのJFA・Jリーグ特別指定選手として承認されたことも発表。背番号は29に決まった。 鹿児島県出身の…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?462627-462627-fl",
+      "pubDate": "2026-11-06T07:25:26.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?462627-462627-fl"
+        }
+      ]
+    },
+    {
       "title": "J1で順位大変動の可能性も、下位10クラブが直接対決 7連敗の19位水戸は18位千葉と激突、最下位福岡も正念場",
       "summary": "明治安田J1リーグの第14節が11月7日、8日に行われる。今節は11位名古屋グランパスから最下位アビスパ福岡までの下位10クラブが、5つのカードで直接対決する。第13節終了時点で11位から20位までの勝ち点差はわずか7。残留争いに大きな影響…",
       "link": "https://www.footballchannel.jp/2026/11/06/post1056045/",
@@ -924,23 +1048,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/683134"
-        }
-      ]
-    },
-    {
-      "title": "J2最下位の甲府が声明「まず降格圏からの脱出を最優先の目標として掲げ…」",
-      "summary": "J2最下位のヴァンフォーレ甲府は6日、「シーズン開幕前に掲げたJ1昇格という目標に対し、このような結果となっていることを、クラブとして極めて重く受け止めております。また、日頃から多大なるご支援、ご声援をいただいているファン・サポーターの皆様…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462615-462615-fl",
-      "pubDate": "2026-11-06T03:26:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462615-462615-fl"
         }
       ]
     },
@@ -16915,139 +17022,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/09/post1029897/"
-        }
-      ]
-    },
-    {
-      "title": "U-21→A代表昇格の筆頭候補「絶対に必要」 J1でも増す存在感…大岩監督が重視した“抜き切る力”",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678263",
-      "pubDate": "2026-10-08T20:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678263"
-        }
-      ]
-    },
-    {
-      "title": "レアルとJリーグを分ける“1メートル”「データだけではダメ」 アナリストに必要な「幽体離脱」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678299",
-      "pubDate": "2026-10-08T20:40:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678299"
-        }
-      ]
-    },
-    {
-      "title": "レアルとJリーグを分ける“1メートル”「データだけではダメ」 アナリストに必要な「幽体離脱」(FOOTBALL ZONE)",
-      "summary": "2027年4月、中央大学に誕生する「スポーツ情報学部」では、スポーツの現場から得られるデータを題材に、データサイエンスとビジネスを横断して学んでいく。前Jリーグチェアマンで、現日本バドミントン協会会長",
-      "link": "https://news.yahoo.co.jp/articles/3661326854c47846d0d9f80856dbd13f6ada39b2?source=rss",
-      "pubDate": "2026-10-08T20:40:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/3661326854c47846d0d9f80856dbd13f6ada39b2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島4選手自由契約 果たして小園海斗獲得に動く球団は…？ リスクとリターンの“皮算用”(CoCoKARAnext)",
-      "summary": "カープファンにとっては、激動の10月といえるでしょう。 球団は10月1日、小園海斗内野手、矢野雅哉内野手、前川誠太内野手、田村俊介外野手の4選手と、来季の契約を結ばないことを発表しました。将来性豊かな",
-      "link": "https://news.yahoo.co.jp/articles/c3e3ad57b2a27b5e5d2c4cc101e1eecf32be7dbb?source=rss",
-      "pubDate": "2026-10-08T20:30:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/c3e3ad57b2a27b5e5d2c4cc101e1eecf32be7dbb?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "王者の今季ユニが「90年代を思わせる」 レトロな1着に研究家注目「アイデンティティを再主張」(FOOTBALL ZONE)",
-      "summary": "2026-27シーズンから秋春制へと移行したJリーグ。Jリーグとともに欧州各国でもすでに開幕しているなかで、サッカーユニフォーム研究家である「ともさん」はフランス1部強豪のパリ・サンジェルマン（PSG",
-      "link": "https://news.yahoo.co.jp/articles/bf054fd0317ebed50b6ec0486fc40239f4f266d4?source=rss",
-      "pubDate": "2026-10-08T20:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/bf054fd0317ebed50b6ec0486fc40239f4f266d4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【中日】工藤公康新監督 正式就任前から名古屋はワッショイ「チケット取れなくなる」の声(東スポWEB)",
-      "summary": "中日の新監督に元ソフトバンク監督の工藤公康氏（63）が就任することが8日に決まった。5度の日本一を誇る名将が名古屋にやって来るとあって竜党は早くもワッショイワッショイ。〝救世主〟の期待がかかる新指揮官",
-      "link": "https://news.yahoo.co.jp/articles/622e346f75fa6d83752e5d629d2b38a57e19a35b?source=rss",
-      "pubDate": "2026-10-08T20:15:31.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/622e346f75fa6d83752e5d629d2b38a57e19a35b?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "北中米は落選→37歳で目指す代表復帰 “ベテラン枠”の招集は否定的「純粋な実力でなければ意味ない」(FOOTBALL ZONE)",
-      "summary": "ヴィッセル神戸に所属するGK権田修一は、国内だけでなく海外でも活躍し、日本代表にも選出。カタールW杯では守護神として最後尾から支えた。順風満帆に見えるキャリアでも、オーバートレーニング症候群による、長",
-      "link": "https://news.yahoo.co.jp/articles/a9af7b020230612d9b49accd1573ebebe094b2ed?source=rss",
-      "pubDate": "2026-10-08T20:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a9af7b020230612d9b49accd1573ebebe094b2ed?source=rss"
         }
       ]
     }
