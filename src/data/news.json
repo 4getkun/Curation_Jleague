@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-10T15:55:20.577Z",
-  "count": 852,
+  "generatedAt": "2026-11-10T21:33:16.756Z",
+  "count": 850,
   "items": [
+    {
+      "title": "J1最新順位、13位から最下位まで勝ち点6差の大混戦 東京Vは開幕11戦未勝利→3連勝で大幅アップ 千葉は水戸との直接対決を制す",
+      "summary": "明治安田J1リーグ第14節の全10試合が8日までに行われ、東京ヴェルディが一時最下位から14位まで急浮上した。開幕11試合未勝利と苦しんだものの、直近3試合は3連勝。第11節終了時点の20位からわずか3節で6つ順位を上げた。一方、13位から…",
+      "link": "https://www.footballchannel.jp/2026/11/11/post1056713/",
+      "pubDate": "2026-11-10T21:30:24.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy",
+        "jef-chiba",
+        "hollyhock"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/11/post1056713/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4f5a35a664fc30febbf4cd10cc2a339fdebb1f34?source=rss"
+        }
+      ]
+    },
     {
       "title": "ＪリーグがTikTokとサポーティングパートナー契約 試合、クラブ、選手の魅力の発信強化(日刊スポーツ)",
       "summary": "Jリーグは10日、TikTok JapanとJリーグサポーティングパートナー（ビジネス領域）契約を締結したと発表した。 Jリーグは「豊かなスポーツ文化の振興及び国民の心身の健全な発達への寄与」を理念に",
@@ -1075,19 +1101,21 @@
       ]
     },
     {
-      "title": "鳥取vs相模原 試合記録",
-      "summary": "【J3第15節】(Axis)鳥取 0-1(前半0-0)相模原[相]半代将都(73分)観衆:1,342人主審:小林健太朗[ガイナーレ鳥取]先発GK 47 桃井玲DF 3 ヴァンイヤーデン・ショーンDF 20 ローレンス・マルコDF 55 大嶋…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462433-462433-fl",
-      "pubDate": "2026-11-08T03:50:02.000Z",
+      "title": "神戸vs浦和 スタメン発表",
+      "summary": "[11.8 J1第14節](MUFG国立)※14:00開始主審:小屋幸栄[ヴィッセル神戸]先発GK 71 権田修一DF 3 マテウス・トゥーレルDF 4 山川哲史DF 15 ジエゴDF 24 酒井高徳MF 7 井手口陽介MF 13 佐々木大…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?462780-462780-fl",
+      "pubDate": "2026-11-08T04:02:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [],
+      "teams": [
+        "vissel"
+      ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462433-462433-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?462780-462780-fl"
         }
       ]
     },
@@ -16354,65 +16382,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/12/post1031118/"
-        }
-      ]
-    },
-    {
-      "title": "FC東京が調布市で「コラボ給食」を提供 石川直宏が小学校で食育授業を実施「盛り上げていきたい」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678746",
-      "pubDate": "2026-10-11T21:30:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678746"
-        }
-      ]
-    },
-    {
-      "title": "東京V 9戦勝ちなし最下位転落…相馬新監督初陣飾れず「できるだけ早く最初の白星つかみたい」(スポニチアネックス)",
-      "summary": "◇明治安田J1第9節 東京V 0―2 広島（2026年10月11日 味スタ） 明治安田J1リーグは4試合を行い、相馬直樹新監督（55）が率いる東京Vが広島に0―2で敗れて開幕から9戦勝ちなしで、最下位",
-      "link": "https://news.yahoo.co.jp/articles/107edea39cd6ad79f6d9add57184b8e1701b8a02?source=rss",
-      "pubDate": "2026-10-11T19:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [
-        "personnel"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/107edea39cd6ad79f6d9add57184b8e1701b8a02?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "千葉 終了間際失点で痛恨ドロー…小林監督「ロッカーはとんでもない空気に」(スポニチアネックス)",
-      "summary": "◇明治安田J1第9節 千葉1―1長崎（2026年10月11日 フクアリ） 千葉は痛恨のドローで2勝目を逃した。前半5分に今季リーグ初先発のMF安井の直接FK弾で先制したが、終了間際に失点。シュート16",
-      "link": "https://news.yahoo.co.jp/articles/df4d02171fd1ac6ccb6335f7f0e6a1b4f31a1aeb?source=rss",
-      "pubDate": "2026-10-11T19:25:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/df4d02171fd1ac6ccb6335f7f0e6a1b4f31a1aeb?source=rss"
         }
       ]
     }
