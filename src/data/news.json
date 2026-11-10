@@ -1,7 +1,67 @@
 {
-  "generatedAt": "2026-11-09T17:02:06.993Z",
-  "count": 863,
+  "generatedAt": "2026-11-10T00:45:37.504Z",
+  "count": 862,
   "items": [
+    {
+      "title": "J1最新順位に新たな変化、上位4クラブが勝ち点4差の大混戦。柏レイソルが2位浮上、広島と町田は直接対決で痛み分け",
+      "summary": "明治安田J1リーグ第14節の全10試合が8日までに行われ、首位争いの勢力図に変化が生じた。首位FC東京と4位柏レイソルがともに勝利した一方、2位サンフレッチェ広島と3位FC町田ゼルビアは直接対決で引き分け。柏が2位へ浮上し、広島は3位、町田…",
+      "link": "https://www.footballchannel.jp/2026/11/10/post1056477/",
+      "pubDate": "2026-11-09T21:30:01.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol",
+        "sanfrecce",
+        "zelvia"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/10/post1056477/"
+        }
+      ]
+    },
+    {
+      "title": "J1のゴール裏が「ほんと素晴らしいな」 サポーターが作り出した圧巻の光景…ファン熱狂「天才か」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/683811",
+      "pubDate": "2026-11-09T20:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/683811"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ、あっけなく解任された日本の大物監督（1）たった7カ月で終了。18試合連続未勝利を記録してしまう",
+      "summary": "5日、5シーズンにわたって東京ヴェルディを率いた城福浩監督の契約解除が発表された。同監督のように長期間にわたってチームを任される指揮官がいる一方で、結果を残せず短期間でその座を追われる監督も少なくない。また、「名選手、名監督にあらず」という…",
+      "link": "https://www.footballchannel.jp/2026/11/10/post1031529/",
+      "pubDate": "2026-11-09T20:00:36.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "trade",
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/10/post1031529/"
+        }
+      ]
+    },
     {
       "title": "【広島】球団史上初のＦＡ補強なるか 楽天・太田光を獲得調査 広陵出身の強肩捕手 １１日の交渉解禁に備えて準備(スポーツ報知)",
       "summary": "広島が国内フリーエージェント（ＦＡ）権の行使を表明した楽天・太田光捕手（３０）の獲得調査に乗り出すことが９日、分かった。広島は１０年オフに国内ＦＡ権を行使し、ソフトバンクに移籍した内川（当時横浜）の獲",
@@ -1193,21 +1253,19 @@
       ]
     },
     {
-      "title": "群馬vsFC大阪 試合記録",
-      "summary": "【J3第16節】(正田スタ)群馬 1-2(前半1-1)FC大阪[群]櫻井文陽(44分)[F]木匠貴大(35分)、島田拓海(67分)[F]住田将(90分+4)観衆:1,941人主審:上原直人[ザスパ群馬]先発GK 78 岡田慎司DF 2 中村…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462701-462701-fl",
-      "pubDate": "2026-11-07T12:00:01.000Z",
+      "title": "奈良vs高知 試合記録",
+      "summary": "【J3第16節】(ロートF)奈良 5-0(前半2-0)高知[奈]佐藤諒2(39分、57分)、川西翔太(42分)、安藤陸登(62分)、森本ヒマン(86分)観衆:1,717人主審:菊池俊吾[奈良クラブ]先発GK 96 マルク・ヴィトDF 8 吉…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?462698-462698-fl",
+      "pubDate": "2026-11-07T12:20:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "cerezo"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462701-462701-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?462698-462698-fl"
         }
       ]
     },
@@ -16555,80 +16613,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/ea2be48cf7859204f93f3cea189d04aeaff057de?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【今日のJリーグ】10月11日 2026/27明治安田Jリーグのキックオフ時間・放送予定・対戦カードは？",
-      "summary": "明治安田Jリーグは11日、J1が4試合、J2が4試合、J3が4試合開催される。キックオフ時間や放送予定、対戦カードなどは以下の通り。",
-      "link": "https://www.footballchannel.jp/2026/10/11/post1029801/",
-      "pubDate": "2026-10-11T00:00:19.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/11/post1029801/"
-        }
-      ]
-    },
-    {
-      "title": "J1デビュー直前に困惑「うわ、出るのか」 JFLから2年で辿り着いた舞台も…繰り返した「全然ダメ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678625",
-      "pubDate": "2026-10-10T20:01:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678625"
-        }
-      ]
-    },
-    {
-      "title": "FC東京 5年ぶり4連勝! J1デビューのDF永野が2点目起点「フリーなのは見えていた」(スポニチアネックス)",
-      "summary": "◇明治安田J1第9節 FC東京3―0浦和（2026年10月10日 味スタ） 明治安田J1リーグは4試合が行われ、FC東京はホームで浦和を3―0で下し、5年ぶりの4連勝を飾った。U―21日本代表DF永野",
-      "link": "https://news.yahoo.co.jp/articles/94bc16611b2d5bf0078d4619a66ad9e75588892a?source=rss",
-      "pubDate": "2026-10-10T19:30:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/94bc16611b2d5bf0078d4619a66ad9e75588892a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田 3試合ぶり白星 途中出場の明本が千金V弾「気持ちでねじ込むことができた」(スポニチアネックス)",
-      "summary": "◇明治安田J1第9節 町田 1―0 京都（2026年10月10日 サンガS） FC町田ゼルビアは後半13分に投入されたMF明本が値千金の決勝点を決め、3試合ぶりの白星を手にした。 両チーム譲らぬ攻防で",
-      "link": "https://news.yahoo.co.jp/articles/78eed81113006409b03b63f32e3ad6e5fc88c4c3?source=rss",
-      "pubDate": "2026-10-10T19:25:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/78eed81113006409b03b63f32e3ad6e5fc88c4c3?source=rss"
         }
       ]
     }
