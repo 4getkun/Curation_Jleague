@@ -1,7 +1,104 @@
 {
-  "generatedAt": "2026-11-10T00:45:37.504Z",
-  "count": 862,
+  "generatedAt": "2026-11-10T07:52:39.132Z",
+  "count": 864,
   "items": [
+    {
+      "title": "【水戸】韓国ボイン高から18歳DF加入内定「胸が高鳴っています」左利きの左サイドバック(日刊スポーツ)",
+      "summary": "水戸ホーリーホックは10日、韓国・ボイン高校DFイ・ヒョンギ（18）の2027年1月からの加入が内定したと発表した。堅実な守備と豊富な運動量が武器という左利きの左サイドバック（SB）。クラブを通じ「初",
+      "link": "https://news.yahoo.co.jp/articles/30f6d38ec0b04632d1bc8435cb651426f0d53ad8?source=rss",
+      "pubDate": "2026-11-10T07:45:59.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "hollyhock"
+      ],
+      "topics": [
+        "signing"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/30f6d38ec0b04632d1bc8435cb651426f0d53ad8?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1FC東京MF安斎颯馬の憧れの選手は…「FC東京に欠かせない存在。佑都さんがいるから今の順位がある」(サンケイスポーツ)",
+      "summary": "FC東京のDF石原広教とMF安斎颯馬が10日、ホームタウン地域である渋谷区の上原小学校を訪問し、6年生56人と交流をした。FC東京を身近に感じてもらうとともに、プロスポーツ選手として子どもたちに夢や感",
+      "link": "https://news.yahoo.co.jp/articles/505eaa43af57d184ba7feac8932571a1aec04dea?source=rss",
+      "pubDate": "2026-11-10T07:24:25.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "fc-tokyo"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/505eaa43af57d184ba7feac8932571a1aec04dea?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "ジェフユナイテッド市原・千葉、“パラアートシャツ”のチャリティーオークションを開催！ 横浜F・マリノス戦で着用",
+      "summary": "J1リーグのジェフユナイテッド市原・千葉は10日、“パラアートシャツ”のチャリティーオークションを15日までスポオクで開催することを発表した。横浜F・マリノス戦で選手たちが入場時に着用したシャツのオークションを行い、寄付をする。",
+      "link": "https://www.footballchannel.jp/2026/11/10/post1056649/",
+      "pubDate": "2026-11-10T06:02:23.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "jef-chiba"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/10/post1056649/"
+        }
+      ]
+    },
+    {
+      "title": "JリーグがTikTokとサポーティングパートナー契約を締結 2024年以来の再連携…特設ページ新設など発信拡充",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/683932",
+      "pubDate": "2026-11-10T04:03:59.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/683932"
+        }
+      ]
+    },
+    {
+      "title": "「J1でも結果を出しているんで」浦和レッズ・笹修大、左SB抜擢も「僕は中盤で」。U-21日本代表でも示したい強み【コラム】",
+      "summary": "「J1でも結果を出しているんで」。そう自信をのぞかせたのは、浦和レッズの20歳、笹修大だ。ヴィッセル神戸戦では左サイドバックに抜擢され、同点ゴールにつながるクロスを供給。曺貴裁監督からも高い評価を受けた。一方、初選出されたU-21日本代表で…",
+      "link": "https://www.footballchannel.jp/2026/11/10/post1056606/",
+      "pubDate": "2026-11-10T02:30:16.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reds"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/10/post1056606/"
+        }
+      ]
+    },
     {
       "title": "J1最新順位に新たな変化、上位4クラブが勝ち点4差の大混戦。柏レイソルが2位浮上、広島と町田は直接対決で痛み分け",
       "summary": "明治安田J1リーグ第14節の全10試合が8日までに行われ、首位争いの勢力図に変化が生じた。首位FC東京と4位柏レイソルがともに勝利した一方、2位サンフレッチェ広島と3位FC町田ゼルビアは直接対決で引き分け。柏が2位へ浮上し、広島は3位、町田…",
@@ -1212,6 +1309,26 @@
       ]
     },
     {
+      "title": "横浜FMvs岡山 試合記録",
+      "summary": "【J1第14節】(日産ス)横浜FM 1-1(前半1-1)岡山[横]近藤友喜(45分+3)[岡]ブラウンノア賢信(42分)[横]諏訪間幸成(46分)[岡]ブラウンノア賢信(44分)、鈴木喜丈(69分)観衆:24,544人主審:木村博之└岡山は…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?462705-462705-fl",
+      "pubDate": "2026-11-07T16:00:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "marinos",
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?462705-462705-fl"
+        }
+      ]
+    },
+    {
       "title": "今季2度目の先発も悔しい連敗…川崎F大関友翔が柏戦の敗北を糧にU-21日本代表へ「代表で成長しなきゃいけない」(ゲキサカ)",
       "summary": "[11.7 J1第14節 柏 2-1 川崎F 三協F柏] 前節の横浜FM戦に敗れ(●2-4)、リーグ戦の連勝が3でストップしていた川崎フロンターレは、敵地での柏レイソル戦に臨んだ。横浜FM戦で途中出場",
       "link": "https://news.yahoo.co.jp/articles/f2c626f4cdea4a53f1ef80d9c240d48c438de366?source=rss",
@@ -1249,23 +1366,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/9347cb199e21c19bd09e3af373051bdbf9b7fb42?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "奈良vs高知 試合記録",
-      "summary": "【J3第16節】(ロートF)奈良 5-0(前半2-0)高知[奈]佐藤諒2(39分、57分)、川西翔太(42分)、安藤陸登(62分)、森本ヒマン(86分)観衆:1,717人主審:菊池俊吾[奈良クラブ]先発GK 96 マルク・ヴィトDF 8 吉…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462698-462698-fl",
-      "pubDate": "2026-11-07T12:20:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462698-462698-fl"
         }
       ]
     },
@@ -16562,57 +16662,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/678770"
-        }
-      ]
-    },
-    {
-      "title": "J2の最新順位表が「例年以上に接戦」 J1経験クラブがJ3降格危機…首位争いも混戦「カオス」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678706",
-      "pubDate": "2026-10-11T02:40:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678706"
-        }
-      ]
-    },
-    {
-      "title": "J1の最新順位表「上も下も地獄だ」 1〜4位勝ち点差はわずか“2″…残留争いも接戦「マジで総力戦だわ」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678695",
-      "pubDate": "2026-10-11T01:58:13.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678695"
-        }
-      ]
-    },
-    {
-      "title": "J1の最新順位表「上も下も地獄だ」 1〜4位勝ち点差はわずか“2\"…残留争いも接戦「マジで総力戦だわ」(FOOTBALL ZONE)",
-      "summary": "Jリーグ第9節が10月10日、各地で6試合が行われ、最新順位が更新された。上位対決で明暗が分かれたものの、首位争い・残留争いともに勝ち点差わずかの接戦となっている。【画像】「上も下も地獄だ」首位、残留",
-      "link": "https://news.yahoo.co.jp/articles/ea2be48cf7859204f93f3cea189d04aeaff057de?source=rss",
-      "pubDate": "2026-10-11T01:58:13.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/ea2be48cf7859204f93f3cea189d04aeaff057de?source=rss"
         }
       ]
     }
