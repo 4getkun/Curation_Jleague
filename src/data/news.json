@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T21:33:16.756Z",
-  "count": 850,
+  "generatedAt": "2026-11-11T01:35:12.609Z",
+  "count": 849,
   "items": [
     {
       "title": "J1最新順位、13位から最下位まで勝ち点6差の大混戦 東京Vは開幕11戦未勝利→3連勝で大幅アップ 千葉は水戸との直接対決を制す",
       "summary": "明治安田J1リーグ第14節の全10試合が8日までに行われ、東京ヴェルディが一時最下位から14位まで急浮上した。開幕11試合未勝利と苦しんだものの、直近3試合は3連勝。第11節終了時点の20位からわずか3節で6つ順位を上げた。一方、13位から…",
       "link": "https://www.footballchannel.jp/2026/11/11/post1056713/",
-      "pubDate": "2026-11-10T21:30:24.000Z",
+      "pubDate": "2026-11-10T21:30:49.000Z",
       "source": "フットボールチャンネル",
       "sourceId": "footballchannel",
       "teams": [
@@ -20,11 +20,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/11/11/post1056713/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/4f5a35a664fc30febbf4cd10cc2a339fdebb1f34?source=rss"
         }
       ]
     },
@@ -16361,27 +16356,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/8151f8dafab040749d71fd9a3f614b7663419a07?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "川崎フロンターレに痛手。MF紺野和也が右リスフラン靭帯損傷。DF谷口栄斗が右長内転筋肉離れで離脱",
-      "summary": "J1リーグの川崎フロンターレは12日、MF紺野和也とDF谷口栄斗が負傷離脱したことを発表した。クラブ公式サイトで伝えられている。川崎にとって、この2選手の負傷離脱は大きな痛手となるだろう。",
-      "link": "https://www.footballchannel.jp/2026/10/12/post1031118/",
-      "pubDate": "2026-10-12T01:17:48.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/12/post1031118/"
         }
       ]
     }
