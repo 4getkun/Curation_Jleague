@@ -1,7 +1,167 @@
 {
-  "generatedAt": "2026-11-11T01:35:12.609Z",
-  "count": 849,
+  "generatedAt": "2026-11-11T08:36:37.079Z",
+  "count": 846,
   "items": [
+    {
+      "title": "【ロッテ】サブロー監督がＦＡ宣言の広島・坂倉将吾に即アタック 球団発表 千葉出身“ご当地選手”に交渉解禁日に交渉 チームの思いや考え方を伝える(スポーツ報知)",
+      "summary": "ロッテは１１日、サブロー監督（５０）らが広島からＦＡ宣言した坂倉将吾捕手（２８）と都内のホテルで面会したと発表した。【一覧イラスト】ＦＡ宣言１０選手と移籍先候補 交渉解禁日のこの日、約１時間にわたって",
+      "link": "https://news.yahoo.co.jp/articles/b7f7167e20ff0d68567f8ee1615067794aedcd80?source=rss",
+      "pubDate": "2026-11-11T08:23:06.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce",
+        "jef-chiba"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b7f7167e20ff0d68567f8ee1615067794aedcd80?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "U-17W杯に臨む日本代表が始動!! 全8試合戦っての世界一見据える小野監督「ジワーっと上がっていくように」(ゲキサカ)",
+      "summary": "U-17ワールドカップに臨むU-17日本代表が11日、千葉市内で活動を開始した。同日のルヴァンカップに先発入りしたDF元砂晏翔仁ウデンバ(鹿島)を除くメンバー20人と、今月23日まで帯同するトレーニン",
+      "link": "https://news.yahoo.co.jp/articles/5470722a24ac88b040304da3ada0b9800cb0066f?source=rss",
+      "pubDate": "2026-11-11T08:21:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "jef-chiba",
+        "antlers"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/5470722a24ac88b040304da3ada0b9800cb0066f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "川崎フロンターレ対柏レイソル スタメン発表【ルヴァンカップ】",
+      "summary": "11日（水）19時から行われるルヴァンカップ プライムラウンド準々決勝第1戦・川崎フロンターレ対柏レイソルのスタメンを紹介する。",
+      "link": "https://www.footballchannel.jp/2026/11/11/post1056853/",
+      "pubDate": "2026-11-11T08:20:41.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/11/post1056853/"
+        }
+      ]
+    },
+    {
+      "title": "横浜F・マリノス対鹿島アントラーズ スタメン発表【ルヴァンカップ】",
+      "summary": "11日（水）19時から行われるルヴァンカップ プライムラウンド準々決勝第1戦・横浜F・マリノス対鹿島アントラーズのスタメンを紹介する。",
+      "link": "https://www.footballchannel.jp/2026/11/11/post1056796/",
+      "pubDate": "2026-11-11T08:18:55.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/11/post1056796/"
+        }
+      ]
+    },
+    {
+      "title": "【ロッテ】国内FA権の行使を表明した広島坂倉将吾とサブロー監督同席で面会(日刊スポーツ)",
+      "summary": "ロッテは11日、国内FA権の行使を表明した広島坂倉将吾捕手（28）と11日午後、都内ホテルにてサブロー監督同席で面会したと発表した。【イラスト】FA宣言選手と獲得調査球団の相関図 約1時間、ロッテの思",
+      "link": "https://news.yahoo.co.jp/articles/575d64a26e930d45fe25cc492d24efdd6f47bb29?source=rss",
+      "pubDate": "2026-11-11T07:45:16.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/575d64a26e930d45fe25cc492d24efdd6f47bb29?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【巨人】松井秀喜監督「心強い」二岡打撃コーチ就任で高橋HC、清水コーチら日本一メンバー集結(日刊スポーツ)",
+      "summary": "巨人松井秀喜監督（52）が来季の1軍打撃コーチ就任が決まった二岡智宏氏（50）に大きな期待を寄せた。11日、秋季キャンプが行われたジャイアンツ球場（川崎市）で取材に応じ、「現役時代に一緒にプレーしまし",
+      "link": "https://news.yahoo.co.jp/articles/8debc01853971730fbfbf98cd1304d68507f6429?source=rss",
+      "pubDate": "2026-11-11T07:36:16.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/8debc01853971730fbfbf98cd1304d68507f6429?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "JFA STOREの後払い決済サービスで個人情報漏えい…“二次被害”についても報告",
+      "summary": "日本サッカー協会(JFA)は11日、オフィシャルストア「JFA STORE」で後払い決済サービス「GMO後払い」を利用した顧客11人のメールアドレスが漏えいしたと発表した。 今回の事案は、後払い決済サービスを提供するGMOペイメントサービス…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?462964-462964-fl",
+      "pubDate": "2026-11-11T07:31:04.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?462964-462964-fl"
+        }
+      ]
+    },
+    {
+      "title": "なぜ東京ヴェルディは復活した？ 開幕11戦未勝利から破竹の3連勝。相馬新監督がもたらした攻守の変化",
+      "summary": "2026/27シーズンの明治安田J1リーグで、東京ヴェルディが3連勝を飾った。開幕から11試合未勝利と苦しんでいたチームは、10月8日に就任した相馬直樹監督の下で降格圏から14位まで順位を上げている。ヴェルディに何が起きているのか。そして、…",
+      "link": "https://www.footballchannel.jp/2026/11/11/post1056841/",
+      "pubDate": "2026-11-11T06:53:31.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [
+        "personnel"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/11/post1056841/"
+        }
+      ]
+    },
     {
       "title": "J1最新順位、13位から最下位まで勝ち点6差の大混戦 東京Vは開幕11戦未勝利→3連勝で大幅アップ 千葉は水戸との直接対決を制す",
       "summary": "明治安田J1リーグ第14節の全10試合が8日までに行われ、東京ヴェルディが一時最下位から14位まで急浮上した。開幕11試合未勝利と苦しんだものの、直近3試合は3連勝。第11節終了時点の20位からわずか3節で6つ順位を上げた。一方、13位から…",
@@ -1060,6 +1220,26 @@
       ]
     },
     {
+      "title": "兄弟対決が実現した上位直接対決…町田と広島はチャンスを生かせずスコアレスドロー",
+      "summary": "[11.8 J1第14節 町田 0-0 広島 Gスタ] J1第14節が8日に開催され、町田GIONスタジアムでは3位FC町田ゼルビアと2位サンフレッチェ広島が0-0で引き分けた。 町田が後半14分にFWテテ・イェンギを投入すると、3分後には…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?462797-462797-fl",
+      "pubDate": "2026-11-08T07:40:58.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "zelvia",
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?462797-462797-fl"
+        }
+      ]
+    },
+    {
       "title": "浦和の西川周作がJ1最多出場を達成「感慨深い」 遠藤保仁氏を上回る”673″…40歳で打ち立てた金字塔",
       "summary": "",
       "link": "https://www.football-zone.net/archives/683499",
@@ -1092,25 +1272,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/683493"
-        }
-      ]
-    },
-    {
-      "title": "神戸vs浦和 スタメン発表",
-      "summary": "[11.8 J1第14節](MUFG国立)※14:00開始主審:小屋幸栄[ヴィッセル神戸]先発GK 71 権田修一DF 3 マテウス・トゥーレルDF 4 山川哲史DF 15 ジエゴDF 24 酒井高徳MF 7 井手口陽介MF 13 佐々木大…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462780-462780-fl",
-      "pubDate": "2026-11-08T04:02:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "vissel"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462780-462780-fl"
         }
       ]
     },
@@ -2285,23 +2446,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/683048"
-        }
-      ]
-    },
-    {
-      "title": "【第42節前半】SOBAR【ボケサカ】",
-      "summary": "和歌山の話題から替え歌を披露する楢原さん。出井さんが華麗なツッコミで一網打尽に?『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレンズがパーソナリティを務めるPodcast(ポッドキャ…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?462512-462512-fl",
-      "pubDate": "2026-11-06T03:05:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?462512-462512-fl"
         }
       ]
     },
@@ -16164,198 +16308,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/a80572acbe792597e8b58fc1b0d20c8738b48559?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ノーステップボレー炸裂！ 名古屋グランパスDF藤井陽也がスーパーゴール！ 川崎フロンターレ相手に決めた先制点",
-      "summary": "名古屋グランパスは11日、2026/27シーズン明治安田J1リーグ第9節で川崎フロンターレと対戦し、2-1の勝利を収めた。名古屋に所属するDF藤井陽也が先制点となるスーパーゴールを叩き込んで、チームの勝利に貢献している。",
-      "link": "https://www.footballchannel.jp/2026/10/12/post1031157/",
-      "pubDate": "2026-10-12T05:01:37.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "grampus",
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/12/post1031157/"
-        }
-      ]
-    },
-    {
-      "title": "水戸ホーリーホックに大打撃。背番号10のFW渡邉新太が左膝内側側副靭帯損傷。DF河面旺成は左腓腹筋肉離れで離脱",
-      "summary": "J1リーグの水戸ホーリーホックは12日、FW渡邉新太が左膝内側側副靭帯損傷、DF河面旺成が左腓腹筋肉離れで離脱したことを発表した。クラブ公式サイトで伝えられている。背番号10の渡邉と河面の離脱は、水戸にとって大打撃となるだろう。",
-      "link": "https://www.footballchannel.jp/2026/10/12/post1031139/",
-      "pubDate": "2026-10-12T02:59:10.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "hollyhock"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/12/post1031139/"
-        }
-      ]
-    },
-    {
-      "title": "途中出場9試合で8ゴール。それでも先発できない…柏レイソル・瀬川祐輔が抱える自信と葛藤。「娘もいるし、一緒に歩きたいな」【コラム】",
-      "summary": "柏レイソルは6日、横浜F・マリノスに0-2で敗れた。前節から先発6人を変更し、1点を追う後半開始からは一気に3枚を交代。それでも、なかなかエンジンはかからなかった。ただ、この敗戦を単純な「ターンオーバー失敗」で片づけることはできない。抜擢さ…",
-      "link": "https://www.footballchannel.jp/2026/10/12/post1030902/",
-      "pubDate": "2026-10-12T02:30:04.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/12/post1030902/"
-        }
-      ]
-    },
-    {
-      "title": "水戸に痛手。主将の渡邉新太がトレーニング中に負傷。クラブが診断結果を発表(SOCCER DIGEST Web)",
-      "summary": "J１の水戸ホーリーホックは10月12日、渡邉新太の負傷を発表した。 クラブの公式サイトによれば、渡邉は９月26日のトレーニング中に負傷。検査の結果、左膝の内側側副靭帯損傷と診断された。全治期間は公表さ",
-      "link": "https://news.yahoo.co.jp/articles/e5dc0dad30ef15d4bfddebb5d34bcbb17694baa9?source=rss",
-      "pubDate": "2026-10-12T02:29:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "hollyhock"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e5dc0dad30ef15d4bfddebb5d34bcbb17694baa9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【Ｇ大阪】加地亮が語る低迷脱出の極意 泥沼４連敗…ＯＢが指摘する鹿島戦敗退の課題 【KICK OFF ! KANSAI】(MBSニュース)",
-      "summary": "ガンバ大阪はＪ１リーグ第９節で鹿島アントラーズと対戦し、０－２で完敗した。アウェーで勝ちきれずに、泥沼の４連敗。約１０年勝ちがない敵地での戦いで見えた課題と、先制点を許した「スローインからのスキ」を元",
-      "link": "https://news.yahoo.co.jp/articles/88f995ae9e0fb7389b84f22ed4a54b9956b297f3?source=rss",
-      "pubDate": "2026-10-12T02:27:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/88f995ae9e0fb7389b84f22ed4a54b9956b297f3?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "8位と降格圏が3差「J1と比べものにならない」 驚愕の”混沌模様”に「改めて魔のJ2」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678857",
-      "pubDate": "2026-10-12T02:23:17.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678857"
-        }
-      ]
-    },
-    {
-      "title": "8位と降格圏が3差「J1と比べものにならない」 驚愕の”混沌模様”に「改めて魔のJ2」(FOOTBALL ZONE)",
-      "summary": "J2リーグの第10節が10月10日、11日に各地で行われ、最新の順位表が確定した。4連勝の首位ベガルタ仙台が頭一つ抜け出した感がある一方で、上位から下位まで勝ち点の拮抗した状況は続き、ファンからは「魔",
-      "link": "https://news.yahoo.co.jp/articles/5357dafdb36e3963dc0013c5a01f4d08d4320389?source=rss",
-      "pubDate": "2026-10-12T02:23:17.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5357dafdb36e3963dc0013c5a01f4d08d4320389?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1最新順位が「大混戦」 上位5チームはわずか\"2\"差…下位は名門が苦戦「初めて見た」(FOOTBALL ZONE)",
-      "summary": "J1リーグは10月11日までに第9節が終了した。ヴィッセル神戸を破った柏レイソルが首位に浮上し、上位5チームが勝ち点2差の中で争う混戦状態に「大混戦」「どこが優勝するかわからない」と反響が集まっている",
-      "link": "https://news.yahoo.co.jp/articles/7df0642f2d9dac9ace6cb8312b90e3fd98ff0557?source=rss",
-      "pubDate": "2026-10-12T02:15:33.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "vissel",
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/7df0642f2d9dac9ace6cb8312b90e3fd98ff0557?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1最新順位が「大混戦」 上位5チームはわずか”2″差…下位は名門が苦戦「初めて見た」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/678853",
-      "pubDate": "2026-10-12T02:15:33.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/678853"
-        }
-      ]
-    },
-    {
-      "title": "川崎F、DF谷口栄斗とMF紺野和也の負傷を発表…離脱期間は公表されず(サッカーキング)",
-      "summary": "川崎フロンターレは12日、DF谷口栄斗とMF紺野和也の負傷について発表した。 発表によると、谷口は9月28日に行われたトレーニング中に負傷し、右長内転筋肉離れと診断。紺野は9月6日に行われた2026/",
-      "link": "https://news.yahoo.co.jp/articles/8151f8dafab040749d71fd9a3f614b7663419a07?source=rss",
-      "pubDate": "2026-10-12T02:15:19.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/8151f8dafab040749d71fd9a3f614b7663419a07?source=rss"
         }
       ]
     }
