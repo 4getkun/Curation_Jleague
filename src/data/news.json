@@ -1,7 +1,105 @@
 {
-  "generatedAt": "2026-11-12T20:12:04.058Z",
-  "count": 856,
+  "generatedAt": "2026-11-13T01:16:23.792Z",
+  "count": 859,
   "items": [
+    {
+      "title": "サンフレッチェ広島、顧客のメールアドレス2900件が漏えい 委託先への不正アクセスでクラブが謝罪",
+      "summary": "J1リーグのサンフレッチェ広島は12日、クラブが共同運営する公式モバイルサイトの利用者のメールアドレス2900件が外部に漏えいしたことを発表した。メール配信を委託していた外部サービスが第三者による不正アクセスを受けたことが原因で、クラブは利…",
+      "link": "https://www.footballchannel.jp/2026/11/13/post1057101/",
+      "pubDate": "2026-11-13T01:13:11.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/13/post1057101/"
+        },
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6b8260687f39100dddb06ec8e6672d6468a84568?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】森田晃樹、母校凱旋で「夢教室」開催「歓迎してくれてうれしかった」「不思議な感じ」(日刊スポーツ)",
+      "summary": "東京ヴェルディのMF森田晃樹（26）が12日、母校の豊島区立要小学校を訪問し、「夢教室」を行った。リフティングやシュートとプロの技術を披露し、児童とパス交換したほか、数々の質問に答えるなど交流。同校を",
+      "link": "https://news.yahoo.co.jp/articles/05cc8ae689bc8e8baed8176196a12f5f0745bc0f?source=rss",
+      "pubDate": "2026-11-13T01:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/05cc8ae689bc8e8baed8176196a12f5f0745bc0f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【東京Ｖ】森田晃樹、サッカー選手の夢へ考えて考えての日々「背も大きくない、足も速くない…」(日刊スポーツ)",
+      "summary": "東京ヴェルディのMF森田晃樹（26）が12日、母校の豊島区立要小学校を訪問し、「夢教室」を行った。リフティングやシュートとプロの技術を披露し、児童とパス交換したほか、数々の質問に答えるなど交流。同校を",
+      "link": "https://news.yahoo.co.jp/articles/4ddc9dda493725e823588cba68b2107c850134ba?source=rss",
+      "pubDate": "2026-11-13T01:00:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/4ddc9dda493725e823588cba68b2107c850134ba?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1クラブ、ブラジル名門FWにオファーか 期限付き打診も”拒否”…現地報道「首脳陣を満足させず」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/684529",
+      "pubDate": "2026-11-13T00:22:51.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/684529"
+        }
+      ]
+    },
+    {
+      "title": "偉業達成の浦和守護神「なかなかいない」 代表共闘で目撃…J1最多出場を支えた「凡事徹底」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/684478",
+      "pubDate": "2026-11-12T22:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/684478"
+        }
+      ]
+    },
     {
       "title": "【名古屋グランパス】昌平高FW立野京弥が加入会見「すべてを極めていきたい」 母親からは「生ませてくれてありがとう」の言葉があったという17歳、名古屋を背負う存在へ(中日スポーツ)",
       "summary": "名古屋グランパスは12日、埼玉・昌平高2年のFW立野京弥（17）が2028年2月に加入すると発表。立野は愛知県豊田市のトヨタスポーツセンターで会見し、名古屋への練習参加を通じて「強度もすごく高く、一番",
@@ -16470,42 +16568,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/10/14/post1032174/"
-        }
-      ]
-    },
-    {
-      "title": "波打つダイヤ柄に「美しい模様を描き出す」 ドイツ名門の新ユニ…専門家絶賛「アイデンティティを滲み出す」(FOOTBALL ZONE)",
-      "summary": "2026-27シーズンから秋春制へと移行したJリーグ。Jリーグとともに欧州各国でもすでに開幕しているなかで、サッカーユニフォーム研究家である「ともさん」はボルシア・メンヘングラッドバッハ（MG）のユニ",
-      "link": "https://news.yahoo.co.jp/articles/6d665b6ba44cb834b3d4c78ecf7115463ca292d0?source=rss",
-      "pubDate": "2026-10-13T21:10:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/6d665b6ba44cb834b3d4c78ecf7115463ca292d0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "名古屋グランパス・ミシャ監督が示す自省の哲学…14日ルヴァン杯岡山戦へ、自分たちとの闘い強調「『なぜ』を自分自身に矢印を向けないと」(中日スポーツ)",
-      "summary": "名古屋グランパスは14日にルヴァン・カップ3回戦の岡山戦（岐阜メモリアルセンターヒマラヤスタジアム岐阜）に臨む。13日は愛知県豊田市のトヨタスポーツセンターで調整。ミハイロ・ペトロビッチ監督は、相手の",
-      "link": "https://news.yahoo.co.jp/articles/771cca3a55abc17bf54c0b62ad3dee3e3f973465?source=rss",
-      "pubDate": "2026-10-13T21:00:53.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/771cca3a55abc17bf54c0b62ad3dee3e3f973465?source=rss"
         }
       ]
     }
