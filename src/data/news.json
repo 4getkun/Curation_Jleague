@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-14T16:13:16.890Z",
+  "generatedAt": "2026-11-14T20:49:41.023Z",
   "count": 802,
   "items": [
+    {
+      "title": "元名古屋グランパス・津田知宏監督、名古屋大指揮1年目を終え手応え 簡単ではなかったチャレンジ…雑談から選手と信頼築き「監督はめっちゃやりがいがある」【東海学生サッカー2部】(中日スポーツ)",
+      "summary": "今季最終戦は決して満足いく結果ではなかった。14日に名古屋大学山の上グラウンドで行われた東海学生サッカーリーグ2部、名古屋大と南山大の一戦。今年から名古屋大を指揮する津田知宏監督（40）は懸命に選手を",
+      "link": "https://news.yahoo.co.jp/articles/541d7623840f7cbf86103b41d3d2a184cedb1739?source=rss",
+      "pubDate": "2026-11-14T20:30:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/541d7623840f7cbf86103b41d3d2a184cedb1739?source=rss"
+        }
+      ]
+    },
     {
       "title": "「Ｊ１で抜きんでているんじゃないですか」ビニシウスに立ち向かったＤＦ中野就斗を堂安律＆森保監督も高評価 アシストに好守備(スポーツ報知)",
       "summary": "◆国際親善試合 日本３―２ブラジル（１４日・シンガポールナショナルスタジアム） 【シンガポール（１４日）＝金川誉】サッカー日本代表（ＦＩＦＡランク１７位）は１４日、シンガポールでブラジル代表との国際親",
@@ -15462,27 +15481,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/679359"
-        }
-      ]
-    },
-    {
-      "title": "天皇杯組み合わせ 町田は8強懸け東京Vと激突 唯一のJ2勢横浜FCはFC東京と対戦へ(スポニチアネックス)",
-      "summary": "天皇杯の4回戦以降の組み合わせ抽選会が15日、都内で行われた。8強を懸けた4回戦は12月9日開催で、前回覇者のFC町田ゼルビアは東京Vと激突。前回準Vの神戸は清水、最多タイ8度の優勝を誇る浦和はG大阪",
-      "link": "https://news.yahoo.co.jp/articles/b04d8adb7f5cf337b78c564cbe393773654dc1a0?source=rss",
-      "pubDate": "2026-10-15T19:20:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia",
-        "verdy",
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b04d8adb7f5cf337b78c564cbe393773654dc1a0?source=rss"
         }
       ]
     }
