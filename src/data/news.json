@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-17T08:39:44.282Z",
-  "count": 761,
+  "generatedAt": "2026-11-17T17:58:28.818Z",
+  "count": 747,
   "items": [
+    {
+      "title": "韓国、敵地でカタールに１－０勝利 J1清水所属の長身FWオ・セフンが頭で決勝ゴール(日刊スポーツ)",
+      "summary": "＜国際親善試合：カタール0－1韓国＞◇17日◇カタール・ドーハ 韓国は敵地でカタールを1－0で下した。前半43分にJ1清水エスパルスのFWオ・セフン（27）が先制ゴールを決め、そのまま無失点で勝ちきっ",
+      "link": "https://news.yahoo.co.jp/articles/7c94e85cad3b24ed830c09b4d19d28c3c8a8862a?source=rss",
+      "pubDate": "2026-11-17T16:15:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/7c94e85cad3b24ed830c09b4d19d28c3c8a8862a?source=rss"
+        }
+      ]
+    },
     {
       "title": "名古屋グランパス・木村勇大「成長したところを見せたい」移籍後初のJ1古巣戦にメラメラ「勝って、点を決めて結果で示したい」(中日スポーツ)",
       "summary": "J1名古屋グランパスのFW木村勇大（25）が17日、リーグ再開となる21日からの11月3連戦に意欲を燃やした。皮切りとなる21日の第15節は昨夏まで在籍した古巣・東京V戦で「全クラブの中で一番楽しみに",
@@ -533,10 +552,10 @@
       ]
     },
     {
-      "title": "福島vs相模原 試合記録",
-      "summary": "【J3第17節】(とうスタ)福島 1-0(前半1-0)相模原[福]芦部晃生(19分)[福]當麻颯(52分)[相]綿引康(70分)、ピトリック(90分+4)観衆:2,100人主審:菊池俊吾[福島ユナイテッドFC]先発GK 1 上田智輝DF 5…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?463176-463176-fl",
-      "pubDate": "2026-11-15T00:10:02.000Z",
+      "title": "富山vs徳島 スタメン発表",
+      "summary": "[11.15 J2第17節](富山)※14:00開始主審:野堀桂佑[カターレ富山]先発GK 1 平尾駿輝DF 3 香川勇気DF 23 西矢慎平DF 40 竹内豊MF 8 松岡大智MF 9 吉平翼MF 11 キム・テウォンMF 14 谷本駿介…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?463233-463233-fl",
+      "pubDate": "2026-11-15T03:49:02.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [],
@@ -545,7 +564,7 @@
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?463176-463176-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?463233-463233-fl"
         }
       ]
     },
@@ -14382,296 +14401,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/41f580f70cb74d2612a34867fd612190ffb93fca?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ガンバ大阪｜選手一覧（メンバー）・成績・移籍情報・基本フォーメーション【2026/27】",
-      "summary": "※選手登録・移籍情報と個人成績は2026年10月18日時点（J1第10節終了時点）を反映。 ガンバ大阪の2026/27シーズン選手・メンバー、個人成績、移籍情報、基本フォーメーションをまとめる。得点・アシストなどの個人成 […]",
-      "link": "https://www.footballchannel.jp/2026/10/18/post993045/",
-      "pubDate": "2026-10-18T14:46:19.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post993045/"
-        }
-      ]
-    },
-    {
-      "title": "ガンバ大阪｜順位・順位推移・試合日程・結果【2026/27】",
-      "summary": "※情報は2026年10月18日時点。J1第10節終了時点。 ガンバ大阪の2026/27シーズン最新順位、順位推移、J1・ACLE・天皇杯・ルヴァンカップなどの試合日程と結果をまとめる。試合終了後はスコア、得点者、順位を随 […]",
-      "link": "https://www.footballchannel.jp/2026/10/18/post993039/",
-      "pubDate": "2026-10-18T14:45:38.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post993039/"
-        }
-      ]
-    },
-    {
-      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
-      "summary": "※J1順位・結果は2026年10月18日18:16更新のJリーグ公式データ（第10節終了時点、首位はサンフレッチェ広島）。得点ランキングは公式10月12日時点に第10節の公式得点記録を反映した暫定値、アシストランキングは […]",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1003398/",
-      "pubDate": "2026-10-18T14:10:27.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1003398/"
-        }
-      ]
-    },
-    {
-      "title": "『J.LEAGUE WEEKEND 日曜のやべサカ』苦しい戦いが続く東京Vに“闘将”柱谷さんがエール！ 矢部さんに手紙を届けた意外な相手とは？｜ Jリーグ(DAZN News)",
-      "summary": "【国内サッカー 最新ニュース】矢部浩之さんが番組リーダーを務めるスポーツ・チャンネル『DAZN（ダゾーン）』のJリーグ・ハイライト番組『J.LEAGUE WEEKEND 日曜のやべサカ Present",
-      "link": "https://news.yahoo.co.jp/articles/f49d75cdbf2f67bab2bafbe26861ebf67be5e0a4?source=rss",
-      "pubDate": "2026-10-18T13:45:45.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "verdy"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/f49d75cdbf2f67bab2bafbe26861ebf67be5e0a4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【競輪】吉川美穂は差し切り快勝も、予２で強敵・奥井迪との再戦にがっくり／広島ミッド(日刊スポーツ)",
-      "summary": "＜広島競輪：ミッドナイト競輪＞◇F2◇初日◇18日 オープニングのガールズ予1・1Rは、吉川美穂（33＝和歌山）の勝利で幕を開けた。 打鐘で動いたところを合わせにきた奥井迪の後位にスイッチすると、直線",
-      "link": "https://news.yahoo.co.jp/articles/75d1510ee159ac9ff57f58753d37fd0cb2190cb2?source=rss",
-      "pubDate": "2026-10-18T13:44:59.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/75d1510ee159ac9ff57f58753d37fd0cb2190cb2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "噛み合わず首位陥落の柏レイソル。名古屋戦の敗戦は“優勝へのレッスン”か。小泉佳穂への徹底マークが浮き彫りにした課題【コラム】",
-      "summary": "柏レイソルは6日、横浜F・マリノスに0-2で敗れた。前節から先発6人を変更し、1点を追う後半開始からは一気に3枚を交代。それでも、なかなかエンジンはかからなかった。ただ、この敗戦を単純な「ターンオーバー失敗」で片づけることはできない。抜擢さ…",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1036728/",
-      "pubDate": "2026-10-18T13:37:05.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1036728/"
-        }
-      ]
-    },
-    {
-      "title": "明治安田J1リーグ2026/27 試合日程・結果・放送・配信予定一覧",
-      "summary": "2026/27明治安田J1リーグの全試合日程・テレビ放送・ネット配信予定・視聴方法・開始時間・対戦カードは以下の通り。※テレビ放送・ネット配信予定やキックオフ時間、開催日は変更となる可能性がある。時間はすべて日本時間。",
-      "link": "https://www.footballchannel.jp/2026/10/18/post969138/",
-      "pubDate": "2026-10-18T13:19:44.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post969138/"
-        }
-      ]
-    },
-    {
-      "title": "【順位表】明治安田J1リーグ2026/27 サッカー 最新情報",
-      "summary": "明治安田J1リーグ2026/27の最新順位表は下記の通り。勝点が同じ場合は得失点差→総得点数→当該チーム間の対戦成績（イ：勝点、ロ：得失点差、ハ：総得点数）→抽選の順で順位を決定する。",
-      "link": "https://www.footballchannel.jp/2026/10/18/post969132/",
-      "pubDate": "2026-10-18T13:14:34.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post969132/"
-        }
-      ]
-    },
-    {
-      "title": "【町田】１得点１アシストの望月ヘンリー海輝「目に見える結果が出てくれるのはシンプルに…」(日刊スポーツ)",
-      "summary": "＜明治安田J1：町田3－0福岡＞◇第10節◇18日◇町田Gスタ FC町田ゼルビアがホームでアビスパ福岡に3－0と快勝し、2位に浮上した。右ウイングバックでフル出場した日本代表DF望月ヘンリー海輝（25",
-      "link": "https://news.yahoo.co.jp/articles/807e7a85dee8f8d4985f1e4fd8901e4bb5bac803?source=rss",
-      "pubDate": "2026-10-18T11:48:09.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/807e7a85dee8f8d4985f1e4fd8901e4bb5bac803?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【福岡】町田に完敗で降格圏一歩手前17位「次のガンバ戦に全員で立ち向かっていく」塚原監督(日刊スポーツ)",
-      "summary": "＜明治安田J1：町田3－0福岡＞◇第10節◇18日◇町田Gスタ FC町田ゼルビアがホームでアビスパ福岡に3－0と快勝し、2位に浮上した。【写真】３－０のスコアが表示された電光掲示板 右ウイングバックで",
-      "link": "https://news.yahoo.co.jp/articles/b6ee8141f8e020aaed704905ef43d9de6d1e3590?source=rss",
-      "pubDate": "2026-10-18T11:38:46.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/b6ee8141f8e020aaed704905ef43d9de6d1e3590?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "福岡ソフトバンクはなぜ強いのか？3年連続リーグ優勝を果たしたチームの強さを分析(スポーティングニュース日本版)",
-      "summary": "福岡ソフトバンクホークスは2026年、3年連続22度目のパ・リーグ優勝を達成。CSファイナルステージで北海道日本ハムファイターズを破り、3年連続の日本シリーズ進出を決めた。横浜DeNAベイスターズの人",
-      "link": "https://news.yahoo.co.jp/articles/5cbf8afd7cffa7a33a7c82c9bbd28da04ba636a5?source=rss",
-      "pubDate": "2026-10-18T11:13:34.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/5cbf8afd7cffa7a33a7c82c9bbd28da04ba636a5?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "Ｊ１町田・望月ヘンリー海輝 Ａ代表・名波コーチの前でダメ押し弾「結果として、より高いレベルに」(東スポWEB)",
-      "summary": "明治安田J1リーグ第10節（18日）、町田はホームで福岡を3―0で下し、首位と勝ち点差なしの2位に浮上した。 ボールを握りながらゲームを進めた町田は前半22分、MF望月ヘンリー海輝のクロスにFWテテ・",
-      "link": "https://news.yahoo.co.jp/articles/0a9de42bd8867e4df87d430f8c769e8280031fb1?source=rss",
-      "pubDate": "2026-10-18T10:50:24.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0a9de42bd8867e4df87d430f8c769e8280031fb1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "町田MF望月ヘンリー海輝が自身初の1G1A! シンガポールでの劇的弾から中2日「重さは感じずプレーできた」(ゲキサカ)",
-      "summary": "[10.18 J1第10節 町田 3-0 福岡 Gスタ] 後半アディショナルタイム4分の劇的弾で勝利に導いたACL2シンガポール遠征からわずか中2日、FC町田ゼルビアMF望月ヘンリー海輝がプロ入り後初",
-      "link": "https://news.yahoo.co.jp/articles/a3f18871d803ec61844a9fabd0ec3a24cc96583a?source=rss",
-      "pubDate": "2026-10-18T10:47:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "avispa",
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/a3f18871d803ec61844a9fabd0ec3a24cc96583a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "J1の最新順位表に変動あり まさかの首位→5位に転落…上位6クラブが熾烈なトップ争いへ",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/679850",
-      "pubDate": "2026-10-18T09:48:47.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/679850"
-        }
-      ]
-    },
-    {
-      "title": "【町田】福岡に３－０完勝で２位浮上！望月ヘンリー１得点１アシスト、俊足生かし攻守に存在感(日刊スポーツ)",
-      "summary": "＜明治安田J1：町田3－0福岡＞◇第10節◇18日◇町田Gスタ FC町田ゼルビアがホームでアビスパ福岡に3－0と完勝し、2位に浮上した。右ウイングバックでプレーした日本代表DF望月ヘンリー海輝（25）",
-      "link": "https://news.yahoo.co.jp/articles/3e50329508ec9c033684f827195f1382cdc060d9?source=rss",
-      "pubDate": "2026-10-18T09:20:50.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/3e50329508ec9c033684f827195f1382cdc060d9?source=rss"
         }
       ]
     }
