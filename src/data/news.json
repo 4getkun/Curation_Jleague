@@ -1,7 +1,102 @@
 {
-  "generatedAt": "2026-11-17T00:33:47.222Z",
-  "count": 764,
+  "generatedAt": "2026-11-17T08:39:44.282Z",
+  "count": 761,
   "items": [
+    {
+      "title": "名古屋グランパス・木村勇大「成長したところを見せたい」移籍後初のJ1古巣戦にメラメラ「勝って、点を決めて結果で示したい」(中日スポーツ)",
+      "summary": "J1名古屋グランパスのFW木村勇大（25）が17日、リーグ再開となる21日からの11月3連戦に意欲を燃やした。皮切りとなる21日の第15節は昨夏まで在籍した古巣・東京V戦で「全クラブの中で一番楽しみに",
+      "link": "https://news.yahoo.co.jp/articles/a7336a678e91154199967d622f5dfd85b21de42d?source=rss",
+      "pubDate": "2026-11-17T08:34:53.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "grampus"
+      ],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/a7336a678e91154199967d622f5dfd85b21de42d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "東京V 松橋優安と佐古真礼が練馬区立関町北小で夢教室 松橋「好きなことを見つけて楽しんでやり続けて」(スポニチアネックス)",
+      "summary": "東京VのMF松橋優安（25）とDF佐古真礼（23）が17日、練馬区立関町北小で夢教室を開催、6年生95人とゲームや質問コーナーなどで約45分間交流した。体育館を使い、自己紹介代わりのクイズに続いて、実",
+      "link": "https://news.yahoo.co.jp/articles/6a84bea713cd10d5e573d165badd766f1661ae60?source=rss",
+      "pubDate": "2026-11-17T08:31:04.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/6a84bea713cd10d5e573d165badd766f1661ae60?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Ｊ１清水が鹿島戦に向けて調整 リーグ戦４連敗中もＤＦマテウスブルネッティ「勝てば自信になる。立ち直れる」(スポーツ報知)",
+      "summary": "Ｊ１清水エスパルスは１７日、静岡市・三保グラウンドで公開練習。２０日のアウェー・鹿島戦に向けてミニゲームなどで汗を流した。【動画】横浜ＦＭの１６歳・三井寺、衝撃の開幕戦デビュー弾！ ルヴァン杯４強の強",
+      "link": "https://news.yahoo.co.jp/articles/e737f8ae9b618ebfc5a9a18d5ae980eca5a545f0?source=rss",
+      "pubDate": "2026-11-17T08:25:03.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/e737f8ae9b618ebfc5a9a18d5ae980eca5a545f0?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "筑波大２年MF大谷湊斗が川崎Ｆ内定「可能性を信じ、自分に期待しながら」29年１月に加入予定(日刊スポーツ)",
+      "summary": "筑波大は17日、同大蹴球部に所属するMF大谷湊斗（みなと、2年）が、29年1月から川崎フロンターレに加入することが内定したと発表した。【写真】川崎Ｆに内定した大谷湊斗 大阪府出身で、昌平高を経て筑波大",
+      "link": "https://news.yahoo.co.jp/articles/84c5c83ffd923d1f47e07bd8a3d156056f09692d?source=rss",
+      "pubDate": "2026-11-17T08:21:14.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "frontale"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/84c5c83ffd923d1f47e07bd8a3d156056f09692d?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "20歳逸材がJ1名門内定「まじで言ってる？」 1年生で全国MVP…世代屈指のMF「三笘級だよね」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/685645",
+      "pubDate": "2026-11-17T04:10:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/685645"
+        }
+      ]
+    },
     {
       "title": "J1監督を引き抜きのサウジクラブが「深刻な財政危機」 給与未払いが発生…補強に制限と現地報道",
       "summary": "",
@@ -438,6 +533,23 @@
       ]
     },
     {
+      "title": "福島vs相模原 試合記録",
+      "summary": "【J3第17節】(とうスタ)福島 1-0(前半1-0)相模原[福]芦部晃生(19分)[福]當麻颯(52分)[相]綿引康(70分)、ピトリック(90分+4)観衆:2,100人主審:菊池俊吾[福島ユナイテッドFC]先発GK 1 上田智輝DF 5…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?463176-463176-fl",
+      "pubDate": "2026-11-15T00:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?463176-463176-fl"
+        }
+      ]
+    },
+    {
       "title": "元名古屋グランパス・津田知宏監督、名古屋大指揮1年目を終え手応え 簡単ではなかったチャレンジ…雑談から選手と信頼築き「監督はめっちゃやりがいがある」【東海学生サッカー2部】(中日スポーツ)",
       "summary": "今季最終戦は決して満足いく結果ではなかった。14日に名古屋大学山の上グラウンドで行われた東海学生サッカーリーグ2部、名古屋大と南山大の一戦。今年から名古屋大を指揮する津田知宏監督（40）は懸命に選手を",
       "link": "https://news.yahoo.co.jp/articles/541d7623840f7cbf86103b41d3d2a184cedb1739?source=rss",
@@ -636,23 +748,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/00ae6658a09e4f43a3c13c377a61fd4a3c46bdd4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "岐阜vs北九州 試合記録",
-      "summary": "【J3第16節】(ヒマスタ)岐阜 1-0(前半1-0)北九州[岐]箱崎達也(34分)観衆:6,631人主審:石丸秀平[FC岐阜]先発GK 77 春名竜聖DF 7 箱崎達也DF 22 文仁柱DF 27 羽田健人DF 34 湯岑滉生MF 9 中…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?462703-462703-fl",
-      "pubDate": "2026-11-14T04:10:01.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?462703-462703-fl"
         }
       ]
     },
@@ -14577,172 +14672,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/3e50329508ec9c033684f827195f1382cdc060d9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "大迫勇也が2ゴールの活躍！ ヴィッセル神戸がファジアーノ岡山に3-0勝利！ ACLEから公式戦2連勝",
-      "summary": "2026/27シーズン明治安田J1リーグ第10節、ファジアーノ岡山対ヴィッセル神戸は18日13時55分キックオフで行われた。試合は、神戸が3-0で勝利を収めている。",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1036647/",
-      "pubDate": "2026-10-18T06:58:12.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "vissel",
-        "fagiano"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1036647/"
-        }
-      ]
-    },
-    {
-      "title": "「泣いちゃったよ」「本当に残念」29歳日本人が退団か。“Jリーグ帰還”の可能性に現地サポーターは悲嘆「彼は不当に批判され、過小評価されている」(SOCCER DIGEST Web)",
-      "summary": "チャンピオンシップ（イングランド２部）のバーミンガムに所属する岩田智輝は、今季限りで、チームを離れるかもしれない。【写真】結婚を電撃発表した日本代表スターと人気女優の幸せ溢れる２ショット クリス・デイ",
-      "link": "https://news.yahoo.co.jp/articles/d9375c0260528729b2966ff8f268e8cf651fcdaf?source=rss",
-      "pubDate": "2026-10-18T05:53:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/d9375c0260528729b2966ff8f268e8cf651fcdaf?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "美しい軌道！ 名古屋グランパスFW木村勇大のゴールが凄すぎる！ 柏レイソル撃破に貢献する圧巻の一撃",
-      "summary": "名古屋グランパスは17日、2026/27シーズン明治安田J1リーグ第10節で柏レイソルと対戦し、3-1の勝利を収めた。名古屋に所属するFW木村勇大が美しい軌道のシュートで、勝ち越しゴールを叩き込み、チームの勝利に大きく貢献している。",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1036635/",
-      "pubDate": "2026-10-18T05:19:56.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "grampus",
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1036635/"
-        }
-      ]
-    },
-    {
-      "title": "川崎フロンターレの控えでは許されない。大関友翔を追い込んでいた危機感。「みなさんに申し訳ないと…」【コラム】",
-      "summary": "川崎フロンターレの大関友翔が、ようやく一つの結果を残した。17日に行われた明治安田J1リーグ第10節のセレッソ大阪戦で、途中出場から今季リーグ戦初ゴールを決め、4-2の勝利に貢献。しかし、その一撃の裏には、本人を突き動かしていた強烈な危機感…",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1036560/",
-      "pubDate": "2026-10-18T02:50:25.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "frontale"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1036560/"
-        }
-      ]
-    },
-    {
-      "title": "J1初ゴールは値千金の決勝弾！ 浦和レッズMF笹修大が後半ATに劇的ゴール！ 完璧なクロスにドンピシャで合わせた一撃",
-      "summary": "浦和レッズは17日、2026/27シーズン明治安田J1リーグ第10節で水戸ホーリーホックと対戦し、1-0の勝利を収めた。浦和に所属する20歳のMF笹修大がJ1初ゴールとなる決勝点を叩き込んで、チームを勝利に導いている。",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1036590/",
-      "pubDate": "2026-10-18T02:25:19.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1036590/"
-        }
-      ]
-    },
-    {
-      "title": "ガンバ大阪に痛手。19歳のGK荒木琉偉の負傷離脱を発表。左尺骨肘頭骨折で手術を実施",
-      "summary": "ガンバ大阪は18日、19歳のGK荒木琉偉が左尺骨肘頭骨折で手術を行い、離脱することを発表した。クラブ公式サイトで伝えられている。1勝4分5敗の18位に低迷するガンバにとって、若手GKの離脱は痛手だろう。",
-      "link": "https://www.footballchannel.jp/2026/10/18/post1036581/",
-      "pubDate": "2026-10-18T01:20:49.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/18/post1036581/"
-        }
-      ]
-    },
-    {
-      "title": "G大阪GK荒木琉偉が左尺骨肘頭骨折で手術実施 10月9日の鹿島戦で負傷(FOOTBALL ZONE)",
-      "summary": "ガンバ大阪は10月18日、GK荒木琉偉の負傷について発表した。 荒木は10月9日に行われた鹿島アントラーズ戦で負傷。診断名は左尺骨肘頭骨折とされ、10月14日に無事手術を終了した。【動画】前代未聞の「",
-      "link": "https://news.yahoo.co.jp/articles/637740f1e81382a5b3447f43b24d113202431645?source=rss",
-      "pubDate": "2026-10-18T01:14:48.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "injury"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/637740f1e81382a5b3447f43b24d113202431645?source=rss"
-        },
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/679753"
-        }
-      ]
-    },
-    {
-      "title": "G大阪のU-21日本代表GK荒木琉偉が左尺骨肘頭骨折 出場しなかった鹿島戦で負傷…手術は無事終了",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/679753",
-      "pubDate": "2026-10-18T01:14:48.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [
-        "injury",
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/679753"
         }
       ]
     }
