@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-18T08:02:13.944Z",
-  "count": 738,
+  "generatedAt": "2026-11-18T17:23:46.085Z",
+  "count": 736,
   "items": [
+    {
+      "title": "【福岡ボート・ルーキーＳ】飛田江己 難水面克服へ「うねりに負けたくないので、乗り心地重視で」(東スポWEB)",
+      "summary": "ボートレース福岡では19日、「ルーキーシリーズ第23戦・スカパー！JLC杯」がスタート。飛田江己（25＝埼玉）は、今シリーズで苦手な〝難水面〟克服を目指す。 前検日の福岡ボートは6～7メートルと強めの",
+      "link": "https://news.yahoo.co.jp/articles/3cd1a3d44aae61a9ff54ea12f8ce8b3dcd7ca906?source=rss",
+      "pubDate": "2026-11-18T14:00:28.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/3cd1a3d44aae61a9ff54ea12f8ce8b3dcd7ca906?source=rss"
+        }
+      ]
+    },
     {
       "title": "【Ｊ１】浦和・西川周作 最多出場記録更新で掲げる使命「ＧＫが一番大事なんだぞと…」(東スポWEB)",
       "summary": "8日に行われた明治安田J1リーグ第14節神戸戦で最多試合出場記録を更新した浦和のGK西川周作（40）が、新たな使命を掲げた。 西川は18日、さいたま市内でチームの公開練習に参加。トレーニング後には、偉",
@@ -37,11 +56,6 @@
           "name": "フットボールチャンネル",
           "sourceId": "footballchannel",
           "link": "https://www.footballchannel.jp/2026/11/18/post1058253/"
-        },
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0ebeda032ddc26e8cc1441c5e068eb4ecc64a53a?source=rss"
         }
       ]
     },
@@ -616,6 +630,23 @@
       ]
     },
     {
+      "title": "新潟vs宮崎 スタメン発表",
+      "summary": "[11.14 J2第17節](デンカS)※14:00開始主審:木村博之[アルビレックス新潟]先発GK 71 内山翔太DF 3 加藤徹也DF 15 早川史哉DF 30 関口正大DF 77 舩木翔MF 6 笠井佳祐MF 8 白井永地MF 16…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?463153-463153-fl",
+      "pubDate": "2026-11-15T08:00:01.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?463153-463153-fl"
+        }
+      ]
+    },
+    {
       "title": "高2でJ1内定→2日後に2G「優秀過ぎないか？」 逸材FWの躍動に「あかん期待してまう」",
       "summary": "",
       "link": "https://www.football-zone.net/archives/685262",
@@ -652,38 +683,21 @@
       ]
     },
     {
-      "title": "琉球vs高知 スタメン発表",
-      "summary": "[11.15 J3第17節](沖縄県陸)※16:00開始主審:石丸秀平[FC琉球]先発GK 1 佐藤久弥DF 3 吉田温紀DF 8 堀内颯人DF 14 鈴木順也MF 10 富所悠MF 13 岩本翔MF 16 井堀二昭MF 17 加藤悠馬MF…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?463243-463243-fl",
-      "pubDate": "2026-11-15T05:40:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?463243-463243-fl"
-        }
-      ]
-    },
-    {
-      "title": "鹿島vs横浜FM スタメン発表",
-      "summary": "[11.15 ルヴァン杯準々決勝第2戦](メルスタ)※15:00開始主審:飯田淳平[鹿島アントラーズ]先発GK 21 山田大樹DF 5 関川郁万DF 7 小川諒也DF 25 小池龍太DF 55 植田直通MF 6 三竿健斗MF 8 マテウス・…",
-      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?463239-463239-fl",
-      "pubDate": "2026-11-15T05:30:02.000Z",
+      "title": "柏vs川崎F スタメン発表",
+      "summary": "[11.15 ルヴァン杯準々決勝第2戦](三協F柏)※17:00開始主審:上村篤史[柏レイソル]先発GK 29 永井堅梧DF 4 古賀太陽DF 26 杉岡大暉DF 42 原田亘MF 5 遠藤渓太MF 8 小泉佳穂MF 24 久保藤次郎MF…",
+      "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?463251-463251-fl",
+      "pubDate": "2026-11-15T06:30:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
       "teams": [
-        "antlers"
+        "reysol"
       ],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?463239-463239-fl"
+          "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?463251-463251-fl"
         }
       ]
     },
@@ -14174,65 +14188,6 @@
           "name": "FOOTBALL ZONE",
           "sourceId": "football-zone",
           "link": "https://www.football-zone.net/archives/680005"
-        }
-      ]
-    },
-    {
-      "title": "【鹿島】ジーコ氏、次期日本代表監督・大岩剛氏成功のポイントは「ちゃんとしたタイミングで…」(日刊スポーツ)",
-      "summary": "J1鹿島のクラブアドバイザーを務める元日本代表監督ジーコ氏（73）が19日、茨城・鹿嶋市内で取材に対応した。次期日本代表監督に決定しているクラブOBの大岩剛氏（54）について、指導者としての資質を語っ",
-      "link": "https://news.yahoo.co.jp/articles/066797f78801b9f58ec098de18b7573f82a3a396?source=rss",
-      "pubDate": "2026-10-19T11:40:20.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/066797f78801b9f58ec098de18b7573f82a3a396?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "「頭を引っ込めたら負け」東京ダービーの流れを決定付けた“稲村隼翔の判断”【FC東京】(SOCCER DIGEST Web)",
-      "summary": "2026年10月17日、FC東京が東京ヴェルディとのダービーマッチを４－０で制した。試合の流れを決定付けた一因は、前半の退場劇にある。【画像】Jリーガーが好きな女性タレントは？長澤まさみ、ガッキー、広",
-      "link": "https://news.yahoo.co.jp/articles/fcd35c9c6125fccf027e5186eb10509604d3c074?source=rss",
-      "pubDate": "2026-10-19T10:22:00.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/fcd35c9c6125fccf027e5186eb10509604d3c074?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "[関東2部]「友達みたいな関係性」で刺激を与え合う3兄弟…FC大阪内定・拓殖大MF和田力也が先制アシスト&テクニック発揮(ゲキサカ)",
-      "summary": "[10.18 関東大学L2部第16節 拓殖大 2-1 東京国際大 拓大八王子G] 拓殖大MF和田力也(4年=西武台高/FC大阪内定)が技術の高さを存分に発揮しながら、1アシストも記録して勝利に貢献した",
-      "link": "https://news.yahoo.co.jp/articles/03bac8557e807621f5595e573f825c3e3faca6ef?source=rss",
-      "pubDate": "2026-10-19T09:58:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "cerezo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/03bac8557e807621f5595e573f825c3e3faca6ef?source=rss"
         }
       ]
     }
