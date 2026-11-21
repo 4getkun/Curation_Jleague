@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-11-21T15:45:13.900Z",
-  "count": 694,
+  "generatedAt": "2026-11-21T21:17:55.768Z",
+  "count": 695,
   "items": [
+    {
+      "title": "Ｊ１福岡 城福監督の初陣黒星もイレブン手応え…主将・上島拓巳「良い未来のきっかけになる試合」(東スポWEB)",
+      "summary": "J1福岡は21日、明治安田J1リーグ第15節のアウェー川崎戦（U等々力）に0―1で敗れ、6日に就任した城福浩監督（65）の初陣は白星を飾れなかった。 チームはリーグ最下位と低迷していた中、今月3日に塚",
+      "link": "https://news.yahoo.co.jp/articles/b9cfc392de6d1303bc16b909a73b0e6a8ce73a60?source=rss",
+      "pubDate": "2026-11-21T21:15:32.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "avispa"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/b9cfc392de6d1303bc16b909a73b0e6a8ce73a60?source=rss"
+        }
+      ]
+    },
     {
       "title": "互いに最後までゴールを目指すも均衡を破る一撃は生まれず。東京Vと名古屋の一戦はスコアレスドロー｜Jリーグ(DAZN News)",
       "summary": "【国内サッカー レビュー】明治安田J1リーグは11月20日から21日にかけて第15節が開催。味の素スタジアムで開催された東京ヴェルディと名古屋グランパスの一戦は、互いに無失点でスコアレスドローに終わっ",
@@ -46,16 +65,16 @@
       "summary": "＜明治安田J1：東京V0－0名古屋＞◇21日◇第15節◇味スタ 東京ヴェルディDF佐古真礼（23）が、今季初の2試合連続クリーンシートに貢献した。【写真】激しく競り合う東京V・DF佐古真礼 センターバ",
       "link": "https://news.yahoo.co.jp/articles/94f2523edec0f9e45d2da05291f89797701b7ccf?source=rss",
       "pubDate": "2026-11-21T14:07:38.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
       "teams": [
         "verdy"
       ],
       "topics": [],
       "sources": [
         {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/94f2523edec0f9e45d2da05291f89797701b7ccf?source=rss"
         }
       ]
