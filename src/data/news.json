@@ -1,7 +1,64 @@
 {
-  "generatedAt": "2026-11-22T01:27:14.996Z",
-  "count": 699,
+  "generatedAt": "2026-11-22T08:25:45.951Z",
+  "count": 691,
   "items": [
+    {
+      "title": "[プリンスリーグ関西1部]C大阪U-18、京都橘に3発勝利で6連勝…2位以内確定でプレミアPO出場権獲得!!:第16節(ゲキサカ)",
+      "summary": "高円宮杯 JFA U-18サッカープリンスリーグ 2026 関西1部は21、22日に第16節を開催した。【写真】元W杯日本代表FWの息子が9月から国見に入学! ツーショットも公開 首位のセレッソ大阪U",
+      "link": "https://news.yahoo.co.jp/articles/22cf247d74c4bf13579b7931d637b88bf27e5515?source=rss",
+      "pubDate": "2026-11-22T08:09:01.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "cerezo"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/22cf247d74c4bf13579b7931d637b88bf27e5515?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1の最新順位表「下位がめちゃ団子やん」 首位は2位と勝ち点5差で独走体勢…ファン驚愕「魔境」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/686649",
+      "pubDate": "2026-11-22T02:20:58.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/686649"
+        }
+      ]
+    },
+    {
+      "title": "「ダービーだからこそ勝たなきゃいけない」柏レイソル・小泉佳穂が悔やんだ千葉戦。クロス急増に表れた攻撃の課題【コラム】",
+      "summary": "柏レイソルは11月20日、ジェフユナイテッド千葉との千葉ダービーに0-1で敗れた。多くの時間でボールを保持しながらも、千葉の組織的な守備を崩し切れなかった柏。直近の川崎フロンターレとの公式戦3連戦に比べてシュート数は減少し、クロスやロングパ…",
+      "link": "https://www.footballchannel.jp/2026/11/22/post1058631/",
+      "pubDate": "2026-11-22T02:00:30.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/22/post1058631/"
+        }
+      ]
+    },
     {
       "title": "G大阪に痛手…新加入の豪代表FWイーライ・アダムスが前十字靭帯断裂、半月板損傷などの重傷(ゲキサカ)",
       "summary": "ガンバ大阪は22日、オーストラリア代表FWイーライ・アダムス(24)の負傷を発表した。【写真】元W杯日本代表FWの息子が9月から国見に入学! ツーショットも公開 クラブ公式サイトによると、アダムスは代",
@@ -414,21 +471,19 @@
       ]
     },
     {
-      "title": "投入10分後に古巣とのダービーで決勝弾! 千葉FW呉屋大翔に指揮官も賛辞「持ってる選手」",
-      "summary": "[11.20 J1第15節 柏 0-1 千葉 三協F柏]「持ってる選手だと思います」とジェフユナイテッド千葉の小林慶行監督が称する男が、千葉ダービーで決勝点を奪った。 守勢に回る時間が長くなりながらも、コンパクトな守備で柏を封じていた千葉は…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?463549-463549-fl",
-      "pubDate": "2026-11-21T03:30:00.000Z",
+      "title": "高知vs福島 スタメン発表",
+      "summary": "[11.21 J3第18節](ギケンス)※14:00開始主審:矢野浩平[高知ユナイテッドSC]先発GK 99 村田侑大DF 3 福宮弘乃介DF 4 小林大智DF 22 藤森隆汰MF 11 三好麟大MF 14 関野元弥MF 16 上月翔聖MF…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?463572-463572-fl",
+      "pubDate": "2026-11-21T04:28:01.000Z",
       "source": "ゲキサカ（国内サッカー）",
       "sourceId": "gekisaka-domestic",
-      "teams": [
-        "jef-chiba"
-      ],
+      "teams": [],
       "topics": [],
       "sources": [
         {
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?463549-463549-fl"
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?463572-463572-fl"
         }
       ]
     },
@@ -13287,219 +13342,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/6db580b6687b8e3b551cb80bb8996d31c609cbc9?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "元日本代表が鮮やか弾「外から巻いて打ってるのやばすぎ」 相手GK為す術なし「そらやられる」(FOOTBALL ZONE)",
-      "summary": "ガンバ大阪は10月21日、J1リーグ第11節でアビスパ福岡と対戦し、2-1で勝利した。この試合でG大阪の元日本代表FW宇佐美貴史が決勝ゴールを決め、「外から巻いて打ってるのやばすぎ」「そらやられる」な",
-      "link": "https://news.yahoo.co.jp/articles/e67ff37cf35495b25418718f5035bf9a49b149c4?source=rss",
-      "pubDate": "2026-10-23T07:47:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba",
-        "avispa"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e67ff37cf35495b25418718f5035bf9a49b149c4?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【町田】ユース所属FW原櫻太とDF三国ケースマンエブスを２種登録(日刊スポーツ)",
-      "summary": "FC町田ゼルビアは23日、ユース所属のFW原櫻太（18）と三国ケースマンエブス（18）をJリーグ公式戦に出場可能な2種選手として登録したことを発表した。背番号は原が77、三国は79。【写真】三国ケース",
-      "link": "https://news.yahoo.co.jp/articles/72d093c062bde0a58d3179f5d2e2ed71a6596436?source=rss",
-      "pubDate": "2026-10-23T07:35:36.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/72d093c062bde0a58d3179f5d2e2ed71a6596436?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【G大阪】宇佐美貴史エースの仕事で京都撃破だ「１本のパス、シュートで局面変えられる自信ある」(日刊スポーツ)",
-      "summary": "ガンバ大阪FW宇佐美貴史（34）が、24日の京都サンガF.C.戦（パナスタ）でチームを今季初の連勝に導く。 前節のアビスパ福岡戦では、中盤で流動的に動きながら決定的な場面を作り出し、クオリティーの高さ",
-      "link": "https://news.yahoo.co.jp/articles/0fad424617bb31769e901d31dbbf293efdf8bdc1?source=rss",
-      "pubDate": "2026-10-23T07:26:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/0fad424617bb31769e901d31dbbf293efdf8bdc1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "広島相手に4-0は「決してフロックではない」 浦和監督が長崎を警戒…8連戦で「一番大事」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/680545",
-      "pubDate": "2026-10-23T05:58:14.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "sanfrecce",
-        "reds",
-        "v-varen"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/680545"
-        }
-      ]
-    },
-    {
-      "title": "堂安律が選出、U-21月間ベストプレー 名古屋の17歳を称賛「非常にレベルの高いゴール」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/680512",
-      "pubDate": "2026-10-23T03:12:07.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "grampus"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/680512"
-        }
-      ]
-    },
-    {
-      "title": "「ちょっとしたところで自分たちは勝ち点を落としている」ジェフ千葉、移籍後初ゴールのンドカ・ボニフェイスが語る勝利への課題【コラム】",
-      "summary": "内容は良くなっている。それでも、勝利には届かない。ジェフユナイテッド千葉は21日、浦和レッズとの一戦に2-3で敗れた。9月にヴィッセル神戸から期限付き移籍で加入したDFンドカ・ボニフェイスは、移籍後初ゴールを決めながらも「非常に悔しいです」…",
-      "link": "https://www.footballchannel.jp/2026/10/23/post1038909/",
-      "pubDate": "2026-10-23T02:50:20.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "jef-chiba"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/23/post1038909/"
-        }
-      ]
-    },
-    {
-      "title": "J1で驚きの光景「マジでエグい曲がり方してる」 会場どよめき…本人も予想外「ラッキーだった」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/680503",
-      "pubDate": "2026-10-23T02:50:00.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/680503"
-        }
-      ]
-    },
-    {
-      "title": "J1観客動員は過去最高ペース。国立開催7試合で全体の約16％…新スタジアムとクラブ別動員から考える「リーグの成長」【コラム】",
-      "summary": "満員のスタンドに胸が高鳴る日もあれば、空席の多さが気になる試合もある。2026/27シーズンのJ1リーグは過去最高の年間平均を上回るペースで進んでいるが、その勢いは最後まで続くのか。Jリーグ公式データサイトの直近5シーズンの記録を基に、人気…",
-      "link": "https://www.footballchannel.jp/2026/10/23/post1038948/",
-      "pubDate": "2026-10-23T02:45:29.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/23/post1038948/"
-        }
-      ]
-    },
-    {
-      "title": "「チームの良い薬になれている」37歳、宮澤裕樹が北海道コンサドーレ札幌で示す存在価値。「もう一度J1で戦いたい」【コラム】",
-      "summary": "今季ここまでリーグ戦12試合中11試合に出場し、北海道コンサドーレ札幌で改めて存在感を示しているのが、宮澤裕樹だ。チーム浮上へ向けて勝利が不可欠だった第12節のモンテディオ山形戦でも、鮮やかなパスで荒野拓馬の追加点を演出した。37歳になって…",
-      "link": "https://www.footballchannel.jp/2026/10/23/post1038672/",
-      "pubDate": "2026-10-23T02:30:07.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/23/post1038672/"
-        }
-      ]
-    },
-    {
-      "title": "カメラ切り替え→即失点に「位置が全然違う」 中継映像で追いきれず…ファン騒然「何が起きた？」(FOOTBALL ZONE)",
-      "summary": "J1リーグの第11節が10月21日に各地で行われ、IAIスタジアム日本平で清水エスパルスとFC町田ゼルビアが対戦。後半17分に決まったゴールシーンが「位置が全然違う」「何が起きた？」など注目を集めてい",
-      "link": "https://news.yahoo.co.jp/articles/e2c18f6e5c024ccd6f4237aeb428bfef989cba63?source=rss",
-      "pubDate": "2026-10-23T02:19:03.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "s-pulse",
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e2c18f6e5c024ccd6f4237aeb428bfef989cba63?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "キプロス遠征のU-16日本代表で選手変更…FW八色隼人(名古屋U-18)が不参加、FW城秀人(FC東京U-18)を追加招集(ゲキサカ)",
-      "summary": "日本サッカー協会(JFA)は23日、U-16日本代表からFW八色隼人(名古屋U-18)が怪我のため参加のため不参加となり、FW城秀人(FC東京U-18)を追加招集すると発表した。【写真】「かつてないほ",
-      "link": "https://news.yahoo.co.jp/articles/deb914c99a921959d83ca9938ce506a0460e4fab?source=rss",
-      "pubDate": "2026-10-23T02:18:01.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [
-        "national-team"
-      ],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/deb914c99a921959d83ca9938ce506a0460e4fab?source=rss"
         }
       ]
     }
