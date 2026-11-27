@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-11-27T03:21:56.911Z",
-  "count": 657,
+  "generatedAt": "2026-11-27T12:52:02.672Z",
+  "count": 653,
   "items": [
+    {
+      "title": "広島東洋カープ、きょう（11月27日）発表された契約更改選手は…？(ベースボールチャンネル)",
+      "summary": "広島東洋カープは27日、契約更改を行った選手を以下のとおりで正式発表した。■契約更改辰見鴻之介【一覧】広島東洋カープ 2026年契約更改選手一覧",
+      "link": "https://news.yahoo.co.jp/articles/51c1709ddebfb27e6d056463b8e42702ba898e80?source=rss",
+      "pubDate": "2026-11-27T12:15:18.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "contract"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/51c1709ddebfb27e6d056463b8e42702ba898e80?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1清水、タイ1部クラブと業務提携へ「共に成長していく重要な一歩」 育成や経営面で協力…現地報道",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/687450",
+      "pubDate": "2026-11-27T08:50:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/687450"
+        }
+      ]
+    },
     {
       "title": "12試合負けなし横浜FMの連勝か? 15試合負けなし首位・FC東京の白星か?(チケットぴあ)",
       "summary": "前節、劇的逆転勝利を飾った横浜F・マリノスが10試合連続無失点のJ1新記録が止まったFC東京を迎え撃つ。12戦負けなしの7位・横浜FMと15戦負けなしで首位をひた走るFC東京が『2026/27明治安田",
@@ -79,6 +119,23 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/773c00f221c958850271c98f624dff397e7d2bdc?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【第43節後半】戻りてぇ～!!【ボケサカ】",
+      "summary": "サッカーのニュースを取り上げる番組であることを確認するヤーレンズ。なのになぜか2003年大晦日のテレビ番組の話題になって……。『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレンズがパ…",
+      "link": "https://web.gekisaka.jp/news/soccer/detail/?463807-463807-fl",
+      "pubDate": "2026-11-27T03:05:00.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/soccer/detail/?463807-463807-fl"
         }
       ]
     },
@@ -596,6 +653,23 @@
       ]
     },
     {
+      "title": "滋賀vs高知 スタメン発表",
+      "summary": "[11.25 J3第19節](ハトスタ)※18:00開始主審:北沢倫章[レイラック滋賀FC]先発GK 64 Y. TaniaiDF 2 平井駿助DF 37 鍋田純志DF 48 谷田壮志朗MF 13 小泉隆斗MF 18 秋山駿MF 23 竜田…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?463863-463863-fl",
+      "pubDate": "2026-11-25T23:40:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?463863-463863-fl"
+        }
+      ]
+    },
+    {
       "title": "サウジリーグ外国人枠を拡大か「上限設けず開放」 最大18人案も浮上…Jリーグ勢へ迫る異次元の脅威",
       "summary": "",
       "link": "https://www.football-zone.net/archives/687140",
@@ -705,27 +779,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/0ba20e5ab6ab0ce7d4f070783ff0d86e430c5e71?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "岡山vs清水 試合記録",
-      "summary": "【J1第16節】(JFEス)岡山 2-0(前半0-0)清水[岡]ブラウンノア賢信(63分)、鈴木喜丈(75分)観衆:13,207人主審:山下良美└清水がまたも勝てず7戦未勝利…水戸にも抜かれて暫定17位後退、岡山は2連勝[ファジアーノ岡山]…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?463909-463909-fl",
-      "pubDate": "2026-11-25T19:20:02.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "s-pulse",
-        "hollyhock",
-        "fagiano"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?463909-463909-fl"
         }
       ]
     },
@@ -2927,23 +2980,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/news/jleaguecup/detail/?463262-463262-fl"
-        }
-      ]
-    },
-    {
-      "title": "【第43節前半】Umareta-17【ボケサカ】",
-      "summary": "10月収録なのに配信日が誕生日を過ぎていると主張する楢原さん。誕生日をめぐって話はあらぬ展開に……。『ヤーレンズの一生ボケても怒られないサッカーの話 powered by ゲキサカ』は、お笑いコンビのヤーレンズがパーソナリティを務めるPod…",
-      "link": "https://web.gekisaka.jp/news/soccer/detail/?463370-463370-fl",
-      "pubDate": "2026-11-20T03:05:00.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/soccer/detail/?463370-463370-fl"
         }
       ]
     },
@@ -12548,119 +12584,6 @@
           "name": "日刊スポーツ（Yahoo!ニュース経由）",
           "sourceId": "yahoo-nikkansports",
           "link": "https://news.yahoo.co.jp/articles/f6b38fdc91a89fc05d9d0c7a1d89aec9c1cdd9a1?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "ルヴァン杯のベスト8が決定 横浜FMと広島が打ち合いの90分…浦和が名古屋との延長戦制す",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/681423",
-      "pubDate": "2026-10-28T12:34:37.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "marinos"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/681423"
-        }
-      ]
-    },
-    {
-      "title": "【ACLE結果まとめ】鹿島アントラーズが完勝で開幕3連勝！ ガンバ大阪は宇佐美貴史の直接FK弾も勝ち切れず",
-      "summary": "AFCチャンピオンズリーグエリート（ACLE）リーグステージ第3節が28日に行われた。ガンバ大阪は本拠地にブリーラム・ユナイテッドを迎え、鹿島アントラーズも同じく浦項スティーラーズとのホームゲームに臨んだ。",
-      "link": "https://www.footballchannel.jp/2026/10/28/post1041897/",
-      "pubDate": "2026-10-28T11:55:08.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers",
-        "gamba"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/28/post1041897/"
-        }
-      ]
-    },
-    {
-      "title": "水戸ホーリーホック対セレッソ大阪 スタメン発表【ルヴァンカップ】",
-      "summary": "28日（水）19時から行われるルヴァンカップ1stラウンド4回戦・水戸ホーリーホック対セレッソ大阪のスタメンが発表された。",
-      "link": "https://www.footballchannel.jp/2026/10/28/post1041486/",
-      "pubDate": "2026-10-28T07:49:35.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/28/post1041486/"
-        }
-      ]
-    },
-    {
-      "title": "【日本ハム】森本稀哲コーチ、来季からファーム監督に就任 清水雅治ファーム総合コーチは退任(日刊スポーツ)",
-      "summary": "日本ハムは28日、森本稀哲1軍外野守備走塁コーチが、来季からファーム監督に就任すると発表した。【写真】来季からファーム監督に就任する森本稀哲コーチ 同コーチは10月30日から始まる沖縄秋季キャンプに参",
-      "link": "https://news.yahoo.co.jp/articles/68d9d5b9452fab0760e0ecc7b791b38fb1fee442?source=rss",
-      "pubDate": "2026-10-28T07:33:22.000Z",
-      "source": "日刊スポーツ（Yahoo!ニュース経由）",
-      "sourceId": "yahoo-nikkansports",
-      "teams": [
-        "s-pulse"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "日刊スポーツ（Yahoo!ニュース経由）",
-          "sourceId": "yahoo-nikkansports",
-          "link": "https://news.yahoo.co.jp/articles/68d9d5b9452fab0760e0ecc7b791b38fb1fee442?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "鹿島アントラーズ対浦項スティーラーズ スタメン発表",
-      "summary": "日本時間28日（水）19時から行われるAFCチャンピオンズリーグエリート（ACLE）リーグステージ第3節・鹿島アントラーズ対浦項スティーラーズのスタメンを紹介する。",
-      "link": "https://www.footballchannel.jp/2026/10/28/post1041591/",
-      "pubDate": "2026-10-28T07:30:25.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/28/post1041591/"
-        }
-      ]
-    },
-    {
-      "title": "FC東京が内閣総理大臣表彰を受賞 多摩少年院と連携…クラブが発表「栄誉ある表彰を励みに」",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/681333",
-      "pubDate": "2026-10-28T07:06:07.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [
-        "fc-tokyo"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/681333"
         }
       ]
     }
