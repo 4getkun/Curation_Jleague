@@ -1,7 +1,238 @@
 {
-  "generatedAt": "2026-11-28T03:38:14.816Z",
-  "count": 628,
+  "generatedAt": "2026-11-28T12:33:05.987Z",
+  "count": 630,
   "items": [
+    {
+      "title": "Ｊ１広島・中野就斗〝Ａ代表〟経験で感じた伸びしろ「もっとチームを勝たせる選手に」(東スポWEB)",
+      "summary": "J1広島のDF中野就斗が、森保ジャパンでの活動を経て感じた自身の伸びしろを語った。 J1第17節（28日、三協F柏）、アウェーの広島は柏に1―3で敗戦。中野は「先制できたまでは良かったが、僕のミスもあ",
+      "link": "https://news.yahoo.co.jp/articles/0eb7b783cc2dc3714402a44fd52b2be06003c58f?source=rss",
+      "pubDate": "2026-11-28T12:25:26.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [
+        "national-team"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/0eb7b783cc2dc3714402a44fd52b2be06003c58f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【PICK UP MATCHプレビュー】J1第17節の注目は“東京クラシック”！東京V守備の要 林尚輝が町田戦への意気込み語る｜Jリーグ(DAZN News)",
+      "summary": "【国内サッカー・ニュース】11月25日（水）に行われる明治安田J1リーグ第17節では、J2時代から激闘が繰り広げられてきた白熱の“東京クラシック”、FC町田ゼルビアvs東京ヴェルディの一戦が行われる。",
+      "link": "https://news.yahoo.co.jp/articles/458d98859a6417e27195b7f201627a38c983638e?source=rss",
+      "pubDate": "2026-11-28T12:15:41.000Z",
+      "source": "Yahoo!ニュース スポーツ",
+      "sourceId": "yahoo-sports",
+      "teams": [
+        "verdy"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "Yahoo!ニュース スポーツ",
+          "sourceId": "yahoo-sports",
+          "link": "https://news.yahoo.co.jp/articles/458d98859a6417e27195b7f201627a38c983638e?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【岡山】鹿島に土壇場ドローで４戦無敗「勝ち点１を取れたのは我々にとっては大きい」木山監督(日刊スポーツ)",
+      "summary": "＜明治安田J1：鹿島1－1岡山＞◇28日◇第17節◇メルスタ ファジアーノ岡山がアウェーで鹿島アントラーズに土壇場で引き分けに持ち込んだ。これでリーグ戦4戦負けなし（2勝2分け）となった。【写真】鹿島",
+      "link": "https://news.yahoo.co.jp/articles/b80d3c0cbdbc5ca5cd194a2004b902ef6098116c?source=rss",
+      "pubDate": "2026-11-28T11:40:51.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "fagiano"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b80d3c0cbdbc5ca5cd194a2004b902ef6098116c?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【柏】山之内佑成、今季リーグ初先発でプロ初ゴール「やっと決められたという感じ」(日刊スポーツ)",
+      "summary": "＜明治安田J1：柏3－1広島＞◇28日◇第17節◇三協F柏 東洋大卒1年目でプロ2年目の柏レイソルDF山之内佑成（23）が、今季初先発でプロ初ゴールを決めた。 3バックの右でフル出場。2－1で迎えた後",
+      "link": "https://news.yahoo.co.jp/articles/242cd1a16bee796ff957f4c75b1e9b4359ade39b?source=rss",
+      "pubDate": "2026-11-28T11:37:35.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/242cd1a16bee796ff957f4c75b1e9b4359ade39b?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】後半追加タイムで勝ち点３スルリ…鈴木優磨「決定機らしい決定機作れなかったのが課題」(日刊スポーツ)",
+      "summary": "＜明治安田J1：鹿島1－1岡山＞◇28日◇第17節◇メルスタ 鹿島アントラーズは、終盤で勝ち点3がスルリと逃げ、3戦未勝利となった。1点リードの後半追加タイム1分、岡山の直接FKがポストにはね返され、",
+      "link": "https://news.yahoo.co.jp/articles/3e792d81eedb0267fec5eaaa01802421c014cf2f?source=rss",
+      "pubDate": "2026-11-28T11:25:04.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/3e792d81eedb0267fec5eaaa01802421c014cf2f?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "J1最新の暫定順位が話題 上位対決は柏に軍配…中位から下位は1試合で入れ替わる”大混戦”",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/687685",
+      "pubDate": "2026-11-28T11:20:00.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reysol"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/687685"
+        }
+      ]
+    },
+    {
+      "title": "【広島】荒木隼人が足違和感で交代 ガウル監督、プレー続行なら「今年いっぱいダメだったかも」(日刊スポーツ)",
+      "summary": "＜明治安田J1：柏3－1広島＞◇28日◇第17節◇三協F柏 サンフレッチェ広島DF荒木隼人（26）にアクシデントが起きた。1点のビハインドで迎えたハーフタイムにベンチに下がった。【写真】柏に敗れ、肩を",
+      "link": "https://news.yahoo.co.jp/articles/36dfd7779d37c18f824ec65162bf68a8e0e93de9?source=rss",
+      "pubDate": "2026-11-28T11:12:55.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "sanfrecce"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/36dfd7779d37c18f824ec65162bf68a8e0e93de9?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【清水】守護神・梅田透吾「常に準備をしてきた」５戦ぶり先発で好セーブ連発、浦和に完封勝利(日刊スポーツ)",
+      "summary": "＜明治安田J1：清水1-0浦和＞◇28日◇第17節◇アイスタ 清水エスパルスがホームで浦和レッズを1－0で下し、8戦ぶりの勝利をつかんだ。後半32分に途中出場のMFカピシャーバ（29）が、待望の今季初",
+      "link": "https://news.yahoo.co.jp/articles/067ea4a477ddb46e42060e7fbe47b17f92f01f5a?source=rss",
+      "pubDate": "2026-11-28T11:11:36.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/067ea4a477ddb46e42060e7fbe47b17f92f01f5a?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【鹿島】鬼木監督が試合後、判定に異議でイエローカード「数試合続いている。J2、J3でも」(日刊スポーツ)",
+      "summary": "＜明治安田J1：鹿島1－1岡山＞◇28日◇第17節◇メルスタ 鹿島アントラーズがファジアーノ岡山と引き分け、リーグ戦3戦未勝利となった。 後半20分にCKからDF植田直通（32）がヘディングで先制ゴー",
+      "link": "https://news.yahoo.co.jp/articles/08201efb5993048a8d941d4f778c65c834e527e5?source=rss",
+      "pubDate": "2026-11-28T11:08:43.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/08201efb5993048a8d941d4f778c65c834e527e5?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "【清水】８戦ぶり勝利 途中出場カピシャーバが今季初ゴール ホームでの浦和戦勝利は15年ぶり(日刊スポーツ)",
+      "summary": "＜明治安田J1：清水1－0浦和＞◇28日◇第17節◇アイスタ 清水エスパルスがホームで浦和レッズを1－0で下し、8戦ぶりの勝利をつかんだ。後半32分に途中出場のMFカピシャーバ（29）が、待望の今季初",
+      "link": "https://news.yahoo.co.jp/articles/b16efdc00579ae4ed73e58d33487345e40aef490?source=rss",
+      "pubDate": "2026-11-28T10:41:36.000Z",
+      "source": "日刊スポーツ（Yahoo!ニュース経由）",
+      "sourceId": "yahoo-nikkansports",
+      "teams": [
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "日刊スポーツ（Yahoo!ニュース経由）",
+          "sourceId": "yahoo-nikkansports",
+          "link": "https://news.yahoo.co.jp/articles/b16efdc00579ae4ed73e58d33487345e40aef490?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "Jリーグ｜順位表・試合日程・結果・移籍情報・得点ランキング・アシストランキング【2026/27】",
+      "summary": "Jリーグ2026/27シーズンの最新順位、試合日程・結果、得点・アシストランキング、移籍情報をまとめる。J1全38節・380試合を掲載し、試合終了後はスコア、得点者、順位を随時更新する。 J.LEAGUE 2026/27 […]",
+      "link": "https://www.footballchannel.jp/2026/11/28/post1003398/",
+      "pubDate": "2026-11-28T10:35:27.000Z",
+      "source": "フットボールチャンネル",
+      "sourceId": "footballchannel",
+      "teams": [],
+      "topics": [
+        "trade"
+      ],
+      "sources": [
+        {
+          "name": "フットボールチャンネル",
+          "sourceId": "footballchannel",
+          "link": "https://www.footballchannel.jp/2026/11/28/post1003398/"
+        }
+      ]
+    },
+    {
+      "title": "浦和、清水に敗れてリーグ戦5試合未勝利 8試合ぶり白星を献上も…曺監督「後退しているわけじゃない」",
+      "summary": "",
+      "link": "https://www.football-zone.net/archives/687648",
+      "pubDate": "2026-11-28T07:33:12.000Z",
+      "source": "FOOTBALL ZONE",
+      "sourceId": "football-zone",
+      "teams": [
+        "reds",
+        "s-pulse"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "FOOTBALL ZONE",
+          "sourceId": "football-zone",
+          "link": "https://www.football-zone.net/archives/687648"
+        }
+      ]
+    },
     {
       "title": "J1、神補強の新戦力（5）最高時速35km！ 名DFの「4番」を継ぐブラジル人(フットボールチャンネル)",
       "summary": "新戦力の獲得が成功するかどうかは、実際にシーズンが始まってみなければ分からない。2026/27シーズンの明治安田J1リーグでは、加入直後から期待以上のパフォーマンスを発揮し、チームに欠かせない存在とな",
@@ -484,6 +715,23 @@
       ]
     },
     {
+      "title": "いわきvs富山 スタメン発表",
+      "summary": "[11.25 J2第19節](ハワスタ)※19:00開始主審:井上知大[いわきFC]先発GK 23 佐々木雅士DF 5 桒田大誠DF 15 中野陽斗DF 35 深港壮一郎MF 10 西谷亮MF 13 藤井海和MF 14 山口大輝MF 27…",
+      "link": "https://web.gekisaka.jp/news/jleague/detail/?463890-463890-fl",
+      "pubDate": "2026-11-26T11:10:02.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/jleague/detail/?463890-463890-fl"
+        }
+      ]
+    },
+    {
       "title": "【広島】ドラ１亜大・山里宝が仮契約「ワクワクが一番大きいです」走攻守３拍子そろった遊撃手(日刊スポーツ)",
       "summary": "広島からドラフト1位指名を受けた亜大・山里宝内野手（22）が26日、都内のホテルで仮契約を結んだ。契約金1億円プラス出来高払い、年俸1600万円。走攻守3拍子そろい、大学NO・1との呼び声も高い遊撃手",
       "link": "https://news.yahoo.co.jp/articles/7758c2240b13ee96009341853838dab0d33df598?source=rss",
@@ -535,6 +783,25 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/917cf0add3bd962ef87e9e924fac22dd545c7151?source=rss"
+        }
+      ]
+    },
+    {
+      "title": "鹿島vs全北現代 試合記録",
+      "summary": "【ACLEリーグステージ第5節】(メルスタ)鹿島 3-0(前半1-0)全北現代[鹿]小川諒也(17分)、千田海人(60分)、鈴木優磨(73分)[鹿]松本遥翔(90分+2)[全]チェ・ウジン(38分)、イ・スンウ(90分+2)主審:アダム・カ…",
+      "link": "https://web.gekisaka.jp/news/acl/detail/?463933-463933-fl",
+      "pubDate": "2026-11-26T10:26:44.000Z",
+      "source": "ゲキサカ（国内サッカー）",
+      "sourceId": "gekisaka-domestic",
+      "teams": [
+        "antlers"
+      ],
+      "topics": [],
+      "sources": [
+        {
+          "name": "ゲキサカ（国内サッカー）",
+          "sourceId": "gekisaka-domestic",
+          "link": "https://web.gekisaka.jp/news/acl/detail/?463933-463933-fl"
         }
       ]
     },
@@ -671,25 +938,6 @@
       ]
     },
     {
-      "title": "相模原DF三鬼海に第2子次男が誕生「父親としてまだまだ頑張っていきたい」",
-      "summary": "SC相模原は26日、DF三鬼海(33)に第2子となる次男が誕生したことを発表した。 三鬼は町田に在籍していた2022年11月に第1子長男の誕生を報告していた。今回も出産に立ち会うことができたといい、クラブを通じて妻への感謝を伝えるとともに、…",
-      "link": "https://web.gekisaka.jp/news/jleague/detail/?464020-464020-fl",
-      "pubDate": "2026-11-26T04:15:41.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "zelvia"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/jleague/detail/?464020-464020-fl"
-        }
-      ]
-    },
-    {
       "title": "「明らかにチームは変わった」チーム最多タイ3点目のJ1アビスパ福岡・ウェリックポポ 逆襲への手応え感じた夜(西スポWEB OTTO!)",
       "summary": "◆明治安田J1第16節 福岡1―2横浜M（25日・ベスト電器スタジアム） アビスパ福岡のウェリックポポがチームトップに並ぶ今季3ゴール目を挙げた。■【動画】プレスから電光石火！ ウェリックポポが先制！",
       "link": "https://news.yahoo.co.jp/articles/460a0b73434eb2303231b3be49907b655d1a9d05?source=rss",
@@ -779,25 +1027,6 @@
           "name": "ゲキサカ（国内サッカー）",
           "sourceId": "gekisaka-domestic",
           "link": "https://web.gekisaka.jp/photonews/acl/detail/?463897-463897-pn"
-        }
-      ]
-    },
-    {
-      "title": "ニューカッスル・ジェッツvs柏 試合記録",
-      "summary": "【ACLEリーグステージ第5節】(ゴスフォード)ニューカッスル・ジェッツ 1-2(前半1-1)柏[ニ]ザック・クラフ(24分)[柏]山内日向汰(7分)、弓場堅真(70分)[ニ]マックス・バージェス(51分)、トーマス・アキリナ(84分)主審…",
-      "link": "https://web.gekisaka.jp/news/acl/detail/?463816-463816-fl",
-      "pubDate": "2026-11-26T02:14:05.000Z",
-      "source": "ゲキサカ（国内サッカー）",
-      "sourceId": "gekisaka-domestic",
-      "teams": [
-        "reysol"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "ゲキサカ（国内サッカー）",
-          "sourceId": "gekisaka-domestic",
-          "link": "https://web.gekisaka.jp/news/acl/detail/?463816-463816-fl"
         }
       ]
     },
@@ -11910,188 +12139,6 @@
           "name": "Yahoo!ニュース スポーツ",
           "sourceId": "yahoo-sports",
           "link": "https://news.yahoo.co.jp/articles/11fc9cb6e70c287faf8cfbf222688aceaf7174b0?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "最多V鹿島は横浜Mと対戦 ルヴァン杯組み合わせ抽選(共同通信)",
-      "summary": "Jリーグ・ヤマザキビスケット・ルヴァンカップ準々決勝の組み合わせ抽選が29日に行われ、最多6度の優勝を誇る鹿島は横浜Mとの顔合わせとなった。ともに初優勝を狙う神戸と町田が対戦し、C大阪は浦和、柏は川崎",
-      "link": "https://news.yahoo.co.jp/articles/e4954ef8d394e4fbed610545077b5fe2186856e2?source=rss",
-      "pubDate": "2026-10-29T12:21:42.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/e4954ef8d394e4fbed610545077b5fe2186856e2?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【ルヴァンカップ トーナメント表】2026/27 Jリーグ ヤマザキビスケット ルヴァンカップ 組み合わせ一覧",
-      "summary": "2026/27 JリーグYBCルヴァンカップのトーナメント組み合わせ一覧。J1・J2・J3の全60クラブが参加し、1stラウンドを勝ち上がったクラブが次のステージへ進出する。",
-      "link": "https://www.footballchannel.jp/2026/10/29/post999093/",
-      "pubDate": "2026-10-29T10:06:59.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/29/post999093/"
-        }
-      ]
-    },
-    {
-      "title": "ルヴァンカップ準々決勝の組み合わせが決定！ 鹿島はマリノス、浦和はセレッソと対戦",
-      "summary": "JリーグYBCルヴァンカップのプライムラウンド準々決勝の組み合わせ抽選会が29日に行われ、ベスト8の対戦カードが決定した。",
-      "link": "https://www.footballchannel.jp/2026/10/29/post1042518/",
-      "pubDate": "2026-10-29T09:36:17.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/29/post1042518/"
-        }
-      ]
-    },
-    {
-      "title": "「審判員に対するリスペクト精神に著しく欠ける」藤枝MYFC、槙野智章監督に2試合のベンチ入り停止処分と罰金10万円",
-      "summary": "藤枝MYFCは29日、槙野智章監督が2026/27明治安田J2リーグ第13節の試合後インタビューで審判員に対して不適切な発言を行ったとして、Jリーグ規律委員会から2試合のベンチ入り停止処分と罰金10万円を科されたと発表した。",
-      "link": "https://www.footballchannel.jp/2026/10/29/post1042491/",
-      "pubDate": "2026-10-29T08:35:37.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/29/post1042491/"
-        }
-      ]
-    },
-    {
-      "title": "鹿島アントラーズDF松本遥翔、カターレ富山への育成型期限付き移籍が終了「約4カ月という短い期間でしたが…」",
-      "summary": "カターレ富山は29日、鹿島アントラーズから育成型期限付き移籍で加入していたDF松本遥翔の移籍期間が終了し、鹿島に復帰することを発表した。",
-      "link": "https://www.footballchannel.jp/2026/10/29/post1042479/",
-      "pubDate": "2026-10-29T08:17:19.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "antlers"
-      ],
-      "topics": [
-        "trade"
-      ],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/29/post1042479/"
-        }
-      ]
-    },
-    {
-      "title": "【広島】OB池谷公二郎さん死去に安仁屋宗八が悼む「大事な仲間がまた一人、旅立ってしまった」(日刊スポーツ)",
-      "summary": "広島球団OBの池谷公二郎さんが29日、多発性骨髄腫のため死去したことが分かった。現役時代ともにプレーした安仁屋宗八氏（82）が故人を悼んだ【写真】並んで練習を見守る池谷さんと安仁屋さん 「大事な仲間が",
-      "link": "https://news.yahoo.co.jp/articles/626aaafb615ffc225eed847490d0f4e9bb73111a?source=rss",
-      "pubDate": "2026-10-29T06:20:28.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/626aaafb615ffc225eed847490d0f4e9bb73111a?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "【広島】OB池谷公二郎さん死去に外木場義郎が悼む「まだ若い。まさか…」ともに球団初優勝に貢献(日刊スポーツ)",
-      "summary": "広島球団OBの池谷公二郎さんが29日、多発性骨髄腫のため死去したことが分かった。現役時代ともにプレーした外木場義郎氏（81）が故人を悼んだ。【写真】池谷公二郎さん 「OB会に出席しないときがあり、状態",
-      "link": "https://news.yahoo.co.jp/articles/b8b7795c87b92d38426d6265e34947d40c1c2029?source=rss",
-      "pubDate": "2026-10-29T06:20:08.000Z",
-      "source": "Yahoo!ニュース スポーツ",
-      "sourceId": "yahoo-sports",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "Yahoo!ニュース スポーツ",
-          "sourceId": "yahoo-sports",
-          "link": "https://news.yahoo.co.jp/articles/b8b7795c87b92d38426d6265e34947d40c1c2029?source=rss"
-        }
-      ]
-    },
-    {
-      "title": "延長後半の決勝点！ 浦和レッズFW南野遥海が値千金のゴールで勝利に導く！ 完璧なクロスに合わせた一撃",
-      "summary": "浦和レッズは2026/27 Jリーグヤマザキビスケット ルヴァンカップ1stラウンド4回戦で名古屋グランパスと対戦し、2-1の勝利を収めた。浦和に所属するFW南野遥海が、延長後半に値千金の決勝ゴールを叩き込み、チームを勝利に導いている。",
-      "link": "https://www.footballchannel.jp/2026/10/29/post1042365/",
-      "pubDate": "2026-10-29T05:32:07.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "reds"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/29/post1042365/"
-        }
-      ]
-    },
-    {
-      "title": "韓国代表、11月の最新メンバーが発表 Jリーグ勢は2人…ソン・フンミンら26人が選出",
-      "summary": "",
-      "link": "https://www.football-zone.net/archives/681515",
-      "pubDate": "2026-10-29T05:12:13.000Z",
-      "source": "FOOTBALL ZONE",
-      "sourceId": "football-zone",
-      "teams": [],
-      "topics": [],
-      "sources": [
-        {
-          "name": "FOOTBALL ZONE",
-          "sourceId": "football-zone",
-          "link": "https://www.football-zone.net/archives/681515"
-        }
-      ]
-    },
-    {
-      "title": "綺麗な軌道で決まる！ サンフレッチェ広島DF新井直人のゴールが最高！ 横浜F・マリノス戦で決めたビューティフル弾",
-      "summary": "サンフレッチェ広島は28日、2026/27 Jリーグヤマザキビスケット ルヴァンカップ1stラウンド4回戦で横浜F・マリノスと対戦し、3-4の敗北を喫した。広島に所属するDF新井直人がビューティフルフリーキックでゴールを叩き込んでいる。",
-      "link": "https://www.footballchannel.jp/2026/10/29/post1042335/",
-      "pubDate": "2026-10-29T03:57:12.000Z",
-      "source": "フットボールチャンネル",
-      "sourceId": "footballchannel",
-      "teams": [
-        "sanfrecce"
-      ],
-      "topics": [],
-      "sources": [
-        {
-          "name": "フットボールチャンネル",
-          "sourceId": "footballchannel",
-          "link": "https://www.footballchannel.jp/2026/10/29/post1042335/"
         }
       ]
     }
